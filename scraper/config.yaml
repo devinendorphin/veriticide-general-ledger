@@ -1,0 +1,83 @@
+# Veriticide Master Ledger — Source Configuration
+# Edit this file to add/remove sources. Run scraper.py to collect.
+
+settings:
+  ledger_file: ../ledger/ledger.md
+  seen_file: ../ledger/.seen_hashes.txt
+  capture_method_web: "Web scrape"
+  capture_method_twitter: "Twitter public scrape"
+
+  # Optional: set ANTHROPIC_API_KEY env var to enable auto-formatting.
+  # Without it, raw captures are stored and flagged for manual formatting.
+  auto_format: true
+
+twitter:
+  # Accounts to monitor. Add handles without @.
+  accounts:
+    - CiceroInstitute
+    - JoeHorvathMPP       # Cicero housing/homelessness lead
+    - OregonGovBrown      # example gov account — replace as needed
+    - HUDgov
+    - CDCgov
+
+  # Keywords that trigger capture when found in a tweet from any account above.
+  # Leave empty to capture everything from the listed accounts.
+  keywords:
+    - homeless
+    - encampment
+    - unhoused
+    - fentanyl
+    - drug
+    - treatment
+    - accountability
+    - safety
+    - compassion
+    - "public health"
+    - "our priority"
+    - "we take"
+    - "for their safety"
+    - "evidence-based"
+    - "data shows"
+    - clearing
+    - sweep
+    - enforcement
+
+  max_tweets_per_account: 10
+
+web_sources:
+  # Cicero Institute
+  - name: "Cicero Institute — Research"
+    url: "https://ciceroinstitute.org/research/"
+    type: article_list
+    link_selector: "a[href*='/research/']"
+    content_selector: "article, .entry-content, .post-content, main"
+
+  - name: "Cicero Institute — News"
+    url: "https://ciceroinstitute.org/news/"
+    type: article_list
+    link_selector: "a[href*='/news/']"
+    content_selector: "article, .entry-content, .post-content, main"
+
+  # Government sources — federal
+  - name: "HUD Press Releases"
+    url: "https://www.hud.gov/press/press_releases_media_advisories"
+    type: article_list
+    link_selector: "a[href*='press_releases']"
+    content_selector: ".field-items, .node__content, article, main"
+
+  - name: "SAMHSA News"
+    url: "https://www.samhsa.gov/newsroom/press-announcements"
+    type: rss
+    rss_url: "https://www.samhsa.gov/rss/press-announcements.xml"
+
+  - name: "CDC Newsroom"
+    url: "https://www.cdc.gov/media/releases/"
+    type: rss
+    rss_url: "https://tools.cdc.gov/api/v2/resources/media/316422.rss"
+
+  # Add state/local government sources below:
+  # - name: "Oregon Health Authority"
+  #   url: "https://www.oregon.gov/oha/ERD/Pages/OHA-News-Releases.aspx"
+  #   type: article_list
+  #   link_selector: "a[href*='news']"
+  #   content_selector: "article, .ms-rtestate-field, main"

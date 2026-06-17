@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.seen_hashes.txt
+ledger/.seen_hashes.txt
+.env
