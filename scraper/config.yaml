@@ -19,10 +19,20 @@ twitter:
     - OregonGovBrown      # example gov account — replace as needed
     - HUDgov
     - CDCgov
+    # AI lab heads
+    - sama                # Sam Altman, OpenAI
+    - ylecun              # Yann LeCun, Meta AI
+    - elonmusk            # Elon Musk, xAI / X Corp
+    - mustafasuleyman     # Mustafa Suleyman, Microsoft AI
+    # EA / AI safety funding infrastructure
+    - ESYudkowsky         # Eliezer Yudkowsky, MIRI
+    - willmacaskill       # Will MacAskill, EA/80k Hours
+    - HoldenKarnofsky     # Holden Karnofsky, Open Philanthropy
 
   # Keywords that trigger capture when found in a tweet from any account above.
   # Leave empty to capture everything from the listed accounts.
   keywords:
+    # Housing / homelessness policy language
     - homeless
     - encampment
     - unhoused
@@ -30,17 +40,40 @@ twitter:
     - drug
     - treatment
     - accountability
-    - safety
     - compassion
     - "public health"
     - "our priority"
-    - "we take"
     - "for their safety"
     - "evidence-based"
     - "data shows"
     - clearing
     - sweep
     - enforcement
+    # AI governance / existential risk framing
+    - "existential risk"
+    - "existential safety"
+    - "long-term future"
+    - "humanity's future"
+    - "transformative AI"
+    - "AGI"
+    - "superintelligence"
+    - "alignment"
+    - "beneficial AI"
+    - "responsible AI"
+    - "AI safety"
+    - "effective altruism"
+    - "expected value"
+    - "longtermism"
+    - "x-risk"
+    - "civilizational"
+    - "paper clip"
+    - "trillion"
+    - "billion people"
+    - "future generations"
+    - "acceptable risk"
+    - "acceptable cost"
+    - "tradeoff"
+    - "sacrific"
 
   max_tweets_per_account: 10
 
@@ -74,6 +107,78 @@ web_sources:
     url: "https://www.cdc.gov/media/releases/"
     type: rss
     rss_url: "https://tools.cdc.gov/api/v2/resources/media/316422.rss"
+
+  # AI labs — official blogs and research publications
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog"
+    type: article_list
+    link_selector: "a[href*='/blog/']"
+    content_selector: "article, .prose, main"
+
+  - name: "OpenAI News"
+    url: "https://openai.com/news"
+    type: article_list
+    link_selector: "a[href*='/news/']"
+    content_selector: "article, .prose, main"
+
+  - name: "Anthropic Blog"
+    url: "https://www.anthropic.com/news"
+    type: article_list
+    link_selector: "a[href*='/news/']"
+    content_selector: "article, .prose, main"
+
+  - name: "Google DeepMind Blog"
+    url: "https://deepmind.google/discover/blog/"
+    type: article_list
+    link_selector: "a[href*='/blog/']"
+    content_selector: "article, .article-content, main"
+
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/"
+    type: article_list
+    link_selector: "a[href*='/blog/']"
+    content_selector: "article, .blog-post, main"
+
+  - name: "xAI Blog"
+    url: "https://x.ai/blog"
+    type: article_list
+    link_selector: "a[href*='/blog/']"
+    content_selector: "article, main"
+
+  - name: "Microsoft AI Blog"
+    url: "https://blogs.microsoft.com/ai/"
+    type: rss
+    rss_url: "https://blogs.microsoft.com/ai/feed/"
+
+  # EA / AI safety funding infrastructure
+  - name: "Open Philanthropy — Grants"
+    url: "https://www.openphilanthropy.org/grants/"
+    type: article_list
+    link_selector: "a[href*='/grants/']"
+    content_selector: "article, .grant-description, main"
+
+  - name: "Open Philanthropy — Blog"
+    url: "https://www.openphilanthropy.org/research/"
+    type: article_list
+    link_selector: "a[href*='/research/']"
+    content_selector: "article, .post-content, main"
+
+  - name: "80,000 Hours — Blog"
+    url: "https://80000hours.org/articles/"
+    type: article_list
+    link_selector: "a[href*='/articles/']"
+    content_selector: "article, .entry-content, main"
+
+  - name: "MIRI — Research"
+    url: "https://intelligence.org/research/"
+    type: article_list
+    link_selector: "a[href*='/research/']"
+    content_selector: "article, .entry-content, main"
+
+  - name: "Sam Altman — Blog"
+    url: "https://blog.samaltman.com"
+    type: rss
+    rss_url: "https://blog.samaltman.com/posts.atom"
 
   # Add state/local government sources below:
   # - name: "Oregon Health Authority"
