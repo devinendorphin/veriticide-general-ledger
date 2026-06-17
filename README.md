@@ -67,10 +67,16 @@ Edit `scraper/config.yaml`:
 
 ## Getting a Claude API key (for auto-formatting)
 
+The API requires **purchased credits** — there is no free tier.
+
 1. Go to console.anthropic.com
 2. Create an account
-3. API Keys → Create Key
-4. Free tier includes enough credits to format hundreds of entries
+3. Add credits (minimum purchase applies — check console for current amounts)
+4. API Keys → Create Key
+
+**Cost estimate**: The tool uses Claude Haiku, the cheapest available model ($1.00 per million input tokens / $5.00 per million output tokens). A typical formatted entry uses roughly 500–1000 tokens. At that rate, $5 of credits formats approximately 5,000–10,000 entries.
+
+**No API key**: The tool still runs without one — it captures raw text and leaves fields 4 and 5 blank with a `[PENDING]` marker. You can then paste those raw entries here for manual formatting.
 
 ---
 

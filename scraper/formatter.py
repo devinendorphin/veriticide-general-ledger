@@ -54,7 +54,7 @@ def format_entry(item: dict) -> str:
 
     try:
         message = _CLIENT.messages.create(
-            model="claude-sonnet-4-6",
+            model="claude-haiku-4-5",
             max_tokens=1024,
             system=_SYSTEM,
             messages=[{"role": "user", "content": prompt}],
