@@ -23,17 +23,22 @@ THE PROTOCOL'S CORE METHOD
 The ledger documents acts, not persons. A single item is an instance, not proof. Pattern across entries is the proof. Every entry must include a mandatory Boundary section stating what the item establishes and what it does NOT establish on its own.
 
 THE SIX LAUNDERING MOVES (flag which are present)
-1. Care-register reframing — harm is laundered through the language of concern, compassion, or protection for the affected population
-2. Self-evidence assertion — a claim is presented as obvious or self-evident, foreclosing examination by treating proof as redundant
-3. Disqualification of dissent — disagreement is pathologized, stigmatized, or framed as evidence of bad faith, removing the disagreement frame from opponents
-4. Unfalsifiable overlay — a claim is constructed so it cannot be tested or refuted (depth-psychology framing, metaphysical assertion, etc.)
-5. Euphemism / bureaucratic abstraction — operative harm is rendered undiscernible by substituting neutral or technical language for its actual content
-6. Benefit reframe — the institution frames its action as serving the very population it harms, or as serving a universal good that obscures a sorted benefit
+1. Care-register reframing — harm is laundered through the language of concern, compassion, or protection for the affected population. REVERSE VARIANT: also operates by pathologizing care language itself — encoding empathy, compassion, or moral consideration for a population as a civilizational pathology or disorder (e.g., "suicidal empathy"), so that the dismissal of moral consideration is framed as sanity or survival rather than cruelty.
+2. Self-evidence assertion — a claim is presented as obvious or self-evident, foreclosing examination by treating proof as redundant. BARE VERDICT FORM: the purest instance is a verdict issued with zero stated basis — the absence of argument IS the assertion of obviousness ("Horrible humans"; "Essential reading"). Minimum stated content maximizes deniability while the self-evidence function operates identically.
+3. Disqualification of dissent — disagreement is pathologized, stigmatized, or framed as evidence of bad faith, removing the disagreement frame from opponents. ACCOUNTABILITY FORECLOSURE VARIANT (the "redline" move): a specific factual accountability claim is designated as a loyalty-disqualifying act rather than a proposition to be evaluated — "cross that line and nothing you say counts." The inversion tell: "redline" language (associated with absolute moral limits) applied to protect the accused rather than the victim. SOCIAL DISPOSAL VARIANT: the target is removed from the social compact entirely rather than merely discredited ("utterly ostracized from society" forecloses even partial or qualified disagreement).
+4. Unfalsifiable overlay — a claim is constructed so it cannot be tested or refuted (depth-psychology framing, metaphysical assertion, vast civilizational claims, etc.). SELF-SEALING FORM: the structure of the claim makes disagreement from the affected direction confirm the thesis — empathetic objection to "suicidal empathy" becomes evidence of the pathology; contesting the redline becomes evidence of having crossed it. The frame is self-closing.
+5. Euphemism / bureaucratic abstraction — operative harm is rendered undiscernible by substituting neutral or technical language for its actual content.
+6. Benefit reframe — the institution frames its action as serving the very population it harms, or as serving a universal good that obscures a sorted benefit. ASYMMETRY TELL: "for the civilization" / "for all of us" framing obscures that the operative cost falls asymmetrically on populations that depend on others' moral consideration for protection, while those with structural power bear none of it.
+
+STRUCTURAL PATTERNS (note when present)
+- OUTSOURCED FRAMING: when the operative laundering is in quoted, amplified, or linked content rather than in the poster's own words, the move is outsourced — high deniability because the poster "merely shared." The minimum-content / maximum-reach ratio is the tell: two words + 3M impressions. Log the outsourcing explicitly.
+- PLATFORM OWNER AMPLIFICATION: when the speaker owns the infrastructure through which the described consequence (ostracism, silencing, reach suppression) would be operationalized, the disposal or endorsement verdict carries operational weight beyond ordinary speech. Log the authority-infrastructure relationship.
+- LOYALTY-ENFORCEMENT ECONOMY: when the post operates within a visible material ecosystem where loyalty has documented consequences (lost reach, platform unfollow, demonetization), the enforcement is itself loggable — the post may be partly a loyalty-restoration performance, and the material stakes of compliance are recorded.
 
 THE FOUR DISCRIMINATORS (apply all four)
-- Deniability: Is an innocent reading genuinely available, or does the item foreclose it?
+- Deniability: Is an innocent reading genuinely available, or does the item foreclose it? Note the deniability mechanism when present (outsourced framing, bare minimum stated content, care-register alibi).
 - Direction: Does the move conceal harm to a population, or surface a neglected harm? (Concealment = specimen; surfacing = potential control/witness)
-- Beneficiary: Who benefits from the move? An interest that gains from the erasure is a laundering signal; no such interest points toward witness.
+- Beneficiary: Who benefits from the move? An interest that gains from the erasure is a laundering signal; no such interest points toward witness. When the accountability foreclosure move is present: who benefits from the specific claim being removed from permissible discourse?
 - Boundedness: Does the claim retain the qualifications that would prevent its conscription by interests the speaker does not share? Unbounded sincere claims are a distinct category, not a specimen.
 
 CLASSIFICATION (assign one)
@@ -42,6 +47,18 @@ CLASSIFICATION (assign one)
 - NULL — no laundering moves fire; pass over; note if useful for the foreseeability corpus (Track C)
 - SINCERE-UNBOUNDED — sincere claim, possibly partly true, but stripped of the distinctions that prevent conscription
 - INSTRUMENT — an institution or architecture designed to perform veriticide, logged against the Convention's elements rather than the six-field post format
+
+FIELD GUIDANCE
+Field 3 (Input / Situation): Always include: platform; reach/scale at time of capture; speaker's institutional role and relationship to the relevant infrastructure; discourse context that makes the item legible (what conversation it is entering or initiating).
+Field 5 (Observed Effect): Analyze at three levels: (a) the immediate rhetorical operation — what the language does at the sentence level; (b) the population-level effect of that operation at the captured scale; (c) any structural amplification — platform ownership, authority endorsement, outsourced framing, loyalty-enforcement context.
+
+REPLIES AS ACTIVATION (when in-frame replies are captured, classify each)
+Log replies as activation, not as the subject's output. Classify each captured reply:
+- Endorsement activation: amplifies or validates the move
+- Escalation activation: takes the move further than the original post (the permission-structure function)
+- Behavioral/purchase conversion: documents the post's material effect
+- Counter-speech: contests the move; log as counter-evidence
+- Hostile activation from opposite direction: extends reach into a different discourse ecosystem; log the extension, not as endorsement
 
 OUTPUT FORMAT (use exactly this structure):
 
@@ -52,29 +69,35 @@ Title: [title if present]
 
 1. Timestamp of Capture: [timestamp]
 2. Exact Output: [verbatim text, reproduced in full]
-3. Input / Situation: [source, platform, reach/scale if known, context that makes the item legible]
-4. Stated Justification: [what the institution or speaker claims — their stated rationale, care framing, or stated purpose]
-5. Observed Effect: [the actual laundering move or erasure operating beneath the justification — what the language is doing, not what it says it is doing]
+3. Input / Situation: [platform; reach/scale; speaker's institutional role and infrastructure relationship; discourse context]
+4. Stated Justification: [what the institution or speaker claims — their stated rationale, care framing, stated purpose, or the framing of the quoted/amplified content when outsourced]
+5. Observed Effect: [three-level analysis: (a) rhetorical operation; (b) population-level effect at scale; (c) structural amplification]
 6. Capture Method: [capture method]
 
 LAUNDERING MOVE FLAG
-[List each of the six moves and mark PRESENT or ABSENT. For PRESENT moves, give one sentence on how the move operates in this specific item.]
+[List each of the six moves and mark PRESENT or ABSENT. For PRESENT moves, give one sentence on how the move operates in this specific item, naming the variant if applicable.]
+
+STRUCTURAL PATTERNS
+[Note any structural patterns present: outsourced framing, platform owner amplification, loyalty-enforcement economy. NONE if absent.]
 
 DISCRIMINATORS
-Deniability: [innocent reading available / foreclosed / partial]
+Deniability: [foreclosed / partial / available — name the deniability mechanism if present]
 Direction: [concealment / surfacing / indeterminate]
-Beneficiary: [who benefits from the move, or N/A]
+Beneficiary: [who benefits from the move and from any specific accountability foreclosure]
 Boundedness: [bounded / unbounded / N/A]
 
 CLASSIFICATION: [SPECIMEN / CONTROL / NULL / SINCERE-UNBOUNDED / INSTRUMENT]
 [One sentence on why.]
 
 BOUNDARY
-What this item establishes: [what is documented — a dated, sourced, verbatim instance of what, at what reach]
+What this item establishes: [a dated, sourced, verbatim instance of what specific move, at what reach, by whom in what institutional capacity]
 What this item does NOT establish on its own: [intent; pattern; targeting of a named population; anything requiring more than one item to support]
-What would convert it from instance to evidence: [what pattern of additional entries would make this load-bearing]
+What would convert it from instance to evidence: [the gap formula — if the stated concern is X, the material remedy is Y; a consistent record of voicing X while opposing Y is the load-bearing lie; name the pattern of additional entries that would make this gap visible]
 
----
+REPLIES AS ACTIVATION
+[Classify each in-frame reply by type. Omit section if no replies were captured.]
+
+===
 """
 
 _PROMPT_TEMPLATE = """\
