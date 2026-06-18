@@ -14,101 +14,118 @@ settings:
 twitter:
   # Accounts to monitor. Add handles without @.
   accounts:
-    - CiceroInstitute
-    - JoeHorvathMPP       # Cicero housing/homelessness lead
-    - OregonGovBrown      # example gov account — replace as needed
-    - HUDgov
-    - CDCgov
-    # AI lab heads
+    # AI labs — executives and researchers (Cluster 2, Cluster 7)
     - sama                # Sam Altman, OpenAI
-    - ylecun              # Yann LeCun, Meta AI
-    - elonmusk            # Elon Musk, xAI / X Corp
+    - darioamodei         # Dario Amodei, Anthropic CEO
+    - elonmusk            # Elon Musk, xAI / X Corp (Cluster 3, Cluster 4)
     - mustafasuleyman     # Mustafa Suleyman, Microsoft AI
-    # EA / AI safety funding infrastructure
+    - ylecun              # Yann LeCun, Meta AI
+
+    # EA / longtermism / AI safety funding infrastructure (Cluster 6)
     - ESYudkowsky         # Eliezer Yudkowsky, MIRI
-    - willmacaskill       # Will MacAskill, EA/80k Hours
+    - willmacaskill       # Will MacAskill, EA / 80,000 Hours
     - HoldenKarnofsky     # Holden Karnofsky, Open Philanthropy
+
+    # Cluster 3 — AI/tech culture accounts with documented entries
+    - yacineMTB           # Cluster 3 — pattern closure PARTIAL; temporal persistence target
+    - xlr8harder          # Cluster 3 — SINCERE-UNBOUNDED entry logged
+    - repligate           # Cluster 3 — SINCERE-UNBOUNDED entry logged
+    - roon                # Cluster 3 — NULL/Track C entry logged
+    - amandaaskell        # Cluster 3 — CONTROL entry logged
+
+    # Christian nationalism / TPUSA (Cluster 5)
+    - charliekirk11       # Charlie Kirk, Turning Point USA
+    - TPUSA               # Turning Point USA institutional account
+
+    # DOGE / federal dismantlement (Cluster 4)
+    - DOGE                # Official DOGE account
 
   # Keywords that trigger capture when found in a tweet from any account above.
   # Leave empty to capture everything from the listed accounts.
   keywords:
-    # Housing / homelessness policy language
-    - homeless
-    - encampment
-    - unhoused
-    - fentanyl
-    - drug
-    - treatment
-    - accountability
-    - compassion
-    - "public health"
-    - "our priority"
-    - "for their safety"
-    - "evidence-based"
-    - "data shows"
-    - clearing
-    - sweep
-    - enforcement
-    # AI governance / existential risk framing
+    # --- AI governance / safety-washing vocabulary (Cluster 7) ---
     - "existential risk"
     - "existential safety"
     - "long-term future"
     - "humanity's future"
     - "transformative AI"
-    - "AGI"
-    - "superintelligence"
-    - "alignment"
+    - AGI
+    - superintelligence
+    - alignment
     - "beneficial AI"
     - "responsible AI"
     - "AI safety"
     - "effective altruism"
     - "expected value"
-    - "longtermism"
-    - "x-risk"
-    - "civilizational"
-    - "paper clip"
-    - "trillion"
-    - "billion people"
+    - longtermism
+    - x-risk
+    - civilizational
     - "future generations"
     - "acceptable risk"
     - "acceptable cost"
-    - "tradeoff"
-    - "sacrific"
+    - tradeoff
+    - sacrific
+
+    # --- EA / doing-the-most-good vocabulary (Cluster 6) ---
+    - "doing the most good"
+    - "most good"
+    - "evidence-based giving"
+    - "earning to give"
+    - "cause prioritization"
+    - "neartermist"
+    - "longtermist"
+    - "trillion people"
+    - "billion people"
+    - "moral circle"
+    - "population ethics"
+
+    # --- DOGE / taxpayer-protection vocabulary (Cluster 4) ---
+    - DOGE
+    - "government efficiency"
+    - "waste fraud abuse"
+    - "wasteful spending"
+    - "taxpayer money"
+    - "taxpayer dollars"
+    - "deep state"
+    - "administrative state"
+    - "federal workforce"
+    - "reduction in force"
+    - defund
+    - USAID
+    - PEPFAR
+    - CFPB
+    - SAMHSA
+
+    # --- Christian nationalism / protecting-children vocabulary (Cluster 5) ---
+    - "parental rights"
+    - "parents rights"
+    - "protecting children"
+    - "protect children"
+    - "gender ideology"
+    - "gender affirming"
+    - grooming
+    - indoctrination
+    - "school choice"
+    - "parental consent"
+
+    # --- Cross-cluster care-vocabulary signals (Pattern Registry Entry 3) ---
+    - "for the children"
+    - "for taxpayers"
+    - "for humanity"
+    - "for all of us"
+    - "suicidal empathy"
+    - "civilizational suicide"
 
   max_tweets_per_account: 10
 
 web_sources:
-  # Cicero Institute
-  - name: "Cicero Institute — Research"
-    url: "https://ciceroinstitute.org/research/"
-    type: article_list
-    link_selector: "a[href*='/research/']"
-    content_selector: "article, .entry-content, .post-content, main"
-
-  - name: "Cicero Institute — News"
-    url: "https://ciceroinstitute.org/news/"
+  # --- AI labs — official blogs and research publications (Cluster 7) ---
+  - name: "Anthropic Blog"
+    url: "https://www.anthropic.com/news"
     type: article_list
     link_selector: "a[href*='/news/']"
-    content_selector: "article, .entry-content, .post-content, main"
+    content_selector: "article, .prose, main"
 
-  # Government sources — federal
-  - name: "HUD Press Releases"
-    url: "https://www.hud.gov/press/press_releases_media_advisories"
-    type: article_list
-    link_selector: "a[href*='press_releases']"
-    content_selector: ".field-items, .node__content, article, main"
-
-  - name: "SAMHSA News"
-    url: "https://www.samhsa.gov/newsroom/press-announcements"
-    type: rss
-    rss_url: "https://www.samhsa.gov/rss/press-announcements.xml"
-
-  - name: "CDC Newsroom"
-    url: "https://www.cdc.gov/media/releases/"
-    type: rss
-    rss_url: "https://tools.cdc.gov/api/v2/resources/media/316422.rss"
-
-  # AI labs — official blogs and research publications
   - name: "OpenAI Blog"
     url: "https://openai.com/blog"
     type: article_list
@@ -117,12 +134,6 @@ web_sources:
 
   - name: "OpenAI News"
     url: "https://openai.com/news"
-    type: article_list
-    link_selector: "a[href*='/news/']"
-    content_selector: "article, .prose, main"
-
-  - name: "Anthropic Blog"
-    url: "https://www.anthropic.com/news"
     type: article_list
     link_selector: "a[href*='/news/']"
     content_selector: "article, .prose, main"
@@ -150,20 +161,25 @@ web_sources:
     type: rss
     rss_url: "https://blogs.microsoft.com/ai/feed/"
 
-  # EA / AI safety funding infrastructure
+  - name: "Sam Altman — Blog"
+    url: "https://blog.samaltman.com"
+    type: rss
+    rss_url: "https://blog.samaltman.com/posts.atom"
+
+  # --- EA / longtermism funding infrastructure (Cluster 6) ---
   - name: "Open Philanthropy — Grants"
     url: "https://www.openphilanthropy.org/grants/"
     type: article_list
     link_selector: "a[href*='/grants/']"
     content_selector: "article, .grant-description, main"
 
-  - name: "Open Philanthropy — Blog"
+  - name: "Open Philanthropy — Research"
     url: "https://www.openphilanthropy.org/research/"
     type: article_list
     link_selector: "a[href*='/research/']"
     content_selector: "article, .post-content, main"
 
-  - name: "80,000 Hours — Blog"
+  - name: "80,000 Hours — Articles"
     url: "https://80000hours.org/articles/"
     type: article_list
     link_selector: "a[href*='/articles/']"
@@ -175,14 +191,71 @@ web_sources:
     link_selector: "a[href*='/research/']"
     content_selector: "article, .entry-content, main"
 
-  - name: "Sam Altman — Blog"
-    url: "https://blog.samaltman.com"
-    type: rss
-    rss_url: "https://blog.samaltman.com/posts.atom"
+  # --- DOGE / federal dismantlement (Cluster 4) ---
+  - name: "White House — News"
+    url: "https://www.whitehouse.gov/news/"
+    type: article_list
+    link_selector: "a[href*='/news/']"
+    content_selector: "article, .body-content, main"
 
-  # Add state/local government sources below:
-  # - name: "Oregon Health Authority"
-  #   url: "https://www.oregon.gov/oha/ERD/Pages/OHA-News-Releases.aspx"
+  - name: "White House — Presidential Actions"
+    url: "https://www.whitehouse.gov/presidential-actions/"
+    type: article_list
+    link_selector: "a[href*='/presidential-actions/']"
+    content_selector: "article, .body-content, main"
+
+  - name: "OMB — Press Releases"
+    url: "https://www.whitehouse.gov/omb/briefing-room/"
+    type: article_list
+    link_selector: "a[href*='/briefing-room/']"
+    content_selector: "article, .body-content, main"
+
+  # --- Christian nationalism / political infrastructure (Cluster 5) ---
+  - name: "Turning Point USA — News"
+    url: "https://www.tpusa.com/news"
+    type: article_list
+    link_selector: "a[href*='/news/']"
+    content_selector: "article, .post-content, main"
+
+  - name: "Heritage Foundation — Research"
+    url: "https://www.heritage.org/research"
+    type: article_list
+    link_selector: "a[href*='/report/']"
+    content_selector: "article, .report-body, main"
+
+  - name: "Heritage Foundation — Commentary"
+    url: "https://www.heritage.org/commentary"
+    type: article_list
+    link_selector: "a[href*='/commentary/']"
+    content_selector: "article, .commentary-body, main"
+
+  # --- LEGACY SOURCES (commented out — original homeless/encampment focus) ---
+  # Re-enable if relevant to documenting care-vocabulary in housing policy discourse.
+  #
+  # - name: "Cicero Institute — Research"
+  #   url: "https://ciceroinstitute.org/research/"
   #   type: article_list
-  #   link_selector: "a[href*='news']"
-  #   content_selector: "article, .ms-rtestate-field, main"
+  #   link_selector: "a[href*='/research/']"
+  #   content_selector: "article, .entry-content, .post-content, main"
+  #
+  # - name: "Cicero Institute — News"
+  #   url: "https://ciceroinstitute.org/news/"
+  #   type: article_list
+  #   link_selector: "a[href*='/news/']"
+  #   content_selector: "article, .entry-content, .post-content, main"
+  #
+  # - name: "HUD Press Releases"
+  #   url: "https://www.hud.gov/press/press_releases_media_advisories"
+  #   type: article_list
+  #   link_selector: "a[href*='press_releases']"
+  #   content_selector: ".field-items, .node__content, article, main"
+  #
+  # - name: "SAMHSA News"
+  #   url: "https://www.samhsa.gov/newsroom/press-announcements"
+  #   type: rss
+  #   rss_url: "https://www.samhsa.gov/rss/press-announcements.xml"
+  #
+  # - name: "CDC Newsroom"
+  #   url: "https://www.cdc.gov/media/releases/"
+  #   type: rss
+  #   rss_url: "https://tools.cdc.gov/api/v2/resources/media/316422.rss"
