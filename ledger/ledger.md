@@ -1437,3 +1437,11 @@ Pattern Registry Entry 3 written. Thesis: each INSTRUMENT cluster has organized 
 
 *Ledger last updated: 2026-06-18*
 *Branch: claude/veriticide-ledger-formatter-2fhyv9*
+
+---
+
+## SECTION V — CONTINUOUS COLLECTION
+
+*Auto-formatted entries from scraper runs, appended in capture order. Each entry follows the Track A format. Entries here are unreviewed — raw formatter output. Promote to the relevant cluster in Section II once reviewed and confirmed.*
+
+---

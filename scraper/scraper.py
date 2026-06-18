@@ -44,13 +44,28 @@ def item_hash(item: dict) -> str:
     return hashlib.sha256(key.encode()).hexdigest()[:16]
 
 
+_COLLECTION_HEADER = (
+    "\n\n---\n\n"
+    "## SECTION V — CONTINUOUS COLLECTION\n\n"
+    "*Auto-formatted entries from scraper runs, appended in capture order. "
+    "Each entry follows the Track A format. Entries here are unreviewed — "
+    "raw formatter output. Promote to the relevant cluster in Section II "
+    "once reviewed and confirmed.*\n\n"
+    "---\n"
+)
+
+
 def append_to_ledger(ledger_path: Path, entry: str) -> None:
     ledger_path.parent.mkdir(parents=True, exist_ok=True)
     if not ledger_path.exists():
         ledger_path.write_text(
             "# Veriticide Master Ledger\n\n"
-            "_Auto-collected entries. See Documentation & Standing Protocol v0.1._\n\n"
+            "_Auto-collected entries. See Documentation & Standing Protocol v0.1._\n"
+            + _COLLECTION_HEADER + "\n"
         )
+    elif "SECTION V" not in ledger_path.read_text():
+        with open(ledger_path, "a") as f:
+            f.write(_COLLECTION_HEADER + "\n")
     with open(ledger_path, "a") as f:
         f.write(entry + "\n")
 
