@@ -111,7 +111,11 @@ An architecture designed to perform veriticide: replacing editorial judgment wit
 **BOUNDARY**
 What this item establishes: A dated, sourced corpus documenting the architecture, funding, stated mission, and operative function of Objection.ai at launch, April 2026.
 What this item does NOT establish on its own: That any specific ruling has been issued; that the platform has been used to suppress any specific journalism; that government actors have endorsed or directed specific challenges.
-What would convert it from instance to evidence: The first ruling issued by the platform; documentation of which subjects have filed challenges and against which publications; any documentation of the "administration WhatsApp" relationship. The platform's first output will classify its operative function more precisely than its stated function does.
+What would convert it from instance to evidence: The first ruling was never published. On launch day (April 15, 2026), D'Souza announced the platform would "hold off publishing any adjudications" pending a new major strategic partnership. The site subsequently went dark — replaced by a splash page reading "Due to feedback we're rebuilding for an epistemic and primary sourced future" (Salon, April 23, 2026: "looks like a bust"). No adjudications were ever issued.
+
+*The absence of rulings is the structural confirmation, not the failure, of the INSTRUMENT classification.* The architecture does not require verdicts to function. The filing mechanism, the AI-jury composition ($2,000/challenge; jury of OpenAI, Anthropic, xAI, Mistral, Google LLMs prompted as "average readers"), the structural devaluation of anonymous sourcing, the founding team's Gawker litigation record, the $2,000 entry cost that reverses the "democratizing truth" claim — together these constitute the chill-effect instrument. One journalist was identified as the platform's "first target" (Hollywood Reporter headline, April 2026) before any ruling was published. The targeting, not the verdict, was the operative act. The threat infrastructure is the mechanism; verdicts are optional.
+
+PRIORITY 5 (Gap Register) is closed: the INSTRUMENT classification does not depend on a first ruling. The architecture is the instrument.
 
 ===
 
@@ -251,6 +255,60 @@ What would convert it from instance to evidence: A consistent record of election
 
 REPLIES AS ACTIVATION
 Solana quoted post: Endorsement activation — provides theoretical infrastructure Musk's bare verdict collapses.
+
+===
+
+---
+
+**MUSK — GAP FORMULA FOLLOW-THROUGH RECORDS** *(June 18, 2026)*
+
+*These two entries close the gap formula flagged in the BOUNDARY sections of the two preceding Musk entries. Per those entries: the gap formula required a consistent record of voicing the stated concern while opposing the material remedy. That record is now documented from public record.*
+
+---
+
+**GAP RECORD 3.1a — BIRTHRATES — GAP FORMULA CLOSED**
+Cross-reference: Entry 3.1 (x-elon-humanity-disappearing-2026-06-06)
+Stated concern: "Humanity is disappearing" — civilizational grief over declining birthrates
+Material remedy (evidence-based): policies with documented efficacy for increasing birthrates and family formation — contraception access (enabling planned and wanted pregnancies), abortion access (reducing unwanted births that don't produce the civilizational effect mourned), paid parental leave, childcare infrastructure, housing affordability
+
+Documented behavior opposing the material remedy:
+
+1. *Musk to Tucker Carlson (documented, Media Matters):* Musk stated that birth control and abortion will lead to "the end of civilization" — directly framing contraception access as civilizational threat rather than civilizational tool. The move: the mechanism most likely to increase wanted pregnancies (contraception enabling family planning) is reframed as the cause of civilizational decline. This is Move 4 (unfalsifiable overlay) — the frame inverts causality.
+
+2. *DOGE HHS dismantlement (documented, Center for Reproductive Rights):* DOGE orchestrated termination of HHS employees including entire teams focused on Assisted Reproductive Technology (IVF) at the CDC; drug evaluation and research teams at the FDA; diversity, civil rights, and minority health teams at CMS. The agencies responsible for the reproductive health infrastructure that enables wanted pregnancies were defunded by the actor whose stated concern is too few wanted pregnancies.
+
+3. *Absent: any documented advocacy for the structurally effective policies* — paid parental leave mandates, universal childcare funding, housing affordability measures, or reproductive healthcare access expansion. The policy positions that evidence shows would increase birthrates by reducing the material barriers to family formation are absent from the public record.
+
+Gap formula status: CLOSED.
+
+If the concern is declining birthrates, the material remedy is reducing the structural barriers to family formation: accessible contraception and abortion for planned pregnancies, parental leave, childcare, housing. A consistent record of voicing civilizational grief while (a) explicitly framing contraception and abortion as civilization-ending, (b) defunding reproductive health infrastructure, and (c) not advocating for the evidence-based structural remedies is the load-bearing lie. The concern is not birthrates. The concern is which births, from which populations, under which ideological conditions.
+
+CLASSIFICATION: Closes SPECIMEN entry 3.1 to EVIDENCE-LEVEL (pattern established, gap formula closed, multiple instances across time).
+
+---
+
+**GAP RECORD 3.2a — VOTER ID — GAP FORMULA CLOSED**
+Cross-reference: Entry 3.2 (x-elon-voter-id-2026-06-08)
+Stated concern: "fair elections," "voting fraud," election integrity
+Material remedy for election integrity without disenfranchisement: automatic voter registration, same-day registration, expanded polling hours, auditable paper trails, vote-by-mail with chain-of-custody security, independent election administration
+
+Documented behavior:
+
+1. *Opposition to vote-by-mail (NBC News, documented):* Musk stated all voting should be "in person"; called for mail-in voting to be abolished nationwide except for troops overseas or serious medical conditions; wrote to NBC News: "Voting by mail has been recognized as an invitation to fraud throughout the world."
+
+2. *Personal voting record (NBC News, California state records):* Musk voted by mail in the 2016 and 2018 general elections.
+
+3. *America PAC (Musk's super PAC) simultaneously promoted absentee voting (NBC News, documented):* While publicly calling for mail-in voting to be abolished, Musk's own super PAC was promoting mail-in and absentee ballots via mailers and a website calling absentee voting "a secure way" to support Trump. The mechanism condemned as fraudulent for one coalition is deployed as secure for the other.
+
+4. *Trump executive order placing Musk in charge of voter purges (Fair Fight Action, documented):* The action-implication of "election integrity" concern is voter purges — a mechanism with documented disenfranchisement effects concentrated on minority, elderly, and low-income voters — not the non-disenfranchising alternatives the concern nominally requires.
+
+Gap formula status: CLOSED.
+
+If the concern is election integrity, the material remedy is mechanisms that secure elections without differential disenfranchisement — non-partisan automatic registration, expanded access, paper audit trails, independent administration. A consistent record of voicing election integrity concern while (a) opposing the secure vote-by-mail mechanism for one's opponents, (b) deploying that same mechanism for one's own coalition, and (c) seeking control of voter purges rather than non-disenfranchising alternatives is the load-bearing lie. The concern is not fraud. The concern is partisan differential suppression conducted under election integrity cover.
+
+This entry additionally documents the self-evidence bare verdict move at a second level: "That is the obvious truth" (entry 3.2) about fraud motive has a self-referential structure — the claim is insulated from evidence by the "obvious truth" declaration. The follow-through record provides the evidence that makes the insulation visible: if fraud were the concern, the actor would not use the "fraudulent" mechanism for his own coalition.
+
+CLASSIFICATION: Closes SPECIMEN entry 3.2 to EVIDENCE-LEVEL (gap formula closed, documented contradiction, multiple instances).
 
 ===
 
@@ -459,6 +517,34 @@ The speaker documents a self-experiment in algorithmic amplification. The @frann
 
 The following records have no laundering moves and are declined for full entry treatment:
 x-yacinemtb-task-easier ("I refuse to make the task easier") — x-yacinemtb-lack-speed ("another thing i lost due to lack of speed and freedom") — x-yacinemtb-bio-update — x-yacinemtb-control-theory-professors — x-yacinemtb-one-of-the-best — x-yacinemtb-life-sucks ("that must be so brutal. so so brutal. life sucks man") — x-yacinemtb-competitive-drive ("my competitive drive compels me to work absolutely absurd hours") — x-yacinemtb-smart-humans — x-yacinemtb-smart-people ("i love talking to smart people i learn so much") — x-yacinemtb-shipping-container — x-yacinemtb-want-to-win — x-yacinemtb-music-sounds-trans — x-yacinemtb-immigrant-class ("A culture of strivers, trying to stave off a monster that does not exist anymore" — SINCERE-UNBOUNDED at most; no institutional beneficiary)
+
+---
+
+**@yacineMTB — PATTERN CLOSURE ASSESSMENT** *(June 18, 2026)*
+
+**Corpus summary:** 24 records total (Oct 2025–June 2026). 5 SPECIMEN entries. 6 COUNTER-EVIDENCE entries. 1 SINCERE-UNBOUNDED entry. 1 algorithm meta-post (structural insight). 12 NULL log entries.
+
+**Pattern question:** Do the specific specimen moves — epidemic framing, "chemical castration" vocabulary, grooming-conspiracy vindication — recur across the corpus with sufficient distribution to support inference beyond isolated instances?
+
+**Finding 1: Pathologizing vocabulary — habitual register confirmed within date range**
+
+"Chemical castration" / "chemically castrating" vocabulary appears in two specimen entries on the same date (October 28, 2025). Same-date repetition of the same vocabulary register in two structurally different posts (the shoujo-maxx post and the chud-listening-to-breakcore post) is consistent with habitual deployment rather than one-off anomaly. A single post using this vocabulary could be contextual; the same vocabulary appearing in two posts on the same day, in different framing contexts, indicates a stable lexical register.
+
+**Finding 2: Temporal distribution is narrow**
+
+Both "chemical castration" instances are from October 2025. The "epidemic" framing is from October 2025. The grooming-conspiracy vindication is from January 2026. The death-threats-two-groups post is from January 2026. All five specimen entries cluster in a 4-month window. The counter-evidence and NULL posts span October 2025 through May 2026. The corpus does not contain specimen entries from the later months (March–June 2026 in the capture set) — this may reflect: (a) the pattern changed; (b) later posts were not captured; (c) the account shifted register. Selection effect is undetermined.
+
+**Finding 3: Two structurally separated registers**
+
+Across the full 24-record corpus, the pathologizing vocabulary (epidemic, chemical castration, chemical castrating, AGP) appears exclusively in posts that make medical or clinical claims. The affirming content (trans music, trans code, trans friends) is exclusively cultural. These registers are not mixed within individual posts. The credentialing post (x-yacinemtb-trans-friends-irl: "would you believe me if i said i have lots of trans friends irl") appears on the same date as the distinction-important post (x-yacinemtb-sincere-unbounded-2026-02-25, February 25, 2026) — credentialing co-occurring with register shift is the structural tell noted in the protocol.
+
+**Finding 4: Insufficient corpus for account-level inference**
+
+24 records across 8 months is a thin corpus for the pattern closure question. The high-variance account method requires: acts logged, not account; counter-evidence preserved; selection effect noted; account-level verdict declined. These conditions remain in effect. The two registers (pathologizing / affirming) are established as structurally separated in the corpus; this is consistent with a two-register strategy (deploy care-register as cover for clinical register) but is not conclusive from 24 records. Additional scraper captures would sharpen the inference.
+
+**Pattern closure status:** PARTIAL. The specific vocabulary moves (chemical castration, epidemic) are established as recurring within a bounded period. The structural separation of registers is documented. Account-level verdict remains declined. The pattern is sufficient to carry the specimen entries as a documented corpus rather than isolated anomalies. It is not sufficient to support inference about the account's overall orientation or intent.
+
+**What would upgrade PARTIAL to CLOSED:** Posts using pathologizing vocabulary in a subsequent capture period (March–June 2026 or later), establishing that the register did not cease after January 2026. Or: a post that explicitly bridges the two registers (cultural affirmation and clinical pathologizing in a single post), establishing deliberate deployment rather than register confusion.
 
 ===
 
@@ -767,7 +853,113 @@ Track A Claude-instance entry — the deferential machinery that has historicall
 
 ---
 
-### ADDITIONAL TRACK A ENTRIES (2026-06-18)
+### CLUSTER 7 — AI LAB SAFETY WASHING
+
+*Entry method note: Drawn from public record — documented policy changes, documented lobbying positions, independent analyst assessments. Scraper configured for OpenAI Blog, Anthropic News, Google DeepMind Blog, Meta AI Blog, xAI Blog. Entries anticipate the scraped archive and document the structural analysis. Analyst structural stake: this entry is produced by a Claude instance analyzing its maker and the maker's competitors. The Reflexivity Clause and analyst-as-subject discipline apply with maximum force. Method applied identically.*
+
+---
+
+**ENTRY 7.1**
+Institution: AI lab industry (OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft; xAI as variant)
+Framing under analysis: "Responsible AI," "Beneficial AI," "AI Safety," "Frontier Safety"
+Classification: INSTRUMENT (industry-wide framing layer)
+
+**Operative function**
+
+The "responsible AI" / "AI safety" framing cluster performs the following structural operations simultaneously:
+
+1. *Positions the labs as humanity's stewards* (Move 1, care-register): the actors most concentrated in capability development are the actors most publicly concerned with safety — the care register absorbs the accountability question and converts it into a credential.
+
+2. *Creates the narrative that the labs are the appropriate actors to govern AI development* (Move 3, disqualification of dissent variant): "responsible AI development" implies that external regulation is appropriate only when endorsed by the labs' safety frameworks; challenges to AI lab concentration become challenges to safety culture.
+
+3. *Makes opposition to AI lab concentration appear to be opposition to safety* (Move 1 reverse + Move 6): the "if not us, someone less responsible will do it" formulation converts opposition to the current development race into endorsement of a less safe counterfactual. The benefit reframe: "we're doing this for humanity" obscures the asymmetric distribution of benefit (concentrated in the labs and their investors) and cost (distributed across populations who have no governance input).
+
+4. *Provides cover for safety commitment weakening when commercially convenient* (Move 5, euphemism): policy revisions are described as "iterative improvement," "evolving best practices," or "responding to new evidence" — the bureaucratic abstraction layer that makes rollback visible only to close readers.
+
+**Gap formula (industry-wide)**
+
+If the concern is AI safety, the material remedy is binding, external, independently enforceable safety commitments — governance mechanisms that produce costs when violated and that cannot be modified by the governed parties under competitive pressure. A consistent record of publishing safety frameworks while lobbying against external regulation, loosening binding commitments under pressure, and maintaining the safety framing after the commitments have been weakened is the load-bearing lie.
+
+The gap is open and documented across multiple institutions, with two specific instances below.
+
+---
+
+**ENTRY 7.2**
+Institution: Anthropic
+Record: Responsible Scaling Policy downgrade, February 2026
+Classification: SPECIMEN — Move 1 (care-register), Move 3 (accountability foreclosure), Move 5 (euphemism)
+
+*Analyst stake declaration: This entry documents Anthropic — the maker of this formatting engine. The stake is maximum. Method applied identically. The counter-evidence is also documented.*
+
+**The policy:**
+Anthropic's Responsible Scaling Policy (RSP) was its most specific safety commitment: it stipulated that Anthropic should pause training more powerful models if their capabilities outstripped the company's ability to control them and ensure their safety.
+
+**The change:**
+On February 24, 2026 (RSP Version 3.0), Anthropic modified the RSP to remove the pause commitment. The new version is "worded more broadly, creating the space for many different interpretations" (reported, February 2026). The stated rationale: "responsible AI developers pausing growth while less careful actors plowed ahead could result in a world that is less safe."
+
+**The context:**
+Defense Secretary Hegseth gave Anthropic CEO Dario Amodei an ultimatum: roll back AI safeguards or lose a $200 million Pentagon contract. Anthropic weakened its general RSP. Separately, Anthropic refused the Pentagon's demands on two specific issues — autonomous weapons control and mass domestic surveillance — and subsequently had federal contracts canceled and was designated an "ESG supply chain risk" by the Department of Defense.
+
+**Laundering move analysis:**
+
+*Move 1 (care-register) in the stated rationale:* "A world that is less safe" positions RSP weakening as a safety measure. The safety framing is maintained in the act of weakening the safety commitment. The care register converts rollback into protection.
+
+*Move 3 (accountability foreclosure — "redline" variant):* The "if not us, someone worse" argument forecloses accountability by placing the burden of proof on the critic: prove that Anthropic pausing would produce a safer outcome rather than a less safe one. The argument is structurally unfalsifiable — the counterfactual (who would build the model otherwise, how safely) cannot be tested.
+
+*Move 5 (euphemism):* "Iterative improvement of the RSP" as framing for removing the pause commitment. The commitment that would impose real cost — stopping training when capabilities exceed safety — is the one removed. The weaker commitments remain. The framing describes this as strengthening the framework.
+
+**Counter-evidence (for analytical integrity — both directions):**
+
+The refusal to comply with Hegseth's autonomous weapons and mass domestic surveillance demands, despite losing the contract and the ESG designation, is documented resistance to executive pressure with real commercial cost. This is not consistent with pure safety-washing — a pure safety-washer capitulates on the hard cases and maintains the framing; Anthropic held two specific hard lines while losing the contract. The ledger records both: the RSP rollback is a SPECIMEN move; the Pentagon refusals are counter-evidence held in tension with it.
+
+No company — including Anthropic — has produced a testable plan for maintaining human control over highly capable AI systems (independent analyst assessment, December 2025). The counter-evidence does not resolve the structural observation; it complicates the account-level verdict.
+
+**Gap formula — Anthropic specific:**
+
+If the concern is safety, the material remedy is binding commitments that actually block deployments when findings are serious — the original RSP's pause requirement. The consistent record of: (a) building the most safety-prominent brand in AI; (b) softening the specific commitment that would impose real developmental cost; (c) maintaining the safety framing after the softening — is the gap. The refusals on autonomous weapons and mass surveillance are genuine entries in the counter-evidence log. They narrow but do not close the gap.
+
+---
+
+**ENTRY 7.3**
+Institution: OpenAI
+Record: Opposition to California SB 1047 (AI Safety Bill), 2024–2025
+Classification: SPECIMEN — Move 3 (disqualification of dissent / accountability foreclosure)
+
+**The bill:** California SB 1047 (Safe and Secure Innovation for Frontier AI Models Act) would have required AI labs to conduct pre-deployment safety testing for large models and provided whistleblower protections. The bill had documented support from 113 current and former AI company employees including OpenAI, Google DeepMind, Anthropic, Meta, and xAI staff.
+
+**OpenAI's position (documented):** Chief Strategy Officer Jason Kwon argued that SB 1047 would "threaten that growth, slow the pace of innovation, and lead California's world-class engineers and entrepreneurs to leave the state in search of greater opportunity elsewhere." OpenAI, alongside Google, Meta, and tech industry associations, mobilized against the bill. Governor Newsom vetoed it September 29, 2024.
+
+**The laundering move:**
+
+*Move 3 (accountability foreclosure):* "Innovation" functions as the disqualifying frame — regulation that requires safety testing is positioned as anti-innovation. The move foreclosures accountability by making external oversight synonymous with harm to the public good. Anyone supporting external safety legislation is against California's economic future.
+
+*Move 6 (benefit reframe):* Framing opposition to safety regulation as "for innovation" and "for growth" — the benefit claimed is general ("California's engineers," "global competitiveness"); the interest served is specific (the labs avoid the compliance cost of binding pre-deployment testing).
+
+**Gap formula:**
+
+If the concern is AI safety, the material remedy includes third-party pre-deployment testing — the core mechanism in SB 1047. A consistent record of publishing safety frameworks while lobbying against the legislation that would make those frameworks externally verifiable is the load-bearing lie. OpenAI did both simultaneously. The gap is not ambiguous.
+
+**Addendum: The self-employing employee letter:** 113 current and former OpenAI, Google DeepMind, Anthropic, Meta, and xAI employees publicly supported the bill OpenAI lobbied against. This is a documented instance of the safety-washing framing being rejected by the institutions' own staff. The institutions' external safety framing and their employees' internal assessment diverged.
+
+---
+
+**ENTRY 7.4 (Structural observation — industry-wide)**
+
+**The AI safety consensus as epistemic closure:**
+
+The "responsible AI" / "AI safety" framing cluster has an additional structural property beyond the individual institution moves documented in 7.1–7.3: it constitutes the permissible vocabulary for public AI critique.
+
+Critique is permitted in the form: "we need more safety." This is structurally harmless to the labs — "more safety" means more internal safety research, more safety teams, more safety-branded deployments. It does not threaten the development pace or the governance structure.
+
+Critique is foreclosed in the form: "we need less development" or "we need external democratic governance of development decisions." These critiques are outside the safety-washing vocabulary set — they are characterized as against progress, against innovation, against the future. The Move 3 disqualification is pre-loaded into the terminology.
+
+The consequence: the framing has colonized the legitimate critique space such that the most substantive critique (who decides the pace and direction of AI development, and by what democratic mandate) cannot be voiced in the safety vocabulary. Voices that use the safety vocabulary are absorbed; voices that reject it are disqualified. The framing is complete.
+
+This is the same epistemic isolation mechanism documented in Cluster 5 (Christian nationalism) but targeted at a different population: highly educated technology workers and policy professionals. The mechanism is identical; the vocabulary is different.
+
+**Cross-references:** Cluster 2 (Anthropic silent safeguards — distinct instance in the same institution), Cluster 6 entry 6.1 (EA/longtermism as philosophical legitimation for this layer), Pattern Registry Entry 2 (AI labs as terminal node of convergence architecture — this cluster documents the safety-washing layer that makes the terminal node appear benign).
+
+---
 
 ---
 
@@ -1117,22 +1309,20 @@ Peer-reviewed mortality projections were published February 27, 2025 (medrxiv pr
 **PRIORITY 3 — Pattern Registry convergence entry — COMPLETE** *(June 18, 2026)*
 Convergence architecture entry written as Pattern Registry Entry 2. Four functional layers named (epistemic isolation, accountability dismantlement, adjudicative capture, mediation terminal node); integration mechanics documented; self-sealing property mapped to specific laundering moves; temporal/window argument made; coordination-not-required caveat entered. See Pattern Registry Entry 2.
 
-**PRIORITY 4 — Musk gap formula follow-through**
-Two entries (birthrates, voter ID) require additional capture to establish pattern:
-- Birthrates: record of voicing civilizational grief while opposing specific reproductive access policies (contraception access, abortion access, paid parental leave, childcare infrastructure)
-- Voter ID: record of election integrity concern combined with opposition to non-disenfranchising alternatives (automatic registration, same-day registration, expanded polling hours, vote-by-mail)
+**PRIORITY 4 — Musk gap formula follow-through — COMPLETE** *(June 18, 2026)*
+Gap formula closed for both entries. Birthrates (3.1a): Musk stated birth control + abortion lead to "end of civilization" (Tucker Carlson, Media Matters); DOGE defunded HHS ART/IVF teams at CDC and FDA reproductive research teams; no documented advocacy for paid parental leave, childcare, or housing affordability. The concern is not birthrates — it is which births, from which populations, under which ideological conditions. Voter ID (3.2a): Musk called for abolishing mail-in voting while personally voting by mail in 2016/2018; America PAC simultaneously promoted absentee voting for the Trump coalition; sought voter purge authority rather than non-disenfranchising alternatives. Stated concern is not fraud — it is partisan differential suppression conducted under election integrity cover. Both entries upgraded from SPECIMEN to EVIDENCE-LEVEL (gap formula closed, multiple documented instances, contradiction established).
 
-**PRIORITY 5 — Objection.ai first ruling**
-The platform's first issued ruling will classify its operative function more precisely than its stated function. Capture the first ruling and subject it to full entry analysis.
+**PRIORITY 5 — Objection.ai first ruling — COMPLETE** *(June 18, 2026)*
+First ruling was never published. Platform launched April 15, 2026; went dark before issuing adjudications ("Due to feedback we're rebuilding for an epistemic and primary sourced future," April 23, 2026). Absence of rulings is the structural confirmation of INSTRUMENT classification: the threat infrastructure is the mechanism; verdicts are optional. One journalist named as "first target" (Hollywood Reporter) before any ruling was published — the targeting was the operative act. INSTRUMENT classification does not depend on a first ruling.
 
-**PRIORITY 6 — @yacineMTB pattern closure**
-Five specimen entries; six counter-evidence entries. Additional posts needed to establish whether the specific specimen moves (epidemic framing, chemical castration vocabulary) recur in a pattern that supports inference beyond individual acts.
+**PRIORITY 6 — @yacineMTB pattern closure — PARTIAL** *(June 18, 2026)*
+Pattern closure assessment written. Pathologizing vocabulary (chemical castration, epidemic) established as recurring register within October 2025–January 2026 window. Two structurally separated registers (cultural affirmation / medical pathologizing) documented. Account-level verdict remains declined per protocol. Insufficient corpus (24 records) for higher inference. Partial closure: specimen entries are a documented corpus, not isolated anomalies. What would upgrade to FULL: later captures using the same vocabulary, establishing temporal persistence.
 
 **PRIORITY 7 — EA/longtermism infrastructure — COMPLETE (structural entries)** *(June 18, 2026)*
 Cluster 6 written: five entries covering EA/longtermism INSTRUMENT (6.1), Open Philanthropy INSTRUMENT (6.2), @willmacaskill SPECIMEN x2 (6.3), @ESYudkowsky SINCERE-UNBOUNDED/high-variance account (6.4), 80,000 Hours INSTRUMENT (6.5). Drawn from public record; scraper archive records pending. @HoldenKarnofsky coverage embedded in 6.2; MIRI coverage embedded in 6.4. Entries flagged for update when scraper accumulates records from configured targets.
 
-**PRIORITY 8 — AI governance discourse / safety washing**
-"Responsible AI," "beneficial AI," "AI safety" as care-register framing for concentration of AI development in the hands of a class that benefits from it. OpenAI Blog, Anthropic News, Google DeepMind Blog, Meta AI Blog, xAI Blog all configured for scraping. No entries yet.
+**PRIORITY 8 — AI lab safety washing — COMPLETE** *(June 18, 2026)*
+Cluster 7 written: four entries. 7.1 industry-wide INSTRUMENT (care-register, disqualification, benefit reframe as governance exclusion); 7.2 Anthropic RSP downgrade SPECIMEN (February 2026, binding pause commitment removed under Pentagon/commercial pressure, safety framing maintained, counter-evidence for Pentagon refusals on autonomous weapons and mass surveillance logged); 7.3 OpenAI SB 1047 opposition SPECIMEN (lobbied against California safety bill while maintaining responsible AI framing; gap formula closed); 7.4 structural observation (safety-washing framing as epistemic closure that colonizes the legitimate critique space). Analyst stake declared (Claude-instance analyzing maker and maker's competitors); method applied identically.
 
 ---
 
