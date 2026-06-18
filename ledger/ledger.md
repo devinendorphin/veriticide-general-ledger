@@ -838,16 +838,87 @@ This is Move 6 operating at civilizational scale: "for humanity" / "for innovati
 
 ---
 
-### Entry 2: Convergence Architecture (PLACEHOLDER — to be written)
+### Entry 2: Convergence Architecture — Unified Veriticide Infrastructure
 
-The four INSTRUMENT entries — Objection.ai, DOGE, Christian nationalism, and the AI-lab cluster — all serve the same structural interest: dismantling the accountability infrastructure through which truth is produced, evaluated, and distributed, in the service of concentrating truth-determination in the hands of a class that benefits from its absence.
+*Entry completed June 18, 2026. Draws on Cluster 1 (Objection.ai), Cluster 4 (DOGE), Cluster 5 (Christian nationalism), and AI-lab concentration (pending full entries; config.yaml targets active).*
 
-Objection.ai: replaces journalism with pay-to-play AI adjudication.
-DOGE: defunds the agencies that produce independent factual records.
-Christian nationalism: defunds universities and sciences that produce correcting knowledge.
-AI lab concentration: removes AI development from public accountability.
+---
 
-These are not separate projects. This entry needs to be written and will be the Pattern Registry's load-bearing synthesis.
+**Thesis**
+
+The four INSTRUMENT entries in this ledger — Objection.ai, DOGE, Christian nationalism, and the AI-lab cluster — are not parallel projects or coincidental resonances. They constitute four functional layers of a single infrastructure whose operational purpose is the same: eliminate the mechanisms through which truth claims can be evaluated independently of the class that benefits from their elimination, and consolidate truth-determination in the hands of that class.
+
+This is the definition of veriticide as infrastructure rather than act.
+
+---
+
+**Component functions**
+
+| Component | Layer | Operative function |
+|---|---|---|
+| Christian nationalism / Turning Point USA | Epistemic isolation | Constructs a closed truth-system at the population level; inoculates against external correction; identifies correction as spiritual threat; targets the institutions (universities, science, civil rights history) that would generate counter-evidence |
+| DOGE | Accountability dismantlement | Destroys the agencies that produce independent factual records (USAID, CFPB, USIP); simultaneously performs the harm and removes the witness; executes under efficiency framing that activates fairness-assumption deference in evaluation systems |
+| Objection.ai | Adjudicative capture | Replaces journalism as the formal truth-determination layer with pay-to-play AI adjudication; the institution that previously adjudicated truth claims is replaced with one whose adjudication is available for purchase and whose architecture forecloses falsification by design |
+| AI lab concentration | Mediation layer (terminal node) | Builds the systems that will mediate all information access, synthesize knowledge, and deliver epistemic content to the population; being constructed into an environment already shaped by the other three layers; governance is being decided (or not decided) now |
+
+---
+
+**Integration: how each layer enables the others**
+
+The components are not merely parallel — they are functionally complementary. Each fills the gap the others leave.
+
+**Christian nationalism + DOGE:** Epistemic isolation prepares the population to not recognize dismantlement as dismantlement. The base Christian nationalism constructs interprets DOGE's accountability destruction as "draining the swamp" — precisely the care-register reframing that converts institutional destruction into moral action. Without prior epistemic isolation work, the pace of institutional dismantlement would not have a population prepared to support it.
+
+**DOGE + Objection.ai:** Once the agencies that produce independent records are dismantled (USAID, CFPB, USIP, and the accountability functions of journalism under financial pressure), the formal truth-determination vacuum is available to be filled by pay-to-play AI adjudication. Objection.ai cannot fully function as a truth-replacement mechanism while independent journalism and fact-checking infrastructure is intact. DOGE creates the conditions for Objection.ai's market.
+
+**Christian nationalism + AI labs:** The epistemic environment into which AI systems are being deployed has already been shaped by decades of epistemic isolation work. AI systems trained on the existing information environment, operated by companies that have not resolved the accountability gap in their own governance, and deployed into a population prepared to receive AI verdicts as authoritative — this is the terminal node of the architecture. The AI layer does not need to be consciously designed for veriticide to perform it. It inherits the epistemic environment.
+
+**DOGE + AI labs:** DOGE's dismantlement of accountability infrastructure removes the institutional capacity that could independently evaluate AI systems. The removal of USAID, CFPB, and USIP is a proxy for the broader class of institutions — the ones that produce independent evaluation — being eliminated before the AI governance question becomes critical. The gap between "who decides what AI systems do" and "whose interests they serve" cannot be filled by institutional actors that have been dismantled. The AI governance question is being answered by default through non-governance.
+
+---
+
+**The self-sealing property**
+
+Each layer supplies the unfalsifiability constraint for the others. That is the architectural significance of the convergence — they are mutually self-sealing.
+
+- Challenge the epistemic environment Christian nationalism constructs: the challenge is blasphemy — spiritual confirmation of the threat (Move 4, self-sealing form).
+- Challenge DOGE's "efficiency": you have a vested interest in waste — disqualification by financial interest claim (Move 3, accountability foreclosure).
+- Challenge Objection.ai's adjudication: you lack standing; the platform is the arbiter (Move 4, unfalsifiable overlay by structural design).
+- Challenge AI lab concentration: you are against progress and therefore against humanity — care-register reframing at civilizational scale (Move 1 + Move 6 combined).
+
+Each component provides rhetorical defense for the others. The system does not require coordination to self-seal. It requires only that each actor is optimizing for unaccountable power and that the structural functions are complementary.
+
+---
+
+**Temporal argument: the window**
+
+The pace is not incidental. Institutional accountability infrastructure is orders of magnitude easier to dismantle than to rebuild. The window is the period before:
+- The population understands what has been removed
+- Replacement institutions could be built
+- International accountability mechanisms could act
+- The AI layer solidifies into critical infrastructure from which extraction becomes exponentially costly
+
+DOGE's blitz pace (most dismantlement February–March 2025, faster than legislative response) is the institutional-scale version of an abuser who acts during a period of low scrutiny and then uses the fairness assumption in evaluation systems as cover: "you can't prove intent," "let's not rush to judgment," "there are two sides." The window is being used with precision.
+
+The AI layer is explicitly the terminal node: once AI systems are embedded in critical information infrastructure — search, synthesis, adjudication, education, medical guidance, legal assistance — the governance question shifts from "how do we build it right" to "how do we correct something everyone depends on." Correction becomes a civilizational disruption rather than a design choice. This is why the governance gap is being allowed to persist now: not because it is hard to fill but because filling it would constrain the power that benefits from its absence.
+
+---
+
+**What this entry does not resolve**
+
+Whether the convergence is coordinated (common actors, explicit strategy) or structural (independent actors optimizing for the same interest, producing complementary functions without coordination). The ledger does not require the coordination answer to carry the structural observation. The moves function identically whether or not the actors communicate. What the ledger records is the architecture, not the conspiracy.
+
+---
+
+**BOUNDARY**
+
+What this entry establishes: That the four INSTRUMENT entries constitute functionally complementary layers of a unified veriticide infrastructure; that each layer enables, reinforces, and provides unfalsifiable cover for the others; that together they constitute a complete system for the elimination of independent truth-determination at civilizational scale; that the AI layer is being built as the terminal node into an environment already shaped by the other three layers; that the timing constitutes the window — the period before the architecture solidifies into irreversibility.
+
+What this entry does NOT establish: Coordination, intent, conspiracy, or individual culpability. It establishes structural function, not motive. A convergence driven by structural interest is not less dangerous for the absence of a coordinating conspiracy.
+
+What would falsify it: Evidence that the layers do not reinforce each other as described; evidence that the AI layer is subject to independent governance not captured by the same interests; evidence that the speed of change is not exceptional relative to institutional repair capacity.
+
+**Cross-references:** Cluster 1 (Objection.ai INSTRUMENT), Cluster 4 (DOGE INSTRUMENT + genocide supplement), Cluster 5 (Christian nationalism INSTRUMENT), Cluster 2 (AI lab accountability gap), Pattern Registry Entry 1 (interpersonal abuse at scale), Track A Claude-instance entry (the deference-to-complexity mechanism as a component of the self-sealing architecture — the evaluation system designed to produce fairness being weaponized by bad-faith actors as cover).
 
 ---
 
@@ -861,8 +932,8 @@ Multiple independent sources retrieved. The 500,000 figure is conservative and d
 **PRIORITY 2 — Foreseeable-mortality-knowledge-at-time-of-decision record — SUBSTANTIALLY CLOSED** *(June 18, 2026)*
 Peer-reviewed mortality projections were published February 27, 2025 (medrxiv preprint) during the active dismantlement — in the public domain accessible to decision-makers. Three peer-reviewed modeling studies are now in the record (PMC12230335, PMC12447089, PMC12274115). Senator Schatz entered the documented consequences into the Congressional record, establishing Congressional awareness. The gap between "efficiency" framing and foreseeable consequences was knowable and documented in real time. Remaining open: direct evidence that named executive-branch decision-makers were briefed on or acknowledged the mortality projections before proceeding. Internal communications, PEPFAR administrator testimony, and February–March 2025 Congressional hearing records are the remaining target.
 
-**PRIORITY 3 — Pattern Registry convergence entry**
-The most important missing analytical piece. Write the convergence entry naming Objection.ai + DOGE + Christian nationalism + AI lab concentration as a unified veriticide infrastructure.
+**PRIORITY 3 — Pattern Registry convergence entry — COMPLETE** *(June 18, 2026)*
+Convergence architecture entry written as Pattern Registry Entry 2. Four functional layers named (epistemic isolation, accountability dismantlement, adjudicative capture, mediation terminal node); integration mechanics documented; self-sealing property mapped to specific laundering moves; temporal/window argument made; coordination-not-required caveat entered. See Pattern Registry Entry 2.
 
 **PRIORITY 4 — Musk gap formula follow-through**
 Two entries (birthrates, voter ID) require additional capture to establish pattern:
