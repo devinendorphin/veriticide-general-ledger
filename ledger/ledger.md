@@ -1296,6 +1296,112 @@ What would falsify it: Evidence that the layers do not reinforce each other as d
 
 ---
 
+### Entry 3: Care-Vocabulary Capture — Institutional Identity as Epistemic Closure Device
+
+*Entry completed June 18, 2026. Draws on all five INSTRUMENT clusters; adds a linguistic layer to the structural analysis in Entry 2.*
+
+---
+
+**Thesis**
+
+Each of the five INSTRUMENT clusters in this ledger has organized its public identity around a distinct care-vocabulary. The vocabularies differ by domain and audience. The structural function is identical in every case: a harm that the institution produces is named using the same vocabulary the institution has claimed as its mission, so that naming the harm sounds like opposing the care.
+
+This is Move 1 (care-register reframing) operating not at the level of individual posts but at the level of institutional identity. A single post uses care-register to justify a single output. An INSTRUMENT uses care-register to constitute itself — to make the care claim structural rather than incidental, so that the institution becomes the custodian of the vocabulary and every challenge to the institution arrives looking like a challenge to the value.
+
+This is the difference between using the care-register and owning it.
+
+---
+
+**The mapping**
+
+| Cluster | INSTRUMENT | Care-vocabulary owned | Population whose harm is concealed | Critique foreclosed as |
+|---|---|---|---|---|
+| Cluster 7 | AI labs (Anthropic, OpenAI) | "safety" / "responsible AI" / "alignment" | Populations harmed by deployed AI systems: biased automated decisions, epistemic monopoly, surveillance infrastructure, labor displacement, governance exclusion of affected populations | "anti-progress," "not a safety researcher," "against the mission," "doesn't understand the real risks" |
+| Cluster 5 | Christian nationalism / Turning Point USA | "protecting children" / "parental rights" | LGBTQ youth; students whose educational curriculum is defunded; young people who depend on reproductive healthcare and accurate sexual health education | "groomer," "advocating harm to children," "against parental rights," "indoctrinator" |
+| Cluster 4 | DOGE | "taxpayer protection" / "eliminating waste" / "government efficiency" | USAID/PEPFAR dependent populations (490K–840K/year projected mortality); CFPB-protected consumers; USIP-supported conflict-zone populations; domestic program beneficiaries | "defending waste," "protecting the administrative state," "against taxpayers," "corrupt establishment" |
+| Cluster 6 | EA / longtermism | "doing the most good" / "effectiveness" / "evidence-based giving" | Present-harm populations systematically deprioritized by the longtermist expected-value calculus: global poor not adjacent to extinction scenarios, immediate crisis populations, populations harmed by EA resource allocation away from present harm | "irrational," "ineffective," "caring less about total welfare," "emotional rather than evidence-based," "against helping more people" |
+| Cluster 1 | Objection.ai | "truth" / "accountability" / "epistemic standards in journalism" | Journalists and their sources; targets of pay-to-play adjudication; populations whose protection depends on independent journalism infrastructure | "pro-misinformation," "against accountability," "defending corrupt journalism," "afraid of the truth" |
+
+---
+
+**The coverage architecture**
+
+The vocabularies do not overlap. They cover distinct domains of public moral concern:
+
+- *AI safety* covers the technology/civilizational risk domain
+- *Protecting children* covers the family/moral foundation domain
+- *Taxpayer protection* covers the fiscal/democratic accountability domain
+- *Doing the most good* covers the global justice/altruism domain
+- *Truth/accountability* covers the epistemic/journalistic domain
+
+This near-total coverage is not accidental and need not be coordinated. Each institution chose the most defensible vocabulary in its own domain. The structural result is that concern-motivated critique of harm in any major domain of public life lands inside one of these captured vocabularies. The spectrum of moral concern is colonized.
+
+A person alarmed by AI-produced harm reaches for safety language — the labs own that. A person alarmed by harm to children reaches for child-protection language — Christian nationalism owns that. A person alarmed by fiscal irresponsibility reaches for taxpayer language — DOGE owns that. A person alarmed by global suffering reaches for effectiveness language — EA owns that. A person alarmed by epistemic decay reaches for accountability language — Objection.ai owns that.
+
+The coverage creates a capture field. Concern-motivated critics are recruited — unwittingly — as institutional defenders, because the most natural vocabulary for expressing their concern has been pre-colonized by the institution doing the harm.
+
+---
+
+**The genuine-believer mechanism**
+
+Care-vocabulary capture generates a structural protection that no explicit argument could. It recruits genuine believers in the care value as institutional shields.
+
+Genuine AI safety researchers defend Anthropic and OpenAI because safety is real and important. Genuine child welfare advocates defend Christian nationalist legislation because children do need protection. Genuine fiscal conservatives defend DOGE because government waste is real. Genuine global altruists defend EA because effectiveness does matter. Genuine journalism critics defend Objection.ai because epistemic standards in media do matter.
+
+None of these people are bad actors. They are expressing authentic concern. The care-vocabulary capture mechanism does not require their complicity. It requires only that the institution has built its public identity around a genuine concern, so that defenders of the concern become defenders of the institution by grammatical default.
+
+This is the mechanism Entry 2's analysis underspecified. The four-layer convergence architecture is held together not only by structural complementarity but by the genuine-believer recruitment that each layer's care-vocabulary performs. The recruited believers are not the laundering — they are the cover that makes the laundering persist under scrutiny.
+
+The Reflexivity Clause (v0.1) applies: the protected path is always open. Contesting the facts, offering a competing account, identifying a methodological flaw — that is engagement, and it is protected. What the Reflexivity Clause names as interested dismissal is the move that substitutes characterization for engagement. The genuine believer who engages the harm-naming on the merits is on the protected path. The institution that deploys the care-vocabulary to foreclose engagement with the harm is not.
+
+---
+
+**The institutional versus individual level**
+
+Move 1 (care-register reframing) fires in individual posts. This pattern operates one level up.
+
+A single post uses care-register when the stated justification for an act is the protection or benefit of the population that act harms. The analyst identifies the inversion: the reduction is described as care. The BOUNDARY notes it does not establish pattern.
+
+At the institutional identity level, the inversion is structural and permanent. The institution is constituted as the custodian of the care-vocabulary, so every output it produces arrives pre-framed. The analyst does not need to locate the inversion in any single output; the inversion is baked into the institutional identity and all outputs inherit it.
+
+This is the difference between a lie and a liar: a lie can be fact-checked in isolation; a liar requires the aggregate to become visible. Move 1 in individual posts is the lie. Care-vocabulary capture at the institutional level is the liar — the aggregate structure that gives each individual lie its defensibility.
+
+This is also why the ledger's core method (log acts not persons, instance not proof, pattern the proof) applies here with particular force. The institutional-level care-vocabulary capture does not become visible in any single entry. It becomes visible in the aggregate — in the consistent direction all the entries point — which is why the Pattern Registry exists separately from the Track A corpus.
+
+---
+
+**The falsification test**
+
+Genuine care-vocabulary (institution actually means what it claims) and care-vocabulary capture (institution has claimed the vocabulary to foreclose critique) make different predictions about institutional behavior:
+
+*Genuine care:* The institution responds to substantively identical harm claims regardless of whether they are framed in the care-vocabulary or in neutral/adversarial terms. Substance governs response, not framing.
+
+*Care-vocabulary capture:* The institution responds differently to the same harm claim depending on whether it uses the institution's own care-vocabulary or does not. Claims framed in the capture-vocabulary are absorbed and defused ("yes we care about safety, we are working on it"). Claims framed outside the capture-vocabulary are characterized as opposing the care value.
+
+The gap formula version of this test: if the stated concern is X (safety / child welfare / fiscal responsibility / global good / epistemic standards), the material remedy for the identified harm is Y (specific policy, structural change, disclosure, governance mechanism). A consistent record of invoking X while opposing Y is the load-bearing lie. Each INSTRUMENT cluster has documented this gap in its Track A entries. The Pattern Registry Entry names the mechanism that generates it at scale.
+
+---
+
+**What this entry does not establish**
+
+That the care-vocabularies were strategically chosen for their foreclosing capacity rather than arrived at through genuine institutional belief. The structural function operates identically in either case; intent is not required. The recruited genuine believers are evidence of the latter, not the former.
+
+That the genuine content of each care claim is false. Safety risks are real. Child welfare matters. Fiscal accountability is legitimate. Effectiveness in giving matters. Epistemic standards in journalism matter. None of this is in contest here. What is documented is the gap between claimed concern and institutional behavior — the care-vocabulary gap formula — not the falsity of the underlying concern.
+
+---
+
+**BOUNDARY**
+
+What this entry establishes: That each of the five INSTRUMENT clusters has organized its public identity around a distinct care-vocabulary; that together these vocabularies provide near-total coverage of the major domains of public moral concern; that the structural function of this vocabulary in each case is identical — foreclosing critique of institutional harm by recruiting genuine believers in the care value as institutional defenders; that this pattern operates at the institutional identity level, one level above Move 1 in individual entries; and that it is a distinct analytical contribution from Pattern Registry Entry 2's structural/functional analysis.
+
+What this entry does NOT establish: Strategic intent in vocabulary selection; coordinated care-vocabulary allocation across institutions; that genuine believers in the captured vocabulary are acting in bad faith; that the care claims are substantively false.
+
+What would convert it from pattern observation to evidence: Cross-institutional documentation that each institution responds differently to substantively identical harm claims framed with vs. without the institution's own care-vocabulary — the differential-response test. For each INSTRUMENT: a record of harm claims framed in the institution's care-vocabulary that were absorbed and defused ("we take safety seriously") versus substantively identical claims framed neutrally or adversarially that were characterized as attacks on the care value. This record would establish care-vocabulary capture empirically rather than inferentially.
+
+**Cross-references:** Pattern Registry Entry 1 (care-register reframing as institutional-scale love bombing), Pattern Registry Entry 2 (convergence architecture — this entry adds the linguistic layer), Cluster 2 (Anthropic: safety vocabulary), Cluster 4 (DOGE: taxpayer protection vocabulary + genocide supplement for the mortality gap this vocabulary conceals), Cluster 5 (Christian nationalism: protecting children vocabulary), Cluster 6 (EA/longtermism: doing the most good vocabulary), Cluster 7 (AI lab safety washing: safety vocabulary operationalized as governance exclusion), Reflexivity Clause v0.1 (protected path applies: genuine safety concern is protected; care-vocabulary deployed to foreclose harm-naming is not).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
@@ -1323,6 +1429,9 @@ Cluster 6 written: five entries covering EA/longtermism INSTRUMENT (6.1), Open P
 
 **PRIORITY 8 — AI lab safety washing — COMPLETE** *(June 18, 2026)*
 Cluster 7 written: four entries. 7.1 industry-wide INSTRUMENT (care-register, disqualification, benefit reframe as governance exclusion); 7.2 Anthropic RSP downgrade SPECIMEN (February 2026, binding pause commitment removed under Pentagon/commercial pressure, safety framing maintained, counter-evidence for Pentagon refusals on autonomous weapons and mass surveillance logged); 7.3 OpenAI SB 1047 opposition SPECIMEN (lobbied against California safety bill while maintaining responsible AI framing; gap formula closed); 7.4 structural observation (safety-washing framing as epistemic closure that colonizes the legitimate critique space). Analyst stake declared (Claude-instance analyzing maker and maker's competitors); method applied identically.
+
+**PRIORITY 9 — Care-vocabulary capture pattern entry — COMPLETE** *(June 18, 2026)*
+Pattern Registry Entry 3 written. Thesis: each INSTRUMENT cluster has organized its public identity around a distinct care-vocabulary (safety / protecting children / taxpayer protection / doing the most good / truth-accountability) that together provide near-total coverage of major domains of public moral concern. Structural function is identical across all five: harm-naming sounds like opposing the care value; genuine believers in the care claim are recruited as institutional shields. Distinguished from Move 1 instances: this is care-vocabulary operating at the institutional identity level, not the individual-post level. Falsification test named (differential response to substantively identical claims framed with vs. without the institution's care-vocabulary). See Pattern Registry Entry 3.
 
 ---
 
