@@ -1285,6 +1285,51 @@ TRACK B GAP: Authorization and circulation record — how the manifesto moved fr
 
 ---
 
+**ENTRY 8.1a — Supplementary record: "A man of no self-reflection"**
+
+Source: Marc Andreessen, statements to various outlets (documented across multiple interview contexts; exact wording and citations to be verified against primary sources — user-reported; entry logged as analyst-observed)
+Classification: SPECIMEN — Move 3 (disqualification of dissent, preemptive self-directed form) + Move 4 (unfalsifiable overlay, personal-scale application)
+
+**The statement:** Andreessen has described himself publicly, across multiple outlet contexts, as a man of no self-reflection.
+
+**The paradox (user-identified):** The statement is self-refuting at the logical level. To know that one does not engage in self-reflection requires examining one's own cognitive and psychological processes — which is an act of self-reflection. The claim cannot be made without performing the capacity it denies.
+
+The paradox is the tell. "I don't" is doing the work of "I won't." A genuine incapacity cannot be reported on from the inside. The statement is therefore not a factual description of a cognitive limitation but a policy declaration. The distinction is the evidentiary payload.
+
+**Structural function (laundering analysis):**
+
+*Move 3 (disqualification of dissent — preemptive self-directed form):* The public declaration forecloses accountability demands before they arrive. The sequence that cannot now run: harm is identified → accountability demand is made → actor considers it → actor responds or revises. The declaration removes the third step by institutional announcement. Any accountability claim can now be answered: I told you; this is how I operate; I warned you in advance. The foreclosure is preemptive, public, and recorded — which makes it more effective than a structural foreclosure, because the foreclosure itself is now the performance of honesty.
+
+*Move 4 (unfalsifiable overlay — personal scale):* The frame is self-sealing. Evidence of harmful outcomes that should prompt reflection cannot do so, by prior declaration. If challenged on failing to reflect on the harm documented in this ledger, the answer is pre-positioned: I said I don't do that. The declaration functions as personal-scale Move 4: it converts all evidence that should update the position into evidence that the declared position is being maintained consistently. Consistency becomes its own defense.
+
+**The performed-authenticity mechanism:**
+
+The statement deploys apparent vulnerability as the container for foreclosing content. "I'm being honest about my limitations" reads as self-awareness — it signals that the speaker is willing to say unflattering things about himself, which builds trust. The confession of the limitation is the limitation's armor. This is the move's sophistication: the foreclosure sounds like transparency.
+
+**Relationship to "we are specifically not listening":**
+
+The manifesto's terminal-node declaration ("we are specifically not listening") is the collective institutional form of this personal statement. Both are public declarations that the processing mechanism for accountability claims has been decommissioned. The manifesto does it at the level of the institution and ideology; the personal statement does it at the level of the person. The structural function is identical. Together they establish the terminal node at two levels: the institution will not listen, and the person leading it has announced he is constitutionally disinclined to reflect. The redundancy is the point — the closure is reinforced from both directions.
+
+**The reflexivity clause inversion:**
+
+The Reflexivity Clause (Art. IV-bis) holds that interested dismissal directed at the identification of an offense is a further instance of the offense, and that the protected path is honest engagement with the evidence. "I am a man of no self-reflection" is the preemptive version of interested dismissal: it does not wait for the accountability claim to arrive and dismiss it — it declares in advance that the mechanism by which accountability claims are processed has been decommissioned. The clause cannot trigger retroactively because the clause's precondition (the claim being received and dismissed) has been foreclosed before it occurs. This is the terminal-node condition at its most complete.
+
+**What the paradox establishes (for the record):**
+
+The self-reflection capacity exists — the statement requires it. The declaration is not a report on an incapacity but a statement of policy. Policy can be changed. The policy serves the material and institutional position documented in Entry 8.1. The declaration's public, repeated deployment across multiple outlets converts a private psychological stance into an institutional communication with the structural functions documented above.
+
+**BOUNDARY**
+
+What this record establishes: That the statement "I am a man of no self-reflection," deployed publicly across multiple outlet contexts, functions as a preemptive personal-scale terminal-node declaration; that it forecloses the accountability sequence before accountability claims arrive; that the performed-authenticity mechanism deploys apparent vulnerability as the container for the foreclosure; that the statement is self-refuting (the declaration requires the capacity it denies), establishing that the incapacity is a policy rather than a fact; that the personal statement and the manifesto's institutional declaration are the same structural move at different scales.
+
+What this record does NOT establish: That Andreessen is psychologically incapable of reflection (the paradox forecloses this reading). That the statement was deployed with strategic intent to foreclose accountability (the structural function operates regardless). That all of Andreessen's public statements are made in bad faith.
+
+Sourcing note: The exact wording, outlet contexts, and dates of the "man of no self-reflection" statement(s) are user-reported and should be verified against primary sources before the quote is carried as exact. The structural analysis in this record is independent of the exact wording — it applies to any public, repeated declaration that self-reflection is not part of the speaker's operating method.
+
+**Cross-references:** Entry 8.1 (manifesto's "we are specifically not listening" — the institutional form of this personal declaration), Convention Art. II(2)(d) terminal-node element, Reflexivity Clause v0.1 Art. IV-bis (preemptive inversion of the protected path), Pattern Registry Entry 1 (performed authenticity as a laundering mechanism — the confession-as-armor move appears there in interpersonal context).
+
+---
+
 ===
 
 ---
