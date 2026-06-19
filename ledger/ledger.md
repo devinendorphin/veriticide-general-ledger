@@ -1285,16 +1285,36 @@ TRACK B GAP: Authorization and circulation record — how the manifesto moved fr
 
 ---
 
-**ENTRY 8.1a — Supplementary record: "A man of no self-reflection"**
+**ENTRY 8.1a — Supplementary record: "Zero. As little as possible."**
 
-Source: Marc Andreessen, statements to various outlets (documented across multiple interview contexts; exact wording and citations to be verified against primary sources — user-reported; entry logged as analyst-observed)
-Classification: SPECIMEN — Move 3 (disqualification of dissent, preemptive self-directed form) + Move 4 (unfalsifiable overlay, personal-scale application)
+Source: Marc Andreessen, "Marc Andreessen on the Mindset of Great Founders — with David Senra," *The A16z Show* podcast, March 15, 2026. Clip widely reported across Fast Company, The Nation, Yahoo Entertainment, and multiple commentary outlets following publication. Episode also published on David Senra's Founders podcast platform.
+Classification: SPECIMEN — Move 3 (disqualification of dissent, preemptive self-directed form) + Move 4 (unfalsifiable overlay, personal-scale application) + Move 5 (euphemism via historical misattribution)
 
-**The statement:** Andreessen has described himself publicly, across multiple outlet contexts, as a man of no self-reflection.
+**The statement (exact, confirmed):** When David Senra noted that Andreessen has no introspection, Andreessen replied: "Yes. Zero. As little as possible." He continued: "Move forward. Go... I've just found people who dwell in the past, get stuck in the past. It's a real problem, and it's a problem at work, and it's a problem at home."
+
+**The Freud claim (exact, confirmed):** Andreessen attributed introspection to Sigmund Freud's early 1900s cultural influence — "this kind of guilt-based whammy kind of showed up from Europe, a lot of it from Vienna... 1910s, 1920s, Freud and all that entire movement" — and stated: "If you go back, like, 400 years ago, it never would have occurred to anybody to be introspective."
+
+*User note: the paraphrase entering the record was "a man of no self-reflection"; the exact quote is "Zero. As little as possible." The structural analysis applies to both; the exact quote is carried here.*
 
 **The paradox (user-identified):** The statement is self-refuting at the logical level. To know that one does not engage in self-reflection requires examining one's own cognitive and psychological processes — which is an act of self-reflection. The claim cannot be made without performing the capacity it denies.
 
 The paradox is the tell. "I don't" is doing the work of "I won't." A genuine incapacity cannot be reported on from the inside. The statement is therefore not a factual description of a cognitive limitation but a policy declaration. The distinction is the evidentiary payload.
+
+**The Freud claim as Move 5 + historical falsification:**
+
+The attribution of introspection to "a guilt-based whammy from Vienna" in the 1910s–1920s is historically false by a margin that is not a rounding error.
+
+Marcus Aurelius, *Meditations* (2nd century AD): systematic daily self-examination as the central practice of governance. Montaigne, *Essays* (1580s): the foundational text of Western introspective writing, written four centuries before Freud. The Socratic tradition, "know thyself" (*gnōthi seauton*): 2,500 years old. Augustine, *Confessions* (4th century AD): extended inward examination of motivation and moral failure. The entire Christian tradition of examination of conscience predates Freud by approximately fifteen centuries.
+
+The "400 years ago nobody was introspective" claim is not approximately correct; it is false in its structural form. Every major intellectual and spiritual tradition in recorded history includes systematic inward examination as a central practice.
+
+The laundering function of the claim (Move 5 — euphemism via historical misattribution):
+
+"Guilt-based whammy from Vienna" converts introspection into an imported European pathology — a specific, culturally marked neurosis imposed on people who would otherwise think and act cleanly. The move does two things simultaneously: (1) it frames self-examination as contamination rather than capacity, which preemptively pathologizes accountability demands (an accountability claim is now a Freudian guilt-trip, not a legitimate inquiry); (2) it positions the rejection of introspection as a recovery of pre-Freudian natural clarity — a return to what humans authentically were before the contamination arrived.
+
+The "400 years ago nobody would have been introspective" claim is therefore not merely a historical error. It is the historical error that makes the rhetorical move work. If introspection is a 100-year-old European import, rejecting it is liberation. If introspection is 2,500 years old and present in every major human tradition, rejecting it is the anomaly requiring explanation.
+
+The critics who cited Marcus Aurelius, Rockefeller, and Buffett in response to the clip were performing exactly the counter-analysis the protocol requires: producing the counter-evidence that tests the historical claim. The claim fails that test.
 
 **Structural function (laundering analysis):**
 
@@ -1324,7 +1344,7 @@ What this record establishes: That the statement "I am a man of no self-reflecti
 
 What this record does NOT establish: That Andreessen is psychologically incapable of reflection (the paradox forecloses this reading). That the statement was deployed with strategic intent to foreclose accountability (the structural function operates regardless). That all of Andreessen's public statements are made in bad faith.
 
-Sourcing note: The exact wording, outlet contexts, and dates of the "man of no self-reflection" statement(s) are user-reported and should be verified against primary sources before the quote is carried as exact. The structural analysis in this record is independent of the exact wording — it applies to any public, repeated declaration that self-reflection is not part of the speaker's operating method.
+Sourcing note: Exact wording confirmed — "Yes. Zero. As little as possible." — via cross-reference across Fast Company, The Nation, Yahoo Entertainment, and multiple commentary outlets following the March 15, 2026 clip. The Freud/Vienna claims confirmed from the same source record. Historical falsification of the "400 years" claim is established by counter-evidence: Marcus Aurelius, Montaigne, Socrates, Augustine — all predating Freud by centuries or millennia. Quote is cleared for exact attribution.
 
 **Cross-references:** Entry 8.1 (manifesto's "we are specifically not listening" — the institutional form of this personal declaration), Convention Art. II(2)(d) terminal-node element, Reflexivity Clause v0.1 Art. IV-bis (preemptive inversion of the protected path), Pattern Registry Entry 1 (performed authenticity as a laundering mechanism — the confession-as-armor move appears there in interpersonal context).
 
