@@ -4,3 +4,4 @@ __pycache__/
 .seen_hashes.txt
 ledger/.seen_hashes.txt
 .env
+.claude/
