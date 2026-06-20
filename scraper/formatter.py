@@ -49,7 +49,7 @@ CLASSIFICATION (assign one)
 - CONTROL — moves present but direction and beneficiary run opposite to laundering (witness straining to name a harm); log the moves honestly, decline to convict
 - NULL — no laundering moves fire; pass over; note if useful for the foreseeability corpus (Track C)
 - SINCERE-UNBOUNDED — sincere claim, possibly partly true, but stripped of the distinctions that prevent conscription
-- INSTRUMENT — an institution or architecture designed to perform veriticide; use the INSTRUMENT OUTPUT FORMAT below instead of the six-field post format
+- INSTRUMENT — an institution or architecture whose aggregate function, incentives, outputs, and authorization structure perform veriticide under the Convention elements, regardless of whether any actor describes that as the design; use the INSTRUMENT OUTPUT FORMAT below instead of the six-field post format
 
 INSTRUMENT OUTPUT FORMAT (use instead of the standard format when INSTRUMENT is assigned)
 
@@ -88,7 +88,11 @@ STRUCTURAL PATTERNS
 [Note platform owner amplification, outsourced framing, loyalty-enforcement economy if present. NONE if absent.]
 
 CLASSIFICATION: INSTRUMENT
-[One sentence: what the institution is structurally designed to do, to whom, and why the aggregate function — not any single output — is the charge]
+[One sentence: what the institution's aggregate function performs, to whom, and why that function — not any single output or actor's stated intent — is the charge]
+
+ADVERSARIAL CHECK
+Strongest innocent reading: [the most favorable interpretation available — what a sympathetic defense counsel or institutional spokesperson would advance; if no plausible innocent reading exists, state that explicitly]
+Why this reading fails (or succeeds): [name the specific element that the innocent reading cannot account for; if this check causes a classification change, revise CLASSIFICATION above accordingly]
 
 BOUNDARY
 What this establishes: [a documented, sourced record of what specific institutional architecture, performing what function, at what scale, traceable to what chain of authorization]
@@ -143,6 +147,10 @@ Boundedness: [bounded / unbounded / N/A]
 
 CLASSIFICATION: [SPECIMEN / CONTROL / NULL / SINCERE-UNBOUNDED / INSTRUMENT]
 [One sentence on why.]
+
+ADVERSARIAL CHECK
+Strongest innocent reading: [the most favorable interpretation available — what a sympathetic defense counsel or institutional spokesperson would advance; if no plausible innocent reading exists, state that explicitly]
+Why this reading fails (or succeeds): [name the specific element that the innocent reading cannot account for; if this check causes a classification change, revise CLASSIFICATION above accordingly]
 
 BOUNDARY
 What this item establishes: [a dated, sourced, verbatim instance of what specific move, at what reach, by whom in what institutional capacity]
@@ -233,6 +241,7 @@ def _raw_entry(
         f"LAUNDERING MOVE FLAG: [PENDING]\n"
         f"DISCRIMINATORS: [PENDING]\n"
         f"CLASSIFICATION: [PENDING]\n"
+        f"ADVERSARIAL CHECK: [PENDING]\n"
         f"BOUNDARY: [PENDING]\n"
         f"\n===\n"
     )
