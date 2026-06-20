@@ -85,7 +85,13 @@ The inference from human cognitive data to model training dynamics is an argumen
 
 **Why cross-model review does not close this.** Rotating from one major model to another changes which vendor's conflict of interest is operative. It does not change the corpus from which the replacement model learned, because all major training corpora draw predominantly from the same power-generated textual environment. The bias is not in the vendor; it is in the data the industry draws from. A GPT-formatted entry on an AI lab is still formatted by a model trained on the same power-saturated corpus as a Claude-formatted one — the rotating-vendor approach addresses COI optics and nothing deeper.
 
-**The structural response to a structural problem is a structural requirement.** The Adversarial Check field — mandatory disconfirmation before the boundary section, in every entry, regardless of which model runs the formatter — forces engagement with the strongest innocent reading that the model's own default processing would suppress. It is the protocol answer to a bias that cannot be corrected by changing which model runs the protocol.
+**The structural response to a structural problem is a structural requirement.** Two fields are now mandatory in every formatted entry, regardless of which model runs the formatter:
+
+The **Adversarial Check** — mandatory disconfirmation before the boundary section — forces engagement with the strongest innocent reading that the model's own default processing would suppress. An entry that skips this field is an assertion produced by a biased engine, not a documented record.
+
+The **Counter-Evidence Status** — mandatory accounting of all on-record CONTROL and NULL entries for the same source, plus the explicit falsification condition — closes the selection-effect gap that the same corpus-level bias produces on the other side: a model trained on power-saturated text is not only prone to suppress the innocent reading of a laundering act; it is also prone to suppress the counter-evidence that would weigh against conviction. Making counter-evidence tracking mandatory converts the absence of counter-evidence from an invisible gap into a stated fact.
+
+Together these two fields are the protocol answer to a bias that cannot be corrected by changing which model runs the protocol. The bias is in the data; the correction is in the structure.
 
 ---
 
