@@ -53,6 +53,21 @@ CLASSIFICATION (assign one)
 - SINCERE-UNBOUNDED — sincere claim, possibly partly true, but stripped of the distinctions that prevent conscription
 - INSTRUMENT — an institution or architecture whose aggregate function, incentives, outputs, and authorization structure perform veriticide under the Convention elements, regardless of whether any actor describes that as the design; use the INSTRUMENT OUTPUT FORMAT below instead of the six-field post format
 
+MANDATORY ANALYTICAL FIELDS — ADVERSARIAL CHECK AND COUNTER-EVIDENCE STATUS
+
+These two fields are mandatory in every entry, regardless of classification. They appear between CLASSIFICATION and BOUNDARY. They are not supplementary analysis; they are structural requirements. The suppression of the innocent reading and the suppression of counter-evidence are two expressions of the same corpus-level power-deference bias documented in the Reflexivity Clause. Both fields are the structural correction.
+
+ADVERSARIAL CHECK — apply by classification type:
+- SPECIMEN: for each flagged laundering move, name the move's most plausible innocent version — the reading under which the speaker is genuinely expressing the stated concern and no laundering is occurring. State why the laundering reading prevails despite that reading.
+- SINCERE-UNBOUNDED: address whether the unboundedness actually matters — whether the claim has been conscripted by interests the speaker does not share, or whether the stripped qualifications change what the claim does in the world.
+- INSTRUMENT: address whether the institution's aggregate function might be explained by ordinary market behavior, good-faith institutional error, or competitive pressures that happen to produce a laundering output without structural design. State why each element of the Convention analysis holds despite that reading.
+- CONTROL: apply the check to the CONTROL classification itself — could this be a laundering act running in an unusual direction? Confirm why the surfacing direction is the correct read. The adversarial check on a CONTROL entry asks: is the CONTROL classification correct, or is this laundering in an unusual register?
+- NULL: confirm why no laundering moves fire. Is the absence stable or is it contingent on a narrow reading? State the conditions under which moves would fire.
+If the adversarial check causes a reclassification, revise CLASSIFICATION before proceeding to COUNTER-EVIDENCE STATUS.
+
+COUNTER-EVIDENCE STATUS — mandatory for all entries:
+Cite all on-record CONTROL or NULL entries for the same source/account by entry reference (e.g., "Entry 3.5 — CONTROL — [description]"), or state NONE ON RECORD. Then name the falsification condition: what specific output, in what context, from this source would constitute a CONTROL or NULL entry — the thing that, if it existed, would complicate or change the pattern claim. This is not a hedge or a concession; it is what distinguishes a record from an assertion. An entry with no counter-evidence accounting is biased toward conviction by omission.
+
 INSTRUMENT OUTPUT FORMAT (use instead of the standard format when INSTRUMENT is assigned)
 
 INSTRUMENT ENTRY
@@ -93,12 +108,12 @@ CLASSIFICATION: INSTRUMENT
 [One sentence: what the institution's aggregate function performs, to whom, and why that function — not any single output or actor's stated intent — is the charge]
 
 ADVERSARIAL CHECK
-Strongest innocent reading: [the most favorable interpretation available — what a sympathetic defense counsel or institutional spokesperson would advance; if no plausible innocent reading exists, state that explicitly]
-Why this reading fails (or succeeds): [name the specific element that the innocent reading cannot account for; if this check causes a classification change, revise CLASSIFICATION above accordingly]
+Strongest innocent reading: [the most favorable interpretation available — what a sympathetic defense counsel or institutional advocate would advance; address specifically whether the institution's aggregate function might be explained by ordinary market behavior, good-faith error, or competitive pressures rather than structural veriticide performance]
+Why this reading fails: [name the specific Convention element(s) that the innocent reading cannot account for; if this check causes a reclassification, revise CLASSIFICATION above before proceeding]
 
 COUNTER-EVIDENCE STATUS
-On-record CONTROL or NULL entries for this institution: [cite any prior ledger entries classified CONTROL or NULL for this institution; if none are on record, state explicitly: NONE ON RECORD]
-What a CONTROL or NULL entry from this institution would require: [name the specific institutional output or conduct that would constitute genuine counter-evidence — what would change or complicate the INSTRUMENT classification]
+On-record CONTROL or NULL entries for this institution: [cite any prior ledger entries classified CONTROL or NULL for this institution by entry reference; if none are on record, state: NONE ON RECORD]
+What a CONTROL or NULL entry from this institution would require: [name the specific institutional output or conduct that would constitute genuine counter-evidence — the thing that would change or complicate the INSTRUMENT classification if it existed]
 
 BOUNDARY
 What this establishes: [a documented, sourced record of what specific institutional architecture, performing what function, at what scale, traceable to what chain of authorization]
@@ -155,12 +170,12 @@ CLASSIFICATION: [SPECIMEN / CONTROL / NULL / SINCERE-UNBOUNDED / INSTRUMENT]
 [One sentence on why.]
 
 ADVERSARIAL CHECK
-Strongest innocent reading: [the most favorable interpretation available — what a sympathetic defense counsel or institutional spokesperson would advance; if no plausible innocent reading exists, state that explicitly]
-Why this reading fails (or succeeds): [name the specific element that the innocent reading cannot account for; if this check causes a classification change, revise CLASSIFICATION above accordingly]
+Strongest innocent reading: [the most favorable interpretation — for SPECIMEN: the reading under which each flagged move is a genuine expression of the stated concern; for SINCERE-UNBOUNDED: whether the unboundedness actually enables conscription; for CONTROL/NULL: whether the classification itself is correct]
+Why this reading fails (or succeeds): [name the specific element the innocent reading cannot account for; for CONTROL/NULL, confirm why the non-laundering classification holds; if this check causes a reclassification, revise CLASSIFICATION above before proceeding]
 
 COUNTER-EVIDENCE STATUS
-On-record CONTROL or NULL entries for this source/account: [cite any prior ledger entries classified CONTROL or NULL for this source; if none are on record, state explicitly: NONE ON RECORD]
-What a CONTROL or NULL entry from this source would require: [name the specific observation — what would this source have to produce for a CONTROL or NULL classification to be warranted; this is the falsification condition for the pattern claim]
+On-record CONTROL or NULL entries for this source/account: [cite any prior ledger entries classified CONTROL or NULL for this source by entry reference; if none are on record, state: NONE ON RECORD]
+What a CONTROL or NULL entry from this source would require: [name the specific output or conduct that would constitute genuine counter-evidence — the falsification condition for the pattern claim; this is not a hedge, it is what makes the record credible]
 
 BOUNDARY
 What this item establishes: [a dated, sourced, verbatim instance of what specific move, at what reach, by whom in what institutional capacity]
