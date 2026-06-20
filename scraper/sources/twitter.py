@@ -143,13 +143,14 @@ def _parse_timeline(data: dict, handle: str) -> list[dict]:
     return results
 
 
-def scrape_twitter(cfg: dict) -> list[dict]:
+def scrape_twitter(cfg: dict) -> tuple[list[dict], list[dict]]:
+    """Returns (items, account_stats). account_stats is a list of per-account dicts."""
     accounts = cfg.get("accounts", [])
     keywords = [k.lower() for k in cfg.get("keywords", [])]
     max_tweets = cfg.get("max_tweets_per_account", 10)
 
     if not accounts:
-        return []
+        return [], []
 
     session = requests.Session()
     session.headers.update({
@@ -163,7 +164,7 @@ def scrape_twitter(cfg: dict) -> list[dict]:
     guest_token = _get_guest_token(session)
     if not guest_token:
         print("  [twitter] skipping — no guest token")
-        return []
+        return [], [{"handle": a, "fetched": 0, "matched": 0, "status": "skipped: no guest token"} for a in accounts]
 
     session.headers.update({
         "x-guest-token": guest_token,
@@ -171,29 +172,43 @@ def scrape_twitter(cfg: dict) -> list[dict]:
     })
 
     captured = []
+    account_stats = []
     for handle in accounts:
         print(f"  [twitter] fetching @{handle} ...")
-        tweets = _user_tweets(session, handle, max_tweets)
-        for tweet in tweets:
-            text_lower = tweet["text"].lower()
-            if keywords and not any(kw in text_lower for kw in keywords):
-                continue
-            # Strip retweets if you only want original content:
-            # if tweet["text"].startswith("RT @"):
-            #     continue
-            captured.append({
-                "source_name": f"Twitter/@{handle}",
-                "url": tweet["url"],
-                "title": f"Tweet by @{handle}",
-                "text": tweet["text"],
-                "captured_at": datetime.now(timezone.utc).isoformat(),
-                "capture_method": "Twitter public scrape",
-                "tweet_meta": {
-                    "handle": handle,
-                    "tweet_id": tweet["tweet_id"],
-                    "posted_at": tweet["created_at"],
-                },
+        try:
+            tweets = _user_tweets(session, handle, max_tweets)
+            matched = []
+            for tweet in tweets:
+                text_lower = tweet["text"].lower()
+                if keywords and not any(kw in text_lower for kw in keywords):
+                    continue
+                matched.append(tweet)
+                captured.append({
+                    "source_name": f"Twitter/@{handle}",
+                    "url": tweet["url"],
+                    "title": f"Tweet by @{handle}",
+                    "text": tweet["text"],
+                    "captured_at": datetime.now(timezone.utc).isoformat(),
+                    "capture_method": "Twitter public scrape",
+                    "tweet_meta": {
+                        "handle": handle,
+                        "tweet_id": tweet["tweet_id"],
+                        "posted_at": tweet["created_at"],
+                    },
+                })
+            account_stats.append({
+                "handle": handle,
+                "fetched": len(tweets),
+                "matched": len(matched),
+                "status": "ok",
+            })
+        except Exception as e:
+            account_stats.append({
+                "handle": handle,
+                "fetched": 0,
+                "matched": 0,
+                "status": f"ERROR: {e}",
             })
         time.sleep(1.5)
 
-    return captured
+    return captured, account_stats
