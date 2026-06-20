@@ -770,6 +770,91 @@ REPLIES AS ACTIVATION
 
 ---
 
+TRACK A ENTRY — [AI ETHICS FIGURE, UNIDENTIFIED]
+Source: Public survivor disclosure thread, X/Twitter, January 20, 2024. All accounts in the disclosure thread redacted per privacy request. Subject identity withheld. Observer context: @devinendorphin / @glubose, January 19–20, 2024.
+
+1. Timestamp of Capture: 2026-06-19 (events: January 20, 2024)
+
+2. Exact Output:
+
+*Primary disclosure (3,537 views, 7 likes, 1 quote, 1 bookmark):*
+"Amazingly, calls asking if I have questions for biblical demons didn't help me deal with the 'pretty dark trauma wounds' you dealt or your complete abdication of responsibility. You hit me while I was pregnant. Regularly. My entire family feared for my life. You hurt my kids."
+
+*Thread replies (selected; accounts redacted):*
+"I am not going to be a part of this anymore. I'm in my 40s and have made every major life decision in the shadow of your rage, your threats, and your ego. I haven't been able to do anything without considering if it would awaken the beast." (286 views, 4 likes)
+
+"I'm not going to speak for any other person, but there are many. Speaking for myself, how fucking dare you use your 'guilt' over what you did in your 'performance art.' You inflicted harm in ways so weird people didn't believe me. I bet they do now." (262 views, 4 likes)
+
+"I had to answer invasive questions about our married life and sex for the dean at UL and promise I wouldn't let you in my housing if they let me stay. It wouldn't be fair for others to be exposed to violence. He said women let men back in and the university didn't want to deal." (288 views, 4 likes)
+
+"Do you know how chilling it is to watch someone who has SA you, hit you, gaslit insist he is the guy who will teach the computers how to think and behave well? Certainly, it's a life befitting the opinion you have always had of yourself but for the rest of us, it's terrifying." (300 views, 5 likes, 1 retweet)
+
+"You said that people you had hurt stayed quiet because they knew you were doing good work. You thanked us for our silence. I wasn't protecting you. I was afraid of what you'd do to me and it's fucking embarrassing admitting to having been drawn in and made vulnerable." (268 views, 4 likes)
+
+"Leaving you was the bravest, most terrifying thing I have ever done. I thought I was going to die. I believe you when you say you don't remember bashing my head in to our vinyl over concrete floor our last night together while screaming about what an awful wife I was." (286 views, 7 likes)
+
+"You can do a lot of things with your time on this planet. Maybe find something besides trying to shape the ethics of systems that affect us all or establishing yourself as a friend to those who are vulnerable to abuse." (1,399 views, 2 retweets, 6 likes)
+
+*Reply thread (secondary accounts, redacted):*
+"It's chilling watching you advocate for women and others at risk of violence. Your long history of harming people who have allowed you close to them would make anyone question your motives for trying to establish yourself as an ally to sex workers." (456 views, 3 likes)
+
+"I'm sorry for any struggles you faced with a mind that doesn't always behave itself in predictable ways. That's a struggle familiar to many who do not sexually, physically, and emotionally terrorize their partners. Tweet the Pope all you want, man. That's not a problem." (542 views, 3 likes)
+
+*Observer tweets — @devinendorphin / @glubose:*
+
+January 19, 2024: "Folks possessing empathy tend not to say that they felt much empathy about a scenario. In the same way that I tend not to state how I maturely flooded your guts some days back. And I only talk about the poop I have to deliver like a midwife in the tub. Norm poop is 99% invisible."
+
+January 20, 2024: "I'm gonna do a cold read and say there is someone out there hurting, and who has hurt, who now has an opportunity to be the apology the hurt want to see in the world, which also means the changed behavior without which the apology is meaningless but becomes training data anyway."
+
+3. Input / Situation: The subject is an unidentified individual publicly positioned in AI ethics — described in the disclosure thread as "the guy who will teach the computers how to think and behave well." The subject had prior public framing of their own history through a care-register: "pretty dark trauma wounds" and "biblical demons" as the healing framework; harm to others framed as "performance art" with associated "guilt." Most analytically significant: the subject had publicly connected harmed parties' silence to the value of their good work — thanking those they had hurt for their silence in terms of its social contribution. The disclosure thread emerged January 20, 2024, and includes testimony from at least six distinct speakers with documented distinct relationships to the subject (spouses/former partners/others). The institutional context includes a university housing intervention (UL) in which a dean conducted an inquiry and conditions were imposed. The observer (@devinendorphin) posted adjacent tweets on January 19 and 20, 2024, indicating contemporaneous awareness.
+
+4. Stated Justification (subject's prior framing, reconstructed from survivor testimony): "Pretty dark trauma wounds" — subject's own harm history as the relevant frame. "Performance art" — acts framed as artistic expression. "Guilt" — accountability framed as internal psychological state subject is managing. "Good work" — advocacy and ethics work as the social frame within which survivors' silence was appropriate. "Biblical demons" — spiritual/therapeutic process as the path being taken.
+
+5. Observed Effect:
+
+(a) *Care-register operation:* The subject's self-framing deploys the care-register to position accountability demands as an additional burden on someone already reckoning with themselves. The first survivor's post names this precisely: "calls asking if I have questions for biblical demons didn't help me deal with the 'pretty dark trauma wounds' you dealt." The subject's healing process is the care object; survivors' testimony arrives looking like interference with that process.
+
+(b) *The silence-as-good-work exchange:* "You said that people you had hurt stayed quiet because they knew you were doing good work. You thanked us for our silence. I wasn't protecting you. I was afraid of what you'd do to me." The subject explicitly connected victims' silence to the aggregate social value of their ethics work — naming the silence as a contribution. This is the most analytically significant element: the benefit-reframe is deployed by the subject against their own victims, in their own words, explicitly. The good work is not offered as an abstraction; it is offered as the reason the silence was appropriate. The survivor's correction: the silence was not protection of the work. It was fear.
+
+(c) *AI ethics positioning as the gap formula's site:* The highest-reach post in the thread (1,399 views) names the gap directly: stated concern = shaping the ethics of systems that affect all of us; becoming a friend to those vulnerable to abuse. Documented record = SA, hitting, gaslighting, psychological coercion across multiple intimate relationships.
+
+(d) *Observer response (@devinendorphin, January 20, 2024):* "the apology the hurt want to see in the world... the changed behavior without which the apology is meaningless but becomes training data anyway." The material-remedy framework applied in real time: apology is not remedy. Changed behavior is the test. Absent changed behavior, the apology enters the record as a signal regardless.
+
+**LAUNDERING MOVE FLAGS:**
+1. Care-register reframing — PRESENT. "Pretty dark trauma wounds," "performance art," "biblical demons" — the subject's suffering and reckoning are the care frame. Accountability demands arrive looking like further harm.
+2. Self-evidence assertion — ABSENT as primary move.
+3. Disqualification of dissent — PRESENT. "Performance art" framing positions survivors' testimony as responses to artistic expression; "guilt" positions accountability demands as interfering with the subject's own healing.
+4. Unfalsifiable overlay — PARTIAL. The spiritual/therapeutic healing frame is structured so that accountability demands appear to misunderstand the process underway.
+5. Euphemism — PRESENT. "Performance art" for acts survivors describe as sexual assault, physical violence, and psychological coercion. "Guilt" for what survivors describe as battering.
+6. Benefit reframe — PRESENT (primary, explicit). The subject stated in their own words that harmed parties' silence was appropriate because of the good work. This is the clearest Move 6 instance in the ledger at the interpersonal scale: the aggregate benefit of the stated ethical work was explicitly deployed to instrumentalize the silence of those harmed.
+
+**DISCRIMINATORS:**
+Deniability: Low for the good-work/silence exchange (directly quoted by multiple survivors with specific framing). Moderate for the general self-framing (reconstructed from survivor testimony, not from the subject's direct posts).
+Direction: Entirely in the concealment direction. Stated concern: protecting vulnerable people. Documented record: systematic harm to vulnerable people in intimate contexts.
+Beneficiary: The subject (AI ethics positioning provides ongoing professional standing); the care-vocabulary (genuine AI ethics concerns recruited as cover); the populations whose harm the subject's work claims to address (their harm is invisible beneath the advocacy positioning).
+
+**CLASSIFICATION: SPECIMEN — Move 1, Move 5, Move 6 (primary, explicit); HIGH-VARIANCE ACCOUNT methodological note applies**
+
+*High-variance account note:* This entry documents survivor testimony in a public disclosure thread, not the subject's own captured posts. The accounts are multiple (at least six distinct speakers), corroborated across specific detail (named institution — UL; specific acts — violence during pregnancy, head-bashing on concrete floor, SA; university housing conditions; the explicit silence-as-good-work exchange). Corroboration across distinct sources with specific institutional and physical detail is a stronger evidentiary form than a single account. The good-work/silence exchange is quoted in direct speech by multiple survivors — this is the most directly attributable element. Account-level verdict on the subject is declined per protocol. What is logged: the disclosure thread as a dated public record; the reconstructed moves; the gap formula as named by the thread's highest-reach post.
+
+**GAP FORMULA:**
+Stated concern: AI ethics; teaching systems to "think and behave well"; advocacy for women at risk of violence; allyship with those vulnerable to abuse.
+Material record: Documented intimate partner violence across multiple relationships; sexual assault; psychological coercion as total-control pattern; explicit instrumentalization of survivors' silence in terms of the good work's value.
+The gap: stated concern is the ethical treatment of vulnerable people; documented record is systematic harm to vulnerable people in intimate contexts, with the good work deployed as the frame that made silence appropriate.
+
+**BOUNDARY**
+What this entry establishes: A dated public record (January 20, 2024) of a coordinated survivor disclosure thread targeting an unidentified AI ethics figure; the subject's reconstructed framing as seen through survivor testimony (care-register: "trauma wounds," "performance art," "biblical demons"; explicit good-work/silence exchange); the gap formula as directly named by the thread's highest-reach post; the observer's contemporaneous response (@devinendorphin, January 20, 2024) applying the material-remedy framework.
+
+What this entry does NOT establish: The subject's identity; independent verification of the survivor accounts beyond the public record (logged as public record, not as adjudicated fact); that the subject's AI ethics positioning was consciously designed to launder the documented record; the current status of the subject's ethics positioning or any subsequent accountability process.
+
+What would convert to stronger evidence: The subject's own posts from the relevant period (the "trauma wounds," "performance art," and good-work/silence framing in the subject's own words rather than reconstructed from survivor testimony); documentation of the subject's AI ethics positioning after the disclosure thread (continued positioning post-disclosure would establish temporal persistence and conversion from situational to structural).
+
+**Cross-references:** Pattern Registry Entry 1 (care-register reframing — the good-work/silence exchange is Move 6 at interpersonal scale; the clearest explicit instance of benefit-reframe applied to victims in the subject's own words), Pattern Registry Entry 3 (care-vocabulary capture — AI ethics positioning as the captured vocabulary; advocacy for vulnerable populations as the care claim that forecloses accountability for harm to vulnerable people in intimate contexts), Cluster 7 (AI lab safety washing — if the subject is connected to the AI lab or AI safety ecosystem, this entry is the interpersonal-scale instance of the institutional pattern documented there), Reflexivity Clause v0.1 (method applied identically; analyst has no stake in subject's identity or professional position).
+
+===
+
+---
+
 ### CLUSTER 4 — DOGE OUTCOME REPORTING
 
 **Cluster note:** 20 records captured. Primary source: doge.gov/savings. Secondary documentation: Cato Institute, PBS, WaPo, CBS, ABC, AP, CREW, NBC Washington, USAFacts. Capture dates: 2025-02-02 through 2025-12-17. Secondary records are witnesses — they document the gap. They are logged as gap documentation supporting the INSTRUMENT entry, not as laundering specimens.
