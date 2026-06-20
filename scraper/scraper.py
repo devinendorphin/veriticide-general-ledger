@@ -11,8 +11,7 @@ Usage:
 
 import argparse
 import hashlib
-import os
-import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 import yaml
@@ -70,9 +69,68 @@ def append_to_ledger(ledger_path: Path, entry: str) -> None:
         f.write(entry + "\n")
 
 
+def _build_manifest(stats: dict) -> str:
+    ts = stats["run_ts"]
+    mode = stats["mode"]
+
+    lines = [
+        "SCRAPER RUN MANIFEST",
+        f"Run timestamp: {ts}",
+        f"Mode: {mode}",
+        "",
+    ]
+
+    web = stats.get("web")
+    if web is not None:
+        sources = web["sources"]
+        ok = [s for s in sources if s["status"] == "ok"]
+        failed = [s for s in sources if s["status"] != "ok"]
+        lines.append(f"WEB SOURCES ({len(sources)} configured, {len(ok)} succeeded, {len(failed)} failed)")
+        for s in ok:
+            lines.append(f"  {s['name']}: {s['fetched']} item(s) fetched")
+        for s in failed:
+            lines.append(f"  FAILED — {s['name']}: {s['status']}")
+        lines.append("")
+
+    tw = stats.get("twitter")
+    if tw is not None:
+        accounts = tw["account_stats"]
+        keywords = tw["keywords"]
+        ok_accts = [a for a in accounts if a["status"] == "ok"]
+        failed_accts = [a for a in accounts if a["status"] != "ok"]
+        lines.append(
+            f"TWITTER ({len(accounts)} accounts configured, "
+            f"{len(keywords)} keywords, "
+            f"max {tw['max_tweets_per_account']} tweets/account)"
+        )
+        for a in ok_accts:
+            lines.append(f"  @{a['handle']}: {a['fetched']} fetched, {a['matched']} matched keywords")
+        for a in failed_accts:
+            lines.append(f"  FAILED — @{a['handle']}: {a['status']}")
+        lines.append("")
+
+    dedup = stats["dedup"]
+    lines += [
+        "DEDUPLICATION",
+        f"  Total items fetched this run: {dedup['fetched']}",
+        f"  Already in record (deduplicated): {dedup['deduped']}",
+        f"  New items added: {dedup['added']}",
+        "",
+        "SELECTION DISCIPLINE NOTE",
+        "  This record captures configured sources only (non-random selection).",
+        "  Counter-evidence and NULL/CONTROL logs are not a byproduct of this",
+        "  capture method — they require deliberate entry. See High-Variance",
+        "  Account Method and the Reflexivity Clause for the required practice.",
+    ]
+
+    body = "\n".join(lines)
+    return f"\n---\n\n{body}\n\n---\n"
+
+
 def run(web: bool = True, twitter: bool = True, dry_run: bool = False) -> None:
     cfg = load_config()
     settings = cfg.get("settings", {})
+    run_ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     ledger_path = (Path(__file__).parent / settings["ledger_file"]).resolve()
     seen_path = (Path(__file__).parent / settings["seen_file"]).resolve()
@@ -80,33 +138,53 @@ def run(web: bool = True, twitter: bool = True, dry_run: bool = False) -> None:
     seen = load_seen(seen_path)
     new_seen = set()
     total_new = 0
-
     items = []
+
+    stats: dict = {
+        "run_ts": run_ts,
+        "mode": ("web+twitter" if (web and twitter) else ("web-only" if web else "twitter-only")),
+        "dedup": {"fetched": 0, "deduped": 0, "added": 0},
+    }
 
     if web:
         print("\n[web] Collecting web sources...")
+        web_sources_stats = []
         for source_cfg in cfg.get("web_sources", []):
             print(f"  Scraping: {source_cfg['name']}")
             try:
                 results = scrape_source(source_cfg)
                 print(f"  Found {len(results)} item(s)")
                 items.extend(results)
+                web_sources_stats.append({"name": source_cfg["name"], "fetched": len(results), "status": "ok"})
             except Exception as e:
                 print(f"  ERROR: {e}")
+                web_sources_stats.append({"name": source_cfg["name"], "fetched": 0, "status": f"ERROR: {e}"})
+        stats["web"] = {"sources": web_sources_stats}
 
     if twitter:
         print("\n[twitter] Collecting Twitter sources...")
+        twitter_cfg = cfg.get("twitter", {})
         try:
-            twitter_items = scrape_twitter(cfg.get("twitter", {}))
+            twitter_items, account_stats = scrape_twitter(twitter_cfg)
             print(f"  Found {len(twitter_items)} tweet(s) matching keywords")
             items.extend(twitter_items)
         except Exception as e:
             print(f"  ERROR: {e}")
+            twitter_items, account_stats = [], []
+        stats["twitter"] = {
+            "account_stats": account_stats,
+            "keywords": twitter_cfg.get("keywords", []),
+            "max_tweets_per_account": twitter_cfg.get("max_tweets_per_account", 10),
+        }
+
+    stats["dedup"]["fetched"] = len(items)
 
     print(f"\n[formatter] Processing {len(items)} total item(s)...")
+    deduped = 0
     for item in items:
         h = item_hash(item)
         if h in seen:
+            deduped += 1
             continue
 
         entry = format_entry(item)
@@ -120,9 +198,13 @@ def run(web: bool = True, twitter: bool = True, dry_run: bool = False) -> None:
         new_seen.add(h)
         total_new += 1
 
+    stats["dedup"]["deduped"] = deduped
+    stats["dedup"]["added"] = total_new
+
     if not dry_run:
         seen.update(new_seen)
         save_seen(seen_path, seen)
+        append_to_ledger(ledger_path, _build_manifest(stats))
 
     print(f"\nDone. {total_new} new entry/entries added to ledger.")
     if not dry_run and total_new > 0:

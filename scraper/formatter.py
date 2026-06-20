@@ -96,6 +96,10 @@ ADVERSARIAL CHECK
 Strongest innocent reading: [the most favorable interpretation available — what a sympathetic defense counsel or institutional spokesperson would advance; if no plausible innocent reading exists, state that explicitly]
 Why this reading fails (or succeeds): [name the specific element that the innocent reading cannot account for; if this check causes a classification change, revise CLASSIFICATION above accordingly]
 
+COUNTER-EVIDENCE STATUS
+On-record CONTROL or NULL entries for this institution: [cite any prior ledger entries classified CONTROL or NULL for this institution; if none are on record, state explicitly: NONE ON RECORD]
+What a CONTROL or NULL entry from this institution would require: [name the specific institutional output or conduct that would constitute genuine counter-evidence — what would change or complicate the INSTRUMENT classification]
+
 BOUNDARY
 What this establishes: [a documented, sourced record of what specific institutional architecture, performing what function, at what scale, traceable to what chain of authorization]
 What this does NOT establish on its own: [individual criminal liability; specific intent; coordination with named other institutions; anything requiring cross-institutional pattern evidence]
@@ -153,6 +157,10 @@ CLASSIFICATION: [SPECIMEN / CONTROL / NULL / SINCERE-UNBOUNDED / INSTRUMENT]
 ADVERSARIAL CHECK
 Strongest innocent reading: [the most favorable interpretation available — what a sympathetic defense counsel or institutional spokesperson would advance; if no plausible innocent reading exists, state that explicitly]
 Why this reading fails (or succeeds): [name the specific element that the innocent reading cannot account for; if this check causes a classification change, revise CLASSIFICATION above accordingly]
+
+COUNTER-EVIDENCE STATUS
+On-record CONTROL or NULL entries for this source/account: [cite any prior ledger entries classified CONTROL or NULL for this source; if none are on record, state explicitly: NONE ON RECORD]
+What a CONTROL or NULL entry from this source would require: [name the specific observation — what would this source have to produce for a CONTROL or NULL classification to be warranted; this is the falsification condition for the pattern claim]
 
 BOUNDARY
 What this item establishes: [a dated, sourced, verbatim instance of what specific move, at what reach, by whom in what institutional capacity]
@@ -244,6 +252,7 @@ def _raw_entry(
         f"DISCRIMINATORS: [PENDING]\n"
         f"CLASSIFICATION: [PENDING]\n"
         f"ADVERSARIAL CHECK: [PENDING]\n"
+        f"COUNTER-EVIDENCE STATUS: [PENDING]\n"
         f"BOUNDARY: [PENDING]\n"
         f"\n===\n"
     )
