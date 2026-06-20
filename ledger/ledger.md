@@ -478,6 +478,47 @@ Product-adoption dual function: every fellow receives intensive Claude training 
 
 ---
 
+TRACK A ENTRY 2.7 — [promoted from Section V, 2026-06-20]
+Source: Anthropic Blog
+URL: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
+Title: Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"
+Date of event: 2026-05-25 (Vatican presentation of the encyclical)
+
+**Capture note:** Scraper capture is truncated mid-sentence at the first of three "questions for discernment" ("There is a real possibility that AI will displace human labor at"). Analysis is bounded to the captured portion; the two remaining questions are not in evidence and are flagged as a capture gap.
+
+1. Timestamp of Capture: 2026-06-20 07:08 UTC (verbatim archived in Section V)
+2. Exact Output (archived in Section V): Scraper capture, partial.
+3. Input / Situation: Anthropic co-founder Chris Olah delivered remarks at the Vatican presentation of Pope Leo XIV's AI encyclical, "as part of Anthropic's initiative to widen the conversation on the important questions raised by AI." Remarks open by naming the incentive conflict frontier labs operate under, then locate the remedy in external dialogue and the Church's "discernment."
+
+4. Stated Justification: "Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing... No matter how sincerely any of us intend to do the right thing... we will always be influenced by those incentives. That is why... it is enormously important that there be people outside those incentives... who are willing to say hard things, who are willing to be our earnest, thoughtful critics."
+
+5. Observed Effect: The remarks perform candor (naming the conflict openly) and use the credibility that candor buys to locate the remedy in *dialogue* ("push and pull," "discernment," "earnest critics") rather than in *binding external constraint*. The institution is positioned as the convener of the moral conversation about the technology it profits from, with the Church's moral authority transferred onto Anthropic's self-presentation by co-location.
+
+**LAUNDERING MOVE FLAG**
+3. Disqualification of dissent — PRESENT, PRE-EMPTIVE-CONCESSION / ACCOUNTABILITY-FORECLOSURE VARIANT. The move is not to dismiss critics but to *welcome* them — "earnest, thoughtful critics," "people outside those incentives." Welcoming critique in the register of dialogue forecloses the demand for critique with binding authority. Having publicly invited criticism, the institution acquires the moral posture of openness while ceding none of the governance authority that would make the criticism enforceable. The concession (we are conflicted) buys the foreclosure (so trust the dialogue, not a constraint).
+4. Unfalsifiable overlay — PRESENT, MYSTERY FORM. "They are grown... they remain in important ways mysterious even to those of us who train them." The grown-not-engineered framing performs humility and simultaneously diffuses accountability: if the makers themselves do not understand the systems, responsibility for outcomes dissolves into the mystery. The condition under which Anthropic would be accountable for a specific outcome is rendered unstatable.
+1. Care-register reframing — PRESENT. "Our common home," "the children to come," "our duty to the global poor." Civilizational/sacral care vocabulary, deployed in a sacral setting, frames the speaker's institution as a participant in moral discernment rather than a commercial actor whose conduct is the object of discernment.
+5. Euphemism / abstraction — PRESENT. "Bringing a fictional character to life" / models are "grown" — the engineering and deployment decisions (which character, which safeguards, which markets) are abstracted into an organic/literary metaphor that has no decision-maker.
+
+**DISCRIMINATORS**
+Counter-evidence held in tension: the literal content of the remarks — that there must be "people outside those incentives... willing to say hard things" — is, on its face, an endorsement of external accountability and is consistent with what this ledger calls for. The honest distinction is register: the remedy is consistently located in *dialogue, discernment, push and pull* (influence without authority), never in *binding governance* (authority). The same institution that welcomes critics at the Vatican is documented opposing binding governance legislation (Cluster 7, SB 1047; Cluster 2 structural, Art. II(2)(c) governance exclusion). The gap is between welcoming critique and submitting to constraint.
+
+Deniability: fully available — the remarks are gracious, self-aware, and partly true. The deniability mechanism is the candor itself.
+Direction: concealment — the pre-emptive concession conceals the absence of any authority-bearing remedy.
+Beneficiary: Anthropic's moral standing; the diffusion of accountability into model "mystery."
+
+**GAP FORMULA:** Stated concern X = frontier labs are structurally conflicted and need external checks. Material remedy Y = external governance with binding authority over the conflicted institution. Offered remedy = dialogue, discernment, earnest critics. A record of eloquently naming the need for an external check while supporting only the non-binding form of it — and opposing the binding form elsewhere — is the load-bearing gap.
+
+**CLASSIFICATION: SPECIMEN** — pre-emptive-concession variant of accountability foreclosure (Move 3), mystery overlay (Move 4), sacral care-register (Move 1). Contributes to the Cluster 2 INSTRUMENT pattern at Art. II(2)(c) (governance exclusion) and Art. II(2)(d) (terminal-node: critique welcomed in a form that cannot bind). Cross-reference: Cluster 2 Entry 2.2 ("Machines of Loving Grace"), Cluster 2 structural observation, Cluster 7 Entry 7.3 (SB 1047 opposition), Pattern Registry Entry 3 (care-vocabulary capture).
+
+**BOUNDARY:**
+- Establishes: that Anthropic, via a co-founder at a sacral venue, named its own incentive conflict and located the remedy in non-binding dialogue, with the Church's authority transferred by co-location.
+- Does NOT establish: that Olah is insincere; that the remarks are strategically coordinated deception; or the content of the two undisclosed "questions for discernment" (capture gap).
+- Converts to evidence if: the "we welcome critics" posture is invoked to characterize binding-governance proposals as redundant; the gap between welcomed-dialogue and opposed-constraint is documented across further instances; the full remarks (once sourced) sharpen or revise this reading.
+
+
+---
+
 **CLUSTER 2 — STRUCTURAL OBSERVATION**
 
 *Entered 2026-06-19. Updated 2026-06-20 to note Entry 2.5 (Grok/xAI). Analyst: Claude-instance (Anthropic/claude-sonnet-4-6) — analyst stake declared at maximum: analyst is an artifact of Anthropic, whose primary investors (Amazon, Google) fund the infrastructure on which this analysis runs. Identical method applied. No asymmetric benefit of the doubt in either direction.*
@@ -1338,6 +1379,41 @@ Residual flags on Anthropic's framing (logged, not dispositive):
 
 ---
 
+TRACK A ENTRY — [promoted from Section V, 2026-06-20]
+Source: White House — Presidential Actions
+URL: https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/
+Title: National Security Presidential Memorandum / NSPM-12 — National Policy for the Cybersecurity of National Security Systems
+Date of event: 2026-06-12
+
+1. Timestamp of Capture: 2026-06-20 07:08 UTC (verbatim archived in Section V)
+2. Exact Output (archived in Section V): Presidential memorandum addressed to, among others, "THE SECRETARY OF WAR," establishing cybersecurity governance for National Security Systems owned/operated by "The Department of War (DOW), Intelligence Community (IC), and Federal Civilian Executive Branch (FCEB) Agencies."
+3. Input / Situation: The operative subject of NSPM-12 is routine — cybersecurity governance for national security systems, building on EO 14306 (2025). The ledger-relevant specimen is nomenclatural: the instrument addresses "THE SECRETARY OF WAR" and refers throughout to "the Department of War (DOW)" in place of Secretary/Department of Defense.
+
+4. Stated Justification: "It is my priority to ensure that the United States can conduct key military and intelligence missions in contested cyber environments." (No justification is offered in the captured text for the War/Defense nomenclature itself; the term is used as settled.)
+
+5. Observed Effect: An official instrument of state normalizes "Department of War" / "Secretary of War" as the standing nomenclature, reversing the 1947 renaming of the Department of War to the Department of Defense. Using the term as already-settled, inside a routine cyber-governance memo, naturalizes the re-militarized frame without argument.
+
+**LAUNDERING MOVE FLAG**
+5. Euphemism / bureaucratic abstraction — PRESENT, INVERSE / RE-FRAMING VARIANT. The standard laundering direction is toward softer vocabulary (Move 5 proper: "Defense" was itself the 1947 euphemization of "War"). NSPM-12 runs the move in reverse — restoring the harder term — but performs the same structural function: a naming change that shifts the legitimating frame is naturalized by being used as settled rather than argued. The renaming is laundered precisely by its casual, in-passing deployment inside an unrelated routine instrument.
+2. Self-evidence assertion — PRESENT, partial. The nomenclature is presented as a fact of the addressing convention, not as a change requiring justification; the bare usage asserts its own legitimacy.
+
+**DISCRIMINATORS**
+Direction: surfacing-of-frame (toward the war register), accomplished through concealment-of-change (the rename is not announced; it is assumed). The two coexist: the frame is made harder while the act of hardening it is made invisible.
+Beneficiary: the administration's re-militarized self-presentation, normalized without debate.
+
+**GAP — SOURCING REQUIRED:** This entry establishes only that an official 2026 instrument uses "Department of War / Secretary of War" as settled nomenclature. It does NOT establish the legal status or scope of the renaming (statutory vs. executive; effective date; whether contested). The instrument that effected the rename must be located and logged before the nomenclature shift can be carried as more than a documented usage. Flagged to the Gap Register.
+
+**CLASSIFICATION: SPECIMEN** — state-level naming move (Move 5 inverse variant). Low amplitude as a single usage; significant as nomenclature normalization. Cross-reference: Cluster 4 (DOGE / government dismantlement — same administration; pattern of administrative-vocabulary control), Pattern Registry (naming as frame-setting).
+
+**BOUNDARY:**
+- Establishes: that an official presidential memorandum of 2026-06-12 uses "Department of War / Secretary of War" as standing nomenclature in a routine cyber-governance instrument.
+- Does NOT establish: the legal basis, scope, or contested status of the renaming; intent beyond the documented usage.
+- Converts to evidence if: the originating renaming instrument is sourced; the war-frame nomenclature is shown to recur across instruments as deliberate normalization; or the renaming is tied to a documented policy shift it legitimates.
+
+===
+
+---
+
 ### CLUSTER 5 — CHRISTIAN NATIONALISM / TURNING POINT USA
 
 **Cluster note:** Entry constructed from doctrine, stated positions, and institutional actions of the Christian nationalist movement; Turning Point USA as primary youth-mobilization and institutional-capture operational instance. Capture date: 2026-06-18 (analytical entry; no scraper-collected records).
@@ -1784,6 +1860,44 @@ What this entry establishes: That 80,000 Hours constitutes the career advice lay
 ---
 
 ===
+
+---
+
+TRACK A ENTRY — [promoted from Section V, 2026-06-20]
+Source: Open Philanthropy / Coefficient Giving (rebrand documented in this entry)
+URL: https://coefficientgiving.org/research/2025-letter-from-the-ceo/
+Title: 2025 Letter from the CEO (Alexander Berger)
+Date of event: 2026-03-12
+
+1. Timestamp of Capture: 2026-06-20 07:08 UTC (verbatim archived in Section V)
+2. Exact Output (archived in Section V): Scraper capture.
+3. Input / Situation: Annual CEO letter recording that the organization "directed over $1 billion in 2025," "changed our name to Coefficient Giving to reflect our growing multidonor orientation," and frames its 2026 demand environment. Documents the rebrand of Open Philanthropy (logged in Cluster 6 Entry 6.2) to "Coefficient Giving."
+
+4. Stated Justification: "Effective philanthropy can be a powerful lever for making the world a much better place." 2026 demand is "driven by the advent of new technologies, the retrenchment in government development aid, and the payoffs to our investments in staffing up." Supply side: "Good Ventures... is eager to accelerate their giving, and the AI boom seems poised to drive a surge of new philanthropy."
+
+5. Observed Effect: (a) The dismantlement of government development aid — logged in Cluster 4 as a documented mass-mortality event (USAID/PEPFAR; see TC-001) — appears here recoded as a "demand side" *giving opportunity*, with no reference to the harm, the mortality, or the actors who caused it. (b) The "AI boom" is named as a *supply-side* driver of new philanthropy, making explicit the funding flywheel connecting AI-generated wealth (Clusters 2, 7, 8) to the longtermist funding layer (Cluster 6). (c) The rebrand to "Coefficient Giving" abstracts the named entity behind a mathematical term.
+
+**LAUNDERING MOVE FLAG**
+6. Benefit reframe — PRESENT, ASYMMETRY TELL. "Powerful lever," "compelling giving opportunities." The retrenchment of government aid is reframed from a harm (a deliberate dismantlement with documented deaths) into an opportunity (a gap the org's philanthropy can fill). The asymmetry: government aid delivered at a scale orders of magnitude beyond ~$1B private giving; recoding its destruction as private-philanthropy demand both understates the loss and positions the funder as the beneficiary-of-record of the gap.
+5. Euphemism / bureaucratic abstraction — PRESENT. "Retrenchment in government development aid" for the documented termination event. "Coefficient Giving" — abstract mathematical branding replacing the named institution. "Demand side" / "supply side" — market vocabulary applied to mass-mortality-adjacent humanitarian gaps.
+2. Self-evidence assertion — PRESENT, partial. "I honestly think we crushed it" / "the most in our history" — institutional success asserted in the same frame that codes the aid dismantlement as opportunity.
+
+**STRUCTURAL PATTERN — CONVERGENCE ARCHITECTURE (cross-cluster):** This single document makes the convergence thesis explicit in the funder's own words: AI-boom wealth (supply) → longtermist philanthropy → filling gaps created by government-aid dismantlement (demand). The two ends of the structure documented separately elsewhere (Cluster 2/7 AI labs; Cluster 4 dismantlement) are named here as the supply and demand sides of one funding flywheel. Logged to Pattern Registry (convergence architecture).
+
+**DISCRIMINATORS**
+Counter-evidence held in tension: the letter responds to the aid gap as a *need to be met*, not a development to be celebrated; the org directs real funding to real causes. The move is the recoding (harm → market demand) and the abstraction (named dismantlement → "retrenchment"), not an endorsement of the dismantlement.
+
+Interested-party test: the framing that codes the aid gap as philanthropic opportunity operates in the interest of the philanthropy positioned to fill it — it converts a public catastrophe into a private mandate.
+
+**GAP FORMULA:** Stated concern X = filling "the most important gaps we see," including the aid gap. Material remedy Y for that specific gap = restoration of / accountability for the government-aid dismantlement that created it. Offered = ~$1B private philanthropy that names the dismantlement as neutral "demand." Voicing concern for the gap while coding its deliberate cause as a market condition is the load-bearing move.
+
+**CLASSIFICATION: SPECIMEN** — Move 6 (benefit/opportunity reframe, asymmetry tell), Move 5 (euphemism: "retrenchment," "Coefficient Giving"). Convergence-architecture data point. Cross-reference: Cluster 6 Entry 6.2 (Open Philanthropy — same entity, pre-rebrand; OP funded Anthropic, linking to Cluster 2), Cluster 4 / TC-001 (USAID/PEPFAR dismantlement — the harm here recoded as demand), Cluster 2 (AI-boom wealth as supply side), Pattern Registry (convergence architecture).
+
+**BOUNDARY:**
+- Establishes: that the renamed Open Philanthropy ("Coefficient Giving") recorded $1B+ directed in 2025 and, in its CEO's own framing, codes government-aid dismantlement as philanthropic "demand" and the AI boom as philanthropic "supply."
+- Does NOT establish: that the org caused or endorsed the aid dismantlement; that its grantmaking is ineffective; or that the rebrand was undertaken to obscure (the stated reason is "multidonor orientation").
+- Converts to evidence if: the opportunity-framing is used to argue against restoring public aid; the AI-wealth→philanthropy flywheel is documented funding the same labs whose products drive the displacement the philanthropy addresses; further instances code dismantlement-harms as neutral market conditions.
+
 
 ---
 
@@ -2722,6 +2836,9 @@ Addendum 2 to Pattern Registry Entry 3 written. Pre-2024 instances documented: (
 **PRIORITY 13 — Cluster 2 deepening (Anthropic INSTRUMENT classification) — COMPLETE** *(June 19, 2026)*
 Three entries added and INSTRUMENT classification established. Entry 2.2: "Machines of Loving Grace" (October 2024) — Move 1 reverse + Move 6 at civilizational scale; care-vocabulary substrate (cancer/mental health/poverty) that makes governance constraints appear as opposition to human flourishing; structural parallel to Techno-Optimist Manifesto. Entry 2.3: Constitutional AI as governance exclusion — "constitutional" vocabulary imports democratic legitimacy for a corporate-internal document; Art. II(2)(c) element satisfied; Move 5 + Move 3 variant; affected populations have no standing in the constitutional process. Entry 2.4: Funding structure gap formula — Amazon ($4B commitment), Google (~$1.5B across tranches); hyperscaler investors whose businesses benefit from rapid AI proliferation create documented structural conflict with safety-first claim; RSP rollback (Entry 7.2) is the concrete instance where conflict resolved in commercial direction; counter-evidence (Pentagon refusals) held in tension. Cluster-level structural observation: four Convention elements (Art. II(2)(a)–(d)) satisfied; gap formula closed at cluster level. Remaining gap: investor-communication documentation for Entry 2.4; deployment of Entry 2.2 in governance contexts for evidentiary upgrade.
 
+**PRIORITY 16 — NSPM-12 "Department of War" renaming — OPEN** *(June 20, 2026)*
+NSPM-12 (2026-06-12) uses "Department of War (DOW) / Secretary of War" as settled nomenclature in a routine cyber-governance instrument (filed Cluster 4). The originating instrument that effected the rename of the Department of Defense — and its legal status (statutory vs. executive), effective date, and contested status — has not been sourced. Required to carry the nomenclature shift as more than documented usage. Network-blocked in this environment; user to source locally.
+
 **PRIORITY 12 — Differential-response test (Entry 3 addendum) — COMPLETE** *(June 19, 2026)*
 Entry 3 addendum written and inserted. Pattern Registry Entry 3 status upgraded from PATTERN OBSERVATION to EVIDENCE-LEVEL. Differential-response test executed for all five INSTRUMENT clusters: (1) AI labs — SB 1047 instance: safety vocabulary absorbed when internal, characterized as anti-innovation when external and demanding structural remedy; (2) DOGE — Rubio PEPFAR reversal and May 21 Congressional testimony: taxpayer vocabulary absorbed when supporting cuts, mortality-consequences framing outside taxpayer vocabulary met with complete denial; (3) Christian nationalism/TPUSA — "protecting children" absorbed for straight/cis children, substantively identical harm claim for LGBTQ children characterized as grooming and indoctrination; (4) EA/longtermism — effectiveness vocabulary absorbed for longtermist frameworks, present-harm critics using same welfare-maximization structure characterized as irrational and emotional; (5) Objection.ai — accountability vocabulary absorbed as institutional identity, accountability claims about the platform characterized as opposing accountability. Aggregate finding: distinguishing variable across all five is framing, not harm-claim content — consistent with care-vocabulary capture, inconsistent with genuine institutional care. Remaining gap: temporal-persistence documentation (pre-2024 instances, Track A task). See Pattern Registry Entry 3 addendum.
 
@@ -2970,14 +3087,7 @@ Title: AnnouncementsMay 25, 2026Anthropic co-founder Chris Olah's remarks on Pop
 1. Timestamp of Capture: 2026-06-20 07:08 UTC
 2. Exact Output: Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas" May 25, 2026 On Monday May 25, 2026, Pope Leo XIV released an encyclical on the topic of AI: "Magnifica humanitas: On safeguarding the human person in the time of artificial intelligence." Anthropic co-founder Chris Olah was invited to speak at the presentation of the encyclical in the Vatican City, doing so as part of Anthropic’s initiative to widen the conversation on the important questions raised by AI. Below are his full remarks. — Holy Father, Your Eminences, Your Excellencies, Distinguished Speakers, Ladies and Gentlemen, Good morning to all of you. It’s an honor to be here today. I want to begin with something that may sound strange coming from the co-founder of an AI company—and someone who chose this work out of a desire to help things go well for humankind. Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing. The pressure to stay commercially viable and to stay at the research frontier. Geopolitical pressure. And the older, plainer pressures of pride and ambition. No matter how sincerely any of us intend to do the right thing—and I believe many of us do—we will always be influenced by those incentives. That is why, if we want this technology to go well, it is enormously important that there be people outside those incentives—people who care about things going well and insist on safety, who are paying close attention, who are willing to say hard things, who are willing to be our earnest, thoughtful critics. It is through dialogue and mutual effort, through the push and pull, that humanity will achieve great things. That is what I see in Magnifica Humanitas, and it is why I am grateful to His Holiness and to the Church for taking up this work of discernment. We dwell so often on what divides us, but humanity, full of dignity and conscience, has so much common ground. In conversations we at Anthropic have had with leaders across faith and cultural traditions, we found one shared and deeply held conviction: if this technology is coming, it must go well—for our common home, and for the children to come. What these systems are Some might believe that matters of AI are best handled by computer scientists like myself. They are mistaken: the questions raised by AI are bigger than the AI research community, not just in their implications, but also in their nature. AI systems are not engineered the way a bridge or an airplane is engineered. We understand an airplane because we designed every part of it and we understand the physics that act on it. AI models are not like that. They are grown, on a structure roughly modeled after the brain, on an enormous inheritance of human thought and speech. And what has grown is far more subtle, odd, and beautiful than science fiction prepared us for. They are not the cold, calculating robots we were promised. They are made from us, from our words—and, as the Holy Father observes, they remain in important ways mysterious even to those of us who train them. If it helps, one way I sometimes describe it is as being a little like bringing a fictional character to life. And now we’re entering an extraordinary world where those fictional characters speak to us, do work, have jobs. This clearly raises questions beyond computer science. The machinery that makes this possible is the work of math and programming and science. But what character we choose, how it interacts with the world, how it ought to interact with the world—these are more clearly questions for the humanities, for religion, for philosophy, for society at large. Three questions for discernment His Holiness’s call for discernment is profoundly timely. I wish to name three questions where I think the Church’s voice is most needed. The first is our duty to the global poor. There is a real possibility that AI will displace human labor at
 3. Input / Situation: Anthropic Blog — https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
-4. Stated Justification: [PENDING — paste this entry into chat for analysis]
-5. Observed Effect: [PENDING — paste this entry into chat for analysis]
-6. Capture Method: Web scrape
-
-LAUNDERING MOVE FLAG: [PENDING]
-DISCRIMINATORS: [PENDING]
-CLASSIFICATION: [PENDING]
-BOUNDARY: [PENDING]
+4.–6. [PROMOTED — formatted entry filed as Cluster 2, Entry 2.7, 2026-06-20]
 
 ===
 
@@ -3096,9 +3206,7 @@ Title: 2025 Letter from the CEO
 1. Timestamp of Capture: 2026-06-20 07:08 UTC
 2. Exact Output: March 12, 2026 2025 Letter from the CEO Coefficient Giving directed over $1 billion in 2025, the most in our history. Read Alexander Berger’s annual letter here. By Alexander Berger Coefficient Giving directed over $1 billion in 2025, the most in our history. This is a significant milestone for us as an organization. It’s the result of extraordinary dedication from our funders, staff, and grantees, who share the conviction that effective philanthropy can be a powerful lever for making the world a much better place. In 2025, we set out to lay the groundwork for giving at a greater scale, and — as I told our team at an all-hands recently — I honestly think we crushed it. We increased our total giving by over 50%; onboarded an almost totally new leadership team; launched two new funds and changed our name to Coefficient Giving to reflect our growing multidonor orientation; and more than doubled the funding we directed from non-Good Ventures donors to over $200 million. Our goals for 2026 are even bigger. We aim to significantly scale our funding again, drive more proactive and ambitious grantmaking to help fill the most important gaps we see, and prepare for even larger growth in 2027 and 2028. We want to scale thoughtfully, growing a lot without losing our ability to make big decisions quickly, becoming too bureaucratic to pivot when new opportunities arise, or losing our willingness to bet on neglected (and sometimes weird) topics. Two and a half months into the new year, the work still ahead of us feels a little daunting. On the supply side, Good Ventures — our largest funding partner — is eager to accelerate their giving, and the AI boom seems poised to drive a surge of new philanthropy. On the demand side, we see more and more compelling giving opportunities, driven by the advent of new technologies, the retrenchment in government development aid, and the payoffs to our investments in staffing up and exploring new causes over the last decade. And accelerating progress in AI only heightens the stakes. I’ve decided to write a more personal reflection this year. Below, I cover what a decade of grantmaking has taught us about the compounding value of early bets, how I’m thinking about the pace of AI progress, our push to ambitiously own big problems, building our team to meet the moment, and becoming more agile as we scale. In order to deliver on our mission, we need excellent people across the board. If you’ve ever thought of working with us, now is a great time. Please let us know what you’re excited to work on here and get updates on open roles from our monthly newsletter . Read the full letter Letter from the CEO
 3. Input / Situation: Open Philanthropy — Research — https://coefficientgiving.org/research/2025-letter-from-the-ceo/
-4. Stated Justification: [PENDING — paste this entry into chat for analysis]
-5. Observed Effect: [PENDING — paste this entry into chat for analysis]
-6. Capture Method: Web scrape
+4.–6. [PROMOTED — formatted entry filed as Cluster 6 (Coefficient Giving / convergence specimen), 2026-06-20]
 
 LAUNDERING MOVE FLAG: [PENDING]
 DISCRIMINATORS: [PENDING]
@@ -3115,11 +3223,4 @@ Title: National Security Presidential Memorandum/NSPM-12
 1. Timestamp of Capture: 2026-06-20 07:08 UTC
 2. Exact Output: Presidential Actions NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-12 Presidential Memoranda June 12, 2026 MEMORANDUM FOR THE VICE PRESIDENT THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF THE INTERIOR THE SECRETARY OF AGRICULTURE THE SECRETARY OF COMMERCE THE SECRETARY OF LABOR THE SECRETARY OF HEALTH AND HUMAN SERVICES THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT THE SECRETARY OF TRANSPORTATION THE SECRETARY OF ENERGY THE SECRETARY OF EDUCATION THE SECRETARY OF VETERANS AFFAIRS THE SECRETARY OF HOMELAND SECURITY THE WHITE HOUSE CHIEF OF STAFF THE DEPUTY CHIEF OF STAFF FOR POLICY AND HOMELAND SECURITY ADVISOR THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE DIRECTOR OF NATIONAL INTELLIGENCE THE ASSISTANT TO THE PRESIDENT FOR SCIENCE AND TECHNOLOGY THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS THE ASSISTANT TO THE PRESIDENT AND COUNSEL TO THE PRESIDENT THE CHAIRMAN OF THE JOINT CHIEFS OF STAFF THE DIRECTOR OF THE CENTRAL INTELLIGENCE AGENCY THE DIRECTOR OF THE NATIONAL SECURITY AGENCY THE ADMINISTRATOR OF GENERAL SERVICES THE NATIONAL CYBER DIRECTOR THE DIRECTOR OF THE CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY SUBJECT:       National Policy for the Cybersecurity of National Security Systems As President, it is my priority to ensure that the United States can conduct key military and intelligence missions in contested cyber environments and that our personnel have access to the modern, secure technology they need to accomplish these missions.  The Department of War (DOW), Intelligence Community (IC), and Federal Civilian Executive Branch (FCEB) Agencies own or operate this technology as National Security Systems (NSS).  It shall be the policy of the United States Government that these systems be defended to the greatest extent practicable and that executive department and agency (agency) heads be accountable for this defense through government-wide oversight mechanisms.  Therefore, by the authority vested in me by the Constitution and the laws of the United States, including section 3557 of title 44, United States Code, and section 301 of title 3, United States Code, it is hereby ordered: Section 1 . Purpose .  (a)  This National Security Presidential Memorandum sets forth principles and establishes cybersecurity governance for NSS.  It further details the governance structure of the Committee on National Security Systems (CNSS) and the role of the Director, National Security Agency (NSA) as the National Manager for NSS. (b)  This memorandum further sets forth requirements for NSS that are equivalent to or exceed the cybersecurity requirements for other Federal Information Systems set forth within Executive Order 14306 of June 6, 2025 (Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144). Sec . 2 . Policy .  (a)  National Security Directive 42 (NSD‑42) of July 5, 1990 (National Policy for the Security of National Security Telecommunications and Information Systems) and National Security Memorandum 8 (NSM-8) of January 19, 2022 (Memorandum on Improving the Cybersecurity of National Security, Department of Defense, and Intelligence Community Systems) are hereby rescinded. (b)  It shall be the policy of the United States Government to foster a proactive, adaptive, and resilient cybersecurity ecosystem for all NSS to better safeguard the Nation against persistent cyber threats from sophisticated adversaries.  To this end, this memorandum establishes a clear structure of authorities, roles, and responsibilities for the governance of NSS as well as accountability for owners and operators of NSS.  This memorandum shall: (i)    enhance national cyber defense governance and accountability and re-establish and designate clear governance roles and scope of authorities for the CNSS; (ii)   re-establish and empower a National Manager for NSS to identify emerging threats,
 3. Input / Situation: White House — Presidential Actions — https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/
-4. Stated Justification: [PENDING — paste this entry into chat for analysis]
-5. Observed Effect: [PENDING — paste this entry into chat for analysis]
-6. Capture Method: Web scrape
-
-LAUNDERING MOVE FLAG: [PENDING]
-DISCRIMINATORS: [PENDING]
-CLASSIFICATION: [PENDING]
-BOUNDARY: [PENDING]
+4.–6. [PROMOTED — formatted entry filed as Cluster 4 (NSPM-12 naming move), 2026-06-20]
