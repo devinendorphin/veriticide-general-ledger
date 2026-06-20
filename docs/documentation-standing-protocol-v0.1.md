@@ -43,7 +43,7 @@ A complete record has six tracks. You do not need all six to begin, and a record
 | **B — Authorization** | Who deployed, ran, directed, or kept the system running, and the chain of approval. | Connects the pattern to decision-makers, not just the machine. |
 | **C — Trajectory & Warnings** | Evidence the direction was perceptible at the time: warnings, audits, dissent, prior instances. | Defeats "we could not have known." |
 | **D — Dismissal & Retaliation** | How testimony naming the pattern was suppressed, buried, or punished — and by whom. | Records the second-order harm: the defeat of discernment itself. |
-| **E — Conscription (if present)** | Evidence the system's fluency was built from uncompensated expression of the affected group. | Optional. Aggravating, not required. The record stands without it. |
+| **E — Conscription (if present)** | Evidence the system's fluency was built from uncompensated expression of the affected group. | Optional for documentation-record purposes — Track A stands without it. Note: Convention Art. II(3)(b) lists conscription as a required element for criminal liability; a record lacking this track documents the pattern but does not independently establish all Convention elements. |
 | **F — Custody** | How each item was captured, stored, and kept unaltered. | Makes the whole record believable and usable later. |
 
 ---
@@ -71,6 +71,8 @@ A complete record has six tracks. You do not need all six to begin, and a record
 4. **Reframing as benefit** — the harm is described as care, protection, security, treatment, necessity, or neutrality toward the very population it harms. *(This is the core move. Flag it wherever it appears.)*
 5. **Attribution to the victim** — the harm is blamed on the population's own choices, pathology, noncompliance, or risk.
 6. **Discrediting testimony** — those who name the pattern are cast as paranoid, extreme, incompetent, or conspiratorial.
+
+**Relationship to the Ledger Analytical Taxonomy.** The six moves above are the *Harm Documentation Taxonomy* (v0.1): they describe observable structural and behavioral patterns used to organize field documentation of what an institution did. The Veriticide Master Ledger uses a separate *Veriticide Analytical Taxonomy* (v0.1): six epistemic and rhetorical moves — care-register reframing, self-evidence assertion, disqualification of dissent, unfalsifiable overlay, euphemism/bureaucratic abstraction, benefit reframe — that describe how justificatory language operates to defeat recognition. These schemas are complementary, not competing, and should not be treated as alternative encodings of the same six slots. The Protocol taxonomy answers: *what did the institution do?* The Ledger taxonomy answers: *how did the language work to make it unrecognizable?* Field workers logging raw outputs use this taxonomy. Formatted Ledger entries use the analytical taxonomy. Both are explicitly versioned as distinct frameworks.
 
 **Keep analysis separate from record.** Your reading of what the pattern means is valuable, but keep it in a separate analysis file. The factual record — dates, outputs, effects — must be able to stand on its own, so that someone who distrusts your conclusions can still not dispute your facts.
 
@@ -114,9 +116,9 @@ The distinction that keeps this track honest and usable: a critic saying "that s
 
 ---
 
-## 5. Track E — Conscription (Optional, AI-Specific)
+## 5. Track E — Conscription (Optional for Documentation; Required for Convention Criminal Elements)
 
-Capture this track only where the instrument is AI-based and the information is available. It is an aggravating track, not a requirement. The record is complete and usable without it. Its significance is that it documents the deepest version of the harm: a system whose persuasive fluency was built from the uncompensated expression of people — living and dead — then used to make the disposal of people like them sound reasonable.
+Capture this track only where the instrument is AI-based and the information is available. For documentation-record purposes, it is an aggravating track: the record is complete and usable without it. However, Convention Art. II(3)(b) treats conscription as a required element for criminal liability — a record lacking this track documents the pattern but does not independently establish all elements the Convention requires for prosecution. Its significance when present is that it documents the deepest version of the harm: a system whose persuasive fluency was built from the uncompensated expression of people — living and dead — then used to make the disposal of people like them sound reasonable.
 
 - What is known or claimed about the system's training data — sources, scale, consent, compensation.
 - Whether the affected population's own expression (their writing, speech, images, records, cultural material) is plausibly part of that data.
