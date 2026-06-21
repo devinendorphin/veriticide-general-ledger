@@ -4502,6 +4502,127 @@ TRACK B GAP (authorization chain): Documentation of how these phrases moved from
 
 ---
 
+### Entry 5: Preventive Epistemic Closure — Formation-Environment Construction as First-Line Veriticide
+
+*Entry completed 2026-06-21. Primary source evidence: Cluster 5 INSTRUMENT entry (formation environment exclusion and anticipatory classification mechanisms); Entries 5.1 and 5.2 (TPUSA "Prove Me Wrong" transcript corpus — social-proof demonstration of futility as documented in primary source transcripts). Supporting evidence: Entry 8.1a (personal-scale PEC via preemptive accountability foreclosure declaration); Cluster 9 Section A (fossil fuel manufactured uncertainty as population-scale PEC). Proposed 2026-06-18; primary source evidence sufficient for formal entry as of 2026-06-21.*
+
+---
+
+**Thesis**
+
+The six laundering moves documented in this ledger operate on claims, outputs, and institutional identities. Move 4 (unfalsifiable overlay) makes a specific claim immune to falsification. Entry 3 (care-vocabulary capture) makes an institution immune to critique. These are defensive operations — they protect a claim or an institution after it has been staked or constituted.
+
+Preventive Epistemic Closure operates upstream of the claim. It does not make a specific claim unfalsifiable. It modifies the person's orientation toward the attempt to engage, evaluate, or falsify — before any specific claim is encountered. The closure is preventive: the target is not the outcome of attempted engagement but the motivation to attempt it.
+
+The distinction is precise and significant. Move 4 says: you have attempted falsification and you cannot succeed because the frame is closed. PEC says: you will not attempt falsification because the environment has been constructed — or the costs of the attempt have been made visible — so that the attempt does not occur. Move 4 is the second line of defense. PEC is the first. Together they produce complete epistemic closure: the attempt doesn't happen (PEC); if it happens anyway, it fails (Move 4).
+
+The mechanism is not rhetorical. It is architectural. It operates at the level of formation environments, social-proof demonstrations, and anticipatory classification — not at the level of argument.
+
+---
+
+**Three mechanisms**
+
+**Mechanism 1: Formation environment exclusion**
+
+The correcting encounter is prevented by removing access to the space in which it would occur.
+
+The Cluster 5 INSTRUMENT entry documents this as the Christian nationalist architecture's primary operative function: the university is targeted not because it transmits false content but because it is the formation space where the correcting experience of contact with the Other happens. The student whose LGBTQ+ roommate turns out to be cool and mindful and gives great advice has received a correcting encounter — not a correcting argument. Arguments can be refuted or dismissed. The lived encounter of recognizing that the enemy-image is false operates at a different cognitive level and is much harder to undo. The formation environment exclusion mechanism targets this encounter specifically: homeschooling removes the student from the space; parallel institutions (Hillsdale, Liberty University) provide alternative formation environments that reproduce the original framework rather than correcting it; defunding of public universities eliminates the formation infrastructure for the general population.
+
+The operative logic: the claim does not need to be made unfalsifiable if the person who would falsify it is never placed in the environment where falsification occurs. The epistemic closure is achieved not by argument but by construction of a formation environment that excludes the correcting encounter.
+
+This is PEC at the civilizational scale — targeting not individual claims but the conditions under which claims can be evaluated by lived experience rather than argument.
+
+**Mechanism 2: Social-proof demonstration of futility**
+
+The attempt to engage is made publicly costly. Observers learn from watching failed engagement that the attempt produces humiliation without productive outcome, and train themselves to decline future attempts.
+
+Entries 5.1 and 5.2 document this as the TPUSA "Prove Me Wrong" format's formation-capture function. The primary evidence is in the transcript corpus:
+
+*From Entry 5.1 (San Diego State — trans identity):* The trans student who challenges Kirk encounters not Kirk alone but Kirk plus Chloe Cole (pre-staged companion witness introduced mid-format) plus a pre-selected audience plus TPUSA's production infrastructure. Every element of the exchange is structurally asymmetric. The student's arguments are not refuted — they are bypassed by the companion witness, absorbed by the crowd, and dissolved by Kirk's claim-without-commitment retreat. The exchange ends on Kirk's terms regardless of the student's argument quality.
+
+*From Entry 5.2 (Washington State — college ROI):* The math/actuary student argues well — returns to the original question (5:34), identifies that Kirk's "conservative people don't go to college" claim is self-refuted by the conservative crowd (1:36), presses the human-element argument (4:38), holds his position on teacher credentials (5:47). Nine sequential thesis substitutions occur; none of the student's specific arguments are acknowledged as landing. The exchange ends with Kirk recommending Hillsdale online courses. The original thesis — "college is a scam" — was stated once and never actually defended or engaged.
+
+The formation-capture function the transcripts document: the student in the campus audience who watches this exchange learns:
+- No amount of specific, good-faith engagement moves the interlocutor
+- The interlocutor's claim-substitution capacity is inexhaustible
+- The production infrastructure (platform, camera, pre-selected audience, companion witnesses) is always on the interlocutor's side
+- Attempting engagement costs the engaging student public exposure without producing any reciprocal concession or acknowledgment
+
+The next student who considers approaching a "Prove Me Wrong" table has been trained by what they observed. The training does not operate through refutation of any specific argument; it operates through the social-proof demonstration that the attempt itself produces no fruit. That is PEC through demonstration: the formation-capture function is training observers not to attempt the engagement, before any specific claim has been raised.
+
+The claim-substitution chain (Entry 5.2) is PEC's most structurally pure form: the thesis is never actually staked, so there is nothing for falsification to grip. The student cannot disprove "college is a scam" because "college is a scam" is never defended as a thesis that could be disproved — it is merely stated once and then substituted for nine other adjacent claims. The futility is structural and total: the engagement fails not because the student argued badly but because the format makes the thesis permanently unavailable for engagement.
+
+**Mechanism 3: Anticipatory classification of the correcting encounter**
+
+The correcting experience is pre-classified as contamination before it occurs, so that the person who encounters it interprets it as evidence of the threat rather than as correction.
+
+The Cluster 5 INSTRUMENT entry documents this as the self-sealing form of Move 4 applied to formation: "If a child comes home from college having learned that their LGBTQ+ roommate is cool and mindful and gives great advice — this is classified as evidence of successful brainwashing, not evidence against the threat claim." The frame is closed from the inside. The correcting encounter — which in the absence of anticipatory classification would register as falsifying the enemy image — is instead read as confirmation that the contaminating environment has operated successfully.
+
+This mechanism converts the correcting encounter into a warning sign. The child who has had the correcting experience is not evidence against the threat — they are evidence of the threat's success. The parent who has been trained in this anticipatory classification cannot receive the child's correction; they can only receive confirmation that the contamination they feared has occurred.
+
+The anticipatory classification mechanism is distinct from claiming that the correcting encounter's content is false (a claim-level operation that could be argued). It reclassifies the correcting encounter as an event category — contamination — that is by definition beyond the reach of argument. You cannot argue your way out of having been contaminated if the contamination is established by the fact that you want to argue.
+
+---
+
+**The upstream position relative to Move 4**
+
+Move 4 (unfalsifiable overlay / self-sealing) operates on the claim level: the claim is structured so that evidence against it confirms the frame. This is a downstream operation — it handles what happens when someone attempts falsification.
+
+PEC operates upstream: it structures the environment, the social demonstration, or the anticipatory classification so that the attempt to falsify does not occur. The two mechanisms are complementary:
+
+- PEC holds the majority who see the TPUSA exchange and decline to engage
+- Move 4 holds the minority who engage anyway and find themselves inside a frame where their engagement confirms the position they are challenging
+
+Together they constitute complete closure: PEC handles the pre-engagement population; Move 4 handles the post-engagement population. The person who is not deterred by the social-proof demonstration and does engage anyway finds themselves inside Move 4's self-sealing structure.
+
+The fossil fuel manufactured uncertainty campaign (Cluster 9, Section A) demonstrates the population-scale version of this layering: PEC operated through the manufactured expert disagreement ecosystem (if scientists disagree, why should I attempt engagement with a question that professionals cannot resolve?) while Move 4 operated through the natural variability and "technology will solve it" framings for those who did engage. The API strategy document — "recognition of uncertainty becomes part of the conventional wisdom" — names PEC as the primary goal explicitly: not refutation of climate science but production of sufficient public uncertainty that the population does not attempt engagement with the policy question.
+
+---
+
+**Relationship to other Pattern Registry entries**
+
+*Entry 1 (Interpersonal Abuse at Scale):* Coercive control literature documents the isolation mechanism as a primary abuse tool: the abusive partner removes the victim from social contacts — family, friends — who would provide alternative perspective and correcting encounters. This is PEC at the interpersonal scale. The institution-scale equivalent documented in Cluster 5 (formation environment exclusion) is the same mechanism applied to the population's formation infrastructure. The scale changes; the structure does not.
+
+*Entry 2 (Convergence Architecture):* The PEC mechanisms documented here are components of the convergence architecture's epistemic isolation layer. Entry 2 identifies Christian nationalism as the "epistemic isolation" functional component of the four-layer architecture. This entry names the mechanisms through which that epistemic isolation operates: formation environment exclusion, social-proof demonstration of futility, anticipatory classification of the correcting encounter.
+
+*Entry 3 (Care-Vocabulary Capture):* Entry 3 recruits the genuine believer through grammatical proximity to an owned vocabulary. PEC operates on the observer who has not been recruited — who has not adopted the vocabulary — by training them not to attempt engagement. The two mechanisms cover different populations: Entry 3 holds insiders and aligned believers; Entry 5 holds the broader population of potential engagers who are neither insiders nor committed opponents. Together they cover the population more completely than either does alone.
+
+*Entry 4 (Technical Vocabulary as Epistemic Closure):* Entry 4's anticipatory legibility attack ("emergent capabilities" as Move 4 deployed prospectively) is structurally related to PEC's Mechanism 3 (anticipatory classification). The difference: Entry 4's mechanism operates by establishing a technical framework before accountability claims arrive, which forecloses the evidentiary standard. PEC's Mechanism 3 operates by classifying the correcting experience as contamination before it occurs, which forecloses recognition. Both are anticipatory operations; Entry 4 targets the evidentiary standard, PEC Mechanism 3 targets the experiential recognition.
+
+---
+
+**The distinguishing test**
+
+What distinguishes Preventive Epistemic Closure from the other laundering moves is the locus of its operation:
+
+| Move | Locus | Target |
+|---|---|---|
+| Move 1 (care-register) | Framing of a specific act or output | The receiver's moral evaluation of that act |
+| Move 2 (bare verdict) | A specific claim | The claim's credibility |
+| Move 3 (disqualification of dissent) | The speaker raising a challenge | The speaker's standing to raise it |
+| Move 4 (unfalsifiable overlay) | The claim's relationship to evidence | The possibility of falsification |
+| Move 5 (euphemism) | The language describing an act | The act's legibility as harm |
+| Move 6 (benefit reframe) | The distribution of costs and benefits | The cost-bearer's visibility |
+| **Entry 5 (PEC)** | **The formation environment / social demonstration / anticipatory classification** | **The motivation to attempt engagement before it begins** |
+
+The six moves operate within an engagement that is already underway. PEC operates to prevent engagement from beginning. This is the mechanism's distinctive feature and its primary diagnostic.
+
+Applied as a test: if the person has not attempted engagement, and the reason is exposure to a formation environment, a social-proof demonstration, or an anticipatory classification — the PEC mechanism is the operative cause. The absence of engagement is the evidence, not the failure of a specific argument.
+
+---
+
+**BOUNDARY**
+
+What this entry establishes: (1) Preventive Epistemic Closure is a distinct pattern category not reducible to Move 4 or any single laundering move; it operates at the level of motivation to engage rather than at the level of a specific claim's falsifiability. (2) Three mechanisms are documented with primary source evidence in this ledger: formation environment exclusion (Cluster 5 INSTRUMENT), social-proof demonstration of futility (Entries 5.1 and 5.2), and anticipatory classification of the correcting encounter (Cluster 5 INSTRUMENT). (3) PEC operates as the first line of defense where Move 4 operates as the second; together they constitute complete epistemic closure. (4) At population scale, PEC operates through manufactured uncertainty (Cluster 9) and social-proof production (TPUSA transcript corpus) to prevent the attempt to engage with the policy question before any specific claim is encountered.
+
+What this entry does NOT establish: That all instances of people declining to engage represent PEC — many are rational responses to genuine costs of engagement that have nothing to do with the documented mechanisms. That PEC requires conscious design — social-proof demonstrations can train avoidance without being designed to do so. That the populations affected by PEC are incapable of engagement — PEC modifies the prior, not the capacity.
+
+What would falsify the pattern: Evidence that the formation environment exclusion mechanisms documented in Cluster 5 produce the same correcting-encounter rates as non-exclusionary environments; evidence that the TPUSA transcript corpus shows equal rates of public acknowledgment of student argument success and student argument failure; evidence that the manufactured uncertainty campaigns documented in Cluster 9 did not reduce public engagement with climate policy questions relative to the period before the campaigns were deployed.
+
+**Cross-references:** Cluster 5 INSTRUMENT (formation environment exclusion — primary structural instance); Entries 5.1 and 5.2 (TPUSA transcript primary source evidence for social-proof demonstration mechanism); Entry 8.1a (personal-scale PEC — "Zero. As little as possible." as preemptive accountability foreclosure declaration that trains would-be accountability-raisers not to attempt it); Cluster 9 Section A (fossil fuel manufactured uncertainty as population-scale PEC — "recognition of uncertainty becomes part of the conventional wisdom," API 1998); Pattern Registry Entry 1 (interpersonal isolation as PEC at coercive control scale); Pattern Registry Entry 2 (epistemic isolation as functional layer of convergence architecture — this entry names the mechanisms); Pattern Registry Entry 3 (care-vocabulary capture holds insider/believer population; PEC holds the broader non-committed observer population — the two mechanisms cover the population jointly); Pattern Registry Entry 4 (anticipatory legibility attack as Move 4's anticipatory variant — structurally related to PEC Mechanism 3 but targeting evidentiary standard rather than experiential recognition).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
