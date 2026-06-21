@@ -108,6 +108,17 @@ twitter:
     - "school choice"
     - "parental consent"
 
+    # --- Pathologizing vocabulary register (@yacineMTB Priority 6 / Cluster 3) ---
+    # Required for pattern closure: temporal persistence of clinical-register vocabulary
+    # post Jan 2026. Also catches Cluster 5 accounts using the same register.
+    - "chemical castration"
+    - "puberty blockers"
+    - detransition
+    - mutilation
+    - "sex change"
+    - "trans kids"
+    - "childhood transition"
+
     # --- Cross-cluster care-vocabulary signals (Pattern Registry Entry 3) ---
     - "for the children"
     - "for taxpayers"
