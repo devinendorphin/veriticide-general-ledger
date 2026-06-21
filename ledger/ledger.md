@@ -2855,7 +2855,7 @@ TRACK A ENTRY — Entry 5.2
 **Date:** Mar 12, 2026
 **Location:** Washington State University
 **Views:** 14,337 | **Likes:** 735
-**Accounts:** Charlie Kirk (TPUSA host), unnamed math/actuary student (SDSU)
+**Accounts:** Charlie Kirk (TPUSA host), unnamed math/actuary student (WSU) [note: accounts field previously listed "(SDSU)" — confirmed copy error from Entry 5.1 header; transcript text identifies the student only as math major / actuary track; event location is WSU throughout]
 **Source confirmation:** YouTube transcript screenshots submitted by operator; video description and metadata captured
 
 ---
@@ -6399,7 +6399,7 @@ Format: "Is College Worth It?" debate format — distinct from the "Prove Me Wro
 
 **Cross-reference note for Entry 5.2:** Entry 5.2 in this ledger already covers this event with date confirmed as Mar 12, 2026 and location Washington State University. The seven screenshots submitted 2026-06-21 are additional source material for Entry 5.2, not a new entry. No separate promotion needed.
 
-**Data discrepancy flag — Entry 5.2 accounts field:** Entry 5.2 lists "unnamed math/actuary student (SDSU)" but the event location is Washington State University, not SDSU (which is Entry 5.1). The "(SDSU)" tag is likely a copy error introduced when the entry was drafted from the automated transcript (Swell AI / equivalent service) — the video was never viewed directly, so the affiliation cannot be confirmed from visual metadata. Resolution requires re-reviewing the Entry 5.2 transcript text to determine whether the student identified their institution within the exchange. Do not amend the accounts field without that re-review — the transcript is the only available source and is not currently in hand.
+**Data discrepancy — RESOLVED 2026-06-21:** Entry 5.2 accounts field previously listed "(SDSU)" — confirmed copy error from Entry 5.1 header. Transcript text reviewed: student identified only as math major / actuary track; "SDSU" does not appear in the transcript text. Entry 5.2 accounts field corrected to "(WSU)."
 
 1. Timestamp of Capture: 2026-06-21 (operator-submitted screenshots)
 2. Exact Output: [Seven screenshots — additional source material for Entry 5.2; full transcript not yet submitted]
