@@ -2291,7 +2291,7 @@ What a CONTROL or NULL entry from this source would require: The originating ren
 
 ### CLUSTER 5 — CHRISTIAN NATIONALISM / TURNING POINT USA
 
-**Cluster note:** Entry constructed from doctrine, stated positions, and institutional actions of the Christian nationalist movement; Turning Point USA as primary youth-mobilization and institutional-capture operational instance. Capture date: 2026-06-18 (analytical entry; no scraper-collected records).
+**Cluster note:** Primary evidence sources: (1) TPUSA debate transcript corpus — "Prove Me Wrong" table format (Entry 5.1: San Diego State, "Trans vs. Detrans"); (2) doctrine, stated positions, and institutional actions of the Christian nationalist movement. INSTRUMENT entry constructed analytically; Entry 5.1 is primary-source transcript evidence. Capture date: 2026-06-18 (INSTRUMENT entry); transcript corpus added 2026-06-21. Production date for Entry 5.1 TK — pending source URL confirmation.
 
 ---
 
@@ -2366,6 +2366,184 @@ Cluster 3: Musk birthrate entries — natalist convergence.
 Cluster 4: DOGE — parallel institutional dismantlement of knowledge infrastructure.
 Pattern Registry: Interpersonal abuse at scale — epistemic isolation maps onto coercive control literature; prevention of child's contact with the correcting Other is the institutional-scale equivalent of intimate partner isolation.
 Track A Claude-instance entry — the deferential machinery that has historically protected powerful subjects from analysis is the same mechanism that has protected this movement from its structural function being named.
+
+===
+
+---
+
+TRACK A ENTRY — Entry 5.1
+
+**Source:** "Trans vs. Detrans: Charlie's Prove Me Wrong Table at San Diego State" — TPUSA production
+**Date:** [Transcript submitted; production date TK — pending source URL confirmation]
+**Platform:** TPUSA video production (YouTube/TPUSA distribution); transcript corpus
+**Accounts:** Charlie Kirk (TPUSA host), Chloe Cole (introduced mid-format as detransitioner), unnamed SDSU students
+**Verbatim specimen count:** Multiple exchanges documented below
+
+---
+
+**PRIMARY CLASSIFICATION: SPECIMEN**
+
+Moves present: MOVE 1 (care-register reframing), MOVE 3 (disqualification of dissent — definition trap variant + social disposal via editorial control), MOVE 5 (euphemism: "debate" / "discussion" / "Prove Me Wrong" for commercial production shoot), MOVE 6 (benefit reframe: "for the American people" / "pursuit of truth" while asymmetry runs entirely in one direction).
+
+This entry operates at two levels simultaneously: (A) the **format level** — the "Prove Me Wrong" structure itself as a veriticide instrument; (B) the **exchange level** — specific epistemic techniques deployed by Kirk within the format. Both levels are documented below. The format level is the primary specimen.
+
+---
+
+**COMPONENT A: FORMAT-LEVEL SPECIMEN**
+
+**Stated frame:**
+
+> "We're just here to hear from different ideas... in the pursuit of truth."
+
+(Kirk, opening the session — MOVE 1, care-register: "open discourse" / "free speech" / "pursuit of truth")
+
+**Operative structure (discriminating evidence):**
+
+The transcript exposes what the distributed video edits smooth over: sponsor inserts are embedded **inside the exchange sequence**, between student encounters. Documented inserts within the submitted transcript:
+
+- Noble Gold
+- Hillsdale College
+- Blackout Coffee
+- Rough Greens (dog supplements)
+
+These inserts are not pre-roll or post-roll. They are interstitial — positioned between student exchanges. The operative category is therefore not "debate" or "open discussion" but **commercial podcast production using campus students as unpaid content performers between paid advertising segments**. The MOVE 5 fraud is structural: the euphemism "Prove Me Wrong" / "in the pursuit of truth" classifies a produced commercial show as spontaneous public discourse.
+
+The discriminating question is not whether any individual exchange has genuine epistemic content — it is whether the label "open discussion" accurately describes the production structure. The sponsor insert placement answers the question without requiring any analysis of the exchange content itself.
+
+**Editorial control:**
+
+TPUSA holds editorial control over the distributed output. The students who engage Kirk do not control whether their exchange is included, cut, re-sequenced, or paired with framing narration. Kirk controls both the in-session content production (as host with platform and prepared arguments) and, through TPUSA's production infrastructure, the post-session output distribution. A format that is genuinely "open" to outcomes Kirk finds unfavorable requires Kirk to accept distribution of those outcomes. No such documented case exists in the corpus.
+
+**Two-on-one structural stacking:**
+
+Mid-format, Kirk introduces a pre-positioned witness:
+
+> "This is Chloe Cole. She's a detransitioner, everybody."
+
+Cole is not a spontaneous participant who arrived at the table. She is a pre-staged companion witness introduced at the moment the trans identity question is active. The trans student who then engages the exchange ("I am trans, and I'm on a chart here") is immediately addressing **both Kirk AND Cole simultaneously**, with Kirk as host controlling the floor and Cole providing the clinical-authority activation function (detransitioner testimony as lived evidence for Kirk's speculative TikTok-algorithm claim).
+
+This is structurally identical to the @NevadaLiberty64 / McHugh activation documented in Entry 3.5: bare assertion by the primary speaker + companion clinical authority deployed in sequence to convert the assertion into apparent empirical grounding. The addition of Cole converts "TikTok is making kids trans" from a contested claim into a claim with an adjacent survivor narrative — the rhetorical weight of Cole's experience is imported to support Kirk's statistical claim without Cole needing to establish that connection explicitly.
+
+**MOVE 3 at production level:**
+
+The editorial control mechanism is MOVE 3 (disqualification of dissent — accountability foreclosure variant) applied upstream of the content: exchanges that refute Kirk's claims can be cut or de-emphasized in distribution; exchanges that support them can be extended and amplified. The "Prove Me Wrong" framing claims the format is open to Kirk being proven wrong. The production structure ensures that "Kirk proven wrong" is not the output that gets distributed. The disqualification of dissent is built into the production architecture, not merely into Kirk's in-session responses.
+
+---
+
+**COMPONENT B: EXCHANGE-LEVEL SPECIMENS**
+
+**Exchange B1 — TikTok / trans identification (primary specimen)**
+
+Kirk's initial claim:
+
+> "TikTok is helping turn kids trans, yeah."
+
+Asserted as statement of fact. When challenged:
+
+> "I'm just asking, isn't TikTok playing a role in normalizing..."
+
+The assertion becomes a question under pressure. The rhetorical mechanic: the question carries the assertion's full rhetorical weight (the claim is now "in the room," has been heard by observers, has been linked to TikTok and trans identification in observers' minds) with none of the assertion's accountability cost (Kirk is "just asking"). The retreat to question-form removes the burden of proof without removing the argumentative payload. This is the **claim-without-commitment** move at its most explicit.
+
+Statistical outsourcing:
+
+> Kirk: "The increase of trans identification with youth in the last five years — it's up like 5,000%."
+> Cole: "[2,000–4,000%]"
+
+Kirk asserts a large round figure without sourcing. Cole provides a more precise (but still unsourced) range. The outsourcing function: Kirk's credibility is not staked on the number (he was "approximately" right), Cole carries the specific figure, and the exchange creates the impression that independent corroboration has occurred when Cole and Kirk are operating from the same political-epistemic ecosystem. The trans student who challenges the framing ("I am trans, and I'm on a chart here") is then navigating both the original claim and Cole's apparent confirmation simultaneously.
+
+**Exchange B2 — Women, depression, workforce participation**
+
+Kirk's formulation:
+
+> "Wouldn't women... stay at home and have children?"
+
+Structure: the question implies that workforce participation is the cause of women's reported unhappiness, and that staying home with children is the remedy. The false dilemma: the binary (workforce / home) erases all other variables (wage inequality, domestic labor distribution, access to healthcare, social support structures, institutional discrimination). Under pressure:
+
+> "I'm asking questions. I'm saying maybe the men are upset because..."
+
+Explicit "just asking questions" retreat. Then immediately:
+
+> "Of course I believe women should work. I believe in liberty."
+
+The liberty claim is asserted directly after making the functional argument that workforce participation causes women's depression. The contradiction is not resolved; the liberty claim is deployed to foreclose the accountability question ("see, I'm not anti-women-working") while the substantive argument (workforce participation = women's unhappiness) remains in the room as the operative content the exchange delivered.
+
+**Exchange B3 — Definition trap**
+
+> "Can you tell me what is a woman?"
+
+Deployed as a prerequisite for discussing women's rights, women's sports, or any gender-adjacent topic. Structural function: if the student cannot produce a definition satisfying Kirk's (unstated, moveable) standard, they lose the standing to participate in the subsequent argument. Kirk's own terms — the statistical claims, the TikTok assertion, the women/workforce hypothesis — are never submitted to an equivalent definitional standard. The definition trap is a one-directional epistemic checkpoint that the questioner controls and the respondent cannot pass regardless of the answer given, because Kirk controls whether the answer is "good enough."
+
+---
+
+**FORMATION-CAPTURE FUNCTION**
+
+The exchange-level specimens are individual instances. The format-level function is systematic: students in the audience who observe these exchanges learn that attempting cross-difference engagement in public results in the following outcomes:
+
+- Your argument is met with a prepared infrastructure (Kirk + Cole + production crew + pre-selected format rules) you did not know you were entering.
+- Your words, at whatever quality, are subject to editorial selection you do not control.
+- The "just asking questions" retreat is available to your interlocutor but not to you — questions are your opponent's weapon, not yours.
+- The clinical-authority activation (Cole) can be deployed at any moment to convert your personal testimony into a contested data point while your opponent's personal witness is treated as self-evidently authoritative.
+
+The cumulative training effect: cross-difference public engagement is a trap. The formation-capture thesis (Cluster 5 INSTRUMENT entry) states that TPUSA's operative goal is not to win the argument but to prevent the correcting experience of genuine contact with the Other from occurring. The "Prove Me Wrong" format accomplishes this not by winning the argument but by making the attempt to argue dangerous, humiliating, and asymmetric — which trains observers to avoid the attempt rather than to evaluate the specific claims advanced.
+
+This is the primary source evidence for the potential Pattern Registry entry: **Preventive Epistemic Closure** — distinct from MOVE 4 (unfalsifiable overlay on a specific claim) in that it operates at the level of formation-environment construction. MOVE 4 makes a claim unfalsifiable. Preventive epistemic closure makes the act of attempting falsification appear dangerous, while maintaining the care-register claim of open discourse.
+
+---
+
+**DISCRIMINATORS**
+
+Deniability: Available at format level ("we're promoting free speech and open discussion"). Foreclosed at documented production level: sponsor inserts embedded within exchanges, editorial control of output, pre-staged companion witness, and Kirk's consistent retreat to question-form under pressure collectively establish the operative category as commercial production shoot rather than open discourse.
+
+Direction: Concealment — the care-register of "open discussion" and "pursuit of truth" conceals the structurally asymmetric production format that controls the output.
+
+Beneficiary: TPUSA (commercial content production at zero talent cost), Kirk (platform credibility built on "willingness to engage"), Noble Gold / Hillsdale College / Blackout Coffee / Rough Greens (purchased placement within the open-discourse frame), the Christian nationalist political project (formation-capture of student observers). The students who engage Kirk receive no share of the commercial or credibility benefit; they bear the full asymmetric engagement cost.
+
+Boundedness: Format is bounded (this specific production structure). Pattern is unbounded within TPUSA's documented production output.
+
+---
+
+**ADVERSARIAL CHECK**
+
+Strongest innocent reading: University campuses are appropriate venues for challenging conversations. Kirk's willingness to engage directly with students who disagree is itself a form of engagement — most political figures would not do it. Even structurally asymmetric debates generate genuine epistemic value for observers who see the arguments tested. The presence of sponsor inserts is standard in podcasting and does not in itself transform the intellectual content. Students who engage Kirk are not coerced; they choose to approach the table.
+
+Why this reading fails: The specimen is not Kirk's willingness to engage — it is the gap between the stated frame ("open discussion," "pursuit of truth") and the documented production structure (commercial podcast with embedded sponsor inserts, editorial control of output, pre-staged companion witness introduced at the critical exchange moment). The MOVE 5 fraud requires the gap; it does not require the content to be entirely fake. A structurally asymmetric commercial production that sometimes produces genuine exchange is still a structurally asymmetric commercial production. The strongest refutation of the innocent reading is the Cole introduction: the moment a pre-staged witness with a specific political function is introduced mid-format, the "spontaneous open discussion" frame is closed. Cole's presence was planned; the trans student's encounter with both Kirk and Cole simultaneously was not announced in advance. That is not open discourse; that is a produced confrontation.
+
+---
+
+**COUNTER-EVIDENCE STATUS**
+
+On-record CONTROL or NULL entries for this source: NONE ON RECORD.
+
+What a CONTROL entry from this source would require: A distributed TPUSA "Prove Me Wrong" production in which Kirk publicly acknowledges that a student challenger had the better argument on the merits — distributed in TPUSA's own content output, not clipped by a third party. The editorial control mechanism makes this requirement structurally difficult to satisfy: the output that would constitute a CONTROL entry would require TPUSA to distribute content in which its own format produced a result unfavorable to its host.
+
+What a NULL entry would require: A TPUSA session in which no laundering moves are present — genuine open discourse without the commercial production structure, without pre-staged companion witnesses, and with Kirk genuinely submitting his own claims to the same definitional requirements he imposes on students.
+
+---
+
+**BOUNDARY**
+
+This entry establishes:
+1. The "Prove Me Wrong" format uses the care-register of open discourse while operating as a structurally asymmetric commercial production, evidenced by sponsor inserts embedded within the exchange sequence.
+2. Specific epistemic techniques (claim-without-commitment, definition trap, statistical outsourcing, two-on-one witness stacking) are present and documented in the San Diego State transcript.
+3. The format's formation-capture function — training observers that cross-difference engagement is a trap — operationalizes the preventive epistemic closure mechanism described in the Cluster 5 INSTRUMENT entry.
+4. The Cole activation structure is directly parallel to the @NevadaLiberty64/McHugh activation documented in Entry 3.5 Component A: bare assertion + companion clinical authority deployed in sequence to import clinical-authority weight to a contested claim.
+
+Does NOT establish:
+- Kirk is never capable of genuine engagement in any format.
+- All TPUSA events follow this exact production structure.
+- The specific students who engaged Kirk were permanently epistemologically harmed.
+- No one in the campus audience derived genuine epistemic value from observing the exchange.
+- The statistical claims Kirk advances (TikTok correlation, youth gender identification trends) are factually incorrect — their accuracy is a separate question from the epistemic technique used to advance them.
+
+---
+
+**CROSS-REFERENCES**
+
+Cluster 5 INSTRUMENT entry — formation-capture thesis; epistemic isolation as primary mechanism.
+Entry 3.5 Component A — @NevadaLiberty64/McHugh clinical-authority activation structure (direct parallel to Cole introduction).
+Entry 3.5b Component A — Grok SPECIMEN on biological sex: bare categorical verdict + denial clause as claim-without-commitment variant.
+Pattern Registry: Interpersonal abuse at scale — definition trap as a gaslighting technique (the respondent cannot win regardless of answer quality because the questioner controls the standard).
+Pattern Registry (proposed): Preventive Epistemic Closure — this entry is the primary source evidence.
 
 ===
 
