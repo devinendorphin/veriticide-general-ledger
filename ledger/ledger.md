@@ -2087,7 +2087,9 @@ What a CONTROL or NULL entry from this source would require: A documented OP fun
 
 **Operative function**
 
-Open Philanthropy is the mechanism through which EA/longtermism philosophy is translated into AI lab funding. The philosophical infrastructure (EA) and the funding infrastructure (OP) are not separate — the funder is also the philosophical beneficiary. OP has funded Anthropic directly; OP funds AI safety research at multiple organizations. The funding decisions consistently validate AI development as the most important cause. This is the Move 6 asymmetry tell at the institutional level: the class claiming the benefit (AI development is humanity's most important project) is the class making the philanthropic decisions about what to fund.
+Open Philanthropy is the mechanism through which EA/longtermism philosophy is translated into AI-development-adjacent funding. The philosophical infrastructure (EA) and the funding infrastructure (OP) are not separate — the funder is also the philosophical beneficiary. OP funds AI safety research at multiple organizations. The funding decisions consistently validate AI development as the most important cause. This is the Move 6 asymmetry tell at the institutional level: the class claiming the benefit (AI development is humanity's most important project) is the class making the philanthropic decisions about what to fund.
+
+**Correction note (sourced June 2026):** Prior versions of this entry asserted "OP funded Anthropic directly." This is factually incorrect and must not be carried. The $580M attributed to OP was Anthropic's April 2022 Series B, led by Sam Bankman-Fried / FTX / Alameda Research (~$500M); OP made no documented direct grant or investment to Anthropic as an institution. The documentable connection is personal and relational: (1) Dustin Moskovitz personally invested in Anthropic's May 2021 Series A ($124M round); his stake was valued at approximately $500M and moved to a nonprofit vehicle in early 2025. (2) Holden Karnofsky, OP's co-founder and co-CEO until 2023, is married (since August 2017) to Daniela Amodei, Anthropic President — a relationship OP itself disclosed in its March 2017 OpenAI grant writeup and then ceased disclosing in grant writeups by default as of August 2017. Karnofsky joined Anthropic in January 2025 as technical staff working on the Responsible Scaling Policy. (3) Dario Amodei and Paul Christiano were listed as "technical advisors to Open Philanthropy" in the 2017 disclosure. The structural non-independence documented in this entry is real — it operates through personal investment and relational conflict-of-interest, not through OP's institutional grant-making to Anthropic. See TB-007 (Track B) for the corrected chain documentation.
 
 **Move 6 (asymmetry tell — structural)**
 
@@ -2109,7 +2111,7 @@ OP funded Anthropic's development. Anthropic is a primary AI safety lab. The phi
 
 **BOUNDARY**
 
-What this entry establishes: That Open Philanthropy constitutes the funding infrastructure connecting EA/longtermism philosophy to AI lab development; that the funder and the philosophical beneficiary are structurally the same class; that the "most important century" framing performs a Move 4 function foreclosing governance critique; that OP's direct funding of Anthropic creates a non-independent relationship between the safety philosophy and the safety lab.
+What this entry establishes: That Open Philanthropy constitutes a funding infrastructure whose philosophical direction (AI safety as the most important cause) and personal/relational ties (Karnofsky-Amodei marriage; Moskovitz personal Anthropic investment) create structural non-independence with the AI labs it validates; that the funder and the philosophical beneficiary are structurally the same class; that the "most important century" framing performs a Move 4 function foreclosing governance critique; that the personal and relational conflict-of-interest structure — not OP's direct institutional funding of Anthropic, which did not occur — is the load-bearing non-independence claim.
 
 What this entry does NOT establish: That the concern about AI risk is fabricated; that OP's grants have produced no real benefit; that Karnofsky's beliefs are insincere.
 
@@ -2253,7 +2255,7 @@ Interested-party test: the framing that codes the aid gap as philanthropic oppor
 
 **GAP FORMULA:** Stated concern X = filling "the most important gaps we see," including the aid gap. Material remedy Y for that specific gap = restoration of / accountability for the government-aid dismantlement that created it. Offered = ~$1B private philanthropy that names the dismantlement as neutral "demand." Voicing concern for the gap while coding its deliberate cause as a market condition is the load-bearing move.
 
-**CLASSIFICATION: SPECIMEN** — Move 6 (benefit/opportunity reframe, asymmetry tell), Move 5 (euphemism: "retrenchment," "Coefficient Giving"). Convergence-architecture data point. Cross-reference: Cluster 6 Entry 6.2 (Open Philanthropy — same entity, pre-rebrand; OP funded Anthropic, linking to Cluster 2), Cluster 4 / TC-001 (USAID/PEPFAR dismantlement — the harm here recoded as demand), Cluster 2 (AI-boom wealth as supply side), Pattern Registry (convergence architecture).
+**CLASSIFICATION: SPECIMEN** — Move 6 (benefit/opportunity reframe, asymmetry tell), Move 5 (euphemism: "retrenchment," "Coefficient Giving"). Convergence-architecture data point. Cross-reference: Cluster 6 Entry 6.2 (Open Philanthropy — same entity, pre-rebrand; relational/personal ties to Anthropic via Karnofsky-Amodei and Moskovitz personal investment, linking to Cluster 2), Cluster 4 / TC-001 (USAID/PEPFAR dismantlement — the harm here recoded as demand), Cluster 2 (AI-boom wealth as supply side), Pattern Registry (convergence architecture).
 
 **ADVERSARIAL CHECK**
 Strongest innocent reading: Coefficient Giving is responding to a gap that exists regardless of their framing of its cause — people are dying and they are directing $1B toward preventing those deaths. Calling the aid dismantlement "retrenchment" is not necessarily a laundering choice; it is a neutral descriptor for a policy change. The rebrand to "Coefficient Giving" reflects a genuine organizational change (multidonor orientation) rather than an attempt to obscure. A philanthropic organization that fills gaps left by government failure is performing a legitimate social function; framing that as an "opportunity" is how effective philanthropies talk about need.
@@ -2301,7 +2303,7 @@ Interested-party test: the framing that codes the aid gap as philanthropic oppor
 
 **GAP FORMULA:** Stated concern X = filling "the most important gaps we see," including the aid gap. Material remedy Y for that specific gap = restoration of / accountability for the government-aid dismantlement that created it. Offered = ~$1B private philanthropy that names the dismantlement as neutral "demand." Voicing concern for the gap while coding its deliberate cause as a market condition is the load-bearing move.
 
-**CLASSIFICATION: SPECIMEN** — Move 6 (benefit/opportunity reframe, asymmetry tell), Move 5 (euphemism: "retrenchment," "Coefficient Giving"). Convergence-architecture data point. Cross-reference: Cluster 6 Entry 6.2 (Open Philanthropy — same entity, pre-rebrand; OP funded Anthropic, linking to Cluster 2), Cluster 4 / TC-001 (USAID/PEPFAR dismantlement — the harm here recoded as demand), Cluster 2 (AI-boom wealth as supply side), Pattern Registry (convergence architecture).
+**CLASSIFICATION: SPECIMEN** — Move 6 (benefit/opportunity reframe, asymmetry tell), Move 5 (euphemism: "retrenchment," "Coefficient Giving"). Convergence-architecture data point. Cross-reference: Cluster 6 Entry 6.2 (Open Philanthropy — same entity, pre-rebrand; relational/personal ties to Anthropic via Karnofsky-Amodei and Moskovitz personal investment, linking to Cluster 2), Cluster 4 / TC-001 (USAID/PEPFAR dismantlement — the harm here recoded as demand), Cluster 2 (AI-boom wealth as supply side), Pattern Registry (convergence architecture).
 
 **BOUNDARY:**
 - Establishes: that the renamed Open Philanthropy ("Coefficient Giving") recorded $1B+ directed in 2025 and, in its CEO's own framing, codes government-aid dismantlement as philanthropic "demand" and the AI boom as philanthropic "supply."
@@ -3360,14 +3362,102 @@ Entry 3 addendum written and inserted. Pattern Registry Entry 3 status upgraded 
 
 ---
 
-**Track B — Open Chains (requiring further documentation)**
+---
+
+**TB-004: DOGE General Authorization Structure**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 4 (DOGE main INSTRUMENT entry); TB-001 (USAID/PEPFAR specific chain) |
+| **Authorization type** | Direct (EO 14158 + follow-on EOs); Permissive → Constructive (post-court-order continuation) |
+| **Named authorizers** | President Trump (EOs; public statement placing Musk "in charge"); Elon Musk (operational; Appointments Clause finding — see Chuang ruling); Amy Gleason (acting USDS administrator, named only under litigation pressure); Russell Vought (OMB Cost Efficiency Initiative, Feb 26 / pub. Mar 3, 2025) |
+| **Documentation** | EO 14158 (Jan 20, 2025) — establishes USDS/DOGE inside EOP, directs agency heads to give "full and prompt access to all unclassified agency records, software systems, and IT systems"; EO "Workforce Optimization Initiative" (Feb 11, 2025) — DOGE Team Leads, 1:4 hiring ratio; "Cost Efficiency Initiative" (Feb 26, 2025) — payment-justification systems; small-agencies EO (Feb 19, 2025) targeting USIP, IAF, USADF; five federal court rulings (see below) |
+| **Chain** | Trump EO → USDS/DOGE → agency-level DOGE teams → specific dismantlement actions (CFPB stop-work; USIP building seizure; Treasury payment-rail access; USAID) |
+| **Gap** | Statutory basis for classified-system access (EO 14158 disclaims it; access reportedly occurred regardless); specific authorization instruments for individual agency-level data sharing beyond Treasury; the formal USDS acting administrator role was unclear until litigation forced disclosure |
+
+**Court rulings (primary-source):**
+
+*CFPB — NTEU v. Vought, D.D.C., Judge Amy Berman Jackson (March 28, 2025):* 112-page preliminary injunction barring dismantlement, ordering reinstatement of fired employees, preservation of data, rescission of stop-work order; DOGE named as enjoined party "in active concert or participation" with CFPB leadership; continued wind-down planning after TRO described as "more likely a charade for the Court's benefit." D.C. Circuit (April 11, 2025) partially stayed the injunction; case ongoing.
+
+*USIP — USIP v. Jackson, D.D.C., Judge Beryl Howell (May 19, 2025):* Building seizure, removal of president/board, mass terminations, and transfer of HQ to GSA ruled "null and void," effected by "illegitimately-installed leaders who lacked legal authority." Called "a gross usurpation of power."
+
+*USAID — Does 1–26 v. Musk, D. Md. (8:25-cv-00462), Judge Theodore Chuang (March 18, 2025):* Partial preliminary injunction finding Musk and DOGE "likely violated the Constitution's Appointments Clause and separation of powers"; first ruling that Musk "likely exercised significant authority" requiring Senate confirmation. "Senior adviser" defense rejected: allowing it "would reduce the Appointments Clause to nothing more than a technical formality." "No statute authorizes the Executive Branch to shut down USAID." Musk's "fed USAID into the wood chipper" post cited.
+
+*Treasury — New York v. Trump, S.D.N.Y., Judge Vargas (Feb–May 2025):* TRO (Feb 21) finding Treasury DOGE Team access process "arbitrary and capricious," rollout "chaotic and haphazard." Modified injunction (May 27) allowing four vetted DOGE members after financial-disclosure conditions. Treasury OIG and GAO reviews opened.
+
+*States — New Mexico v. Musk, D.D.C., Judge Chutkan:* TRO denied (Feb 18) but Appointments Clause case allowed to proceed (mid-2025): "The Constitution does not permit the Executive to commandeer the entire appointments power by unilaterally creating a federal agency and insulating its principal officer from the Constitution as an 'advisor' in name only."
+
+*Authorization type assessment:* DIRECT established: Trump signed EOs, publicly named Musk. PERMISSIVE → CONSTRUCTIVE: administration continued dismantlement after TROs (CFPB "charade" finding; USIP appeal rather than reversal; Treasury implementation after Vargas modification). Chuang's Appointments Clause ruling is the primary source establishing Musk's authority exceeded the "senior adviser" classification used in government filings.
+
+*Convention element:* Art. II(2)(d) terminal-node — accountability mechanisms (courts, IGs, GAO) bypassed or appealed rather than reversed. The authorization chain documents not only what was authorized but the active suppression of the mechanisms designed to evaluate the authorization's legality.
+
+---
+
+**TB-005: TPUSA → State Legislative / Political Operations**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 5 (TPUSA INSTRUMENT entry) |
+| **Authorization type** | Direct (organizational decisions; TPAction GOTV; state chapter partnerships; Georgia "TPUSA Act"); Indirect/mediated for substantive gender/bathroom/curriculum statutes |
+| **Named authorizers** | Charlie Kirk (CEO; died September 2025); Tyler Bowyer (COO, Turning Point Action); Josh Thifault (Senior Director, TPAction — state partnerships); Georgia Lt. Gov. Burt Jones (sponsor of 2026 "TPUSA Act") |
+| **Documentation** | TPUSA/TPAction organizational structure (own materials); Project 2025 Advisory Board membership (Heritage Foundation acknowledgments, Mandate for Leadership); Tennessee state partnership (Dec 12, 2024 event, Sen. Blackburn + state Senate Majority Leader Jack Johnson — Nashville Scene); Georgia "TPUSA Act" announcement (Feb 23, 2026, CBS Atlanta); Wisconsin Supreme Court race GOTV (2025); TPAction 2024 battleground GOTV (co-led Trump turnout); School Board Watchlist (2021 — publishes names/photos of school board members over mask, vaccine, race/gender policies) |
+| **Chain** | Kirk/TPAction → voter mobilization → elected TPUSA-aligned legislators → ADF/Heritage model legislation (gender-affirming care bans, bathroom bills, curriculum restrictions); direct for Georgia "TPUSA Act" (named after Kirk, TPAction-endorsed); direct for Project 2025 advisory board role → Heritage policy apparatus |
+| **Gap** | TPUSA's direct authorship of specific gender/bathroom/curriculum statutes is NOT established in primary records — bill-drafting and testimony for those bills is primarily Alliance Defending Freedom (ADF) and Heritage Foundation. TPUSA's role in that legislative outcome is electoral mobilization (one degree removed from the statute) rather than direct bill authorship or testimony. The authorization chain from TPUSA to those specific statutes runs through two degrees: TPUSA → elected legislators → ADF/Heritage model bills. |
+
+*Claim precision note:* ADF mailed model bills to thousands of school districts and is "nearly always involved" in gender/bathroom legislation (NBC News). TPUSA provides the electoral infrastructure that elects ADF-aligned legislators; Heritage/ADF provide the model legislation. Both are required components of the overall authorization chain. This entry documents TPUSA's contribution. Asserting TPUSA directly authored these bills would misstate the record.
+
+*Authorization type assessment:* DIRECT for GOTV/electoral operations, state chapter partnerships, Project 2025 advisory board, and Georgia "TPUSA Act." CONSTRUCTIVE for substantive gender/bathroom/curriculum legislation — TPUSA's electoral operations created the legislative majorities that enacted bills authored by affiliated organizations.
+
+*Convention element:* Art. II(2)(d) — the authorization chain documents the organizational infrastructure that built the legislative environment for the policies documented in Cluster 5. The terminal-node condition operates at the electoral and educational-institution levels.
+
+---
+
+**TB-006: a16z / Andreessen → Manifesto-Consistent Portfolio Harm / Political Operations**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 8 (Techno-Optimist Manifesto INSTRUMENT entry) |
+| **Authorization type** | Direct (manifesto; SB 1047 lobbying; political giving); Direct for portfolio investment; portfolio-harm chain documented for Flock Safety |
+| **Named authorizers** | Marc Andreessen (managing partner; manifesto author; public SB 1047 opponent); Ben Horowitz (co-managing partner; Fairshake/political giving direction); Anjney Midha + Martin Casado (GPs; led stopsb1047.com campaign); a16z as lead/major investor in Flock Safety (Series D ~$150M lead, July 2021; Series E ~$275M, March 2025) |
+| **Documentation** | Manifesto on a16z.com (Oct 16, 2023) — names as "enemies": existential risk, sustainability, ESG, social responsibility, stakeholder capitalism, Precautionary Principle, trust and safety, tech ethics, risk management, de-growth; stopsb1047.com (a16z-launched); Fairshake PAC FEC filings (~$70M a16z through early 2025, ~$24M added for 2026; total Fairshake ~$193M cash-on-hand per CoinDesk Jan 28, 2026); "Leading the Future" AI PAC ($25M from Andreessen/Horowitz, Jan 2026); Flock Safety: SF class action (Feb 2026, ~1.6M unauthorized federal/out-of-state queries); EFF 12M-search audit (Dec 2025) documenting 80+ agencies using anti-Romani stereotypes; House Oversight Committee investigation (abortion surveillance — Johnson County TX search probed 6,809 networks / 83,345 cameras; Oct 2025); Norfolk/Institute for Justice federal suit |
+| **Chain** | Andreessen publishes manifesto naming accountability infrastructure as "enemies" → a16z invests in Flock Safety (ALPR network) → network expands to 3,900+ agencies → documented population-level surveillance harms → class actions and congressional investigation; AND: Andreessen/Horowitz → Fairshake + Leading the Future PAC → $94M+ political spending → candidates opposing AI/surveillance regulation |
+| **Gap** | No primary document exists where Andreessen/a16z explicitly labeled a specific enforcement action against a Flock Safety as a manifesto "enemy" by name — the connection is structural/inferential, not a direct quote. Clearview AI (BIPA settlement ~$51.75M) is a major surveillance-harm case but is NOT an a16z portfolio company — must not be conflated with Flock. Harm chain for other "enemy-sector" portfolio companies (predictive policing, biometric, AI hiring) is less documented than Flock. |
+
+*Note: The ACLU explicitly tied Flock Safety's surveillance expansion to backer Marc Andreessen. The House Oversight investigation documented that the abortion-surveillance search "probed 6,809 networks... including 83,345 cameras" nationwide, raising documented reproductive-rights harm from the Flock network in which a16z is the lead investor.*
+
+*Authorization type assessment:* DIRECT for manifesto publication (the ideological authorization), SB 1047 opposition, and political giving (FEC-documented). DIRECT for Flock Safety investment. The harm chain for Flock Safety is documentable: a16z leads investment → ALPR network deployment → documented surveillance abuse → class actions + congressional investigation → ACLU ties Andreessen personally. The investment-to-harm chain is the cleanest primary-source line in this entry.
+
+*Convention element:* Art. II(2)(d) — the manifesto's "enemy list" names the accountability infrastructure (trust and safety, tech ethics, risk management) that would constrain the harms documented here; the political giving funds the defeat of those oversight mechanisms; the portfolio companies operationalize the manifesto's framework in deployed systems.
+
+---
+
+**TB-007: Open Philanthropy / Anthropic — Conflict-of-Interest Chain (CORRECTED PREMISE)**
+
+*Premise correction: Prior versions of Entry 6.2 asserted "OP funded Anthropic directly" and cited ~$580M. This is factually incorrect. The $580M was Anthropic's April 2022 Series B, led by SBF / FTX / Alameda Research (~$500M of $580M, approximately 8% equity stake). OP made no documented direct grant or investment to Anthropic as an institution. FTX's Anthropic stake was sold in two 2024 tranches for ~$1.3B total ($884M in March 2024; ~$450M in June 2024). The documentable Track B chain is a personal-investment and relational conflict-of-interest structure.*
+
+| Field | Content |
+|---|---|
+| **Act reference** | Entry 6.2 (Open Philanthropy INSTRUMENT entry); Cluster 2 (Anthropic INSTRUMENT cluster) |
+| **Authorization type** | Constructive (personal investment + relational conflict-of-interest producing structural non-independence); NOT direct institutional funding |
+| **Named principals** | Dustin Moskovitz (OP primary funder; personally invested in Anthropic May 2021 Series A, $124M round; stake ~$500M; moved to nonprofit vehicle early 2025); Holden Karnofsky (OP co-founder / co-CEO until 2023; married Daniela Amodei, Anthropic President, August 2017; joined Anthropic January 2025 working on RSP); Cari Tuna (Moskovitz's wife; OP co-funder); Dario Amodei + Paul Christiano (listed as "technical advisors to Open Philanthropy" in OP's March 2017 OpenAI grant disclosure) |
+| **Documentation** | Anthropic Series A press release (May 2021) — Moskovitz listed as investor; OP's March 2017 OpenAI grant writeup — disclosed Karnofsky's engagement to Daniela Amodei, Dario Amodei and Paul Christiano as OP technical advisors "who live in the same house as Holden"; OP's August 2017 policy change — ceased publishing relationship disclosures in grant writeups by default; Karnofsky/Anthropic announcement (January 2025); Fortune (Nov 2025) on Moskovitz nonprofit vehicle |
+| **Chain** | Moskovitz personal Anthropic investment → financial stake in Anthropic's success → OP philosophical decisions establishing AI safety as priority cause area → self-validating loop; AND: Karnofsky OP co-CEO → "most important century" framework → AI safety as priority cause → Karnofsky married to Anthropic President → Karnofsky joins Anthropic 2025; AND: OP reduces relationship disclosures August 2017 (at the moment these ties become significant) |
+| **Gap** | OP made no documented direct grant or investment to Anthropic — the chain does not include institutional direct funding. Internal OP deliberation records not public. Whether the relational conflict-of-interest structure influenced OP's broader AI-safety funding decisions (beyond Anthropic specifically) is documentable circumstantially but not in primary form |
+
+*Authorization type assessment:* CONSTRUCTIVE. Moskovitz's personal investment and Karnofsky's marriage to Anthropic's president while setting OP's philosophical direction on AI created structural conditions in which OP's philosophical validation of AI development as the most important cause and Anthropic's operation as the primary "safe" AI lab are mutually reinforcing through personal channels rather than institutional ones. OP's August 2017 reduction of relationship disclosures is the documented conduct that concretizes the constructive authorization: awareness of the conflict, continued operations, reduced transparency.
+
+*This is a conflict-of-interest chain, not a direct-funding chain. It is documentable and structurally significant — the non-independence is real — but the form of the chain is different from TB-001 through TB-003.*
+
+---
+
+**Track B — Open Chains (updated)**
 
 | Chain | Status | Primary gap |
 |---|---|---|
-| DOGE general authorization structure (beyond USAID/PEPFAR) | Partial | Specific statutory authority for DOGE's dismantlement powers; constitutional challenges pending |
-| Christian nationalism / TPUSA → state legislative campaigns | Not yet documented | Authorization chain from TPUSA organizational decisions to specific legislative campaigns |
-| EA / Open Philanthropy → AI lab funding decisions | Partial (Entry 6.2) | Internal OP deliberation records on Anthropic funding; relationship between OP philosophical positions and funding decisions |
-| a16z / Andreessen → portfolio company harm record | Open (Track B gap, Cluster 8) | Portfolio company authorization chains; requires investigative sourcing |
+| DOGE general authorization structure | Documented — TB-004 | Appeal outcomes pending; classified-system access authorization undocumented |
+| Christian nationalism / TPUSA → state operations | Documented — TB-005 | ADF/Heritage → specific statutes: separate authorship chain not yet filed |
+| EA / Open Philanthropy → Anthropic | Documented — TB-007 (CORRECTED) | Internal OP deliberation records not public; direct institutional funding claim corrected |
+| a16z / Andreessen → portfolio harm | Documented — TB-006 | Manifesto → specific enforcement-blocking: inferential; Flock harm chain is primary-source anchor |
 
 ---
 
