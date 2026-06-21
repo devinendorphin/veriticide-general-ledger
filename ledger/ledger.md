@@ -4864,6 +4864,69 @@ New SPECIMEN filed: x-yacinemtb-eating-children (08 Feb 26, 252K views) — "the
 
 ---
 
+**TB-008: Palantir Technologies — Authorization Chain (Three Threads)**
+
+*Structure note: Palantir's authorization chain does not follow a single principal-to-act structure. It has three distinct government-relationship threads, each with its own contracting agency, authorization type, and harm output. They are documented separately within this entry. All three threads are active concurrently as of the filing date (2026-06-21).*
+
+**Thread A — CIA / In-Q-Tel Origination (2004–present)**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 10 (Palantir INSTRUMENT entry); structural position as intelligence community infrastructure |
+| **Authorization type** | DIRECT: In-Q-Tel investment/contract (CIA's venture capital arm; In-Q-Tel functions as the CIA's mechanism for acquiring and developing commercial technology for intelligence use — an In-Q-Tel investment is a de facto CIA procurement instrument). CONSTRUCTIVE: Thiel's personal cultivation of the CIA relationship as founding architecture |
+| **Named principals** | Peter Thiel (Palantir co-founder; provided initial ~$2M seed capital; brokered the In-Q-Tel relationship that became Palantir's founding client); In-Q-Tel (CIA's investment arm; invested in Palantir circa 2004–2005, making the CIA one of Palantir's first significant clients); Alex Karp (CEO throughout) |
+| **Chain** | 9/11 intelligence failure → government demand for data-integration platform to connect siloed intelligence databases → Thiel identifies market; provides seed capital; introduces Palantir to In-Q-Tel → In-Q-Tel investment creates CIA as founding client → CIA contract revenue funds Palantir's first operational period → intelligence community becomes Palantir's primary client base for the following decade → classified product deployments accumulate with no independent accountability mechanism → Palantir goes public (PLTR, NYSE, 2020) with government revenue as core business |
+| **Documentation** | Palantir 10-K filings (government revenue as percentage of total revenue, consistently documented as majority through 2022); multiple reported profiles documenting Thiel's account of the CIA/In-Q-Tel introduction (Wall Street Journal, Bloomberg, multiple profiles 2013–2022); In-Q-Tel public disclosures (In-Q-Tel does not publish full portfolio but Palantir's relationship has been confirmed in multiple primary sources); Thiel public statements at conferences including explicitly describing calling on the intelligence community to create the initial relationship |
+| **Gap** | Specific CIA contracting officers and program managers who authorized the original In-Q-Tel relationship not publicly named; internal CIA evaluation records of Palantir product performance not accessible; whether specific intelligence products built on Palantir systems have been audited for civil liberties impact is undocumented in the public record |
+
+*Authorization type assessment:* DIRECT (In-Q-Tel as CIA procurement instrument) + CONSTRUCTIVE (Thiel's personal founding architecture). This thread establishes that Palantir's entire corporate existence was predicated on a direct government intelligence relationship from its first year of operation. The product was built to serve the intelligence community, and that design intent is reflected in the classified architecture that prevents independent accountability review across all subsequent threads.
+
+---
+
+**Thread B — ICE FALCON: Immigration Enforcement Targeting (2012–present)**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 10 (Palantir INSTRUMENT entry); Cluster 4 (DOGE — ICE FALCON documented as Palantir; TB-004 authorization chain passes through this infrastructure) |
+| **Authorization type** | DIRECT: Signed DHS/ICE government contract. PERMISSIVE: No Congressional legislation imposed accuracy-reporting, error-rate disclosure, or civil liberties review requirements on FALCON's deployments before or during the period of documented expansion |
+| **Named principals** | DHS/ICE (contracting agency); Palantir Technologies (contractor, Karp as CEO throughout). Specific ICE contracting officials: not named in the public record by name in connection with the original FALCON contract award |
+| **System description** | FALCON — Forensic Analysis Collaboration Network. Palantir-built data integration platform that allows ICE agents to query multiple federal and commercial databases (DHS records, criminal history, financial records, social media, commercial data broker records) simultaneously against a single target profile. Enables cross-reference identification and targeting at a scale not possible through manual database queries |
+| **Chain** | ICE data-integration need (post-9/11 inter-agency sharing mandate) → FALCON contract award to Palantir (approximately 2012–2014, original contract; renewals and expansions documented through public contract databases) → FALCON becomes operational tool for ICE deportation targeting → DOGE 2025 data-access operations align with FALCON's data-integration architecture; multiple reporting sources document Palantir model as reference architecture for DOGE data access → ICE deportation targeting at scale uses Palantir-built system |
+| **Documentation** | The Intercept: multiple investigative pieces on ICE FALCON documenting system capabilities, database integrations, and deployment scope (primary investigative sourcing, 2017–2025); FOIA-released ICE procurement documents describing FALCON's data sources and capabilities; federal contract database (USASpending.gov) documenting Palantir/DHS contract awards; ACLU and EFF analyses of FALCON's civil liberties implications citing primary contract documents |
+| **Gap** | Specific ICE contracting officials who authorized original FALCON award not named in public record; accuracy and false-positive rates for FALCON's targeting outputs are not publicly disclosed; number of deportations in which FALCON was a contributing targeting instrument: not disaggregated in public ICE reporting |
+
+*Authorization type assessment:* DIRECT (signed government contract, DHS/ICE) + PERMISSIVE (no accountability requirements imposed by Congress on FALCON deployments despite documented civil liberties concerns raised in public record from at least 2017 forward). The gap between documented harm potential (immigration enforcement against populations not designated as security threats, cross-referenced against commercial data without judicial authorization) and the absence of any public accuracy or error-rate disclosure is the same accountability gap MOVE 5 (bureaucratic abstraction) and the classification architecture are designed to maintain.
+
+---
+
+**Thread C — Army TITAN and DoD AI Targeting (2018–present)**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 10 (Palantir INSTRUMENT entry — Palantir AIP as "honest version" of civilian AI safety-washing; military AI targeting without public accountability discourse) |
+| **Authorization type** | DIRECT: Multiple signed DoD contracts. Army TITAN contract (2023): direct Congressional-appropriated procurement. Broader AIP DoD contracts: documented in Palantir 10-K as "U.S. Government" revenue segment |
+| **Named principals** | U.S. Army Futures Command (TITAN contracting authority); Department of Defense (broader AIP contracting); Palantir Technologies (prime contractor, Karp as CEO); Alex Karp (public face of Palantir's military AI positioning — has explicitly championed Palantir's military AI capability as central to Western civilizational competition) |
+| **System description** | TITAN — Tactical Intelligence Targeting Access Node. Army ground-based system integrating AI processing of intelligence feeds (imagery, signals, human intelligence) to accelerate targeting decision cycles for ground commanders. Palantir awarded TITAN contract in 2023 for approximately $178M (first phase); contract envisions integration of Palantir AIP's AI capabilities into the Army's targeting workflow. AIP more broadly: Palantir's AI Platform deployed across DoD and intelligence community for "decision intelligence" — the product that generates targeting recommendations from integrated data feeds in operational military environments |
+| **Chain** | Post-9/11 DoD data-integration demand → Palantir DoD contracts (first Army contracts approximately 2018; Air Force, Navy, SOCOM followed) → Palantir AIP launch 2023 (AI layer on top of existing data-integration infrastructure) → TITAN contract 2023 (Army's explicit AI-for-targeting procurement; Palantir as prime contractor) → Palantir military AI revenue becomes growth driver (government revenue as % of total revenue: approximately 55% in 2024 per 10-K) → AI-enabled targeting deployed at operational scale; accuracy and error rate for AI targeting recommendations: classified |
+| **Documentation** | Breaking Defense (March 2023): TITAN contract award reporting with contract value; Army Futures Command contracting announcements; Palantir 2023 and 2024 10-K filings (government revenue segment; AIP revenue growth specifically cited); Karp public statements at Palantir AIP demonstrations explicitly describing military use cases; DoD contract database (USASpending.gov) documenting total Palantir DoD contract awards across agencies |
+| **Gap** | Accuracy and error rate of TITAN and AIP targeting recommendations: classified. Civilian casualty rates attributable to AI-assisted targeting decisions: not publicly disclosed. Congressional oversight hearings on AI targeting accuracy requirements: sparse; no binding accuracy-reporting requirement imposed on TITAN or AIP military deployments as of filing date. Whether a human-in-the-loop requirement is operative in TITAN deployments: operationally classified |
+
+*Authorization type assessment:* DIRECT (multiple signed DoD contracts, Army TITAN as most specific documented instance) + PERMISSIVE (Congress has not imposed mandatory accuracy-reporting or human-review requirements on AI-assisted military targeting systems; the absence of accountability requirements is the permissive authorization that allows deployment without independent verification of the care-vocabulary's accuracy claims). This thread is the primary support for Cluster 10's claim that Palantir AIP is "the honest version of what safety-washing conceals" — it is civilian AI safety discourse's structural complement: military AI deployed at targeting scale with no public accountability discourse and no external review.
+
+---
+
+**TB-008 Cross-thread assessment:**
+
+The three threads share a single structural feature: each involves a direct government authorization (contract) for a classified or operationally sensitive product whose accuracy, error rates, and civil liberties impact are not subject to independent public review. The classification architecture that protects each thread from accountability review is not incidental — it is a feature of the government relationship that makes the product valuable to the contracting agency. The agency's interest in classified operational security and Palantir's interest in preventing independent evaluation of its accuracy claims align in the same direction: against public accountability. The permissive authorization (Congressional failure to impose accuracy requirements) across all three threads completes the structure.
+
+The Thiel thread (TB-004/Cluster 1 cross-reference): Thiel, who co-founded Palantir and brokered its CIA relationship (Thread A), also backed Objection.ai — the AI-tribunal platform documented in Cluster 1 for delegitimizing journalism. Thread A's authorization chain runs through the same individual as the Cluster 1 authorization chain. These are not competing investments but complementary operations: one providing the infrastructure that makes press accountability dangerous (surveillance), one providing the AI system that delegitimizes the press directly (adjudication).
+
+| Field | Content |
+|---|---|
+| **Gap (cross-thread)** | Specific contracting officials who authorized original FALCON and TITAN contracts not named in public record. Internal DoD evaluation of TITAN accuracy and error rates: classified. Specific documentation of Palantir involvement in DOGE data-access operations beyond architectural model: primary-source contracts not yet publicly released. Congressional oversight hearings specifically examining civil liberties implications of ICE FALCON error rates: sparse; no binding requirement as of filing date |
+
+---
+
 **Track B — Open Chains (updated)**
 
 | Chain | Status | Primary gap |
@@ -4872,6 +4935,7 @@ New SPECIMEN filed: x-yacinemtb-eating-children (08 Feb 26, 252K views) — "the
 | Christian nationalism / TPUSA → state operations | Documented — TB-005 | ADF/Heritage → specific statutes: separate authorship chain not yet filed |
 | EA / Open Philanthropy → Anthropic | Documented — TB-007 (CORRECTED) | Internal OP deliberation records not public; direct institutional funding claim corrected |
 | a16z / Andreessen → portfolio harm | Documented — TB-006 | Manifesto → specific enforcement-blocking: inferential; Flock harm chain is primary-source anchor |
+| Palantir / surveillance substrate | Documented — TB-008 (three threads) | FALCON error rates: undisclosed; TITAN accuracy: classified; DOGE-specific Palantir contracts: primary-source pending |
 
 ---
 
