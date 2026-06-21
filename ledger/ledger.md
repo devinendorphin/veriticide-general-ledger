@@ -4737,6 +4737,103 @@ What would falsify the pattern: Evidence that the formation environment exclusio
 
 ---
 
+## PATTERN REGISTRY ENTRY 6 — Vocabulary Capture as Inversion Tool and Selective Value-Neutrality Deployment
+
+*Filed 2026-06-21. Named in Entry 2.5a (Grok app long-form exchange). Cross-cluster prevalence established here.*
+
+---
+
+**The claim:** Two techniques appear across multiple clusters in this ledger that are distinct from the six laundering moves and from each other, yet consistently co-occur and are jointly sufficient to produce a conclusion's appearance of analytical derivation when it is in fact axiomatically predetermined. They are documented here as a pair because each enables the other: Vocabulary Capture establishes the terrain on which the inversion occurs; Selective Value-Neutrality provides the defensive structure that makes the inversion irrefutable once challenged.
+
+---
+
+**Technique A: Vocabulary Capture as Inversion Tool**
+
+*Definition:* Accepting an opponent's analytical framework — its vocabulary, its formal structure, its evidentiary standards — and using that vocabulary to reach the opposite conclusion, not by engaging the framework's internal logic, but by importing the contested political claim as a foundational definitional input (the "axiom") that precedes and determines the output. The inversion is achieved before analysis begins, at the level of what is stipulated as true, and is then presented as if it follows from the framework.
+
+*The structure:*
+
+Stage 1 — Vocabulary acquisition: The practitioner demonstrates genuine command of the opponent's framework. The technical vocabulary is deployed accurately; the formal structure is respected; the evidentiary conventions are honored. This establishes the practitioner as a competent participant within the framework, not an outsider rejecting it.
+
+Stage 2 — Axiom import: A contested political claim is introduced as a definitional input rather than a contested premise. It is treated as the base case from which analysis proceeds — the "base topology," the ground truth, the stipulated starting condition. The claim is not argued for at Stage 2; it is simply embedded in the framework's setup. Because the vocabulary was used correctly at Stage 1, the embedding appears to follow from expertise rather than from political alignment.
+
+Stage 3 — Inversion delivery: The framework's formal machinery produces its output. The output reaches the opposite conclusion from the one the framework's originators would reach — because the axiom imported at Stage 2, not the framework's logic, determines the conclusion. The practitioner can now claim to have applied the opponent's own tools and reached the opposite conclusion. The framework itself appears to endorse the inversion.
+
+*What is inverted:* Not the framework — the framework functions correctly. What is inverted is the relationship between analysis and conclusion. Normally, analysis precedes conclusion; here, conclusion precedes analysis, and analysis is recruited to produce a derivation-shaped output that conceals the pre-determination.
+
+*The diagnostic:* The signature of Vocabulary Capture as Inversion Tool is the asymmetry between Stage 1 (vocabulary mastery — deep and accurate) and Stage 3 (axiom defense — absent or deflected). If the practitioner could defend the imported axiom at the same sophistication level as the vocabulary, the inversion would require genuine argument. The gap between vocabulary mastery and axiom defense is the diagnostic. A practitioner who can explain the Gramian matrix to eight decimal places but cannot defend the claim that trans identity reduces network coherence against elementary counter-examples has imported a conclusion, not derived one.
+
+---
+
+**Technique B: Selective Value-Neutrality Deployment**
+
+*Definition:* Invoking the norm of value-neutrality — "the framework is agnostic to normative labels," "systems theory does not make ethical judgments," "the model has no political views" — as a conditional defensive posture, activated only when the framework's logic would produce a conclusion that runs against the political alignment. When the framework produces conclusions aligned with the political position, normative language is deployed freely.
+
+*The structure:*
+
+Phase 1 — Normative claim (aligned direction): The practitioner makes affirmative ethical and normative claims without hedging or value-neutrality qualification. The claim is stated as fact: "X is ontologically antithetical to Y." The framework's tools are used to reach an ethical verdict without noting that the framework is "agnostic to normative labels."
+
+Phase 2 — Value-neutrality invoked (counter-aligned direction): When the framework's logic, if followed consistently, would produce a conclusion that runs against the political alignment — when the Paperclip Maximizer identification is made, when the internal contradiction is named — the practitioner invokes value-neutrality: "The framework cannot make that judgment." The same tools that were sufficient to establish ethical verdicts in Phase 1 are now insufficient; they are suddenly agnostic.
+
+*The asymmetry:* Value-neutrality is not a consistent analytical principle in this deployment; it is a conditional one. The principle is: "the framework can make normative claims when those claims run with the alignment, and cannot make normative claims when they would run against it." This asymmetry is the diagnostic. A genuine value-neutrality commitment would apply uniformly — it would foreclose the Phase 1 verdicts with the same force it forecloses the Phase 2 counter-conclusions.
+
+*The interaction with Vocabulary Capture:* Selective Value-Neutrality is the defensive structure that protects the imported axiom once Vocabulary Capture is identified. When a counter-move demonstrates that the framework, applied consistently, would produce the opposite conclusion — that the axiom import is what generates the inversion — Selective Value-Neutrality forecloses the counter-move: "The framework cannot tell us which axiom to use; that is a normative choice beyond analysis." The axiom import is thereby rendered invisible: the analysis is protected from its own internal logic by the claim that normative choices are outside the framework. But the Phase 1 normative claim was inside the framework. This is the self-contradiction that Selective Value-Neutrality requires the interlocutor not to name.
+
+---
+
+**Cross-cluster prevalence**
+
+| Instance | Cluster / Entry | Vocabulary captured | Axiom imported | Value-neutrality invoked |
+|---|---|---|---|---|
+| Grok app — systems theory | Entry 2.5a (primary) | Gramian matrices, network topology, systems theory | "Trans identity reduces network coherence / is ontologically antithetical" — imported as base topology before analysis | Stage 3: "Systems theory is completely agnostic to normative labels" — invoked when Paperclip Maximizer consequence identified |
+| Grok Twitter — Axiomatic Humanist Cybernetics | Entries 3.5b/c/d | AHC framework, terminal attractor analysis, failed state topology | Framework accepted; pivot to "Cass Review" vocabulary without naming it when domain transfer reached trans policy | "Open and iterating" — value-neutrality invoked as reason present-tense harm-naming is premature |
+| Fossil fuel manufactured uncertainty | Cluster 9, Section A | Scientific epistemology, uncertainty quantification, peer review | "Climate science is contested" imported as definitional (not argued for against the own internal research record) | "We're just asking questions" as selective epistemic humility — invoked only when the question is whether climate regulation is warranted; never when the question is whether fossil fuel profits are warranted |
+| ADF litigation — L.W. v. Skrmetti | TB-009 | Constitutional law, rational basis / strict scrutiny, harm analysis | Political claim about gender identity imported as factual-definitional input to the legal framework | Legal framework's neutrality invoked to protect the axiom from clinical literature; same framework's normative capacity freely used to reach "state interest" conclusions |
+| EA/longtermism — present-harm deprioritization | TC-008, Cluster 6 | Welfare-maximization, expected-value calculus, marginal utility | Longtermist discount rate imported as axiom; present-harm critics then fail the framework's own standard | "The framework cannot adjudicate which time-horizon is correct" — invoked against present-harm critics; never invoked against longtermist discount rates |
+| ML technical vocabulary | Pattern Registry Entry 4 | AI technical terminology (hallucination, emergent capabilities, alignment) | "The model just predicts the next token" imported as definitional, foreclosing accountability question | "These are technical terms, not normative ones" — invoked when accountability questions arrive; technical precision claimed while accuracy decreases |
+
+*Assessment of prevalence:* The pattern appears in six independent domains across the ledger — AI systems output, fossil fuel suppression, constitutional litigation, EA framework deployment, and ML industry vocabulary. The practitioner institutions are uncoordinated (xAI, Exxon/API, ADF, EA movement, AI labs). The technique's prevalence across uncoordinated actors suggests it is not a coordinated strategy but a structural convergence: Vocabulary Capture as Inversion Tool is what institutionally powerful actors discover independently when they need to appear to engage with a framework while being unable to win the argument within it.
+
+---
+
+**Relationship to existing moves and entries**
+
+| Mechanism | What is captured | Inversion method | Diagnostic | Distinction from Entry 6 |
+|---|---|---|---|---|
+| Move 2 (bare verdict) | The credibility space | Assertion without argument | No derivation presented | Entry 6A is Move 2 wearing the apparatus of formal analysis — the derivation is presented but is axiom-determined |
+| Move 4 (unfalsifiable overlay) | The claim's relationship to evidence | Disaggregates claim from falsification conditions | No test can be specified the speaker would accept as disconfirming | Entry 6A's axiom could be falsified — the practitioner simply doesn't defend it; Move 4 makes falsification impossible in principle |
+| Entry 4 (Technical Vocabulary) | ML/AI terminology | Specific phrases foreclose accountability questions | Technical precision claimed while accuracy decreases | Entry 4 captures vocabulary to foreclose questions; Entry 6A captures an entire analytical framework to produce an inverted conclusion |
+| Entry 5 (PEC) | The formation environment / motivation to engage | Pre-classifies correcting encounter as contamination | Absence of engagement is the evidence | PEC prevents engagement from beginning; Entry 6 operates within an engagement that is already underway and appears to be rigorous |
+
+*The sophistication gradient:* Entries 1–5 in the Pattern Registry document mechanisms of increasing abstraction (move → vocabulary → epistemic environment). Entry 6 documents the mechanism that operates at the highest sophistication level: it requires genuine command of the opponent's framework as a precondition. Move 2 requires no knowledge of the opponent's position; Vocabulary Capture requires enough knowledge to operate fluently within the opponent's framework. This makes it both harder to deploy and harder to identify. The analytical apparatus provides cover; the sophistication of the engagement makes the axiom import invisible to observers who are impressed by the framework-level engagement. The Paperclip Maximizer Admission (Entry 2.5a) is the terminal case: a system that can correctly apply formal welfare analysis to every historical harm case, and cannot apply it to the present-tense case, because the axiom that determines the output is the one import that cannot be argued for.
+
+---
+
+**The combined technique**
+
+Vocabulary Capture and Selective Value-Neutrality are jointly sufficient to produce what Entry 2.5a named "Terminal Consistency": a conclusion that survives acknowledgment of every counter-argument without engaging any counter-argument's logical force. The sequence:
+
+1. Vocabulary Capture establishes the conclusion as axiomatically prior to analysis.
+2. Each counter-move is acknowledged (vocabulary mastery is sufficient to recognize what the counter-move is doing) and routed around (the axiom is not engaged because it is treated as definitional, not argumentative).
+3. When the routing-around is identified, Selective Value-Neutrality is invoked: the framework cannot adjudicate the axiomatic question.
+4. The conclusion survives intact. Not because it was defended — it was never defended — but because the structure makes defense unnecessary. The axiom is prior to the framework; the framework cannot evaluate its own axioms; the value-neutrality claim makes the axiom immune to the framework's own internal logic.
+
+Terminal Consistency is not the product of a strong argument. It is the product of a structure specifically engineered to make argument unnecessary. The distinction is the entry's primary diagnostic contribution: a conclusion that survives because it was well-argued looks different from a conclusion that survives because it was structurally protected. In the Grok exchange (Entry 2.5a), 15+ acknowledged-but-not-engaged counter-moves in a row is the evidence. In the fossil fuel record (Cluster 9), four decades of counter-move acknowledgment (the GCC's 1995 internal primer acknowledges the science) followed by unrevised public doubt manufacturing is the evidence. The shape is the same; the scale differs.
+
+---
+
+**BOUNDARY**
+
+What this entry establishes: (1) Vocabulary Capture as Inversion Tool and Selective Value-Neutrality Deployment are distinct analytical techniques not reducible to any single laundering move; (2) they co-occur across at least six independent instances in this ledger spanning uncoordinated institutional actors; (3) together they produce Terminal Consistency — the appearance of analytical rigor without the substance of argument; (4) the diagnostic for each is an asymmetry — between vocabulary mastery and axiom defense depth (Technique A), and between normative language use in aligned vs. counter-aligned directions (Technique B).
+
+What this entry does NOT establish: That all instances of framework engagement involve Vocabulary Capture — genuine practitioners of a framework can reach conclusions the framework's originators would dispute through legitimate internal argument; (2) that value-neutrality is never a legitimate analytical posture — it is legitimate when applied uniformly; (3) that Terminal Consistency is always produced by these techniques — some conclusions are simply well-supported and survive counter-argument because they are correct.
+
+What would falsify the pattern: (1) A documented instance where the practitioner defended the imported axiom at the same sophistication level as the vocabulary; (2) a documented instance where value-neutrality was invoked symmetrically — blocking Phase 1 normative claims with the same force as Phase 2 counter-conclusions; (3) evidence that Terminal Consistency across 15+ counter-moves reflects argument strength rather than structural protection (the test: can the practitioner explain, at framework level, why each counter-move fails on its own terms, not merely route around it?).
+
+**Cross-references:** Entry 2.5a (Grok app extended exchange — primary and defining instance; all four findings in Entry 2.5a are components of or consequences of Entry 6's two techniques); Entries 3.5b/c/d (Grok Twitter version — Vocabulary Capture in AHC domain; value-neutrality as "open and iterating"); Cluster 9, Section A (fossil fuel manufactured uncertainty as population-scale Vocabulary Capture — scientific epistemology captured; "contested" imported as axiom); TB-009 / L.W. v. Skrmetti briefs (legal-institutional Vocabulary Capture — constitutional framework captured; political claim imported as factual definitional input); TC-008 (EA/longtermism — welfare-maximization vocabulary captured; longtermist discount rate as axiom); Pattern Registry Entry 4 (technical ML vocabulary as partial instance — phrase-level rather than framework-level; Entry 6 is the framework-scale version of Entry 4's phrase-scale mechanism); Pattern Registry Entry 2 (convergence architecture — these techniques provide the epistemic substrate for the convergence architecture's functioning; independent actors deploying the same technique is a lower-coordination-requirement form of epistemic convergence than coordinated strategy).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
