@@ -1,0 +1,75 @@
+# PROVENANCE — Veriticide Master Ledger
+
+*An epistemic-honesty record of post-hoc structural changes made to `ledger/ledger.md` after entries were originally filed. Each change is recorded here so that a reader can reconstruct what was altered, when, why, and by what reasoning — distinct from the substantive analytic content of the entries themselves.*
+
+*This file records changes to the **form and citation apparatus** of the ledger. It does not re-litigate the analytic classifications, which are the entries' own work.*
+
+---
+
+## 2026-06-22 — Internal-consistency audit (Gap Register Priority 20)
+
+A full read-through audit produced a numbered list of internal inconsistencies, resolved in one pass on branch `claude/veriticide-ledger-audit-wjtudj` (merged to `main`). Summary:
+
+- Removed two duplicated entries ("The Gentle Singularity"; "Coefficient Giving 2025 CEO Letter"), keeping the complete copies.
+- Labeled the first Cluster 2 entry as Entry 2.1 (it was cited as such throughout but unlabeled).
+- Corrected misdescribed/misattributed cross-references (Entry 2.5a's account of the 3.5b–d diagnostic; Entry 3.5d's "Entry 3.6" attribution — Musk, not Altman; Cluster 9 "Section B"→"Section C" for the AI-energy nexus).
+- Added a Convention Reference subsection to Section I; clarified the INSTRUMENT document/element registers and discriminator population.
+- Updated stale "proposed/potential" references to Pattern Registry Entry 5; reconciled @yacineMTB record counts to 26; refreshed header metadata; normalized Pattern Registry heading formats; reordered Clusters 6/7 and Gap Register priorities into numeric sequence; corrected the escalating-sophistication-gradient enumeration.
+- One flagged item — the Section V capture arithmetic — was a false positive on re-examination (75 pruned + 1 promoted to Cluster 4 + 11 pending = 87) and was left unchanged.
+
+Full detail: Gap Register Priority 20.
+
+---
+
+## 2026-06-22 — Convention-citation remap to canonical Article II (Gap Register Priority 21)
+
+### What changed
+
+Every `Art. II(...)` citation in `ledger/ledger.md` was remapped to the **canonical Convention on Veriticide v0.2** (`docs/convention-on-veriticide-v0.2.md`).
+
+### Why
+
+The internal-consistency audit (Priority 20) added a "Convention Reference" subsection that **codified the ledger's then-operative usage** of the Article II numbers. When the canonical foundational documents were reviewed alongside the ledger, that usage was found to diverge substantially from the actual Convention. The ledger had been citing its own ad-hoc institutional-criteria scheme *under the canonical article numbers*:
+
+| Ledger's prior (ad-hoc) usage | Canonical Convention v0.2, Article II |
+|---|---|
+| II(2)(a) — Institution / scale | II(2)(a) — denial/withdrawal of conditions |
+| II(2)(b) — Epistemic isolation | II(2)(b) — foreclosure of future |
+| II(2)(c) — Governance exclusion | II(2)(c) — **reframing as care/protection/benefit** |
+| II(2)(d) — Mediation terminal node | II(2)(d) — rendering testimony inadmissible/pathological |
+| II(3)(a) — Capacity built | II(3)(a) — Instrument |
+| II(3)(b) — Conscription | II(3)(b) — Conscription *(matched)* |
+| II(3)(c) — Legibility | II(3)(c) — Legibility *(matched)* |
+| II(3)(d) — Population affected | II(3)(d) — Mental element |
+
+Only II(3)(b) and II(3)(c) lined up. The clearest collision: II(2)(c), which is literally "reframing as care" in the canon (the act the ledger's Move 1 / Move 6 perform) but was being used for "governance exclusion."
+
+### The crosswalk applied (option A — remap to canonical)
+
+The ledger's institutional INSTRUMENT criteria are **retained as descriptive sub-labels** and re-cited under the canonical article whose conduct or element they instantiate:
+
+| Ledger criterion (sub-label retained) | → Canonical citation |
+|---|---|
+| Institutional scale / capacity built | **Art. II(3)(a)** — Instrument |
+| Epistemic isolation | **Art. II(2)(d)** — discernment defeat (epistemic-isolation form) |
+| Governance exclusion | **Art. II(2)(d)** — discernment defeat (governance-exclusion form) |
+| Mediation terminal node | **Art. II(2)(d)** — discernment defeat (terminal-node form) |
+| Population affected | **Art. II(1)** — Object of protection |
+| Conscription | **Art. II(3)(b)** *(unchanged)* |
+| Legibility at deployment | **Art. II(3)(c)** *(unchanged)* |
+| Care-register / benefit reframing (Move 1 / Move 6) | **Art. II(2)(c)** — reframing as care |
+| Denial-of-conditions / foreclosure-of-future conduct | **Art. II(2)(a)** / **(b)** |
+| Knowledge / engineered-ignorance finding | **Art. II(3)(d)** — Mental element |
+
+The full canonical definitions are reproduced in the ledger's Section I "Convention Reference" subsection.
+
+### Known limitations of the remap (held in view, not papered over)
+
+1. **No distinct canonical slot for "governance exclusion."** The canonical Convention's acts are denial-of-conditions, foreclosure-of-future, reframing-as-care, and testimony-suppression. The ledger's "governance exclusion" has no dedicated canonical act; it folds into **II(2)(d)** (defeat of discernment / suppression of the standing to contest). The sub-label is retained so the distinction is not lost, but the canonical number is shared with epistemic-isolation and terminal-node forms.
+2. **Loss of resolution at II(2)(d).** Three previously-distinct ledger criteria (epistemic isolation, governance exclusion, terminal node) now all cite **II(2)(d)**, distinguished only by parenthetical sub-label. This is faithful to the canon (they are three forms of one act) but is a genuine reduction in citation granularity.
+3. **Scope of the pass.** This remap corrected the **existing** `Art. II(...)` citations. It did **not** exhaustively add new canonical act-tags (e.g., tagging II(2)(c) reframing-as-care) to every SPECIMEN entry that exhibits the corresponding laundering Move. Surfacing those untagged-but-present canonical acts across the full corpus is a separate enrichment pass, deliberately not bundled here.
+4. **A few loose Pattern Registry Entry 4 citations** (e.g., "hallucination" → II(2)(a); "garbage in, garbage out" → II(2)(a)–(d)) were left as broad "the-acts" references because pinning each to a single canonical act would require judgment not warranted by a citation-correction pass. They are defensible as references to the acts generally.
+
+### Method note
+
+The remap was done per-site (not by global find-replace) because the same token (e.g., `Art. II(2)(c)`) carried different meanings in different locations under the old scheme and therefore maps differently. A final sweep confirmed no old-scheme label+number collocations remain and that `Art. II(2)(c)` now appears only in its canonical "reframing as care" sense.
