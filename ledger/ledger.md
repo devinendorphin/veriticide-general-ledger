@@ -2209,9 +2209,9 @@ January 20, 2024: "I'm gonna do a cold read and say there is someone out there h
 **LAUNDERING MOVE FLAGS:**
 1. Care-register reframing — PRESENT. "Pretty dark trauma wounds," "performance art," "biblical demons" — the subject's suffering and reckoning are the care frame. Accountability demands arrive looking like further harm.
 2. Self-evidence assertion — ABSENT as primary move.
-3. Disqualification of dissent — PRESENT. "Performance art" framing positions survivors' testimony as responses to artistic expression; "guilt" positions accountability demands as interfering with the subject's own healing.
+3. Disqualification of dissent — PRESENT. "Performance art" framing positions the speaker's testimony as responses to artistic expression; "guilt" positions accountability demands as interfering with the subject's own healing.
 4. Unfalsifiable overlay — PARTIAL. The spiritual/therapeutic healing frame is structured so that accountability demands appear to misunderstand the process underway.
-5. Euphemism — PRESENT. "Performance art" for acts survivors describe as sexual assault, physical violence, and psychological coercion. "Guilt" for what survivors describe as battering.
+5. Euphemism — PRESENT. "Performance art" for acts the speaker describes as sexual assault, physical violence, and psychological coercion. "Guilt" for what the speaker describes as battering.
 6. Benefit reframe — PRESENT (primary, explicit). The subject stated in their own words that harmed parties' silence was appropriate because of the good work. This is the clearest Move 6 instance in the ledger at the interpersonal scale: the aggregate benefit of the stated ethical work was explicitly deployed to instrumentalize the silence of those harmed.
 
 **DISCRIMINATORS:**
@@ -2237,7 +2237,7 @@ Material record: Documented intimate partner violence, sexual assault, and psych
 The gap: stated concern is the ethical treatment of vulnerable people; documented record is systematic harm to vulnerable people in intimate contexts, with the good work deployed as the frame that made silence appropriate.
 
 **BOUNDARY**
-What this entry establishes: A dated public record (January 20, 2024) of a coordinated survivor disclosure thread targeting an unidentified AI ethics figure; the subject's reconstructed framing as seen through survivor testimony (care-register: "trauma wounds," "performance art," "biblical demons"; explicit good-work/silence exchange); the gap formula as directly named by the thread's highest-reach post; the observer's contemporaneous response (@devinendorphin, January 20, 2024) applying the material-remedy framework.
+What this entry establishes: A dated public record (January 20, 2024) of a survivor disclosure thread by the subject's ex-partner targeting an unidentified AI ethics figure; the subject's reconstructed framing as seen through the speaker's testimony (care-register: "trauma wounds," "performance art," "biblical demons"; explicit good-work/silence exchange); the gap formula as directly named by the thread's highest-reach post; the observer's contemporaneous response (@devinendorphin, January 20, 2024) applying the material-remedy framework.
 
 What this entry does NOT establish: The subject's identity; independent verification of the survivor accounts beyond the public record (logged as public record, not as adjudicated fact); that the subject's AI ethics positioning was consciously designed to launder the documented record; the current status of the subject's ethics positioning or any subsequent accountability process.
 
