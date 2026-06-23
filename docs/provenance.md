@@ -73,3 +73,5 @@ The full canonical definitions are reproduced in the ledger's Section I "Convent
 ### Method note
 
 The remap was done per-site (not by global find-replace) because the same token (e.g., `Art. II(2)(c)`) carried different meanings in different locations under the old scheme and therefore maps differently. A final sweep confirmed no old-scheme label+number collocations remain and that `Art. II(2)(c)` now appears only in its canonical "reframing as care" sense.
+
+**2026-06-23 — Canonical II(2)(c) tagging pass:** Added `Art. II(2)(c)` (reframing-as-care) to the Convention citation of each SPECIMEN entry whose LAUNDERING MOVE FLAG marks Move 1 or Move 6 PRESENT and not already covering (c), excluding entries whose relevant reasoning is governance-exclusion / epistemic-isolation / terminal-node (correctly II(2)(d); e.g. Entries 2.3 and 2.7); 3 entries changed (2.8, 2.9, 2.10); tag-only, no other text altered.
