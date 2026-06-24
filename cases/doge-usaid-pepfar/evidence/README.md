@@ -122,3 +122,28 @@ In priority order: capture `musk-woodchipper-posts` (X post + archive.org snapsh
 `doge-savings-subset` (multi-date snapshots to preserve the deletion behavior), then the
 congressional records. Promote each from `LOCATOR-VERIFIED` to `VERIFIED` and update its
 `capture.json`.
+
+## Original-form capture: `capture.sh`
+
+`capture.sh` automates the open-egress capture. Run it from this directory **on a machine with
+open egress** (laptop, cloud VM, or a Claude Code web env set to **Full** network access — it
+will NOT work in the default **Trusted** web environment):
+
+```bash
+./capture.sh                 # capture every item; do NOT change custody states
+./capture.sh --promote       # capture + mark successfully-captured items VERIFIED
+./capture.sh --archive-org   # also submit each URL to web.archive.org Save Page Now
+./capture.sh tamlyn-cable musk-woodchipper-posts   # only these
+```
+
+For each item it reads every URL from `capture.json` + `transcript.md`, preserves each as
+**WARC + PDF + full-page PNG** (and video via `yt-dlp` for Democracy Now/YouTube items), hashes
+everything into `<id>/original/manifest.json`, and (with `--promote`) flips `custody_state` to
+`VERIFIED` and rebuilds the index. Install `wget`, a Chrome/Chromium, and `yt-dlp` for full
+coverage; the script degrades gracefully if any are missing.
+
+**Git/size note:** original artifacts are large binaries (WARC, video). The **integrity record**
+(`original/manifest.json` + `original/sha256sums.txt`) is small and is what should always be
+committed. Commit the binaries deliberately, or keep them in off-platform custody — which is also
+how you satisfy the manifest's "second custodian + off-platform backup" condition for true
+`VERIFIED` status. A bare `capture.sh` run never sets `VERIFIED`; promotion is an explicit choice.
