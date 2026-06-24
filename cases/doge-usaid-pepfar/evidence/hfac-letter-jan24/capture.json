@@ -7,8 +7,10 @@
   "bears_date": "2025-01-24",
   "grade": "P1 (direct PDF locator)",
   "custody_state": "LOCATOR-VERIFIED",
-  "sha256_transcript": "ebd7f467f24a742f7c8a506c13d71d6036b5f14ee53b587e5cb485065219ab56",
-  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
-  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
-  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture."
+  "sha256_transcript": "1d7e7e564b458c193b96fbc78cbf1f164fb4987801c10c60dd5685564e6fec83",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING \u2014 requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture. [2026-06-24: transcript updated \u2014 Jan-24/Feb-10 reconciliation RESOLVED; ledger corrected.]"
 }

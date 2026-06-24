@@ -25,16 +25,25 @@ egress policy (403).
   million people; "**these lives depend on an uninterrupted supply of medicines**," and the
   pause is "expected to cost lives."
 
-## ⚠️ Discrepancy to reconcile (recorded, not hidden)
+## ✅ Reconciliation — RESOLVED (2026-06-24)
 
-The master ledger and `02-source-bundle.md` reference a **"February 10, 2025" congressional
-letter** to Rubio (`rubio-congressional-letter-pepfar`, "Brownley et al."). The canonical
-document surfaced this pass is dated **January 24, 2025** (Meeks/Frankel). These may be **two
-different letters**, or the ledger's date/attribution may need correction. **Action:** during
-original-form capture, confirm whether a separate Feb 10 letter exists; if not, correct the
-ledger's date/attribution. Until reconciled, both are carried, and the Jan 24 letter — which
-has a **direct PDF locator** — is the better-anchored of the two. Do not cite "Feb 10" as
-settled until the document is produced.
+The apparent conflict between this **Jan 24** letter and the ledger's **Feb 10** letter is
+resolved: **there are two distinct letters, and both are real.**
+
+| Letter | Date | Lead sponsors | Ask |
+|---|---|---|---|
+| Meeks/Frankel (this item) | **Jan 24, 2025** | Reps. Meeks (HFAC RM) & Frankel | Lift the freeze; warns of "damage and loss of life" |
+| Kelly/Pocan + 109 Democrats | **Feb 10, 2025** | Reps. Robin Kelly & Mark Pocan; **Brownley a signatory, not lead** | Immediate PEPFAR restoration; "threatens millions of lives" |
+
+- Feb 10 letter releases: `https://pocan.house.gov/media-center/press-releases/pocan-kelly-109-addl-house-democrats-urge-immediate-restoration-pepfar`
+  · `https://robinkelly.house.gov/media-center/press-releases/reps-kelly-pocan-109-house-democrats-urge-immediate-restoration-pepfar`
+
+The ledger's attribution ("Brownley et al.") was **imprecise, not wrong**: a Feb 10 letter
+exists; its leads were Kelly and Pocan. The ledger has been **corrected** (date table and
+secondary-records log in Cluster 4) to attribute the Feb 10 letter to Kelly/Pocan + 109
+Democrats, and the earlier **Jan 24 Meeks/Frankel letter has been added** as the earliest
+written warning. Net effect: **two dated written warnings to the named decision-maker**
+(Jan 24 and Feb 10), strengthening the foreseeability track rather than weakening it.
 
 ## What it establishes
 

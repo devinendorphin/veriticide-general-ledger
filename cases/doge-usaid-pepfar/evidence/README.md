@@ -70,6 +70,17 @@ forensically preserved.
 | `schatz-record` | C (foreseeability / realized mortality in congressional record) | LOCATOR-VERIFIED |
 | `gawande-democracynow` | C (realized mortality, former USAID global-health head) | LOCATOR-VERIFIED |
 | `named-deaths` | C / IV(4) (realized individual harm — consolidated) | LOCATOR-VERIFIED |
+| `secondary-doge-savings-witnesses` | A (instrument — mirror of IN-LEDGER witnesses) | LOCATOR-VERIFIED |
+| `secondary-mortality-modeling` | C / IV(4) (scale + foreseeability — mirror) | LOCATOR-VERIFIED |
+| `secondary-accountability-removal` | D / B (evaluators removed — mirror) | LOCATOR-VERIFIED |
+
+**13 items.** Pass 3 (2026-06-24) mirrored the `IN-LEDGER` secondary corpus into the three
+`secondary-*` grouped artifacts above and **resolved** the congressional-letter discrepancy:
+there are two distinct letters (Jan 24 Meeks/Frankel; Feb 10 Kelly/Pocan + 109 Democrats), the
+ledger has been corrected, and the resolution is recorded in `hfac-letter-jan24/transcript.md`.
+The mirror also logged two precision corrections: the CFPB point is *dismantlement judicially
+halted*, **not** "CFPB unconstitutional"; and rows marked `ledger-ID` still need canonical-URL
+anchoring.
 
 **10 items, all integrity-verified.** Second capture pass (2026-06-24) added the four items
 below `meeks-demands`. The `named-deaths` artifact consolidates the realized-harm spine
