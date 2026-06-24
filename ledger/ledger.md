@@ -2437,6 +2437,14 @@ What would convert it from instance to evidence: The evidentiary record is now s
 
 **SUPPLEMENTARY ENTRY — Rubio Congressional Testimony, May 21, 2025**
 
+**Cold extract:** This entry is the seed of a narrowed pilot dossier — the Tier 4 sibling to the
+DOGE knife — at `cases/rubio-usaid-denial/`. It charges the Art. II(2)(d) denial act
+(instrumental veriticide, base offence) against Rubio as Secretary of State and **Acting
+Administrator of USAID**, and incorporates the new facts that he ran the agency he denied deaths
+from and escalated the denial to branding the testimony "a lie" (WaPo Fact Checker: four
+Pinocchios). The packet sidesteps causation-of-death (the harm charged is discernment-defeat) and
+holds the protected-speech line explicitly.
+
 Classification: SPECIMEN — Move 2 (bare verdict form applied to documented deaths)
 
 **ADVERSARIAL CHECK**
