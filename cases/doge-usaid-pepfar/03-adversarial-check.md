@@ -120,6 +120,44 @@ discernment-defeating laundering must be guarded in every instance; misapplied, 
 *could* chill dissent — which is why the protected-activity wall is load-bearing and why this
 packet charges function, not opinion.
 
+## Defense 6 — "Lifesaving waivers were issued. The administration explicitly exempted PEPFAR and humanitarian aid, so there was no withdrawal of life-sustaining support."
+
+*The strongest evidentiary defense, surfaced during the 2026-06-24 capture pass. It must be met
+head-on.*
+
+**Steel-man.** Secretary Rubio issued a humanitarian waiver on **January 28, 2025** (lifesaving
+care generally) and a further waiver on **February 1, 2025** specifically exempting many PEPFAR
+activities. The administration can point to these as proof that life-sustaining programs were
+*protected*, not withdrawn — which would defeat the Art. II(2)(a) "denial/withdrawal of
+conditions" act at its root.
+
+**Why it fails.** The waivers are precisely where the laundering operates, and the record shows
+they did not restore the conditions on the ground:
+- The waivers were **partial and selective** ("many but not all activities of PEPFAR" —
+  `evidence/hfac-letter-jan24/` context), leaving real programs stopped.
+- Multiple sources establish that **the waivers did not function**: organizations administering
+  the anti-HIV/AIDS program "**continued to struggle to access money to operate**" (The
+  Dispatch, "PEPFAR Funding Problems Persist Despite Rubio's Waivers"). A waiver that does not
+  release funds or restart stop-worked supply chains is a paper exemption, not a restored
+  condition.
+- The **named deaths and the Tamlyn cable post-date the waivers**: Suza Kenyaba (Feb 19),
+  the Lualaba death differential (Jan–Jun), the April 21 "still stranded" $50M in commodities —
+  all occurred *after* the Jan 28 / Feb 1 waivers supposedly protected lifesaving care. The
+  artifact of a waiver coexisting with stranded medicine and dead children is the
+  **reframing-as-care act itself** (Art. II(2)(c)): the exemption is invoked to render the
+  ongoing withdrawal undiscernable as withdrawal.
+- A waiver, prominently announced and materially inoperative, is a textbook **Move 6 / benefit
+  reframe with asymmetry tell**: the announcement accrues to the actor's defense; the
+  non-functioning accrues to the population's grave.
+
+**Residue conceded — and it sharpens the case.** The existence of the waivers means the Art.
+II(2)(a) "withdrawal" must be proven as **functional** withdrawal (medicine stranded, clinics
+stop-worked, funds inaccessible) rather than as a clean de jure termination — the on-paper
+program often still "existed." This is *more* work, not less, and it is exactly the
+administrative/laundered form Art. IV(4) (statistical erasure) and the Convention's Article IV
+Commentary are built to reach: "populations that do not die but do not continue," here,
+populations told they were exempted while the supply that sustained them did not arrive.
+
 ---
 
 ## Net assessment
@@ -128,6 +166,6 @@ The case is **strong on instrument, pattern, foreseeability, and authorization**
 **deliberately limited on individualized causation and on intent**. Its honest weak joints are
 (a) custody — most primary artifacts are not yet preserved (`05`), and (b) single-respondent
 attribution — answered by charging on aggregate function rather than but-for chains. None of
-the five defenses defeats the **function** theory; the strongest two (causation, named-respondent)
-narrow it rather than break it, and the narrowing is recorded in the charge theory rather than
+the six defenses defeats the **function** theory; the strongest (causation, named-respondent,
+and the waivers) narrow it rather than break it, and the narrowing is recorded in the charge theory rather than
 papered over. That is the state a pilot dossier should be in: a knife with its edges named.

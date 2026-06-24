@@ -1,0 +1,14 @@
+{
+  "item_id": "hfac-letter-jan24",
+  "source_url": "https://democrats-foreignaffairs.house.gov/_cache/files/3/7/3723c215-81d7-49f6-b47e-e281a526e5b4/0361821ECC417883CB0DEF54C9F37E80.foreign-assistance-pause-letter-to-rubio-final.pdf",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy. Direct WebFetch/curl to source host denied by org egress policy (HTTP 403). Content/locator verified; original-form bytes not retrieved.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-24T11:30:00Z",
+  "bears_date": "2025-01-24",
+  "grade": "P1 (direct PDF locator)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "ebd7f467f24a742f7c8a506c13d71d6036b5f14ee53b587e5cb485065219ab56",
+  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
+  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture."
+}
