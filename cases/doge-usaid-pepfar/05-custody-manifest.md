@@ -116,14 +116,19 @@ it does not have; that honesty is itself part of the chain.
 
 ## Custody status summary (as of 2026-06-24)
 
+> **Authoritative source:** `evidence/custody-index.md` (generated from `evidence/*/capture.json`
+> by `build-custody-index.py`). The counts below are a narrative summary of that index; if they
+> ever diverge, the index governs. This resolves the prior cross-file status drift.
+
 - **VERIFIED:** 0 items. *(Original-form preservation blocked by this environment's egress
   policy — see §6. Requires a permitted environment.)*
-- **LOCATOR-VERIFIED:** 13 items — in `evidence/` with canonical URLs, verbatim text, and
+- **LOCATOR-VERIFIED:** 14 items — in `evidence/` with canonical URLs, verbatim text, and
   integrity hashes. Pass 1 (priority six): `musk-woodchipper-posts`, `doge-savings-subset`,
   `tamlyn-cable`, `propublica-internal-memos`, `rubio-hfac-testimony`, `meeks-demands`. Pass 2:
   `hfac-letter-jan24`, `schatz-record`, `gawande-democracynow`, `named-deaths`. Pass 3 (mirror
   of the IN-LEDGER secondary corpus): `secondary-doge-savings-witnesses`,
-  `secondary-mortality-modeling`, `secondary-accountability-removal`.
+  `secondary-mortality-modeling`, `secondary-accountability-removal`. Pass 5:
+  `rubio-waivers-nonfunctional` (the strongest-defense rebuttal).
 - **CAPTURE-REQUIRED (residual within mirrors):** per-outlet original-form (WARC/PDF) capture
   for the named-individual pages in `named-deaths` and the now-anchored `secondary-*` rows.
   Canonical-URL anchoring is **complete** (Pass 4, 2026-06-24) — every `ledger-ID` placeholder

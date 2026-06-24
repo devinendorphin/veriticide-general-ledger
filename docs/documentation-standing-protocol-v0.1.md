@@ -43,7 +43,7 @@ A complete record has six tracks. You do not need all six to begin, and a record
 | **B — Authorization** | Who deployed, ran, directed, or kept the system running, and the chain of approval. | Connects the pattern to decision-makers, not just the machine. |
 | **C — Trajectory & Warnings** | Evidence the direction was perceptible at the time: warnings, audits, dissent, prior instances. | Defeats "we could not have known." |
 | **D — Dismissal & Retaliation** | How testimony naming the pattern was suppressed, buried, or punished — and by whom. | Records the second-order harm: the defeat of discernment itself. |
-| **E — Conscription (if present)** | Evidence the system's fluency was built from uncompensated expression of the affected group. | Optional for documentation-record purposes — Track A stands without it. Note: Convention Art. II(3)(b) lists conscription as a required element for criminal liability; a record lacking this track documents the pattern but does not independently establish all Convention elements. |
+| **E — Conscription (if present)** | Evidence the system's fluency was built from uncompensated expression of the affected group. | Optional for documentation-record purposes — Track A stands without it. Note: under Convention v0.2.1, conscription (Art. II(3)(b)) is the **aggravating element** for the *aggravated (conscriptive) form*; it is **not required for the base offence** (instrumental veriticide). A record lacking this track fully establishes the base offence's elements; it does not establish the aggravated form. |
 | **F — Custody** | How each item was captured, stored, and kept unaltered. | Makes the whole record believable and usable later. |
 
 ---
@@ -124,9 +124,9 @@ The distinction that keeps this track honest and usable: a critic saying "that s
 
 ---
 
-## 5. Track E — Conscription (Optional for Documentation; Required for Convention Criminal Elements)
+## 5. Track E — Conscription (Optional for Documentation; the Aggravating Element under the Convention)
 
-Capture this track only where the instrument is AI-based and the information is available. For documentation-record purposes, it is an aggravating track: the record is complete and usable without it. However, Convention Art. II(3)(b) treats conscription as a required element for criminal liability — a record lacking this track documents the pattern but does not independently establish all elements the Convention requires for prosecution. Its significance when present is that it documents the deepest version of the harm: a system whose persuasive fluency was built from the uncompensated expression of people — living and dead — then used to make the disposal of people like them sound reasonable.
+Capture this track only where the instrument is AI-based and the information is available. For documentation-record purposes, it is an aggravating track: the record is complete and usable without it. Under Convention v0.2.1, conscription (Art. II(3)(b)) is the **aggravating element** defining the *aggravated (conscriptive) form* of veriticide — it is **not required for the base offence** (instrumental veriticide), which is established by elements (a), (c), and (d). A record lacking this track therefore fully supports the base offence; it does not establish the aggravated form. Its significance when present is that it documents the deepest version of the harm: a system whose persuasive fluency was built from the uncompensated expression of people — living and dead — then used to make the disposal of people like them sound reasonable.
 
 - What is known or claimed about the system's training data — sources, scale, consent, compensation.
 - Whether the affected population's own expression (their writing, speech, images, records, cultural material) is plausibly part of that data.

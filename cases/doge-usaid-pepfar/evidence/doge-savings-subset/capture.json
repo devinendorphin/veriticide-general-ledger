@@ -8,7 +8,10 @@
   "grade": "P1",
   "custody_state": "LOCATOR-VERIFIED",
   "sha256_transcript": "1350f92b26d8fe6b30292b151ee7cc8990a88e4852621744e83a650675fd46b4",
-  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
-  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
-  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture."
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING \u2014 requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture.",
+  "track": "A"
 }

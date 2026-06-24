@@ -6,9 +6,15 @@ and witness testimony must never again wear the same uniform. Grade legend in `R
 
 > A note on retrieval: several primary artifacts were cited in the master ledger from web
 > search with direct document fetches blocked by the remote environment's network policy.
-> Those are marked **CAPTURE-REQUIRED** and listed first in the priority list below. Until
-> an item is **VERIFIED** per `05-custody-manifest.md`, it is carried at its stated grade
-> but flagged as not-yet-preserved. The case does not pretend custody it does not have.
+> Until an item is **VERIFIED** per `05-custody-manifest.md`, it is carried at its stated
+> grade but flagged as not-yet-preserved. The case does not pretend custody it does not have.
+
+> ⚠️ **Custody columns below are historical (pre-/early-capture) and do NOT govern.** The
+> authoritative custody state of every item is in **`evidence/custody-index.md`** (mechanically
+> generated from `evidence/*/capture.json`). As of 2026-06-24 every captured item is
+> `LOCATOR-VERIFIED`; none is `VERIFIED`. Where a `Custody` cell below disagrees with the
+> index, **the index governs.** Grade columns remain authoritative here and are kept in sync
+> with the index (e.g., reported-primary items are graded **S1 + embedded P1**, not bare P1).
 
 ---
 
@@ -18,8 +24,8 @@ and witness testimony must never again wear the same uniform. Grade legend in `R
 |---|---|---|---|---|
 | `doge-savings-subset` | doge.gov/savings — "a subset of … cancellations" | P1 | CAPTURE-REQUIRED | Track A — self-labeled non-exhaustive / unauditable |
 | `musk-woodchipper-posts` | Musk posts on X, Feb 2025: "USAID is a criminal organization. Time for it to die." / "spent the weekend feeding USAID into the wood chipper" | P1 | **CAPTURE-REQUIRED** | Track B — direct authorization, mental element |
-| `tamlyn-cable` | U.S. Ambassador Lucy Tamlyn internal State Dept cable, Apr 21, 2025 — PEPFAR "abrupt elimination" → HIV resurgence; supplies "stranded" | P1 | **CAPTURE-REQUIRED** | Track C — warning inside the actors' chain |
-| `propublica-internal-memos` | ProPublica: "Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency" | P1 (memos) / S1 (reporting) | **CAPTURE-REQUIRED** | Track C — internal warning to executing tier |
+| `tamlyn-cable` | U.S. Ambassador Lucy Tamlyn internal State Dept cable, Apr 21, 2025 — PEPFAR "abrupt elimination" → HIV resurgence; supplies "stranded" | **S1 + embedded P1** (cable pending) | (index) | Track C — warning inside the actors' chain |
+| `propublica-internal-memos` | ProPublica: "Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency" | **S1 + embedded P1** (memos pending) | (index) | Track C — internal warning to executing tier |
 | `hfac-letter-feb10` | House Foreign Affairs letter to Rubio, Feb 10, 2025 — PEPFAR-freeze mortality | P1 | CAPTURE-REQUIRED | Track C — formal notice to decision-maker |
 | `rubio-hfac-testimony` | Rubio, House Foreign Affairs Committee, May 21, 2025 — "No one has died because of USAID cuts." / "No children are dying on my watch." / BU modeling "false, that's fake" | P2 | CAPTURE-REQUIRED | Track D — denial against closed record |
 | `meeks-jun2025` | Rep. Meeks, request for answers to Rubio, Jun 2025 | P1 | CAPTURE-REQUIRED | Track D — formal challenge |

@@ -1,12 +1,18 @@
 # 01 — EVIDENCE MATRIX
 
 *The six tracks of the Documentation & Standing Protocol, applied to one case. Each row:
-the proposition, the item that supports it, its source grade, and its custody status.
-Grades and custody legend in `README.md`. Full citations in `02-source-bundle.md`.*
+the proposition, the item that supports it, and its source grade. Full citations in
+`02-source-bundle.md`.*
 
 > The single most important discipline here: each item is **locally defensible** on its
 > own. The proof is the **direction** the rows point together. Read the matrix as a vector,
 > not as a stack.
+
+> ⚠️ **Custody:** the `Custody` column below records the item's **pre-capture state** and is
+> retained only to show original posture. **It does not govern.** The authoritative custody
+> state of every item is in **`evidence/custody-index.md`** (mechanically generated). As of
+> 2026-06-24 all captured items are `LOCATOR-VERIFIED`; none is yet `VERIFIED`. Where this
+> column and the index disagree, **the index governs.**
 
 ---
 
@@ -66,16 +72,20 @@ continuation on the right; the gap between them is the case.*
 | Feb 10, 2025 | Formal congressional letter to Rubio: PEPFAR-freeze mortality consequences | Direct to decision-maker | P1 | CAPTURE-REQUIRED |
 | Feb 13, 2025 | Congressional PEPFAR hearing; mortality consequences entered into public record | Public / congressional | P2 | CAPTURE-REQUIRED |
 | Feb 19, 2025 | Suza Kenyaba (5) dies of malaria, DRC; purchased medication stranded by aid suspension | Public / WaPo | S1 / T1 | IN-LEDGER |
-| Feb 27, 2025 | Peer-reviewed modeling (medRxiv): 4.2M AIDS deaths 2025–2029 from PEPFAR disruption — **published during active dismantlement** | Public domain / S2 | S2 | IN-LEDGER |
-| Early 2025 | **ProPublica: internal USAID memos warned Trump appointees of "hundreds of thousands of deaths"** — internal to the agency being dismantled, delivered to the executing tier | Internal | P1 | **CAPTURE-REQUIRED** |
+| Feb 27, 2025 | Expert modeling (medRxiv **preprint**): 4.2M AIDS deaths 2025–2029 from PEPFAR disruption — **available during active dismantlement** | Public domain / S2 | S2 | IN-LEDGER |
+| Early 2025 | **ProPublica: internal USAID memos warned Trump appointees of "hundreds of thousands of deaths"** — internal to the agency being dismantled, delivered to the executing tier | Internal | S1 + embedded P1* | (index) |
 | Spring 2025 | At least 54 children dead of malnutrition complications, Turkana, Kenya; RUTF stockout | Public / ProPublica | S1 / T1 | IN-LEDGER |
-| Apr 21, 2025 | Ambassador Tamlyn cable: "abrupt elimination" of PEPFAR in DRC → HIV resurgence; supplies "stranded" — **inside the actors' own chain of command** | Internal cable | P1 | **CAPTURE-REQUIRED** |
+| Apr 21, 2025 | Ambassador Tamlyn cable: "abrupt elimination" of PEPFAR in DRC → HIV resurgence; supplies "stranded" — **inside the actors' own chain of command** | Internal cable | S1 + embedded P1* | (index) |
+
+*Grade note — `P1*`: the held artifact is the outlet's reproduction (S1); the underlying
+primary (the cable, the memos) is pending original-form capture and is therefore not graded as
+held P1. No grade inflation — see `evidence/custody-index.md`.*
 
 **Foreseeability finding:** the trajectory was legible *contemporaneously* — by named deaths,
-by peer-reviewed modeling published mid-dismantlement, and by warnings generated **inside the
-actors' own institutions**. This satisfies Art. II(3)(c) (legibility of pattern), which is
-the *contested-but-defensible* element: it charges perceptibility of a direction, never
-invariance of an outcome.
+by expert modeling (incl. the medRxiv preprint) available mid-dismantlement, and by warnings
+generated **inside the actors' own institutions**. This satisfies Art. II(3)(c) (legibility of
+pattern), which is the *contested-but-defensible* element: it charges perceptibility of a
+direction, never invariance of an outcome.
 
 ### Independent mortality scale (the reduction — Art. IV(4) statistical erasure)
 
@@ -96,7 +106,7 @@ evidentiary field.*
 
 | Proposition | Supporting item | Grade | Custody |
 |---|---|---|---|
-| The evaluators were removed | USAID security chiefs placed on leave for enforcing classified-access protocol; USIP President fired at DOGE direction; CFPB dismantlement found "likely unconstitutional" | S1 / P2 | IN-LEDGER |
+| The evaluators were removed | USAID security chiefs (John Voorhees + deputy) placed on leave for enforcing classified-access protocol; USIP President fired at DOGE direction; CFPB **dismantlement judicially halted / found likely unlawful** (not "CFPB unconstitutional" — SCOTUS upheld CFPB's funding structure 2024) | S1 / P2 | (index) |
 | The denial was made against a closed record | Rubio, House Foreign Affairs, May 21, 2025: "No one has died because of USAID cuts." / "No children are dying on my watch." | P2 | CAPTURE-REQUIRED |
 | Foreseeability evidence was branded fake | Rubio, same hearing, of Boston University modeling cited by Sen. Merkley: "false, that's fake" | P2 | CAPTURE-REQUIRED |
 | The denial survived formal challenge by non-response | Rep. Meeks demanded answers Jun 2025; demanded again Oct 2025 ("false claim that his foreign aid cuts caused no deaths") — the Oct demand establishes non-response to June (terminal-node condition) | P1 | CAPTURE-REQUIRED |
