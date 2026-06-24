@@ -1,0 +1,27 @@
+{
+  "generated": "2026-06-24",
+  "generator": "evidence/build-custody-index.py",
+  "item_count": 2,
+  "custody_states": {
+    "VERIFIED": 0,
+    "LOCATOR-VERIFIED": 2
+  },
+  "items": [
+    {
+      "item_id": "rubio-acting-administrator",
+      "grade": "P1 (State Dept official) + S1",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "B / II(3)(d)",
+      "source_url": "https://www.state.gov/secretary-marco-rubio-appointed-as-acting-administrator-for-the-united-states-agency-for-international-development-usaid",
+      "sha256_transcript": "43347d81d0f5bd8d394d99a7e2688ffed14348590a2d0cb02d25b0544ecc8888"
+    },
+    {
+      "item_id": "wapo-factchecker-four-pinocchios",
+      "grade": "S1 (independent fact-check)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "D / II(2)(d)",
+      "source_url": "https://www.washingtonpost.com/politics/2025/05/28/rubio-aid-cuts-deaths-fact-checker/",
+      "sha256_transcript": "93cc853e9ad2e4c4d532e33d88465a913953485def543e80382c0d3c0eb0334a"
+    }
+  ]
+}

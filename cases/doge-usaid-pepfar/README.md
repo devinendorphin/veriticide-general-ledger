@@ -75,8 +75,9 @@ A pilot dossier must reduce to one of each. This packet fixes them:
 **Elon Musk** and **DOGE (Department of Government Efficiency)** are the named respondents
 of this packet, as the deployers/directors of the instrument and the executors of the
 withdrawal. Secretary **Marco Rubio** and the broader administration appear in **Track D
-(Dismissal & Suppression)** and as the **wider authorization context**; a Rubio-centered
-denial packet is a separable sibling case and is not the spine here.
+(Dismissal & Suppression)** and as the **wider authorization context**; the Rubio-centered
+denial packet is a separable sibling case — now built at **`../rubio-usaid-denial/`** (Tier 4,
+the Art. II(2)(d) denial act) — and is not the spine here.
 
 ---
 

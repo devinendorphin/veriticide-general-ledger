@@ -60,7 +60,13 @@ falsification memo, and custody manifest.
 
 | Case | Path | Drawn from |
 |---|---|---|
-| DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 (DOGE) |
+| DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 (DOGE) — Tier 3, the withdrawal + laundering instrument |
+| Rubio / USAID denial | `cases/rubio-usaid-denial/` | Ledger Cluster 4 (Rubio Supplementary Entry) — Tier 4, the denial that defeats discernment |
+
+The two USAID cases are **siblings**: the DOGE packet charges Musk/DOGE for the withdrawal and
+its laundering instrument (Tier 3); the Rubio packet charges Rubio for the official denial that
+rendered the resulting deaths inadmissible (Tier 4). They share an evidence store (the Rubio
+packet adds two Rubio-specific items and references the rest).
 
 A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
 disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is

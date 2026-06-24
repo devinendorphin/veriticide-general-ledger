@@ -1,0 +1,15 @@
+{
+  "item_id": "wapo-factchecker-four-pinocchios",
+  "source_url": "https://www.washingtonpost.com/politics/2025/05/28/rubio-aid-cuts-deaths-fact-checker/",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy. Direct WebFetch/curl to source host denied by org egress policy (HTTP 403). Content/locator verified; original-form bytes not retrieved.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-24T13:10:00Z",
+  "bears_date": "2025-05-28",
+  "grade": "S1 (independent fact-check)",
+  "track": "D / II(2)(d)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "93cc853e9ad2e4c4d532e33d88465a913953485def543e80382c0d3c0eb0334a",
+  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
+  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot). See ../README.md and ../../doge-usaid-pepfar/evidence/CAPTURE-RUNBOOK.md.",
+  "notes": "Rubio-denial sibling case. Verbatim quoted text reproduced from sanctioned-search; confirm against source at original-form capture."
+}
