@@ -25,10 +25,18 @@ as harm while intervention remained possible.
 Each clause maps to a track in `01-evidence-matrix.md`. The case is not any single item;
 the case is the direction all the items point together.
 
-## The protected population (operationalized, not sloganized)
+## The affected population (operationalized, not sloganized)
 
-Not "the permanent underclass" as slogan. A **produced, conduct-delineated group**, defined
-by relation to the conduct and read off its effects (Tier 3 test):
+*Register note (per adversarial review): the main evidentiary claim uses **affected /
+dependent population without exit** — a concrete, demonstrable category. "Protected
+population" is the Convention's internal doctrinal term (Art. II(1)); it is reserved for the
+legal-theory layer below and not leaned on in the evidentiary claim, because the
+"conduct-delineated group" construction can read as circular to a hostile audience if it
+carries the evidentiary weight.*
+
+Not "the permanent underclass" as slogan. The affected population is a **dependent population
+without exit** — and, in the framework's doctrinal layer, a **produced, conduct-delineated
+protected group** — defined by relation to the conduct and read off its effects (Tier 3 test):
 
 1. **Exposure to disruption** — dependency on a sustaining system (ART supply, RUTF food).
 2. **Lack of exit** — no private means to replace withdrawn ART or therapeutic food.
@@ -70,7 +78,7 @@ recognition of the aggregate direction.
 | Element | Status in this packet |
 |---|---|
 | (a) **Instrument** — locally-defensible justification at scale | **Met.** The savings apparatus + frame; unauditable by design (ABC: "impossible to verify"). |
-| (b) **Conscription** — fluency built from strip-mined expression | **Not charged.** Administrative case. Base offense charged without it (see register note below). |
+| (b) **Conscription** — fluency built from strip-mined expression | **Not applicable to the base offence.** Under Convention v0.2.1, (b) is the *aggravating* element (AI/conscriptive form), not a base requirement. This pilot charges the **base offence**; (b) is correctly absent, not a missing element (see register note below). |
 | (c) **Legibility** — trajectory perceptible at time of deployment | **Met.** Peer-reviewed mortality modeling published Feb 27, 2025 *during* the dismantlement; internal cables and memos in the actors' own chain; named deaths reported Feb 2025. |
 | (d) **Mental element** — knowledge, incl. engineered ignorance | **Substantially supported.** "Knowledge-before-continuation" record (Track C). Engineered deniability — methodology-free "subset," deletion of contested entries, removal of evaluators — is itself the imputed mental element, not a defense against it. |
 
@@ -85,17 +93,41 @@ Tiers 5–6 (mundicide / worldcide) and the AI-conscription layer are **left in 
 cathedral**. This packet does not reach for them. The convergence is the map; this is one
 road segment.
 
-## Charging register note — why conscription is dropped here
+## Charging register note — this pilot charges the base offence
 
-The Convention Commentary and the project's adversarial review both hold that the
-**base offense must be able to survive without the conscription element** for non-AI
-administrative, propaganda, and institutional systems; conscription stays load-bearing
-only for **aggravated AI veriticide**. DOGE is a bureaucratic instrument, not a model
-built from uncompensated expression. Charging conscription here would force a
-training-data discovery fight that has nothing to do with how these particular people
-died, and hand the respondents an easy attack on a beam this case does not need. **Track E
-is therefore marked N/A — not absent, just not the instrument-type at issue.** This is a
-deliberate narrowing, recorded so no signatory leans on a beam that was never tested here.
+**Doctrinal status (resolved in Convention v0.2.1).** The Convention now defines a **base
+offence — instrumental veriticide** (elements (a) instrument, (c) legibility, (d) mental
+element) and an **aggravated form** that adds (b) conscription for the AI/conscriptive case.
+This pilot charges the **base offence**. Conscription (Track E) is therefore **not a missing
+required element** — it is the *aggravating* element, inapplicable to a bureaucratic
+instrument that is not a model strip-mined from uncompensated expression.
+
+This closes the prior vulnerability an adversary could have raised ("your own Convention lists
+conscription as required, and your pilot does not charge it"): under v0.2.1 the base offence
+does not require it, and charging conscription here would force a training-data discovery
+fight irrelevant to how these particular people died. **Track E is marked N/A — not absent,
+just not the instrument-type at issue.** The aggravated (AI-conscription) layer remains in the
+cathedral and is deliberately not carried into this first packet.
+
+## Respondent-by-act attribution grid
+
+*The case is multi-actor; this grid keeps the evidence from appearing to prove one actor's act
+while charging another's. Each act is assigned to the actor who performed it. This pilot's
+named respondents are **Musk / DOGE**; the other rows are the authorization context and the
+separable sibling (Rubio-denial) packet.*
+
+| Act | Actor | This pilot's role |
+|---|---|---|
+| Instrument: savings apparatus, "waste/fraud" frame, X amplification | **Musk / DOGE** | **Charged (Track A/B)** |
+| Operational disabling: USAID workforce removed; evaluators/security chiefs ousted; **DOGE staff personally vetoing PEPFAR payments box-by-box** | **DOGE (at the USAID/State interface)** | **Charged (Track A/B/D)** |
+| Direct authorization / admission ("fed USAID into the wood chipper") | **Musk** | **Charged (Track B)** |
+| Humanitarian waiver issuance, then non-function | **State / Rubio** | Context (Defense 6); waiver *operated against* by DOGE |
+| Denial to Congress ("no one has died") | **State / Rubio** | **Separable sibling packet** (Track D here, not the spine) |
+| Foreign-aid freeze; legal authority | **President / OMB / State** | Authorization context |
+
+The grid makes explicit what the adversarial check (Defense 4) argues: Musk/DOGE are charged
+for the **instrument and its operation**, which the evidence proves; the denial is Rubio's and
+is carried as a *further act of the same veriticide* (Art. IV(3)), not as Musk's statement.
 
 ## What this charge theory does NOT establish
 

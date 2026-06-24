@@ -28,12 +28,22 @@ auditor, reporter, or oversight body actually needs:
 | 03 | Adversarial check | `03-adversarial-check.md` | "one adversarial check" |
 | 04 | Falsification memo | `04-falsification-memo.md` | "one falsification memo" |
 | 05 | Custody manifest | `05-custody-manifest.md` | "one custody manifest" |
+| 06 | Decision/warning/harm timeline | `06-timeline.md` | "day-by-day timeline" |
 | — | Capture & custody store | `evidence/` | the preserved artifacts (Track F) |
+| — | **Canonical custody index** | `evidence/custody-index.md` | single source of truth for custody + grade |
 
-The six priority primary artifacts are preserved in `evidence/` at custody state
-**`LOCATOR-VERIFIED`** (canonical URL + verbatim text + integrity hash). Full original-form
-preservation (`VERIFIED`) is blocked by this environment's egress policy and is the next custody
-action; see `evidence/README.md` and `05-custody-manifest.md`.
+The evidence artifacts are preserved in `evidence/` at custody state **`LOCATOR-VERIFIED`**
+(canonical URL + verbatim text + integrity hash). **`evidence/custody-index.md` is the single
+authoritative record of each item's custody state and grade** — it is mechanically generated
+from the per-item `capture.json` files, so the status tables elsewhere cannot drift from it.
+Full original-form preservation (`VERIFIED`) is blocked by this environment's egress policy and
+is the next custody action; see `evidence/README.md` and `05-custody-manifest.md`.
+
+**Doctrinal note (Convention v0.2.1):** this pilot charges the **base offence — instrumental
+veriticide** (elements (a) instrument, (c) legibility, (d) mental element). Conscription
+(Art. II(3)(b)) is the *aggravating* element for the AI/conscriptive form and is **not** a
+missing requirement here. See `00-charge-theory.md` and the Convention's Article II(3)
+Amendment Note.
 
 ---
 

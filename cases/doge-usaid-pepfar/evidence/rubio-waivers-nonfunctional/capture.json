@@ -1,0 +1,15 @@
+{
+  "item_id": "rubio-waivers-nonfunctional",
+  "source_url": "https://theintercept.com/2025/02/06/marco-rubio-usaid-humanitarian-waiver/ (+ HRW, CGD, Dispatch, ProPublica, KFF)",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy. Direct WebFetch/curl denied by org egress policy (403). Content/locator verified; original-form bytes not retrieved.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-24T12:30:00Z",
+  "bears_date": "2025 (Jan-Feb waivers; reporting Feb 2025+)",
+  "grade": "S1 (multi-outlet) + reported P1 (DOGE payment-veto account)",
+  "track": "Defense-6 rebuttal / A / B / II(2)(c)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "c0c99fcadfcbcf77bcbd90c39a7ba1750e21e336bbe6e6258eaf9d19b654f33d",
+  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
+  "original_form_capture": "PENDING — confirm the 'DOGE vetoed payments box-by-box' account against its source at original-form capture.",
+  "notes": "Strongest defense (waivers) and its rebuttal; the DOGE-payment-veto fact is the priority original-form target."
+}

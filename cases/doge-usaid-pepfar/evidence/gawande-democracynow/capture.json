@@ -8,7 +8,10 @@
   "grade": "P2 (named expert, former USAID global health head) via S1",
   "custody_state": "LOCATOR-VERIFIED",
   "sha256_transcript": "667c45a25c2c4f4ae0b1fec45b194aba9b9a9cd62a8a1b662af6eea69b69ed82",
-  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
-  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
-  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture."
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING \u2014 requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture.",
+  "track": "C / IV(4)"
 }

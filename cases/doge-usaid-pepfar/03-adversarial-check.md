@@ -131,8 +131,15 @@ activities. The administration can point to these as proof that life-sustaining 
 *protected*, not withdrawn — which would defeat the Art. II(2)(a) "denial/withdrawal of
 conditions" act at its root.
 
-**Why it fails.** The waivers are precisely where the laundering operates, and the record shows
-they did not restore the conditions on the ground:
+**Why it fails — and the decisive fact.** Reporting establishes that **two DOGE employees
+embedded at the State Department personally vetoed the PEPFAR payments, "manually check[ing]
+boxes in the payment system one at a time,"** *even after* USAID managers had prepared the
+payments and the interim leadership and White House had signed off. The named respondent's own
+personnel operated the mechanism that defeated the exemption. A waiver overridden box-by-box by
+DOGE is not a defense; it is the **reframing-as-care act** (Art. II(2)(c)) in operation — the
+exemption announced while the sustaining transfer is manually blocked. (Artifact:
+`evidence/rubio-waivers-nonfunctional/`.) Beyond that decisive fact, the record shows the
+waivers did not restore the conditions on the ground:
 - The waivers were **partial and selective** ("many but not all activities of PEPFAR" —
   `evidence/hfac-letter-jan24/` context), leaving real programs stopped.
 - Multiple sources establish that **the waivers did not function**: organizations administering
