@@ -8,8 +8,10 @@
   "grade": "S1/S2 (multi-outlet mirror)",
   "track": "A",
   "custody_state": "LOCATOR-VERIFIED",
-  "sha256_transcript": "0b8a2a014d5496e823dda15e6b1ee32ba6452f4c813acb5ec230207cec1b470d",
-  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
-  "original_form_capture": "PENDING — per-source WARC/PDF/screenshot from a permitted-egress environment. Rows marked 'ledger-ID' also need canonical-URL anchoring.",
-  "notes": "Grouped mirror of multiple sources; per-row URL status noted in transcript. Verbatim snippets reproduced from sanctioned search; confirm against each source at original-form capture."
+  "sha256_transcript": "77a634a1788790aa1f7eae945bda902fc32d4d32760fb9e2466db55d4d693d26",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING \u2014 per-source WARC/PDF/screenshot from a permitted-egress environment. Rows marked 'ledger-ID' also need canonical-URL anchoring.",
+  "notes": "Grouped mirror of multiple sources; per-row URL status noted in transcript. Verbatim snippets reproduced from sanctioned search; confirm against each source at original-form capture. [2026-06-24 anchoring pass: ledger-ID rows resolved to canonical URLs; precision corrections logged.]"
 }
