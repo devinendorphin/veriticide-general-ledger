@@ -127,7 +127,9 @@ congressional records. Promote each from `LOCATOR-VERIFIED` to `VERIFIED` and up
 
 `capture.sh` automates the open-egress capture. Run it from this directory **on a machine with
 open egress** (laptop, cloud VM, or a Claude Code web env set to **Full** network access — it
-will NOT work in the default **Trusted** web environment):
+will NOT work in the default **Trusted** web environment). Full step-by-step instructions,
+the cloud-environment setup, and the per-case domain allowlist are in
+**`CAPTURE-RUNBOOK.md`**.
 
 ```bash
 ./capture.sh                 # capture every item; do NOT change custody states
