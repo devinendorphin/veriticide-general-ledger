@@ -39,9 +39,11 @@ org egress policy (403).
 
 ## USAID security chiefs
 
-| Fact | Source |
+| Fact (search-surfaced) | Source |
 |---|---|
-| USAID security chiefs **placed on leave** for enforcing standard protocols against unauthorized access to classified information | ledger-ID `doge-pbs-usaid-security-chiefs` (PBS) |
+| Two top USAID security officials — **Director of Security John Voorhees and his deputy** (reported as Brian McGill/McGowan — confirm spelling at capture) — **placed on leave** after refusing DOGE access to classified material they lacked clearance to view | PBS `https://www.pbs.org/newshour/politics/usaid-security-chiefs-put-on-leave-after-trying-to-stop-musks-team-from-accessing-classified-info-officials-say` ✓ · NBC `https://www.nbcnews.com/politics/national-security/usaid-security-leaders-removed-refusing-elon-musks-doge-employees-acce-rcna190357` ✓ |
+| The officials were **legally obligated** to deny access (DOGE crew lacked clearance); DOGE **threatened to call the U.S. Marshals** and **eventually gained access** to classified systems incl. intelligence reports | PBS / NBC (above) |
+| DOGE's Katie Miller asserted on X: "No classified material was accessed without proper security clearances" *(a CONTROL-adjacent denial — note for COUNTER-EVIDENCE STATUS; weigh against the officials' contemporaneous account)* | reported across outlets (confirm at capture) |
 
 ## What it establishes
 

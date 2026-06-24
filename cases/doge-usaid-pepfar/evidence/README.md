@@ -78,9 +78,14 @@ forensically preserved.
 `secondary-*` grouped artifacts above and **resolved** the congressional-letter discrepancy:
 there are two distinct letters (Jan 24 Meeks/Frankel; Feb 10 Kelly/Pocan + 109 Democrats), the
 ledger has been corrected, and the resolution is recorded in `hfac-letter-jan24/transcript.md`.
-The mirror also logged two precision corrections: the CFPB point is *dismantlement judicially
-halted*, **not** "CFPB unconstitutional"; and rows marked `ledger-ID` still need canonical-URL
-anchoring.
+
+**Pass 4 (2026-06-24) — URL anchoring complete.** Every `ledger-ID` placeholder in the
+`secondary-*` mirrors is now resolved to a canonical URL (Cato, PBS, The Intercept, CNN, NYT,
+WaPo, CREW, USAID-OIG/Fortune, USAID security chiefs). Precision corrections logged in the
+transcripts: CFPB = *dismantlement judicially halted*, not "CFPB unconstitutional"; the $26B is
+specifically CFPB returns to taxpayers; the $8.2B originates with the USAID OIG watchdog (not
+"USAFacts"); and the NYT/Fahrenthold deletion scale is ~**1,000 entries (≈40%)**, larger than
+the ledger's "five biggest." The USAID security chiefs are named (John Voorhees + deputy).
 
 **10 items, all integrity-verified.** Second capture pass (2026-06-24) added the four items
 below `meeks-demands`. The `named-deaths` artifact consolidates the realized-harm spine

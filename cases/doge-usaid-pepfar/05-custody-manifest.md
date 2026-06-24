@@ -124,9 +124,10 @@ it does not have; that honesty is itself part of the chain.
   `hfac-letter-jan24`, `schatz-record`, `gawande-democracynow`, `named-deaths`. Pass 3 (mirror
   of the IN-LEDGER secondary corpus): `secondary-doge-savings-witnesses`,
   `secondary-mortality-modeling`, `secondary-accountability-removal`.
-- **CAPTURE-REQUIRED (residual within mirrors):** per-outlet original-form capture for the
-  named-individual pages in `named-deaths`; canonical-URL anchoring for rows marked `ledger-ID`
-  in the `secondary-*` mirrors.
+- **CAPTURE-REQUIRED (residual within mirrors):** per-outlet original-form (WARC/PDF) capture
+  for the named-individual pages in `named-deaths` and the now-anchored `secondary-*` rows.
+  Canonical-URL anchoring is **complete** (Pass 4, 2026-06-24) — every `ledger-ID` placeholder
+  is resolved to a canonical URL; what remains is original-form preservation, not locating.
 - **IN-LEDGER:** the secondary/expert corpus is now mirrored into `evidence/` (custody state
   LOCATOR-VERIFIED), pending original-form preservation.
 
