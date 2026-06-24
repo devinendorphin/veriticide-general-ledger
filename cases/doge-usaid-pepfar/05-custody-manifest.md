@@ -118,11 +118,18 @@ it does not have; that honesty is itself part of the chain.
 
 - **VERIFIED:** 0 items. *(Original-form preservation blocked by this environment's egress
   policy — see §6. Requires a permitted environment.)*
-- **LOCATOR-VERIFIED:** 6 items — the priority primary artifacts, now in `evidence/` with
-  canonical URLs, verbatim text, and integrity hashes (`evidence/<id>/`).
-- **CAPTURE-REQUIRED:** residual primary items not in the priority six (e.g., `hfac-letter-feb10`,
-  `schatz-record`, `gawande-democracynow`).
+- **LOCATOR-VERIFIED:** 10 items — in `evidence/` with canonical URLs, verbatim text, and
+  integrity hashes. Pass 1 (priority six): `musk-woodchipper-posts`, `doge-savings-subset`,
+  `tamlyn-cable`, `propublica-internal-memos`, `rubio-hfac-testimony`, `meeks-demands`. Pass 2
+  (2026-06-24): `hfac-letter-jan24`, `schatz-record`, `gawande-democracynow`, `named-deaths`.
+- **CAPTURE-REQUIRED:** the named-individual outlet pages bundled inside `named-deaths` still
+  need per-outlet original-form capture; the IN-LEDGER corpus below is unmirrored.
 - **IN-LEDGER:** the secondary/expert corpus (S1/S2) — well-cited, single-copy, to be mirrored.
+
+**Open reconciliation (do not leave unresolved):** the ledger cites a **Feb 10, 2025**
+congressional letter to Rubio; the located primary document is the **Jan 24, 2025**
+Meeks/Frankel letter (direct PDF). Confirm whether these are distinct or correct the ledger
+date/attribution. See `evidence/hfac-letter-jan24/transcript.md`.
 
 **The single most important next action for this entire packet is custody work, not more
 argument.** The capture pass advanced the six priority items from `CAPTURE-REQUIRED` to

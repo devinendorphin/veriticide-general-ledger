@@ -66,6 +66,19 @@ forensically preserved.
 | `propublica-internal-memos` | C (foreseeability, executing tier) | LOCATOR-VERIFIED |
 | `rubio-hfac-testimony` | D (dismissal) | LOCATOR-VERIFIED |
 | `meeks-demands` | D (terminal-node / non-response) | LOCATOR-VERIFIED |
+| `hfac-letter-jan24` | C (foreseeability — warning on day of freeze; direct PDF locator) | LOCATOR-VERIFIED |
+| `schatz-record` | C (foreseeability / realized mortality in congressional record) | LOCATOR-VERIFIED |
+| `gawande-democracynow` | C (realized mortality, former USAID global-health head) | LOCATOR-VERIFIED |
+| `named-deaths` | C / IV(4) (realized individual harm — consolidated) | LOCATOR-VERIFIED |
+
+**10 items, all integrity-verified.** Second capture pass (2026-06-24) added the four items
+below `meeks-demands`. The `named-deaths` artifact consolidates the realized-harm spine
+(Babagana, Suza Kenyaba, Evan Anzoo, Pe Kha Lau, Peter, Peter Lokoyen, the Liberian mother and
+unborn son, ≥54 Turkana children) and corrects the "mostly children" demographic to
+*people without exit dependent on a withdrawn system, heavily pediatric.* The pass also
+surfaced the **Rubio-waivers** defense and its rebuttal (now Defense 6 in
+`../03-adversarial-check.md`) and a **date discrepancy** on the congressional letter (ledger
+"Feb 10" vs. located "Jan 24") flagged in `hfac-letter-jan24/transcript.md` for reconciliation.
 
 ## Verifying integrity
 

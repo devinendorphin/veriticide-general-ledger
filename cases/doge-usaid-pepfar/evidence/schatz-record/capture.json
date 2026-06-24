@@ -1,0 +1,14 @@
+{
+  "item_id": "schatz-record",
+  "source_url": "https://www.schatz.senate.gov/news/press-releases/schatz-details-trump-administrations-destruction-of-usaid-deadly-consequences-that-followed-as-senate-considers-codifying-doge-cuts",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy. Direct WebFetch/curl to source host denied by org egress policy (HTTP 403). Content/locator verified; original-form bytes not retrieved.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-24T11:30:00Z",
+  "bears_date": "2025 (Senate codification debate)",
+  "grade": "P1/P2 (congressional record)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "d81983349ea73fc9b7b0e681e9c55dd431df38980de6f15e2040fd2971b2b1ba",
+  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
+  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture."
+}
