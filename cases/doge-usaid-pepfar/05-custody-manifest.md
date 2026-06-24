@@ -118,18 +118,29 @@ it does not have; that honesty is itself part of the chain.
 
 - **VERIFIED:** 0 items. *(Original-form preservation blocked by this environment's egress
   policy — see §6. Requires a permitted environment.)*
-- **LOCATOR-VERIFIED:** 10 items — in `evidence/` with canonical URLs, verbatim text, and
+- **LOCATOR-VERIFIED:** 13 items — in `evidence/` with canonical URLs, verbatim text, and
   integrity hashes. Pass 1 (priority six): `musk-woodchipper-posts`, `doge-savings-subset`,
-  `tamlyn-cable`, `propublica-internal-memos`, `rubio-hfac-testimony`, `meeks-demands`. Pass 2
-  (2026-06-24): `hfac-letter-jan24`, `schatz-record`, `gawande-democracynow`, `named-deaths`.
-- **CAPTURE-REQUIRED:** the named-individual outlet pages bundled inside `named-deaths` still
-  need per-outlet original-form capture; the IN-LEDGER corpus below is unmirrored.
-- **IN-LEDGER:** the secondary/expert corpus (S1/S2) — well-cited, single-copy, to be mirrored.
+  `tamlyn-cable`, `propublica-internal-memos`, `rubio-hfac-testimony`, `meeks-demands`. Pass 2:
+  `hfac-letter-jan24`, `schatz-record`, `gawande-democracynow`, `named-deaths`. Pass 3 (mirror
+  of the IN-LEDGER secondary corpus): `secondary-doge-savings-witnesses`,
+  `secondary-mortality-modeling`, `secondary-accountability-removal`.
+- **CAPTURE-REQUIRED (residual within mirrors):** per-outlet original-form capture for the
+  named-individual pages in `named-deaths`; canonical-URL anchoring for rows marked `ledger-ID`
+  in the `secondary-*` mirrors.
+- **IN-LEDGER:** the secondary/expert corpus is now mirrored into `evidence/` (custody state
+  LOCATOR-VERIFIED), pending original-form preservation.
 
-**Open reconciliation (do not leave unresolved):** the ledger cites a **Feb 10, 2025**
-congressional letter to Rubio; the located primary document is the **Jan 24, 2025**
-Meeks/Frankel letter (direct PDF). Confirm whether these are distinct or correct the ledger
-date/attribution. See `evidence/hfac-letter-jan24/transcript.md`.
+**Reconciliation — RESOLVED (2026-06-24).** The ledger's "Feb 10, 2025" letter and the located
+"Jan 24, 2025" letter are **two distinct documents**: Jan 24 = Meeks/Frankel ("lift the
+freeze"); Feb 10 = Kelly/Pocan + 109 House Democrats (Brownley a signatory) urging PEPFAR
+restoration. The ledger has been corrected (Cluster 4 date table + secondary-records log) and
+the Jan 24 letter added as the earliest written warning. Detail in
+`evidence/hfac-letter-jan24/transcript.md`.
+
+**Precision corrections logged this pass:** (a) CFPB — the supportable claim is *dismantlement
+judicially halted / likely unlawful*, **not** "CFPB unconstitutional" (SCOTUS upheld CFPB's
+funding structure in 2024); (b) demographic — the affected subset is *people without exit
+dependent on a withdrawn system, heavily pediatric*, not "children only" (Pe Kha Lau, 71).
 
 **The single most important next action for this entire packet is custody work, not more
 argument.** The capture pass advanced the six priority items from `CAPTURE-REQUIRED` to

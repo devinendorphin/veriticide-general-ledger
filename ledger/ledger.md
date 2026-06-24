@@ -2455,8 +2455,9 @@ Source: Secretary of State Marco Rubio, testimony before the House Foreign Affai
 
 | Date | Record | Content |
 |---|---|---|
+| January 24, 2025 | Meeks/Frankel letter to Rubio (House Foreign Affairs) | Formal written warning of "damage and loss of life" from the foreign-assistance freeze, sent the day the freeze took effect; flags PEPFAR (20.6M on treatment, 55 countries) and PMI; direct PDF on house.gov. *(Earliest written warning to the named decision-maker.)* |
 | February 2, 2025 | Babagana death (NPR, documented) | 7-year-old died after USAID-funded clinic shuttered by stop-work order, northeastern Nigeria |
-| February 10, 2025 | Congressional letter to Rubio (House Foreign Affairs) | Formal written notification of PEPFAR freeze mortality consequences — delivered to named decision-maker |
+| February 10, 2025 | Kelly/Pocan + 109 House Democrats letter to Rubio (incl. Brownley) | Formal written notification urging immediate PEPFAR restoration; "a halt in these services threatens millions of lives" — delivered to named decision-maker. *(Attribution corrected from "Brownley et al." per case-file reconciliation: `cases/doge-usaid-pepfar/evidence/hfac-letter-jan24/`.)* |
 | February 13, 2025 | Congressional PEPFAR hearing | HIV activists protested; mortality consequences in the public Congressional record |
 | February 19, 2025 | Suza Kenyaba death (Washington Post investigation) | 5-year-old died of malaria in DRC; medication purchased but stranded by aid suspension |
 | February 27, 2025 | Peer-reviewed modeling study (medrxiv) | Projected 4.2M AIDS deaths 2025–2029 from PEPFAR disruption — in public domain during active dismantlement |
@@ -2520,7 +2521,8 @@ What would further close this entry: Disclosure of whether the ProPublica intern
 | doge-pbs-usip-court-win | PBS | May 2025 | USIP reclaimed headquarters |
 | doge-usafacts-usaid-newsletter | USAFacts | Feb 2025 | $8.2B unspent aid; judge halted USAID recall |
 | propublica-internal-memos-appointees | ProPublica | Early 2025 (memos); published 2025 | "Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency" — internal written warning delivered to Trump political appointees from USAID career leadership during the dismantlement; establishes awareness at the political appointee tier, not merely in external or chain-of-command-adjacent channels |
-| rubio-congressional-letter-pepfar | House Foreign Affairs (Brownley et al.) | Feb 10, 2025 | Formal written notification of PEPFAR freeze mortality consequences delivered to Rubio |
+| rubio-letter-meeks-frankel-jan24 | House Foreign Affairs (Meeks/Frankel) | Jan 24, 2025 | Earliest written warning of "damage and loss of life" from the freeze, sent the day it took effect; direct PDF on house.gov |
+| rubio-congressional-letter-pepfar | House Foreign Affairs (Kelly/Pocan + 109 Democrats, incl. Brownley) | Feb 10, 2025 | Formal written notification urging immediate PEPFAR restoration; "threatens millions of lives" — delivered to Rubio. Attribution corrected from "Brownley et al." per case-file reconciliation (`cases/doge-usaid-pepfar/evidence/hfac-letter-jan24/`) |
 | rubio-babagana-death | NPR | Feb 2, 2025 | 7-year-old Babagana died after USAID clinic shuttered by stop-work order, Nigeria |
 | rubio-suza-kenyaba-death | Washington Post investigation | Feb 19, 2025 | 5-year-old Suza Kenyaba died of malaria; medication stranded by aid suspension, DRC |
 | rubio-tamlyn-cable | Washington Post (internal State Dept) | Apr 21, 2025 | Ambassador Tamlyn warned of HIV resurgence in DRC from "abrupt elimination" of PEPFAR — within Rubio's chain of command |
