@@ -2285,6 +2285,8 @@ What would convert to stronger evidence: The subject's own posts from the releva
 
 **Cluster note:** 20 records captured. Primary source: doge.gov/savings. Secondary documentation: Cato Institute, PBS, WaPo, CBS, ABC, AP, CREW, NBC Washington, USAFacts. Capture dates: 2025-02-02 through 2025-12-17. Secondary records are witnesses — they document the gap. They are logged as gap documentation supporting the INSTRUMENT entry, not as laundering specimens.
 
+**Cold extract:** A narrowed, prosecutable pilot dossier built from this cluster — the "knife" to this cathedral — lives at `cases/doge-usaid-pepfar/`. It reduces this material to one protected population, one instrument, one authorization chain, and one harm pathway, and produces the six cold extracts (charge theory, evidence matrix, source bundle, adversarial check, falsification memo, custody manifest). The extract charges the base offense **without** the conscription element (administrative-withdrawal case, not an AI case) and keeps the genocide / full-convergence analysis in this ledger rather than carrying it into the first packet.
+
 ---
 
 INSTRUMENT ENTRY — DOGE (Department of Government Efficiency)

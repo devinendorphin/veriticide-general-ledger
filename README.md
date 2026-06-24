@@ -50,6 +50,24 @@ The ledger operates under five foundational instruments, all in `docs/`:
 
 ---
 
+## Case files (cold extracts)
+
+The master ledger is the cathedral; a case file is a knife. `cases/` holds narrowed,
+prosecutable pilot dossiers cut from the ledger — each reduced to one protected population,
+one instrument, one authorization chain, and one harm pathway, with six cold extracts:
+one-page charge theory, evidence matrix, graded source bundle, adversarial check,
+falsification memo, and custody manifest.
+
+| Case | Path | Drawn from |
+|---|---|---|
+| DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 (DOGE) |
+
+A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
+disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is
+for a tribunal). Start at `cases/doge-usaid-pepfar/README.md`.
+
+---
+
 ## First-time setup
 
 ```bash
