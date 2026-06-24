@@ -64,6 +64,18 @@ and witness testimony must never again wear the same uniform. Grade legend in `R
 
 ---
 
+## Capture update — 2026-06-24
+
+The six items below were advanced from `CAPTURE-REQUIRED` to **`LOCATOR-VERIFIED`** (canonical
+URL + verbatim text confirmed via sanctioned web search; stored with integrity hash in
+`evidence/`): `musk-woodchipper-posts`, `doge-savings-subset`, `tamlyn-cable`,
+`propublica-internal-memos`, `rubio-hfac-testimony`, `meeks-jun2025`/`meeks-oct2025`. New
+corroboration logged in those transcripts and in `05-custody-manifest.md` (Tamlyn realized-death
+differential; ProPublica's direct "Elon Musk's DOGE … ignoring and impeding staff" linkage;
+WaPo Fact Checker four-Pinocchios finding; the "88 children per hour" figure; the Enrich
+*Into the Wood Chipper* memoir). Full original-form (`VERIFIED`) capture remains blocked by the
+environment's egress policy.
+
 ## Priority capture list (custody work, in order)
 
 The case's evidentiary weakness is **custody, not content**. The following are the

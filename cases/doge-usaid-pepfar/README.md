@@ -28,6 +28,12 @@ auditor, reporter, or oversight body actually needs:
 | 03 | Adversarial check | `03-adversarial-check.md` | "one adversarial check" |
 | 04 | Falsification memo | `04-falsification-memo.md` | "one falsification memo" |
 | 05 | Custody manifest | `05-custody-manifest.md` | "one custody manifest" |
+| — | Capture & custody store | `evidence/` | the preserved artifacts (Track F) |
+
+The six priority primary artifacts are preserved in `evidence/` at custody state
+**`LOCATOR-VERIFIED`** (canonical URL + verbatim text + integrity hash). Full original-form
+preservation (`VERIFIED`) is blocked by this environment's egress policy and is the next custody
+action; see `evidence/README.md` and `05-custody-manifest.md`.
 
 ---
 

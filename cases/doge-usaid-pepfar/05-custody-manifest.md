@@ -19,7 +19,25 @@ it is.*
 |---|---|
 | `IN-LEDGER` | Cited in `ledger/ledger.md` with source attribution. Believable, but the live URL is the only copy — vulnerable to link rot, edit, or takedown. |
 | `CAPTURE-REQUIRED` | Named primary source identified; artifact **not** preserved. The highest-value and least-protected items are here. |
-| `VERIFIED` | Artifact preserved in `/evidence/` with original form + capture metadata + cryptographic hash + timestamp, held by ≥2 custodians, backed up off-platform. **No item is yet VERIFIED.** |
+| `LOCATOR-VERIFIED` | Canonical source URL confirmed and key verbatim text confirmed via the one sanctioned egress channel (web search); stored in `evidence/<id>/` as a transcript with an integrity hash. Original-form bytes not yet preserved. **The six priority items reached this state on 2026-06-24.** |
+| `VERIFIED` | Artifact preserved in `evidence/<id>/` with original form (WARC/PDF/screenshot + headers) + capture metadata + cryptographic hash + timestamp, held by ≥2 custodians, backed up off-platform. **No item is yet VERIFIED** (blocked by this environment's egress policy — see §6). |
+
+**Capture log — 2026-06-24.** A capture pass moved the six priority items from
+`CAPTURE-REQUIRED` to `LOCATOR-VERIFIED`. Artifacts and `capture.json`/`sha256.txt` are in
+`evidence/`. The pass also surfaced material corroboration not previously in the ledger:
+- **Tamlyn cable:** realized before/after mortality — ≥219 HIV-positive deaths in Lualaba
+  province Jan–Jun 2025 vs. 164 the prior year (Congolese health officials, via WaPo); named
+  casualty estimates (28,000 adults / 2,500 children); $50M commodities "still stranded."
+- **ProPublica memos:** the article ties the dismantlement directly to **"Elon Musk's
+  Department of Government Efficiency"** pressing ahead "by ignoring and impeding staff who
+  tried to protect lifesaving operations"; specific tolls (1M children untreated for SAM;
+  166,000 malaria deaths; 200,000 polio paralysis; TB +30%); Peter Marocco named.
+- **Rubio denial:** Washington Post "Fact Checker" awarded the "no one has died" claim **four
+  Pinocchios** — an independent on-record falsity finding.
+- **Meeks demands:** the "88 children per hour" figure; Oct 31, 2025 written-response deadline.
+- **Musk posts:** the wood-chipper phrase became the title of whistleblower **Nicholas Enrich's**
+  memoir *Into the Wood Chipper*; Enrich also authored the internal warning memos — linking the
+  deployer's own words to the warnings the dismantlement ignored.
 
 ## 2. The intended `/evidence/` layout
 
@@ -96,14 +114,19 @@ it does not have; that honesty is itself part of the chain.
 
 ---
 
-## Custody status summary
+## Custody status summary (as of 2026-06-24)
 
-- **VERIFIED:** 0 items. *(No artifact yet preserved with hash + timestamp + dual custody.)*
-- **CAPTURE-REQUIRED:** the primary artifacts (P1/P2) — the highest-leverage, least-protected
-  items.
+- **VERIFIED:** 0 items. *(Original-form preservation blocked by this environment's egress
+  policy — see §6. Requires a permitted environment.)*
+- **LOCATOR-VERIFIED:** 6 items — the priority primary artifacts, now in `evidence/` with
+  canonical URLs, verbatim text, and integrity hashes (`evidence/<id>/`).
+- **CAPTURE-REQUIRED:** residual primary items not in the priority six (e.g., `hfac-letter-feb10`,
+  `schatz-record`, `gawande-democracynow`).
 - **IN-LEDGER:** the secondary/expert corpus (S1/S2) — well-cited, single-copy, to be mirrored.
 
 **The single most important next action for this entire packet is custody work, not more
-argument.** The content already justifies emergency preservation, audit, inquiry, and
-reporting. What converts it from a strong account into a usable evidentiary object is moving
-the CAPTURE-REQUIRED items into `/evidence/` as VERIFIED. Begin with `musk-woodchipper-posts`.
+argument.** The capture pass advanced the six priority items from `CAPTURE-REQUIRED` to
+`LOCATOR-VERIFIED` (canonical locator + verbatim text + integrity hash), but **full original-form
+preservation (`VERIFIED`) remains blocked by this environment's egress policy** and must be done
+from a permitted environment. Begin there with `musk-woodchipper-posts` (X post + archive.org
+snapshot). Integrity of the current store: `sha256sum -c evidence/*/sha256.txt`.
