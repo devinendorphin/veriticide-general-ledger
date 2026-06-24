@@ -1,0 +1,14 @@
+{
+  "item_id": "musk-woodchipper-posts",
+  "source_url": "https://x.com/elonmusk/status/1886307316804263979",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy. Direct WebFetch/curl to source host denied by org egress policy (HTTP 403). Content/locator verified; original-form bytes not retrieved.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-24T11:10:00Z",
+  "bears_date": "2025-02-03",
+  "grade": "P1",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "d8cb4cdfca1bb2d3a8e4484d2b6623cfb519d23a2fce895b11c0531491ee9f4a",
+  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
+  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture."
+}
