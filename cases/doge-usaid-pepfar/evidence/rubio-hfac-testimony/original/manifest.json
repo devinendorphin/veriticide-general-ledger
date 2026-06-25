@@ -1,0 +1,27 @@
+{
+  "item": "./rubio-hfac-testimony",
+  "captured_at": "2026-06-25T17:39:09.270732Z",
+  "artifact_count": 5,
+  "artifacts": {
+    "www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.warc": {
+      "sha256": "e735806c7a9babf1b7b71e608185667cfaadd5601e78bb3546fef7fc675dd1ef",
+      "bytes": 1935103
+    },
+    "www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.png": {
+      "sha256": "e081e31316c43cd39aee3c6bc836e77ab8f87b3e65d834ab89fcdb2a1e021182",
+      "bytes": 36036
+    },
+    "www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.pdf": {
+      "sha256": "3e4c4a290f077360ffe8fc8813e45f3b9b9c6f846a01ac81fb29a969b6389f6b",
+      "bytes": 52417
+    },
+    "www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.html": {
+      "sha256": "84b7d95d0290f4b7129751b9bb83a36cde4903f49c906e26ab6189463252957e",
+      "bytes": 1827314
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

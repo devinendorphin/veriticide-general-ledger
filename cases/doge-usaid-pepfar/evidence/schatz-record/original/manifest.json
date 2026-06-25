@@ -1,0 +1,43 @@
+{
+  "item": "schatz-record",
+  "captured_at": "2026-06-25T18:01:31.462052Z",
+  "artifact_count": 9,
+  "artifacts": {
+    "www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.html": {
+      "sha256": "6124237146caa9103bd991b26ff224ae7be3148f4aa253bb763adf865b06569b",
+      "bytes": 4234799
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.pdf": {
+      "sha256": "023b3871d17577ab6d4d71c5b09bf20f12321c16dc1dbeacc7ae4b583e05ab48",
+      "bytes": 54068
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.png": {
+      "sha256": "d0b6045be3752be7bf17a680b75a79395af8b9c2ae4832629cd0123b4c7a8c3f",
+      "bytes": 37534
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.html": {
+      "sha256": "a6f104422274989aa758633a3a312cdfd19982ad96643d9a5c411eb229aa624f",
+      "bytes": 4210021
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.png": {
+      "sha256": "d0b6045be3752be7bf17a680b75a79395af8b9c2ae4832629cd0123b4c7a8c3f",
+      "bytes": 37534
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.warc": {
+      "sha256": "3182f1065ad9b9a4a328654a5d329a91cd023346220dac5cd987545cafc08422",
+      "bytes": 4259635
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.pdf": {
+      "sha256": "060d1657313583081ab7845c33d4d40479e3d53b3fb5a8f68a1992767eafb8a8",
+      "bytes": 53710
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.warc": {
+      "sha256": "5a87f1a8a9acbb94cc203a37ad566949dd2eb9e7fed19ec9ad09b2dff0a05c08",
+      "bytes": 4235114
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}
