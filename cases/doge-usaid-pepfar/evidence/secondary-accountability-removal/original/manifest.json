@@ -1,0 +1,155 @@
+{
+  "item": "secondary-accountability-removal",
+  "captured_at": "2026-06-25T18:22:38.463221Z",
+  "artifact_count": 37,
+  "artifacts": {
+    "www.newsweek.com_doge-usip-evicts-headquarters-police-george-moose-trump-2046265.png": {
+      "sha256": "074f8c487f09ec149d0aa1a815cceb34e9473d550e9f5bb0883c572d914463a7",
+      "bytes": 37062
+    },
+    "abcnews.com_Politics_judge-denies-effort-reinstate-us-institute-peace-board_stor.warc": {
+      "sha256": "344e628980d147caf8e814b866ab7e83df8e11f1d13c481551ae84362522a95c",
+      "bytes": 2824
+    },
+    "www.asisonline.org_security-management-magazine_articles_2025_07_USIP_timeline_.pdf": {
+      "sha256": "85941f3f63a40e2c4ba7cdd2ef8150390dc4bd97f15ab369b6bbb36ffc676b61",
+      "bytes": 35313
+    },
+    "abcnews.com_Politics_judge-denies-effort-reinstate-us-institute-peace-board_stor.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.asisonline.org_security-management-magazine_articles_2025_07_USIP_timeline_.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.newsweek.com_doge-usip-evicts-headquarters-police-george-moose-trump-2046265.pdf": {
+      "sha256": "9d0b67f62e80d9b55a31369b94122b997cbbfd0f2485fc329bbdd4cab00fbeb1",
+      "bytes": 52946
+    },
+    "www.nbcnews.com_politics_national-security_usaid-security-leaders-removed-refusi.pdf": {
+      "sha256": "747dc059d96a048357181fe9648214db44274fc6d1bf9eac35188f012145d764",
+      "bytes": 53456
+    },
+    "www.pbs.org_newshour_politics_usaid-security-chiefs-put-on-leave-after-trying-to.pdf": {
+      "sha256": "5059ba5ff085fa461a3ba036147e9d489056ef3080517b1bc29d917ff03dd960",
+      "bytes": 53356
+    },
+    "fortune.com_article_consumer-financial-protection-bureau-doge-elon-musk-layoffs-.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.nbcnews.com_politics_national-security_usaid-security-leaders-removed-refusi.warc": {
+      "sha256": "672741030c28b1d9800c564f1a4ad9117cfad94f5bb165c4c001443482cc1ceb",
+      "bytes": 5269253
+    },
+    "fortune.com_article_consumer-financial-protection-bureau-doge-elon-musk-layoffs-.warc": {
+      "sha256": "e3b22dcc1c3c26637ea6eb1b9901779bbc44865f533be88cf463c2e130243a29",
+      "bytes": 2848
+    },
+    "www.nbcnews.com_politics_national-security_usaid-security-leaders-removed-refusi.png": {
+      "sha256": "2f704fedd5a65bf2046f00e7d4fe190aff29f0e6f984ceaf9988ab261ebec3be",
+      "bytes": 36993
+    },
+    "www.nbcnews.com_politics_trump-administration_us-institute-peace-sues-block-doge.html": {
+      "sha256": "bfabf983212583ed6f310db82d4f8268a9b134e775b294d35a919f7e1ba2fa36",
+      "bytes": 5002335
+    },
+    "www.newsweek.com_doge-usip-evicts-headquarters-police-george-moose-trump-2046265.warc": {
+      "sha256": "8910eee618a604a3ae54cd17fa1f7008d845585142de6ad3d6e4d534e845e397",
+      "bytes": 5174528
+    },
+    "fortune.com_article_consumer-financial-protection-bureau-doge-elon-musk-layoffs-.pdf": {
+      "sha256": "f8c0c740fcaa8152fce98e1d29fa015b80c85071d1d497e0a0389ecce0265235",
+      "bytes": 34540
+    },
+    "www.citizensforethics.org_legal-action_lawsuits_crew-sues-multiple-departments-f.pdf": {
+      "sha256": "c1e5a51c247be7a1a7830b3eea368716cce79e17dfa9e20b763269ee873e1c0e",
+      "bytes": 33444
+    },
+    "www.npr.org_2025_03_28_nx-s1-5315118_cfpb-shuttering-trump-doge.png": {
+      "sha256": "e081e31316c43cd39aee3c6bc836e77ab8f87b3e65d834ab89fcdb2a1e021182",
+      "bytes": 36036
+    },
+    "www.nbcnews.com_politics_trump-administration_us-institute-peace-sues-block-doge.warc": {
+      "sha256": "f22b70c52b5db13211c9968dc9f59d66aac9d29bb5eac9b82087e94266fda424",
+      "bytes": 5206551
+    },
+    "abcnews.com_Politics_judge-denies-effort-reinstate-us-institute-peace-board_stor.pdf": {
+      "sha256": "059f48546c6808391d861662864c685b5374aa71735b7283279d92add6be7101",
+      "bytes": 36343
+    },
+    "www.asisonline.org_security-management-magazine_articles_2025_07_USIP_timeline_.warc": {
+      "sha256": "98d629ab5420d3559939c3cf823a1866645b9dc2d97ff321118805f0f298d393",
+      "bytes": 2789
+    },
+    "www.pbs.org_newshour_politics_usaid-security-chiefs-put-on-leave-after-trying-to.html": {
+      "sha256": "fd870d565beafed19a5607549e850bd12fb2f1d804aee316a59c5d1e374988b3",
+      "bytes": 245627
+    },
+    "www.pbs.org_newshour_politics_usaid-security-chiefs-put-on-leave-after-trying-to.png": {
+      "sha256": "f77aca33b4c8c263c34eedd857ce4a3848c6105a3f5a44a2465ebe00d8297a99",
+      "bytes": 36012
+    },
+    "www.nbcnews.com_politics_trump-administration_us-institute-peace-sues-block-doge.png": {
+      "sha256": "2f704fedd5a65bf2046f00e7d4fe190aff29f0e6f984ceaf9988ab261ebec3be",
+      "bytes": 36993
+    },
+    "www.pbs.org_newshour_politics_usaid-security-chiefs-put-on-leave-after-trying-to.warc": {
+      "sha256": "82dc1839c3ce8bcc8cc544dde4ce8001ea4fd004d5ae5a1cf954d5e7c5c63ed7",
+      "bytes": 250959
+    },
+    "www.nbcnews.com_politics_national-security_usaid-security-leaders-removed-refusi.html": {
+      "sha256": "1f4e7c635ebef82658812914d03cc3f737688bbfa1e78011237b0ba9c6caf72e",
+      "bytes": 5063289
+    },
+    "fortune.com_article_consumer-financial-protection-bureau-doge-elon-musk-layoffs-.png": {
+      "sha256": "4bcac088e639c6ea90a7eb65fa5508abc36b74486bd03c954a5b04480298ebd8",
+      "bytes": 41933
+    },
+    "www.citizensforethics.org_legal-action_lawsuits_crew-sues-multiple-departments-f.warc": {
+      "sha256": "2bd8f4881bfcfd0b297ba8158babf2ba112c2629dadf095299fb93fed7560a49",
+      "bytes": 2834
+    },
+    "www.npr.org_2025_03_28_nx-s1-5315118_cfpb-shuttering-trump-doge.warc": {
+      "sha256": "f1ce2ba6a4a9f743c7de65c06c4e4ee99a95adcd4206cf557e3be1e793647d7f",
+      "bytes": 1929970
+    },
+    "www.asisonline.org_security-management-magazine_articles_2025_07_USIP_timeline_.png": {
+      "sha256": "753f74c08d90778b795e8deeb668d49c6c56c5c676fc3dc142bac611672d9303",
+      "bytes": 42852
+    },
+    "www.npr.org_2025_03_28_nx-s1-5315118_cfpb-shuttering-trump-doge.pdf": {
+      "sha256": "d97da884e7e118193ef0bd471f214e8d150a912a64234d3923967022cbeab238",
+      "bytes": 52043
+    },
+    "abcnews.com_Politics_judge-denies-effort-reinstate-us-institute-peace-board_stor.png": {
+      "sha256": "4030f4b64b61c48b30795677348e7b6e879f8c2cd625fd9e040fcfd852a1f838",
+      "bytes": 43313
+    },
+    "www.citizensforethics.org_legal-action_lawsuits_crew-sues-multiple-departments-f.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.nbcnews.com_politics_trump-administration_us-institute-peace-sues-block-doge.pdf": {
+      "sha256": "73cd1a2ed41b76ed7182d744dc4ecd8d7f74a9ebce871559e73a514622feb60a",
+      "bytes": 53235
+    },
+    "www.citizensforethics.org_legal-action_lawsuits_crew-sues-multiple-departments-f.png": {
+      "sha256": "7b276d9965033b47363ddc178935395e5f2409f9298476bbaa00c30bdbce6994",
+      "bytes": 42847
+    },
+    "www.newsweek.com_doge-usip-evicts-headquarters-police-george-moose-trump-2046265.html": {
+      "sha256": "69e2d8a968f2b9559cbcadacd1d23d0d0611f946543ce0167be054838bcaa2e5",
+      "bytes": 4817798
+    },
+    "www.npr.org_2025_03_28_nx-s1-5315118_cfpb-shuttering-trump-doge.html": {
+      "sha256": "c267415dcfed0befeed05fe9ddf0aecc573adcfcf96f22775b8b11ccdf2db26c",
+      "bytes": 1829379
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}
