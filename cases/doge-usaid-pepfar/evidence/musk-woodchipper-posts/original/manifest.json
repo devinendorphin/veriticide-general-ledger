@@ -1,0 +1,79 @@
+{
+  "item": "./musk-woodchipper-posts",
+  "captured_at": "2026-06-25T17:03:44.161693Z",
+  "artifact_count": 18,
+  "artifacts": {
+    "x.com_elonmusk_status_1886307316804263979.warc": {
+      "sha256": "1344601c775d196a46e8394661b5cbd9a0ad3551383ab51cd29f055f762a2a0b",
+      "bytes": 397271
+    },
+    "prospect.org_2026_05_22_who-died-when-elon-musk-killed-usaid-enrich-review_.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.democracynow.org_2026_4_16_usaid_whistleblower.png": {
+      "sha256": "e57cf2b9ca60e39b218f53aeff4136d8484ffefc5fead3ddbeb2f7bc87b2cbee",
+      "bytes": 37718
+    },
+    "healthpolicy-watch.news_trump-and-musks-message-to-usaid-time-to-die_.warc": {
+      "sha256": "662d3d94a2c44f9ea3f5f86c84f7da895ffe437b89d99e186af570aed6dc70ea",
+      "bytes": 2687
+    },
+    "ytdlp.log": {
+      "sha256": "7cf5876cb2b4c1b858ca7a5c1cd94240626461c76d312a75b9f940b240982468",
+      "bytes": 140
+    },
+    "x.com_elonmusk_status_1886307316804263979.png": {
+      "sha256": "a7a7e06ff364f58f80f976eeed165bd48d49683fda662d845a6a614c73654e87",
+      "bytes": 35365
+    },
+    "healthpolicy-watch.news_trump-and-musks-message-to-usaid-time-to-die_.pdf": {
+      "sha256": "e1e95815a157071d6933c3548f2e3f63bc9b3875227cddea09cd0403db45d645",
+      "bytes": 33863
+    },
+    "prospect.org_2026_05_22_who-died-when-elon-musk-killed-usaid-enrich-review_.pdf": {
+      "sha256": "0c929139912501808608e8314f3728e4836fc7c49c9e24d2a6c808b9ec6a27e3",
+      "bytes": 34145
+    },
+    "prospect.org_2026_05_22_who-died-when-elon-musk-killed-usaid-enrich-review_.png": {
+      "sha256": "2a5e268f024cd93fecb071e68fea3abf8c7e23480c3d11627727885ac17a67e8",
+      "bytes": 42157
+    },
+    "x.com_elonmusk_status_1886307316804263979.html": {
+      "sha256": "912b0ec6fa286f45e7ce3093679c2515acaa3208c4246f894d785b46a186b9c6",
+      "bytes": 372396
+    },
+    "www.democracynow.org_2026_4_16_usaid_whistleblower.pdf": {
+      "sha256": "cae1e83c878671c8e379191a2df13500400aede533050235ca586ca3af79418a",
+      "bytes": 53186
+    },
+    "www.democracynow.org_2026_4_16_usaid_whistleblower.warc": {
+      "sha256": "bd0898b2b045d79e9bcfa3680f1c0d24e9050654ab854908ed2d0e5f77048db3",
+      "bytes": 8424646
+    },
+    "healthpolicy-watch.news_trump-and-musks-message-to-usaid-time-to-die_.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "healthpolicy-watch.news_trump-and-musks-message-to-usaid-time-to-die_.png": {
+      "sha256": "1e6289e9d6dea31681570ab268fcff2222d7d0df51a2df2c5ee80292bb2ea42c",
+      "bytes": 41888
+    },
+    "prospect.org_2026_05_22_who-died-when-elon-musk-killed-usaid-enrich-review_.warc": {
+      "sha256": "f18084d7458f7c29ff35d6e1687f3fdc2eab39f4ee3bf57d9511d4b08013948f",
+      "bytes": 2729
+    },
+    "www.democracynow.org_2026_4_16_usaid_whistleblower.html": {
+      "sha256": "57d91895b9cfd9dcb276d040d542658731ca2418c70a755b2123f276e553431c",
+      "bytes": 8199268
+    },
+    "x.com_elonmusk_status_1886307316804263979.pdf": {
+      "sha256": "a9525b8fa305e260b5591ba92593277253bf80bb60a6ab57336ad3dbbf251b5b",
+      "bytes": 51427
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

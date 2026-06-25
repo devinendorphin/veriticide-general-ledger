@@ -1,0 +1,107 @@
+{
+  "item": "./doge-savings-subset",
+  "captured_at": "2026-06-25T16:51:25.545892Z",
+  "artifact_count": 25,
+  "artifacts": {
+    "abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.warc": {
+      "sha256": "fb75853727e2c5b3d58f9f08f1cfe995167f14f909226ffe24dce6c0fa2a0750",
+      "bytes": 2768
+    },
+    "abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.pdf": {
+      "sha256": "677cefa037f141fb00e34c8de13dc9573d59c5af99f52d80e7e0ac1392572867",
+      "bytes": 37288
+    },
+    "www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.pdf": {
+      "sha256": "5e27b0b1e9be7bcd4a7802b0b390cfed25b4a9c1b51783538237c40afb58e90e",
+      "bytes": 53477
+    },
+    "www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.png": {
+      "sha256": "63e738b4f5f2de5ef1d1320e6735b8bbaf9503071676cf15e99508a8c9d5ca29",
+      "bytes": 36665
+    },
+    "thehill.com_homenews_administration_5162621-doge-wall-of-receipts-savings_.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.pdf": {
+      "sha256": "aea639de5e74ad7be1653de1e066abe662631cf2949c7a734613a3a71336e853",
+      "bytes": 52352
+    },
+    "www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.png": {
+      "sha256": "63e738b4f5f2de5ef1d1320e6735b8bbaf9503071676cf15e99508a8c9d5ca29",
+      "bytes": 36665
+    },
+    "thehill.com_homenews_administration_5162621-doge-wall-of-receipts-savings_.png": {
+      "sha256": "a89fd3d8a1e33c33831c2945ff0006557a61bb55b49b47bea71e8c274d6e375e",
+      "bytes": 41214
+    },
+    "www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.warc": {
+      "sha256": "80909d32eb60c9989fb2ea61bda41835271c5035cc95bb6e4c5f8a4352d708fe",
+      "bytes": 4172106
+    },
+    "www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.html": {
+      "sha256": "1db7ac28c0310b205d4bcedfa4dbb34eb657ab8ade62092d6ef7385dbe6a596d",
+      "bytes": 3685420
+    },
+    "www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.html": {
+      "sha256": "bedd1f25bd1fbb0f1890e8d862a024cd97b4c36cb660ba5f34796232c0fed1e4",
+      "bytes": 4082747
+    },
+    "www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.png": {
+      "sha256": "73871bf253071d9d17d28d32ccd232fc85dc467b39599467d718340dd654e941",
+      "bytes": 36866
+    },
+    "www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.warc": {
+      "sha256": "22ae325ca521f61fd1cbf4e662d93159756ef8d25659715c26314b6daf6ce66f",
+      "bytes": 3311797
+    },
+    "www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.html": {
+      "sha256": "977cd6daf76bc40213785cf7dd1f793253c852e5ff55d36f2b2e41e350c5efe1",
+      "bytes": 3242599
+    },
+    "doge.gov_savings.pdf": {
+      "sha256": "db3043ac79f28c88d850a386d8068f63f43afa68d6f5c2b25a305df960183efe",
+      "bytes": 50368
+    },
+    "doge.gov_savings.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.png": {
+      "sha256": "872dde71b139b2bae93cb9141e15e1a1c8dc90c095cbf82a7bb9befc6247bde6",
+      "bytes": 44757
+    },
+    "doge.gov_savings.warc": {
+      "sha256": "e4191ce243ee32113561bbf6da7f8ad08a38b5468cc3a0aed031db750875e60c",
+      "bytes": 10935
+    },
+    "thehill.com_homenews_administration_5162621-doge-wall-of-receipts-savings_.warc": {
+      "sha256": "baabbfcedb4b2e0c1c46de8d53829588054e40d84793f4eda336e1acd4aaf49e",
+      "bytes": 2710
+    },
+    "abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "thehill.com_homenews_administration_5162621-doge-wall-of-receipts-savings_.pdf": {
+      "sha256": "8606533c9e7910b3a9dad66a6563677153bf393d4d8eb74a042ef9a522f1cd88",
+      "bytes": 34061
+    },
+    "www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.warc": {
+      "sha256": "e973b4039e5df73c9042d819625cbe57e75fccbe1dc6959061b492b6603aa83f",
+      "bytes": 3774953
+    },
+    "www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.pdf": {
+      "sha256": "7626eaed5236d2a0a0fc4523b66a7ee5b280d61f431278601ab0779a8b787098",
+      "bytes": 52270
+    },
+    "doge.gov_savings.png": {
+      "sha256": "299236cda1c0f9019f74ec3dd101b6f162b9fdc6ecad912730f8b80a8d4c8a8c",
+      "bytes": 35880
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

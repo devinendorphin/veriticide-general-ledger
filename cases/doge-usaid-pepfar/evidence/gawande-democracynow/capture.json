@@ -6,12 +6,13 @@
   "captured_at": "2026-06-24T11:30:00Z",
   "bears_date": "2025-11-13",
   "grade": "P2 (named expert, former USAID global health head) via S1",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "667c45a25c2c4f4ae0b1fec45b194aba9b9a9cd62a8a1b662af6eea69b69ed82",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "PENDING \u2014 requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "original_form_capture": "CAPTURED: 10 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture.",
-  "track": "C / IV(4)"
+  "track": "C / IV(4)",
+  "verified_at": "2026-06-25T16:53:18.842657Z"
 }

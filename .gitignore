@@ -5,3 +5,15 @@ __pycache__/
 ledger/.seen_hashes.txt
 .env
 .claude/
+
+# Original-form capture: large forensic binaries (WARC, raw wget HTML, video).
+# These are kept in off-platform custody (see cases/*/evidence/CAPTURE-RUNBOOK.md);
+# the integrity records (manifest.json, sha256sums.txt), PDFs and screenshots ARE
+# committed. To deliberately commit one ignored artifact: git add -f <path>.
+**/evidence/*/original/*.warc
+**/evidence/*/original/*.html
+**/evidence/*/original/*.mp4
+**/evidence/*/original/*.mkv
+**/evidence/*/original/*.webm
+**/evidence/*/original/*.m4a
+**/evidence/*/original/*.m4v

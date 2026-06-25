@@ -6,12 +6,13 @@
   "captured_at": "2026-06-24T11:30:00Z",
   "bears_date": "2025 (Feb-Jul, per case)",
   "grade": "S1/T1 (named individuals, multi-outlet)",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "f9bdc495b352febee8c7fe0eba6870a0ab1d4fee60d7b39970e5e93f98c76b5d",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "PENDING \u2014 requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "original_form_capture": "CAPTURED: 25 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture.",
-  "track": "C / IV(4)"
+  "track": "C / IV(4)",
+  "verified_at": "2026-06-25T17:20:50.154560Z"
 }

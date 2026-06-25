@@ -1,0 +1,75 @@
+{
+  "item": "./meeks-demands",
+  "captured_at": "2026-06-25T17:00:53.573972Z",
+  "artifact_count": 17,
+  "artifacts": {
+    "sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.warc": {
+      "sha256": "9f3fcb53a3e2cbedcb737f2cf7709636b8508d065f0dcfd1c5ebc16609b1c062",
+      "bytes": 3281959
+    },
+    "democrats-foreignaffairs.house.gov_2025_6_meeks-requests-answers-from-secretary-.pdf": {
+      "sha256": "0580fdb3251be29657ecc315a548d701b009d25ad56e926b55e6e0b0160f2fee",
+      "bytes": 55391
+    },
+    "democrats-foreignaffairs.house.gov_2025_8_meeks-demands-answers-on-reports-of-tr.pdf": {
+      "sha256": "e11e81b93c517166be72629018e9c93e699d9a35473eb73004a2dddd0253961b",
+      "bytes": 55335
+    },
+    "sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.html": {
+      "sha256": "09d699a5d5e3b7cf7835c8ad2772435eaf59bc696a5c76a9ff87214cc7842c76",
+      "bytes": 3228297
+    },
+    "democrats-foreignaffairs.house.gov_2025_10_meeks-again-demands-answers-from-secr.pdf": {
+      "sha256": "e2d925316b0f5785032f183ef906d83f49d21e57cb2b22aff2c79f73fbf9a8a8",
+      "bytes": 55227
+    },
+    "democrats-foreignaffairs.house.gov_2025_6_meeks-requests-answers-from-secretary-.warc": {
+      "sha256": "3c29b2d6bc3f13df11a841275c7fc4c0198dd971c7ebb319229b5b1d7504243e",
+      "bytes": 544752
+    },
+    "democrats-foreignaffairs.house.gov_2025_8_meeks-demands-answers-on-reports-of-tr.html": {
+      "sha256": "f85e560866f5e10a70297f1a3d35e180194ab3ac8638225a874b53b783242a0c",
+      "bytes": 491363
+    },
+    "democrats-foreignaffairs.house.gov_2025_8_meeks-demands-answers-on-reports-of-tr.png": {
+      "sha256": "53f1a338f42f94892988807747442fbf3d9fc2b456119f11140c6b52c02ac08b",
+      "bytes": 39249
+    },
+    "democrats-foreignaffairs.house.gov_2025_10_meeks-again-demands-answers-from-secr.png": {
+      "sha256": "53f1a338f42f94892988807747442fbf3d9fc2b456119f11140c6b52c02ac08b",
+      "bytes": 39249
+    },
+    "sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.png": {
+      "sha256": "fd8c1114be0599f5a3b2c4f98478c0bb7726155dc52f86ce6c4d404aae44a584",
+      "bytes": 37005
+    },
+    "sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.pdf": {
+      "sha256": "b5b270d668a66cf7591c14aa399f4d546884b53538a2ae6ab3de28b079faff15",
+      "bytes": 53387
+    },
+    "democrats-foreignaffairs.house.gov_2025_10_meeks-again-demands-answers-from-secr.html": {
+      "sha256": "b6231cfbcfa62e6e93cf2a5b13ef5dcb37efab31007cb17b4578dfdb67aed2b2",
+      "bytes": 490544
+    },
+    "democrats-foreignaffairs.house.gov_2025_8_meeks-demands-answers-on-reports-of-tr.warc": {
+      "sha256": "8d5ec191fbca93b64c62c39a96ccd1c84f246c42491a0f9ad6c81b52f06f66a2",
+      "bytes": 545452
+    },
+    "democrats-foreignaffairs.house.gov_2025_6_meeks-requests-answers-from-secretary-.png": {
+      "sha256": "53f1a338f42f94892988807747442fbf3d9fc2b456119f11140c6b52c02ac08b",
+      "bytes": 39249
+    },
+    "democrats-foreignaffairs.house.gov_2025_10_meeks-again-demands-answers-from-secr.warc": {
+      "sha256": "84951ea811158fd8fc738773c50b995580fab550cadde8af4961363614375bb7",
+      "bytes": 544269
+    },
+    "democrats-foreignaffairs.house.gov_2025_6_meeks-requests-answers-from-secretary-.html": {
+      "sha256": "671c3a42cc29734092ca6b32e5026df1ca1b03d4352e966161cdfe7b6b7bc11f",
+      "bytes": 491363
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

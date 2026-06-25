@@ -1,0 +1,5 @@
+e735806c7a9babf1b7b71e608185667cfaadd5601e78bb3546fef7fc675dd1ef  ./www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.warc
+e081e31316c43cd39aee3c6bc836e77ab8f87b3e65d834ab89fcdb2a1e021182  ./www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.png
+3e4c4a290f077360ffe8fc8813e45f3b9b9c6f846a01ac81fb29a969b6389f6b  ./www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.pdf
+84b7d95d0290f4b7129751b9bb83a36cde4903f49c906e26ab6189463252957e  ./www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.html
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log
