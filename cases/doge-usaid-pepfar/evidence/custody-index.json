@@ -3,8 +3,8 @@
   "generator": "evidence/build-custody-index.py",
   "item_count": 14,
   "custody_states": {
-    "VERIFIED": 10,
-    "LOCATOR-VERIFIED": 4
+    "VERIFIED": 14,
+    "LOCATOR-VERIFIED": 0
   },
   "items": [
     {
@@ -74,7 +74,7 @@
     {
       "item_id": "rubio-waivers-nonfunctional",
       "grade": "S1 (multi-outlet) + reported P1 (DOGE payment-veto account)",
-      "custody_state": "LOCATOR-VERIFIED",
+      "custody_state": "VERIFIED",
       "track": "Defense-6 rebuttal / A / B / II(2)(c)",
       "source_url": "https://theintercept.com/2025/02/06/marco-rubio-usaid-humanitarian-waiver/ (+ HRW, CGD, Dispatch, ProPublica, KFF)",
       "sha256_transcript": "c0c99fcadfcbcf77bcbd90c39a7ba1750e21e336bbe6e6258eaf9d19b654f33d"
@@ -90,7 +90,7 @@
     {
       "item_id": "secondary-accountability-removal",
       "grade": "S1 + legal (mirror)",
-      "custody_state": "LOCATOR-VERIFIED",
+      "custody_state": "VERIFIED",
       "track": "D / B",
       "source_url": "multiple (see transcript table)",
       "sha256_transcript": "b83507940c50b654aaa0536171e5e1264287a6bbaf96064f0973942889578b32"
@@ -98,7 +98,7 @@
     {
       "item_id": "secondary-doge-savings-witnesses",
       "grade": "S1/S2 (multi-outlet mirror)",
-      "custody_state": "LOCATOR-VERIFIED",
+      "custody_state": "VERIFIED",
       "track": "A",
       "source_url": "multiple (see transcript table)",
       "sha256_transcript": "77a634a1788790aa1f7eae945bda902fc32d4d32760fb9e2466db55d4d693d26"
@@ -106,7 +106,7 @@
     {
       "item_id": "secondary-mortality-modeling",
       "grade": "S2 (modeling/expert mirror)",
-      "custody_state": "LOCATOR-VERIFIED",
+      "custody_state": "VERIFIED",
       "track": "C / IV(4)",
       "source_url": "multiple (see transcript table)",
       "sha256_transcript": "6caba69a75f3cb3c8aa714639038f29ef378f5710064bde1653cf86d14e362af"

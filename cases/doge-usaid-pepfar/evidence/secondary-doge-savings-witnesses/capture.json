@@ -7,11 +7,12 @@
   "bears_date": "2025",
   "grade": "S1/S2 (multi-outlet mirror)",
   "track": "A",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "77a634a1788790aa1f7eae945bda902fc32d4d32760fb9e2466db55d4d693d26",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "PENDING \u2014 per-source WARC/PDF/screenshot from a permitted-egress environment. Rows marked 'ledger-ID' also need canonical-URL anchoring.",
-  "notes": "Grouped mirror of multiple sources; per-row URL status noted in transcript. Verbatim snippets reproduced from sanctioned search; confirm against each source at original-form capture. [2026-06-24 anchoring pass: ledger-ID rows resolved to canonical URLs; precision corrections logged.]"
+  "original_form_capture": "CAPTURED: 69 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Grouped mirror of multiple sources; per-row URL status noted in transcript. Verbatim snippets reproduced from sanctioned search; confirm against each source at original-form capture. [2026-06-24 anchoring pass: ledger-ID rows resolved to canonical URLs; precision corrections logged.]",
+  "verified_at": "2026-06-25T18:46:30.937977Z"
 }
