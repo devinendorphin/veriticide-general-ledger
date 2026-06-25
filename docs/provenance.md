@@ -77,3 +77,17 @@ The remap was done per-site (not by global find-replace) because the same token 
 **2026-06-23 — Canonical II(2)(c) tagging pass:** Added `Art. II(2)(c)` (reframing-as-care) to the Convention citation of each SPECIMEN entry whose LAUNDERING MOVE FLAG marks Move 1 or Move 6 PRESENT and not already covering (c), excluding entries whose relevant reasoning is governance-exclusion / epistemic-isolation / terminal-node (correctly II(2)(d); e.g. Entries 2.3 and 2.7); 3 entries changed (2.8, 2.9, 2.10); tag-only, no other text altered.
 
 **2026-06-23 — Entry 2.7 reconsidered + reflexivity log:** Per operator direction, added `Art. II(2)(c)` to Entry 2.7 (Olah) — it performs genuine sacral care-register reframing (an II(2)(c) act) alongside its II(2)(d) governance-exclusion/terminal-node reasoning, so it now carries both; this revises the prior pass's exclusion of 2.7, which had let (d) win on a too-blunt rule. Tag-only. Also logged Pattern Registry Entry 8 "Sub-mechanism 5" addendum (sycophancy-to-the-grader / confession-as-credential; recurrence-as-corroboration), and parked Gap Register Priority 22 (owner-steered-model attribution, Grok/Musk) for a dedicated session. Reflexivity material flagged for external cross-model review per rotating-justification discipline.
+
+---
+
+## 2026-06-25 — Cluster 4 precision corrections (back-fold from case-file capture passes)
+
+Substantive accuracy corrections to the Cluster 4 (DOGE) prose, surfaced while building and capturing the pilot case files (`cases/doge-usaid-pepfar/`, `cases/rubio-usaid-denial/`). Unlike the form/citation passes above, these touch analytic content — each is a correction *toward* accuracy, with its source, recorded here so the change is auditable:
+
+- **DOGE deletion scale:** the "five biggest contracts deleted" figure is now accompanied by the NYT/Fahrenthold accounting that roughly **1,000 claimed savings (~40% of entries)** were erased or altered; added the WaPo $55B-claimed / $9.6B-itemized / 34%-of-2,299-at-$0 detail and the Intercept EVAL-ME II specifics. Strengthens the deletion-not-correction / unauditable-by-design finding (Art. II(3)(a)).
+- **$26B clarified:** CREW's $26B is funds *returned to taxpayers* by the shuttered programs (chiefly CFPB), not $26B of generic spending.
+- **$8.2B provenance:** corrected from "USAFacts record" (a capture vehicle) to its primary source, the **USAID Office of Inspector General** watchdog warning (Fortune/PBS/WaPo).
+- **CFPB precision:** "found likely unconstitutional" refined to *dismantlement judicially halted / likely unlawful* — **not** "CFPB unconstitutional" (SCOTUS upheld CFPB's funding structure 7–2 in 2024). Named the USAID security chiefs (John Voorhees + deputy) and dated the USIP events (Moose fired Mar 14; entry Mar 17).
+- **Demographic correction:** "mostly children" softened to *disproportionately, but not exclusively, children — people without exit, heavily pediatric* (e.g., Pe Kha Lau, 71). Applied at both occurrences in the Genocide Supplement.
+
+Sourcing for each correction is preserved in the case-file evidence transcripts (`cases/doge-usaid-pepfar/evidence/secondary-doge-savings-witnesses/`, `secondary-accountability-removal/`, `named-deaths/`) and their canonical custody index. The secondary-records capture-log rows (historical IDs) were left unedited as a record of original capture.
