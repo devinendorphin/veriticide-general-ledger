@@ -7,13 +7,14 @@
 > bundle, custody manifest) shows a custody state that conflicts with this table, **this
 > table is authoritative.** Per-row custody marks elsewhere are indicative/historical.
 
-**Generated:** 2026-06-24 · **Items:** 14 · **VERIFIED:** 0 · **LOCATOR-VERIFIED:** 14
+**Generated:** 2026-06-24 · **Items:** 15 · **VERIFIED:** 0 · **LOCATOR-VERIFIED:** 15
 
 | Item | Grade | Custody | Track | sha256(transcript) |
 |---|---|---|---|---|
 | `doge-savings-subset` | P1 | LOCATOR-VERIFIED | A | `1350f92b26d8…` |
 | `gawande-democracynow` | P2 (named expert, former USAID global health head) via S1 | LOCATOR-VERIFIED | C / IV(4) | `667c45a25c2c…` |
 | `hfac-letter-jan24` | P1 (direct PDF locator) | LOCATOR-VERIFIED | C | `1d7e7e564b45…` |
+| `ig-firings-jan2025` | S1 (multiple reputable outlets) + reported P1 (Storch v. Hegseth ruling; USAID OIG report) — original ruling/report capture pending | LOCATOR-VERIFIED | D | `4ef72010cfe0…` |
 | `meeks-demands` | P1 | LOCATOR-VERIFIED | D | `6492894c88c2…` |
 | `musk-woodchipper-posts` | P1 | LOCATOR-VERIFIED | B / II(3)(d) | `d8cb4cdfca1b…` |
 | `named-deaths` | S1/T1 (named individuals, multi-outlet) | LOCATOR-VERIFIED | C / IV(4) | `f9bdc495b352…` |

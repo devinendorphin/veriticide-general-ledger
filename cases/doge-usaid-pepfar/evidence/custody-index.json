@@ -1,10 +1,10 @@
 {
   "generated": "2026-06-24",
   "generator": "evidence/build-custody-index.py",
-  "item_count": 14,
+  "item_count": 15,
   "custody_states": {
     "VERIFIED": 0,
-    "LOCATOR-VERIFIED": 14
+    "LOCATOR-VERIFIED": 15
   },
   "items": [
     {
@@ -30,6 +30,14 @@
       "track": "C",
       "source_url": "https://democrats-foreignaffairs.house.gov/_cache/files/3/7/3723c215-81d7-49f6-b47e-e281a526e5b4/0361821ECC417883CB0DEF54C9F37E80.foreign-assistance-pause-letter-to-rubio-final.pdf",
       "sha256_transcript": "1d7e7e564b458c193b96fbc78cbf1f164fb4987801c10c60dd5685564e6fec83"
+    },
+    {
+      "item_id": "ig-firings-jan2025",
+      "grade": "S1 (multiple reputable outlets) + reported P1 (Storch v. Hegseth ruling; USAID OIG report) \u2014 original ruling/report capture pending",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "D",
+      "source_url": "https://www.washingtonpost.com/politics/2025/02/11/trump-fires-usaid-inspector-general/",
+      "sha256_transcript": "4ef72010cfe0329567df48f9d5bf7ca93a8ed6bea2b3be87cde4c74626fe8b20"
     },
     {
       "item_id": "meeks-demands",

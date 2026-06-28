@@ -76,7 +76,7 @@ directory. (On macOS: `brew install wget yt-dlp` and use the installed Google Ch
 
 ## Allowlist for this case
 
-For **Custom** network access (Option A) — covers every source cited across the 14 evidence
+For **Custom** network access (Option A) — covers every source cited across the 15 evidence
 items. `*.` is a wildcard subdomain match.
 
 ```
@@ -113,6 +113,14 @@ thedispatch.com
 *.wfp.org
 *.nbcnews.com
 *.newsweek.com
+*.epi.org
+lawandcrime.com
+*.govexec.com
+federalnewsnetwork.com
+clearinghouse.net
+en.wikipedia.org
+*.usaid.gov
+oig.usaid.gov
 ```
 
 ---
