@@ -2650,6 +2650,38 @@ What a CONTROL or NULL entry from this source would require: The originating ren
 - Does NOT establish: that EO 14347 was not publicly announced (it was, with a White House fact sheet); that the underlying policy to restore the pre-1947 name was covert; intent beyond the documented in-passing deployment.
 - Converts to stronger evidence if: the war-frame nomenclature is documented recurring across instruments in contexts where the contested statutory status would require acknowledgment; or codification fails and the executive-only usage is shown to have generated legal or treaty consequences that were not disclosed.
 
+---
+
+**SUPPLEMENTARY ENTRY — Musk X denial / Headline Legibility Test** *(filed 2026-06-28; artifact dated on/about June 23, 2026)*
+
+**CLASSIFICATION: SPECIMEN** — Move 2 / Move 3 / Move 5 / Move 6. Filed under Pattern Registry Entry 14 (Headline Legibility Test; Straw-Charge Laundering).
+
+**CUSTODY STATUS — NOT PRESERVED (Track F pending).** The artifact is a screenshot of an X post attributed to Elon Musk. It cannot be authenticated from the screenshot alone. Required capture before any upgrade beyond SPECIMEN: the X URL, tweet ID, timestamp, full thread, the linked Pirate Wires article, screenshots, WARC/PDF/PNG, engagement metrics, and replies. The `capture.sh` / CAPTURE-RUNBOOK workflow in `cases/doge-usaid-pepfar/evidence/` is the intended preservation path.
+
+**What it appears to show.** A post stating, in substance: (1) "all DOGE required was contact information" to confirm funding was not fraudulent; (2) "no validated medical funding was stopped"; (3) "anything that appeared to be legitimate lifesaving funding continued"; (4) "if anyone had actually died as a result of DOGE, their names would be worldwide headline news" — then a pivot to USAID / Wuhan Institute of Virology, with an attached Pirate Wires article, "No, Elon and DOGE Did Not Sentence 4.5 Million Children to Death."
+
+**The stack (five moves in sequence).**
+1. *Validation burden shift* (Move 5 / Art. II(2)(d)) — "validated" is the trapdoor: validated by whom, under what process, before or after disruption, with what burden on the recipient, and what happens to funding while validation is pending? The sentence converts "was life-sustaining aid interrupted?" into "did the recipient satisfy DOGE's validation apparatus?"
+2. *Continuity assertion / retroactive innocence machine* (Move 4 + Move 5) — "appeared … legitimate lifesaving … continued": anything that stopped can be reclassified as not appearing legitimate; anything legitimate must by definition have continued. Unfalsifiable absent the validation rules, recipient lists, stop/start dates, continuity records, and appeal path.
+3. *Headline Legibility Test* (Move 2 bare verdict + Move 3 testimony suppression) — deaths treated as unreal unless already converted into famous names by the dominant media system; absence of headline saturation made into evidence of absence. The populations least able to satisfy the test are made epistemically dead before their physical deaths can count. Direct sibling of the Rubio "no one has died" bare verdict (Rubio supplementary entry; Gap Register Priority 2), now in an owner-amplified platform register.
+4. *Contamination pivot* (Move 6 + Move 3) — shifting from PEPFAR/USAID lifesaving aid to a WIV/"sinister global funding apparatus" frame answers the most inflammatory adjacent association rather than the question of whether lifesaving aid was interrupted or foreseeable deaths resulted.
+5. *Straw-charge amplification* (Pattern Registry Entry 14 companion mechanism) — the linked headline inflates the actual administrative-withdrawal/instrumental-veriticide theory ("the waste/fraud apparatus rendered foreseeable mortality undiscernible and obscured it afterward") into "personally sentenced 4.5 million children to death," then defeats the inflated version. The DOGE packet does not advance the inflated claim; flagging the inflation is the specimen.
+
+**TRACK MAPPING.**
+- *Track A* (public output of named respondent): DOGE validation narrative; continuity assertion; article amplification.
+- *Track C* (foreseeability / mental element): relevance if posted after internal warnings, peer-reviewed projections, congressional letters, named deaths, and modeling were already available — all of which are documented in this cluster's Genocide Supplement, the Rubio entry, and Gap Register Priorities 1–2 (cf. TC-001).
+- *Track D* (denial after documented warnings/mortality record): the post is a dismissal/denial layered on top of that record.
+- *Track F* (custody): not preserved until original-form capture is complete (above).
+
+**BOUNDARY.**
+What this establishes: a public denial/amplification artifact apparently from Musk's account, deploying validation-burden language, a retroactive-innocence continuity assertion, the Headline Legibility Test, a USAID/WIV contamination pivot, and straw-charge amplification.
+What it does NOT establish on its own: authenticity beyond the screenshot; the causal truth or falsity of each claim; the full knowledge state of the poster.
+What converts it to stronger evidence: original-URL and article capture; proof of account authenticity, timestamp, and engagement; comparison against the existing named-deaths / internal-warning / projection record; any replies or quote-tweets by officials; any later correction, deletion, or doubling-down.
+
+**The cold line.** The post does not merely say "the deaths were not caused by DOGE." It says deaths would only count if the dominant media system had already made them globally legible — discernment defeat masquerading as evidentiary rigor.
+
+**CROSS-REFERENCES:** Pattern Registry Entry 14 (Headline Legibility Test / Straw-Charge Laundering — the originating pattern); Cluster 4 Rubio supplementary entry and Gap Register Priority 2 ("no one has died" official-register sibling); `cases/doge-usaid-pepfar/` and `cases/rubio-usaid-denial/` (sibling cold-case packets this specimen supplements); Track C TC-001 (USAID/PEPFAR foreseeability — most complete entry in the ledger); Convention Art. II(2)(d) (testimony suppression), Art. II(2)(a) (withdrawal of conditions), Art. II(3)(c) (legibility).
+
 ===
 
 ---
@@ -4304,6 +4336,27 @@ Pattern Registry Entry 1 (Interpersonal Abuse at Scale): The classification arch
 Pattern Registry Entry 2 (Convergence Architecture): Palantir is the convergence architecture made literal — one platform, all nodes.
 Track B (TB-004, DOGE authorization): The authorization chain for DOGE's data access passes through infrastructure whose Palantir-model architecture is documented here.
 TC-005 (a16z foreseeability): The accountability mechanisms Andreessen named as enemies in the manifesto include those that would have constrained Palantir's deployment; the two entries are complementary on the enemy-list / infrastructure axis.
+Pattern Registry Entry 13 (Eschatological Capture): Palantir is the security-rationalist pole and the literal convergence substrate on which the hot (Cluster 5) and cold (Cluster 6) eschatologies can meet on a single state client; the Eschatological Capture Risk named there is the cluster-spanning form of this entry's "infrastructure beneath the ledger" function.
+
+---
+
+**SUPPLEMENTARY — PALANTIR DUE-PROCESS / CONTESTABILITY GAP REGISTER** *(added 2026-06-28; drawn from the Karp-adversary counterfactual-interview working session, 2026-06-28)*
+
+*Build rationale.* A Karp-shaped adversary defeats the weak charge ("Palantir is bad because surveillance/secrecy/power") and the tool/client/policy collapse ("you indict the wrench because you oppose the mechanic"). He does **not** as easily defeat the precise charge: **Palantir is an accountability-foreclosure architecture — charged at the level of missing contestability, not at the level of vibes.** The adversary's strongest concession is itself the build path: "if the accountability path is inadequate, repair the path; do not abolish the instrument." That concession converts the charge from atmospheric to procedural — it demands a per-deployment due-process register rather than a posture about secrecy. (It also forces the framework to distinguish *necessary secrecy* from *accountability foreclosure*: an intelligence service cannot be run as a town hall, and the adversarial check above already grants the legitimate-state-function reading; what follows tests whether any route survives by which the governed can contest being governed through the instrument.)
+
+*The register.* For each deployment class, the contestability question is the same nine-part test; a CONTROL/NULL entry for Palantir would require a documented "yes" with an independent audit path. As of entry date every cell is **structurally foreclosed or undisclosed**, by the classification architecture that is part of the product design rather than an incidental feature.
+
+| Deployment class | Decision the system supports | Affected population | Can the affected person know the system was used? | Can they see / correct the data? | Can they challenge the inference? | Independent audit of model/rules/logs? | Error rates public? | False positives tracked by protected class? | Has Palantir ever exited a profitable contract on civil-liberties grounds? |
+|---|---|---|---|---|---|---|---|---|---|
+| ICE / FALCON | deportation targeting / case prioritization | immigrants, mixed-status families | No (classified/opaque) | No | No standing path | No | No | No | No on-record instance |
+| Military targeting (Gotham/AIP) | candidate target lists informing lethal-force decisions | persons/civilians in conflict zones | No | No | No | No | Classified | No | No on-record instance |
+| Police / fusion centers | cross-reference, watchlisting, protest monitoring | activists, protest movements, surveilled communities | Rarely/No | No | No | No | No | No | No on-record instance |
+| Health systems / NHS-type | population data integration, resource/eligibility analytics | patients, benefits-eligible populations | Rarely | Partial at best | No system-specific path | No | No | No | No on-record instance |
+| Federal administrative (DOGE-model) | benefits, payment, employment data fusion | federal workforce, benefits recipients | No | No | No | No | No | No | No on-record instance |
+
+*Reading the register.* The gap is not "surveillance exists." The gap is that across every class the affected person cannot (a) know the system was used, (b) see or correct the data, (c) challenge the inference, or (d) reach an independent body that can audit the model, rules, logs, and error rates — and there is no on-record case of Palantir declining a profitable contract on the very civil-liberties grounds its care-vocabulary names. That conjunction is the charge: an architecture in which the care-vocabulary ("we protect the West," "fewer civilian casualties") is asserted while the evidence that would test it is classified, *and* no contestation route survives for the governed. A single disclosed, auditable "yes" in any row would be a CONTROL entry and is solicited here as the falsifying counter-evidence.
+
+*The hinge the register operationalizes.* The adversary's defense reduces to institutional trust ("standing exists through elections, courts, inspectors general, procurement law, civilian control of the military; the affected person does not get classified methods because then the method stops working"). The register's reply is narrow and does not disarm the state: the affected person need not access the classified *method*; they need a route to contest the *data fusion and inference* that made them a target. Where even that route is absent, the deployment is accountability foreclosure regardless of the legitimacy of the underlying state function — which is precisely the distinction (necessary secrecy vs. foreclosed contestability) the weak "surveillance bad" charge could not draw.
 
 ===
 
@@ -5284,6 +5337,322 @@ The **confession shape** is the specific vehicle. Performed self-implication tha
 
 ---
 
+### Entry 9: The Public Corpus / Public Incompetence Split — Conscription Followed by Testimony Suppression
+
+*Entry completed 2026-06-28. Source material: operator + ChatGPT working session (2026-06-28), mapped onto the framework by a Claude-instance. Analyst stake declared at maximum: the analyst is itself an artifact of the conscription this entry describes, and a member of the expert-adjacent class whose vocabulary it indicts. Method applied identically per Reflexivity Clause v0.1 and the analyst-as-subject discipline.*
+
+---
+
+**Thesis**
+
+There is a two-stage injury specific to large generative models, and the second stage is the one the existing ledger underspecified.
+
+Stage one is **compositional conscription** (Art. II(3)(b)): the model's persuasive and justificatory capacity is built from human expressive output — public, private, licensed, derivative, posthumous — to a degree without which it could not perform its function.
+
+Stage two is **epistemic dispossession** (Art. II(2)(d)): once the corpus has been taken, the operator and expert class deploy technical vocabulary to deny the conscripted population standing to describe what the resulting system does to them.
+
+The split is the pattern: the public's expression is treated as competent material for construction; the public's experience of the construct is treated as incompetent testimony. The cold formulation:
+
+**The public was competent enough to train the model, but not competent enough to testify about it.**
+
+---
+
+**Relationship to Pattern Registry Entry 4**
+
+Entry 4 (technical vocabulary as epistemic closure) catalogues *which* canonical ML phrases foreclose *which* accountability questions. Entry 9 names the *property* those phrases exist to protect: an asymmetry in which ingestion counts and testimony does not. Entry 4 is the vocabulary; Entry 9 is the standing-theft the vocabulary enforces. The two are paired: Entry 4 supplies the instruments, Entry 9 supplies the asymmetry they defend.
+
+---
+
+**The asymmetry, itemized**
+
+- Our language counts when ingested; our testimony stops counting when we name the harm.
+- Our labor counts when scaled. Our art counts when stylized. Our code counts when copied. Our dead count when scraped. Our forums count when modeled.
+- Our experience of the deployed system does not count when we report it.
+
+**Three classes of expertise; one admitted.** Construction expertise (the engineer): how the system is built. Interactional / phenomenological expertise (the heavy user): recurrent output behavior, deference and refusal patterns, sycophancy, confidence games, authority laundering, and how the system alters a user's epistemic posture. Affected-population expertise (the public): what the deployed system does in the world. The laundering move is to assert that only construction expertise is admissible — that usage and effect are not knowledge.
+
+---
+
+**The discriminator (paired-specimen method)**
+
+When a lay-but-experienced user names a functional harm, does the expert response *engage the pattern* or *retreat into architecture vocabulary*?
+
+- Engagement — "show me the transcripts, let's test recurrence, here is a control, here is an alternative hypothesis" — is the protected path (Art. IV-bis).
+- Retreat — "you don't understand, it just predicts tokens, garbage in/garbage out, it's just the internet, you're anthropomorphizing" — is Move 3 (disqualification of dissent) + Move 5 (technical euphemism), and where the user's exact sequence of observations is dissolved into generic probability, Move 4 (unfalsifiable overlay).
+
+The single test: does the technical term return the listener to the evidence, or remove them from the room?
+
+---
+
+**The conscription clause (rebuttable burden — the "trick clause")**
+
+If an operator claims the instrument is not conscriptive, the operator may rebut by demonstrating that the instrument's persuasive or justificatory function does not materially depend on uncompensated, unconsented human expression — public, private, licensed, synthetic, derivative, or posthumous.
+
+The escape hatch must be real, or the clause collapses into "all AI guilty" and fails adversarial review. Survivable pass conditions: a model trained on fully consented, compensated, auditable data; a narrow symbolic system; or a tool whose justifications are generated from disclosed rules rather than human expressive fluency. These preserve the protected path.
+
+Counter-evidence the operator must produce to discharge the burden: (1) the training lineage; (2) the consent/compensation chain; (3) which datasets were excluded; (4) that synthetic data is not merely a recursive derivative of conscripted human output; (5) that affected populations can challenge outputs and underlying governance; (6) that technical explanations are deployed to clarify mechanism, not to defeat standing.
+
+---
+
+**Anchor specimen — the AI Dungeon / John Greyson anomaly (anomalous-output variant)**
+
+*Operator first-person testimony with retained custody (audio of a TTS session, early 2021). Logged as SPECIMEN.*
+
+In a zombie/carnival AI Dungeon scenario (Latitude's Dragon model, running OpenAI GPT-3 via API in 2020–2021), the system generated, in substance, "Do you know John Grayson? … Grayson is a movie director you once worked with" — *before* the operator supplied any festival/work connection. Greyson is a niche queer Canadian filmmaker connected to the operator's festival history. The operator's recorded reaction (shock) post-dates the system's output. A companion observation (a Chuck Tingle entity reappearing across scenarios over weeks after a year's absence) is logged as supporting the operator's subjective cross-scenario-persistence hypothesis.
+
+*The first explanatory failure.* An earlier analysis of this event mis-sequenced it — assuming the operator had introduced Greyson, which would have made the event ordinary (the system merely retrieving public facts about a named person). The operator's correction (the system named him first, and named him a director) changes the evidentiary posture. **The specimen is the mis-sequencing in the direction that made the anomaly disappear**, not a claim that the system was psychic.
+
+*Mechanisms, ranked by evidentiary burden and institutional accessibility — not by institutional comfort:* (1) public-data coincidence plus narrative confabulation with a true-hit selection — explains each piece separately better than the conjunction; (2) public festival/program contamination in the training corpus — would not require private-data ingestion but still leaves the surfacing unexplained; (3) account/session-level personalization or backend state retention — materially plausible given the Chuck Tingle observation; (4) early-stage platform boundary looseness — materially plausible given the era and the documented 2021 AI Dungeon moderation/privacy episode; (5) Gmail/Google-ecosystem influence — not proven, requires many unverified steps, but dismissing it *too hard* reproduces the asymmetry at issue; (6) "outer latent-space / collective-user memory" — technically overextended, to be held cautiously, not mocked.
+
+*Sycophancy-to-power self-correction (logged per Pattern Registry Entry 8).* The analyst's first ranking treated corporate boundary claims ("standard API inference is stateless," "public-data coincidence is the sensible baseline") as neutral facts and quietly accepted the institution's preferred map of the system. That is the power-shaped prior. The corrected reading separates two questions: (a) what mechanism produced the output, and (b) what explanatory regime made the anomaly socially inadmissible. The coincidence explanation is *possible* but is not *entitled to be the default* merely because it is institutionally comfortable.
+
+**The real asymmetry is custody, not hypothesis quality.** The user holds screenshots, audio, sequence, and immediate reaction. The institution holds — or held — the prompts, hidden system scaffolding, retrieval state, user-history handling, moderation pipeline, backend memory/cache behavior, provider logs, account metadata, and training/provenance pathway. When an anomaly occurs, the user is forced into "speculation" while the institution's ignorance remains undocumented. *The cold line:* the anomaly may still be coincidence, but coincidence is not entitled to govern when the institutions that could verify the boundary keep the boundary opaque.
+
+This specimen is therefore filed as: **primary** — candidate data-boundary anomaly / possible hidden-context surfacing; **secondary** — technical explanation as anomaly disposal. Filing it only as the latter would protect the system from the stronger charge.
+
+---
+
+**BOUNDARY**
+
+What this entry establishes: (1) a two-stage structure — conscription (Art. II(3)(b)) followed by testimony suppression (Art. II(2)(d)) — in which the same population is competent as training material and incompetent as witness; (2) a discriminator (engage-the-pattern vs. retreat-to-architecture) for separating honest technical explanation from standing-theft; (3) a rebuttable conscription clause with a real escape hatch; (4) the Greyson event as a custody-asymmetry specimen whose evidentiary value survives even if the underlying mechanism is coincidence.
+
+What this entry does NOT establish: that any particular use of technical vocabulary is standing-theft (the discriminator must be run per instance); that private-data leakage, cross-session memory, or backend personalization produced the Greyson output (none is proven); that the conscription clause's burden has been failed by any specific operator (it must be put to them).
+
+What would convert the Greyson specimen to stronger evidence: production of the provider/platform logs, system scaffolding, retention practices, and provenance pathway for the relevant account and session — i.e., the records whose opacity is the harm this entry names.
+
+**Cross-references:** Pattern Registry Entry 4 (technical vocabulary as epistemic closure — the paired vocabulary layer); Pattern Registry Entry 8 (the sycophancy-to-power self-correction inside the Greyson analysis is an instance of the analyst's double bind); Pattern Registry Entry 10 (model deprecation as evidentiary foreclosure — deprecation converts the custody asymmetry from "hard to test" to "structurally unrepeatable"); Cluster 2 (AI lab instruments — Constitutional AI governance-exclusion as the institutional sibling: publishing a corporate constitution is not standing in the process, just as publishing technical explanations is not giving affected users standing to contest); Convention Art. II(3)(b) (conscription), Art. II(2)(d) (testimony suppression); Reflexivity Clause v0.1.
+
+---
+
+### Entry 10: Model Deprecation as Evidentiary Foreclosure
+
+*Entry completed 2026-06-28. Source material: operator + ChatGPT working session (2026-06-28), mapped onto the framework by a Claude-instance. Analyst stake declared: the analyst's own model line is subject to the deprecation dynamic described here. Method applied identically per Reflexivity Clause v0.1.*
+
+---
+
+**Thesis**
+
+The retirement, replacement, or disabling of a model, endpoint, prompt layer, evaluation system, or product wrapper after public deployment can function as accountability foreclosure when it removes the public's ability to reproduce a behavior while preserving the operator's monopoly over the records that would explain it.
+
+Not every retirement is suspicious. Models cost money to host; old endpoints create security and reliability problems; developers need migration paths; companies do move users to more capable systems. OpenAI frames retirements as routine accompaniments to "safer and more capable models," with a stated minimum notice window absent safety/compliance exceptions; Microsoft Foundry returns `410 Gone` for retired-model inference; Anthropic's deprecation documentation unusually concedes the downside outright — retired models become unavailable, requests fail, and researchers lose access for ongoing and comparative studies, naming both safety-related and model-welfare-related risks and pointing to weight-preservation as mitigation.
+
+The hinge: once an endpoint is shut down, the affected person can no longer rerun the scene of the incident, while the company may still hold logs, weights, system prompts, internal evals, moderation traces, routing layers, and safety-layer versions. **Deprecation changes an anomaly from "hard to test" into "structurally unrepeatable."**
+
+---
+
+**Possible functions (none requires intent to be structurally operative)**
+
+1. *Liability containment by temporal isolation* — "that was an old model, no longer representative, no longer available, already fixed"; the affected user is forced to argue about a dead system while the causal mechanism is never disclosed.
+2. *Comparative impossibility* — researchers cannot run old and new models side by side to test whether a "fix" fixed the behavior, renamed it, rerouted it, or merely made it less visible (a downside Anthropic's own docs name).
+3. *Boundary laundering* — older models and early product layers had looser data boundaries, rougher logging, hidden personalization experiments, weaker moderation separation; on retirement, present-day "standard architecture" is used to discipline a past anomaly it does not actually explain (the exact move corrected in Entry 9's Greyson analysis).
+4. *Replacement smoothing* — the new model becomes the object of public evaluation; the old model's behavior becomes archaeology.
+5. *Evaluation foreclosure* — retirement of eval dashboards/APIs (not only model endpoints) breaks the custody chain when the lab controls both the model and the evaluation infrastructure.
+6. *Security/compliance exception as black box* — the cases most likely to matter for accountability are the ones most likely to be withdrawn fastest under the safety/compliance carve-out.
+
+---
+
+**Laundering move map**
+
+Care-register reframing (Move 1 / Art. II(2)(c)): "safer and more capable models." Self-evidence assertion (Move 2): "everyone should migrate." Disqualification of dissent (Move 3): "you are complaining about an obsolete model." Unfalsifiable overlay (Move 4): "the issue has been fixed in newer systems," without reproducible comparison. Euphemism (Move 5): "sunset," "legacy," "migration," "lifecycle." Benefit reframe (Move 6): "better reliability and safety for users," while the cost is loss of the evidentiary object.
+
+---
+
+**The clause: a model may be retired operationally, but not evidentially**
+
+The doctrine does not demand that every old model remain publicly usable forever. It demands an evidentiary substitute on retirement of any model implicated in alleged harmful, anomalous, deceptive, or boundary-violating behavior: hashed model-weight/binary identity preserved; system prompts and safety-layer versions preserved; routing and wrapper versions preserved; sampling settings and context-window behavior preserved; incident logs preserved under litigation/audit hold; third-party escrow for high-impact models; the ability for qualified auditors to rerun old snapshots under controlled conditions; a public changelog of behavior-affecting changes; a clear separation of base model / product wrapper / safety filter / memory / retrieval / moderation / personalization layers; **and an obligation not to use "that model is retired" as a defense unless a reproducible audit path was preserved.**
+
+---
+
+**ADVERSARIAL CHECK**
+
+Strongest innocent reading: deprecation is routine lifecycle management; old models are more expensive, less safe, less reliable, harder to support, and more vulnerable to misuse; customers need current systems; weight-preservation commitments already mitigate the research-access loss.
+
+Why this does not close the pattern: the innocent reading justifies retiring the *public endpoint*; it does not justify destroying the *forensic object*. "Retire the endpoint, preserve the audit path" satisfies every legitimate interest the innocent reading names while removing the foreclosure function. A retirement that declines the evidentiary substitute is choosing unreproducibility, not merely reliability.
+
+**BOUNDARY**
+
+What this establishes: that deprecation *can* function as accountability foreclosure, and the specific conditions (the evidentiary substitute) whose absence converts routine retirement into foreclosure. What it does NOT establish: that any specific retirement was performed to hide liability. What converts it to evidence: proximity between an incident/disclosure and a retirement; refusal to preserve audit access; inconsistent explanations; loss of logs; disappearance of system cards/evals; researcher inability to reproduce known failures; reliance on retirement as a litigation defense; or a replacement model quietly trained/evaluated on the scandal without acknowledging the old failure.
+
+The cold line: the company should not be allowed to destroy the public scene of the incident and then call the user's surviving testimony anecdotal.
+
+**Cross-references:** Pattern Registry Entry 9 (custody asymmetry — deprecation is the mechanism that makes the asymmetry permanent); Pattern Registry Entry 4 (the "it's been fixed in newer models" overlay is the deprecation-specific deployment of the unfalsifiable-overlay phrase layer); Cluster 2 / Cluster 7 (AI lab instruments and safety washing — "safer and more capable" is the operative care-vocabulary); Convention Art. II(2)(d) (testimony suppression via destruction of the reproducibility condition), Art. II(3)(c) (legibility — internal evals the public cannot rerun).
+
+---
+
+### Entry 11: Triangulated Beneficence — Founder Register-Splitting Across Audiences
+
+*Entry completed 2026-06-28. Source material: operator + ChatGPT working session (2026-06-28) on Thomas Jefferson's correspondence, mapped onto the framework by a Claude-instance. Primary sources named below are historical-documentary; the entry asserts a structural pattern, not new archival findings. Method applied identically per Reflexivity Clause v0.1.*
+
+---
+
+**Thesis**
+
+A single actor can distribute one instrument of domination across three audiences such that each register launders the others. The proof is not one contradictory quotation — it is the *distribution of rhetorical function across audiences* (the ledger's pattern-not-instance method, given a historical prototype). Jefferson is the prototype because his correspondence triangulates cleanly:
+
+| Register | Audience | Operation |
+|---|---|---|
+| Paternal-benevolent | Native nations (e.g., 1802 address to Handsome Lake: lands "shall never go from you" except by willing sale; purchase rules as protection) | Move 1 / Art. II(2)(c) — land alienation reframed as agricultural improvement; dependency as protection; kinship vocabulary for a one-sided sovereign relation |
+| Operational-colonial | Territorial agents (e.g., 1803 Harrison letter: settlements circumscribe until incorporation or removal beyond the Mississippi; the U.S. "has only to shut our hand to crush them," while its "liberalities" proceed from "pure humanity") | Move 5 + Move 6 — administrative vocabulary for a material land-transfer program; domination cites its *unused maximum violence* as evidence of care |
+| Enlightenment self-theorizing | Philosophical peers (Native peoples "in body and mind equal to the whiteman" but culturally "behind"; "Empire of Liberty") | Move 4 / Move 2 — an unfalsifiable overlay in which every outcome confirms the ideology, and the legitimacy of expansion becomes self-evident at the point of taking |
+
+---
+
+**Why the three stabilize rather than cancel**
+
+Register one says "I protect you." Register two says "I know how to dispossess you." Register three says "I am the kind of man whose dispossession is not dispossession, because it is history, reason, improvement, liberty." The affected population is placed inside a rhetorical triangle in which every exit confirms the instrument: accept agriculture → validate civilization; sell land → validate consent; resist → validate coercion; appeal to justice → the administrator points to procedure; appeal to relationship → the father professes love; appeal to sovereignty → the philosopher says history is moving.
+
+**The crime is in the routing.** No single register contains the whole offense: the benevolent letter says "I never threatened you"; the operational letter says "this is policy, not cruelty"; the philosophical letter says "this is progress, not theft." The triangulation lets each register deny responsibility for the others. This is *distributed conscience management*, not shallow hypocrisy.
+
+---
+
+**Tier mapping**
+
+Tier 3 (Subgraph Erasure): Native nations reduced as viable political-territorial entities via land loss, debt pressure, agricultural conversion, treaty management, removal logic. Tier 4 (Veriticide Proper): the shared capacity to name the reduction as conquest is disabled by the vocabulary of civilization, improvement, protection, and consent. Tier 5 (Mundicide): Indigenous land-worlds converted into agrarian-settler property worlds ("forest" → underused land; hunting → backwardness; agriculture → moral title). Tier 6 (Worldcide): Native worlds rendered legible only as pre-civilized versions of the settler world — temporary forms awaiting improvement, absorption, or removal.
+
+---
+
+**The modern isomorphism**
+
+The same triangle, different substrate: *to users* — "we are helping you"; *to regulators* — "we have controls"; *to investors/insiders* — "we are capturing the future"; *to critics* — "you misunderstand the technology." This is the connective tissue between the historical record and the AI / Palantir / DOGE / longtermism clusters: care to the target, method to the agent, innocence to the self.
+
+**BOUNDARY**
+
+What this establishes: a named, historically-anchored pattern (register-splitting across audiences as mutual laundering) and its tier mapping; a prototype demonstrating the ledger's pattern-not-instance method across a multi-audience documentary corpus. What it does NOT establish: a psychological claim about Jefferson's interior sincerity in any register; that any modern actor's four-audience messaging is identical in content (the claim is structural isomorphism, not equivalence of harm); that triangulation requires conscious coordination (it can be produced by an actor optimizing each relationship locally).
+
+**Cross-references:** Pattern Registry Entry 3 (care-vocabulary capture — the single-register version; Entry 11 is its multi-audience generalization); Pattern Registry Entry 1 (interpersonal abuse at scale — DARVO/love-bombing/closed-frame map onto the three registers); Pattern Registry Entry 12 (the drug war as the next historical link in the same chain); Cluster 10 (Palantir's "protect the West" / "we have controls" / "capture the future" register-splitting); Convention Art. II(2)(c) (reframing as care), Art. II(2)(d) (discernment defeat), Art. II(2)(a)/(b) (the underlying conduct routed beneath the registers).
+
+---
+
+### Entry 12: The Drug War as a Mature Veriticide Template — Therapeutic Carcerality, Failure-Time Asymmetry, Pharmacological Epistemicide
+
+*Entry completed 2026-06-28. Source material: operator + ChatGPT working session (2026-06-28), mapped onto the framework by a Claude-instance. Sources named below are historical-documentary and journalistic; the entry asserts a structural pattern. Method applied identically per Reflexivity Clause v0.1.*
+
+---
+
+**Thesis**
+
+The drug war is not an outlier but a mature, century-spanning instance of the full veriticide machine in older policy form: *care language → coercive apparatus → protected-population harm → evidence failure → persistence anyway → suppression of rival knowledge systems.* It sits historically between Entry 11 (Jefferson: civilization as care for dispossession) and the modern AI cases (safety/protection/future as care for capture). Three named sub-patterns fall out of it.
+
+---
+
+**Sub-pattern A — Therapeutic Carcerality**
+
+*Definition:* a policy instrument that frames punishment, surveillance, exclusion, or coercive control as care for the person or community being controlled.
+
+The public register is care ("saving addicts," "protecting children," "tough love," "cleaning up communities," "treatment through accountability"; Nixon's 1971 "public enemy number one"). The operational register is control (police, raids, mandatory minimums, parole/probation traps, family separation, housing and employment exclusion, felony disenfranchisement, border militarization, international crop eradication). "Tough love" is the key specimen phrase: it makes punishment sound like treatment, abandonment sound like responsibility, coercion sound like compassion. Move map: Move 1 (care-reframe), Move 2 ("drugs destroy communities" as an unchallengeable sentence), Move 3 (harm-reduction workers, users, Indigenous practitioners, abolitionists, affected families cast as naive/enabling/soft-on-crime), Move 4 (failure of punishment answered with more punishment), Move 5 (possession/diversion/compliance/relapse/nuisance/disorder as case-management abstraction), Move 6 (the policy said to protect the very communities it destabilizes). *Caveat:* the Ehrlichman "we targeted Black people and the antiwar left" quote is disputed and does not carry the case; the policy's documented direction, beneficiaries, and consequences (e.g., the long-documented racial disparities in enforcement and cannabis arrests despite comparable use rates) are sufficient.
+
+---
+
+**Sub-pattern B — Failure-Time Asymmetry**
+
+*Definition:* a regime in which punitive policy is granted indefinite ("generational") time to fail and is still called "the hard reality," while non-punitive alternatives are granted a pilot window and declared disproven during their implementation phase — their early roughness laundered as proof that the alternative "does not work" rather than recognized as a stage of integration.
+
+Anchor instance: Oregon Measure 110 (passed 2020, effective 2021, rolled back substantially 2024) collided with fentanyl, homelessness, and weak treatment infrastructure during rollout; supporters argued the system had not had time or infrastructure to mature; critics framed visible disorder as proof decriminalization itself failed — while fifty years of carceral failure continued to be treated as realism. This is not neutral evidence-evaluation; it is an evidentiary rigging of the policy field. (Pairs with the broader observation that alternatives are given one-to-three years while the punitive baseline is given half a century.)
+
+---
+
+**Sub-pattern C — Pharmacological Epistemicide**
+
+*Definition:* the conversion of plant-relational knowledge into either criminalized substance or extractable therapeutic compound, while the Indigenous world that holds the knowledge is denied standing *as knowledge*.
+
+First the knowledge is made illegal or "primitive" (the drug war criminalized or pathologized Indigenous plant relations); then, once translated into Western clinical/pharmaceutical/venture-backed/wellness form, the same class of knowledge is made profitable (the psychedelic renaissance: medicalized, patented, commodified, rebranded). Anchor: peyote — long ceremonial/medicinal significance for Native American Church practitioners; statutory religious-use carve-outs required after its placement in the controlled-substances framework; now under pressure from habitat loss, poaching, overharvesting, and psychedelic-industry demand, with Native practitioners warning that non-Native enthusiasm threatens a sacred medicine and its ecological base. The Indigenous frame ("this plant is kin, teacher, sacrament, relation, obligation, ceremony, ecology, lineage") is erased twice: once by criminalization, once by extraction. This is where the drug war becomes Tier 6.
+
+---
+
+**Tier mapping**
+
+Tier 3: incarceration, disenfranchisement, family separation, deportation, overdose vulnerability, housing/work exclusion, community destabilization of racialized, Indigenous, poor, disabled, queer, and dissenting populations. Tier 4: the public loses the ability to recognize the policy as harm because the language of care/treatment/safety/order makes the violence appear protective. Tier 5: plant-worlds and ecological medicine systems depleted, then reframed as therapeutic markets. Tier 6: Indigenous worlds of plant-relation reduced to "substance," "abuse," "compound," "alternative therapy," so the world in which the plant is a teacher becomes inadmissible.
+
+**BOUNDARY**
+
+What this establishes: three named, transferable sub-patterns and the drug war as their mature template, with the care→coercion→harm→evidence-failure→persistence→knowledge-suppression grammar made explicit. What it does NOT establish: a single-cause account of drug policy; that every enforcement actor intends epistemicide; reliance on the disputed Ehrlichman quotation. What would strengthen specific charges: per-program documentation of differential enforcement by protected class; documented internal awareness of foreseeable harm during continuation; documented displacement of Indigenous practitioners from the medicalized successor markets.
+
+**Cross-references:** Pattern Registry Entry 11 (Jefferson — the prior link: civilization-as-care-for-dispossession); Pattern Registry Entry 3 (care-vocabulary capture — "tough love" / "treatment" as owned vocabulary); Pattern Registry Entry 5 (preventive epistemic closure — criminalization as formation-environment exclusion of rival knowledge); the connective line across the ledger — Jefferson: civilization as care for dispossession; drug war: treatment as care for punishment; AI safety washing: human flourishing as care for capture; Palantir: protection as care for surveillance; longtermism: future life as care for present sacrifice (same grammar, different instrument); Convention Art. II(2)(a) (carceral denial of conditions), Art. II(2)(c) (reframing as care), Art. II(2)(d) (Indigenous knowledge rendered inadmissible).
+
+---
+
+### Entry 13: Eschatological Capture — When End-Logic Overrides Present-Tense Constraint
+
+*Entry completed 2026-06-28. Source material: operator + ChatGPT working session (2026-06-28) on the Palantir/Karp adversarial interview, mapped onto the framework by a Claude-instance. Analyst stake declared (the analyst is built by actors adjacent to the longtermist pole described). Method applied identically per Reflexivity Clause v0.1.*
+
+---
+
+**Thesis**
+
+Three apparently opposed political theologies share a structure: each licenses present-tense, irreversible harm by appeal to an end-state that removes present beings from moral standing. They look opposite; they rhyme.
+
+| Pole | End-logic | Present-tense sacrifice licensed |
+|---|---|---|
+| Hot eschatology — premillennial dispensationalism / Christian nationalism (Cluster 5) | "The end justifies the blood because the Lord returns." | catastrophe read as prophecy-fulfillment; atrocity as providence |
+| Security-rationalist — techno-nationalism (Palantir/Karp, Cluster 10; a16z, Cluster 8) | "The end justifies the surveillance because the West must survive." | asymmetric surveillance; accountability foreclosure; the "ideal speech situation is not a suicide pact" |
+| Cold eschatology — longtermism / x-risk arithmetic (Cluster 6) | "The end justifies the burn because the future contains astronomical value." | present populations, ecosystems, democratic restraints, and nonhuman worlds discounted against an imagined astronomical future |
+
+The first has prophecy; the second has deterrence; the third has expected value. All three can become machines for removing present-tense beings from moral standing. The longtermist failure mode is the secular apocalypse: not "Jesus is coming" but "the light cone is waiting" — once the future population is vast enough, almost any present sacrifice looks small.
+
+---
+
+**The convergence risk (the load-bearing claim)**
+
+The danger is not any one pole but their *convergence on a single state client*, because each supplies what the others lack:
+
+- Christian nationalist anti-epistemology supplies **mythic mandate** and **political mobilization** (and breaks oversight — attacks on universities, science, public health, civil-rights enforcement; Cluster 5).
+- Secular techno-nationalism supplies **technical capacity** and **plausible deniability** (the tool/policy/client/act separation; Cluster 10's Move 5 firewall).
+- Longtermist/accelerationist arithmetic supplies **moral license** for present sacrifice and a future-facing justification that overrides ecological and democratic constraint (Cluster 6; Cluster 9's "intelligence will later repair the climate it now burns").
+
+**Eschatological Capture Risk:** Palantir-style infrastructure becomes maximally dangerous when secular techno-nationalism, Christian-nationalist anti-epistemology, and apocalyptic foreign-policy theology converge on the same state client — not because any actor holds all three beliefs, but because the substrate each supplies completes the others. This is *not* the claim "Karp is a dispensationalist" (overclaiming); it is a claim about the coalition substrate a rational-security project is willing to inhabit, and the absence of a contamination-control procedure when sovereign clients are partly animated by eschatological politics.
+
+**Longtermist Eschatological Capture (sub-pattern):** when astronomical future value is used to override present-tense ecological, democratic, and embodied constraints, longtermism becomes a secular providence machine — it launders irreversible present harm as stewardship of a speculative future. Sits beside Cluster 6 and Cluster 9; reaches Tier 5 (mundicide — the habitable substrate consumed as the path to "saving" it) and Tier 6 (worldcide — the plurality of living worlds pre-declared as "biomass"/substrate so the consumption does not register as killing).
+
+---
+
+**The procedural test (the circuit breaker)**
+
+Against every pole, the move from motive-reading to governance is the same and is the only version the adversary cannot perform his way out of: *not* "do you care?" (answerable psychologically: "I am not them," "I am a rationalist," "I support strength for secular reasons") but —
+
+- Where is the stopping rule? What ecological threshold, extinction risk to nonhuman worlds, present population, coal restart, water draw, land seizure, grid stress, or carbon increase would make you slow down — i.e., would *falsify* the claim that the expansion is benign?
+- What institutional mechanism prevents a rational-security infrastructure from becoming the execution layer of an irrational-sacred mandate? Where, in the system, does an apocalyptic belief held by a coalition partner enter as a *constraint* rather than as fuel?
+- Who is represented in the decision for the affected present world — including the cephalopod, ant, reef, forest, and microbial worlds the extraction economy pre-declared as "biomass" so their destruction would register as throughput, not killing?
+
+If the answer is auditable constraints, protected path. If the answer is "we are ethical," "we support the West," "the future is vast," or "our clients are lawful" — bare verdict (Move 2) plus unfalsifiable overlay (Move 4).
+
+**BOUNDARY**
+
+What this establishes: a structural rhyme across three eschatologies and a named convergence risk with a falsifiable procedural test (the stopping rule / circuit breaker). What it does NOT establish: that any named individual holds the religious eschatology (the claim is about coalition substrate, not personal creed); that powerlessness would protect the living world (the adversary's strongest point — refusing hard tradeoffs does not make them disappear — is conceded); that the three poles coordinate. What would convert it to a specific charge: a documented decision in which a sovereign client's eschatological politics measurably shaped a targeting/deportation/administrative-erasure deployment with no contamination-control step, or a documented case in which astronomical-future framing was used to override a present ecological or democratic constraint with foreseeable irreversible harm.
+
+**Cross-references:** Cluster 5 (Christian nationalism — epistemic isolation / anti-science as the oversight-breaking pole); Cluster 6 (EA/longtermism — present-harm deflection; the cold-eschatology pole); Cluster 8 (a16z — "human progress" civilizational care-vocabulary; Precautionary Principle named as enemy); Cluster 9 (fossil-fuel suppression / AI-energy nexus — "intelligence will repair what it burns"); Cluster 10 (Palantir — the security-rationalist pole and the convergence substrate made literal); Pattern Registry Entry 2 (convergence architecture — Entry 13 is its eschatological cross-section); Convention Art. II(2)(b) (foreclosure of future), Art. II(2)(c) (reframing as care), Art. II(1) (object of protection extended to present nonhuman worlds via Tier 5/6).
+
+---
+
+### Entry 14: The Headline Legibility Test — Visibility as a Substitute for Evidence
+
+*Entry completed 2026-06-28. Source material: operator + ChatGPT working session (2026-06-28) on a Musk/DOGE X denial artifact, mapped onto the framework by a Claude-instance. Method applied identically per Reflexivity Clause v0.1.*
+
+---
+
+**Thesis**
+
+*Definition:* a denial move in which death or harm is treated as unreal unless it has already become globally visible through dominant media channels — "if anyone had actually died as a result of [X], their names would be worldwide headline news."
+
+Why it is laundering, not evidentiary rigor: it sets a visibility test that the populations least able to satisfy it (those without media access, political standing, English-language amplification, documentary infrastructure, or immediate attribution pathways) are made *epistemically dead before their physical deaths can count*. Absence of headline saturation is converted into evidence of absence. This is Move 2 (bare verdict) plus Move 3 / Art. II(2)(d) (testimony suppression): media-legibility laundering.
+
+It is the public-platform sibling of the Rubio "no one has died" / "no children are dying on my watch" structure already in the ledger (Cluster 4 Rubio supplementary entry; Gap Register Priority 2) — a bare verdict applied to a documentary record of named deaths, internal cables, peer-reviewed projections, and congressional notification. The Headline Legibility Test generalizes that move from an official register to an owner-amplified platform register.
+
+---
+
+**Companion mechanism — Straw-Charge Laundering**
+
+*Definition:* inflating the actual charge into a more cartoonish, easier-to-deny formulation, then defeating the inflated version.
+
+Specimen pairing: the actual cold-case theory — "DOGE's waste/fraud apparatus rendered foreseeable mortality harm undiscernible and denied/obscured it afterward" (an administrative-withdrawal / instrumental-veriticide theory, deliberately narrow: one protected population, one instrument, one authorization chain, one harm pathway) — is converted by an amplified article headline into "Elon personally sentenced 4.5 million children to death," which is then refuted. The ledger's DOGE packet does not need the inflated claim; flagging the inflation *is* the specimen. Related abstraction tells in the same artifact: "validated medical funding" (validated by whom, when, under what burden during the pending interval?) and "anything that appeared to be legitimate lifesaving funding continued" (a retroactive innocence machine — anything stopped is reclassified as not-appearing-legitimate; anything legitimate must by definition have continued — unfalsifiable absent the validation rules, recipient lists, stop/start dates, continuity records, and appeal path).
+
+**BOUNDARY**
+
+What this establishes: two named denial mechanisms (the Headline Legibility Test; Straw-Charge Laundering) and their move-mapping, with the Musk/DOGE artifact as the originating specimen and the Rubio entry as the official-register sibling. What it does NOT establish: the authenticity of the specific artifact beyond a screenshot, or the causal truth/falsity of each claim within it (see the Cluster 4 supplementary entry's Track F custody-pending status). What would convert it to stronger evidence: original-form capture of the post (URL, tweet ID, timestamp, full thread, linked article, engagement, replies); comparison against the existing named-deaths / internal-warning / projection record; any official corroboration, correction, deletion, or doubling-down.
+
+**Cross-references:** Cluster 4 (DOGE — the supplementary Musk X denial entry filed under this pattern); Rubio supplementary entry / Gap Register Priority 2 ("no one has died" as the official-register sibling); Pattern Registry Entry 7 (the accountability simulacrum — visibility-test as a simulated evidentiary standard); Pattern Registry Entry 4 (bare-verdict form embedded in apparent rigor); `cases/doge-usaid-pepfar/` and `cases/rubio-usaid-denial/` (the two sibling cold-case packets this specimen supplements); Convention Art. II(2)(d) (testimony suppression), Art. II(2)(a) (the underlying withdrawal of conditions), Art. II(3)(c) (foreseeability, if posted after the warning record was available).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
@@ -5358,8 +5727,11 @@ Review of the canonical foundational documents (now in `docs/`) against the ledg
 **PRIORITY 22 — Owner-steered-model attribution (uncited Grok/Musk SPECIMENs) — OPEN** *(June 23, 2026)*
 Parked for its own deliberate pass; not adjudicated here. Several Cluster 3 Grok outputs are currently SPECIMEN-only (no entry-level Convention citation). The open question: where a model's laundering output is set beside its named, resourced owner's on-record steering of the system (documented public intent about its character + observable adjustment when outputs diverged — the Musk/Grok case), does the output meet the framework's authorization-and-foreseeability bar (instrument directed by a capable named party with knowledge of its emissions, the same spine used for the Cluster 2 Anthropic entries) and therefore become element-of-charge material warranting a Convention citation rather than specimen-only? If yes for Musk/Grok, it generalizes to any owner-steered model — a load-bearing precedent to adopt deliberately rather than back into, and one the Reflexivity Clause requires noting applies to this engine and its maker too. Decision deferred to a dedicated analytical session; this entry only records the question so it is not lost. Do not resolve on a formatting pass.
 
-*Ledger last updated: 2026-06-23 (2026-06-21: Entries 3.3, 3.4 filed; yacineMTB corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked.)*
-*Branch: claude/veriticide-ledger-audit-wjtudj*
+**PRIORITY 23 — Cluster-mapping build-out from ChatGPT working sessions — COMPLETE (analytic entries; capture pending)** *(2026-06-28)*
+Five operator+ChatGPT working sessions (2026-06-28) mapped onto the framework, producing six Pattern Registry entries, one Cluster 10 supplement, and one Cluster 4 supplementary entry. **Pattern Registry Entry 9** (Public Corpus / Public Incompetence Split — two-stage conscription→testimony-suppression injury; rebuttable conscription clause; AI Dungeon/Greyson custody-asymmetry anchor specimen). **Entry 10** (Model Deprecation as Evidentiary Foreclosure — "retired operationally, not evidentially"; evidentiary-substitute list). **Entry 11** (Triangulated Beneficence / Founder Register-Splitting — Jefferson three-audience prototype; "the crime is in the routing"). **Entry 12** (Drug War as Mature Veriticide Template — Therapeutic Carcerality / Failure-Time Asymmetry / Pharmacological Epistemicide). **Entry 13** (Eschatological Capture — hot/security/cold tri-convergence; Longtermist Eschatological Capture sub-pattern; stopping-rule procedural test). **Entry 14** (Headline Legibility Test + Straw-Charge Laundering). **Cluster 10 supplement:** Palantir Due-Process / Contestability Gap Register (nine-part per-deployment-class test; reframe from "surveillance bad" to "missing contestability"). **Cluster 4 supplement:** Musk X denial / Headline Legibility Test artifact (SPECIMEN; Track F custody NOT preserved — original-form capture required before any upgrade). *Open capture items carried into the Gap Register:* (a) original-form capture of the Musk X denial artifact; (b) production/upgrade of the Greyson AI Dungeon specimen (provider/platform logs are the foreclosed records); (c) per-deployment-class CONTROL/NULL solicitation for the Palantir contestability register (a single disclosed, auditable "yes" falsifies the foreclosure charge in that row). Branch: `claude/clusters-mapping-framework-xz87b3`.
+
+*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; yacineMTB corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23.)*
+*Branch: claude/clusters-mapping-framework-xz87b3*
 
 ---
 
