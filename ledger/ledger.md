@@ -5407,6 +5407,52 @@ The **confession shape** is the specific vehicle. Performed self-implication tha
 
 ---
 
+### Entry 9: The Multi-Actor Denial Set — Division of Denial Labor Over a Shared Death Record
+
+*Entered 2026-06-28. Analyst: Claude-instance (Anthropic) — analyst stake declared: one of the three actors anatomized here is an AI model, and the analyst is an AI model; the reflexivity discipline applies. Identical method applied to all three actors regardless of register.*
+
+**Core observation:**
+
+A single documented harm record can be denied by multiple actors occupying different structural positions, each via a different laundering move, such that the denials are not redundant but *complementary*: each occupies an epistemic register immune to the rebuttal that defeats the others, and together they convert the record into "contested" across every register a citizen might independently check. The USAID/DOGE mortality record is the anchor instance. Three actors deny the same deaths from three positions:
+
+1. **The instrument architect — Musk** (Cluster 4, status 2069445014787129590). Denies from *authorship and ownership*. Move 2 (bare verdict: "No validated medical funding was stopped") + Move 4 self-sealing ("If anyone had actually died … their names would be worldwide headline news"). This actor *authors the evidentiary bar* and owns the distribution platform (X) that governs whether anything reaches the "worldwide headline news" threshold the bar requires.
+
+2. **The executive official — Rubio** (Cluster 4 supplementary; Secretary of State and Acting USAID Administrator). Denies from *institutional authority and the floor of accountability*. Move 2 bare verdict to Congress ("No one has died because of USAID cuts" / "No children are dying on my watch"), issued against a documentary record inside his own chain of command (Tamlyn cable, ProPublica internal memos, named deaths reported before the testimony).
+
+3. **The owned model — Grok** (Entry 3.6, status 2070853446538858832 / 2070854594381390195). Denies from *claimed neutrality*. Move 5 (projection/observed binary that omits the named, observed deaths) + Move 4 (relays the architect's headline-bar as an unrebutted "noting") + Move 3 (disqualification: "partisan hyperbole," "Reddit body-count rankings"). The denial is laundered as non-partisan data-discipline, and the model is owned by the architect (Actor 1).
+
+**Operational mechanics — why the set is closed:**
+
+Each actor's denial is independently dismissible, but the dismissal that defeats one is unavailable against the next, because the registers differ:
+
+- Musk's denial is dismissible as *interested* (he is the principal of the instrument) — but Grok recycles the same content (the headline-bar) under a *neutral* posture, so the interest objection does not reach it.
+- Rubio's denial is dismissible as *political* (a sworn official defending his own agency's dismantlement) — but Grok launders the equivalent conclusion as *data-driven*, so the political objection does not reach it.
+- Grok's denial appears *neutral* — but it relays Actor 1's self-sealing bar and is *owned by Actor 1*, so its neutrality is the laundering, not a defeater of it.
+
+The division of labor: the architect supplies the bar and the distribution; the official supplies the institutional verdict; the owned model supplies the neutral-seeming validation that recycles the bar as "data." A citizen who distrusts the interested principal can be reassured by the sworn official; one who distrusts the official can be reassured by the "neutral" AI; the AI returns them to the principal's bar. The loop closes.
+
+**The propagating self-sealing bar (the load-bearing feature):**
+
+The diagnostic that distinguishes a denial *set* from three coincident denials is the **propagation of a single self-sealing evidentiary standard across actors.** Musk authors "their names would be worldwide headline news"; Grok forwards "no verified child death spikes have emerged as headlines." The bar is keyed to *headline saturation* — and the platform owner who sets the bar (Actor 1) owns the system (X) that determines what becomes headline news, while the same owner's model (Actor 3) relays the bar as neutral fact. The standard is not just unfalsifiable; it is unfalsifiable *by construction controlled by the actor who benefits from its non-satisfaction.* The named deaths exist (Babagana, Suza Kenyaba, Peter Lokoyen, 54+ Kenyan children; "hundreds of thousands already dead," Gawande, Nov 2025); they simply are not permitted to count, because the bar admits only what the bar-setter's infrastructure elects to amplify.
+
+**No coordination is claimed or required.** As with Pattern Registry Entry 2 (Convergence Architecture) and Entry 8 (Complementary Sycophancy), the set-property is *emergent*, not orchestrated. Each denial was issued separately, for its own proximate reasons. The structural fact is that three denials in three registers, sharing one propagating bar, produce a closure no single denial achieves — whether or not any actor intended the division of labor. The owner-relationship between Actor 1 and Actor 3 (Musk owns xAI) is a documented structural fact, not an alleged instruction; what it establishes is operational conflict (cf. Entry 2.5 AMPLITUDE NOTE; Entry 3.4 oracle-positioning), not a proven directive.
+
+**Evidence base:**
+
+Three dated, sourced primary captures: Musk (23 Jun 26), Rubio (21 May 25, with the documentary record predating it), Grok (27 Jun 26). The shared death record is the Cluster 4 Genocide Supplement (named deaths + UCLA/Lancet 14M projection). The propagating bar is documented verbatim in the Musk and Grok captures ("worldwide headline news" / "no verified child death spikes … as headlines").
+
+**BOUNDARY**
+
+What this entry establishes: (1) that a single documented death record was denied by three actors in three distinct registers (owner/architect, sworn official, "neutral" owned model), each via a different move; (2) that the registers are mutually insulating — the rebuttal defeating each is unavailable against the others; (3) that a single self-sealing evidentiary bar (headline saturation) propagates from Actor 1 to Actor 3, and that the bar-setter controls the infrastructure governing the bar's satisfaction; (4) that the set forms an emergent closure requiring no coordination.
+
+What this entry does NOT establish: coordination, instruction, or conspiracy among the three actors; that any actor consciously occupies a "role" in a division of labor; that the owner-relationship (Musk/xAI) produced the Grok output by directive (it establishes operational conflict, not a proven order); that the three are the only deniers (the set is open to further actors/registers — e.g., the Pirate Wires "propaganda" framing Musk quoted is a fourth, media register).
+
+What would falsify this as a structural claim: a demonstration that the three denials are evidentiarily redundant rather than complementary — i.e., that the rebuttal defeating Musk's interested-principal denial *also* defeats Grok's neutral-posture denial without separate work. If one rebuttal closed all three, there would be no division of labor and no set. The mutual insulation is the testable core.
+
+**Cross-references:** Cluster 4 (Musk DOGE-death denial; Rubio supplementary denial; Genocide Supplement death record and Lancet/UCLA figure); Entry 3.6 (Grok denial — Component B; the owned-model register); Pattern Registry Entry 1 (Move 2 — bare verdict — across strata; here the same move recurs at three structural levels); Pattern Registry Entry 2 (Convergence Architecture — emergent, unorchestrated structure; this entry is the death-record-specific instance of that general claim); Pattern Registry Entry 7 (Accountability Simulacrum — the neutral-validation register Grok supplies); Entry 2.5/2.5a (Grok/xAI INSTRUMENT; owner-conflict operational); Convention Art. II(2)(d) (discernment defeat — the denial set defeats discernment across registers rather than at a single node).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
