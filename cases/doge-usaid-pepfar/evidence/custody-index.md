@@ -7,7 +7,7 @@
 > bundle, custody manifest) shows a custody state that conflicts with this table, **this
 > table is authoritative.** Per-row custody marks elsewhere are indicative/historical.
 
-**Generated:** 2026-06-24 · **Items:** 15 · **VERIFIED:** 15 · **LOCATOR-VERIFIED:** 0
+**Generated:** 2026-06-24 · **Items:** 15 · **VERIFIED:** 13 · **LOCATOR-VERIFIED:** 2
 
 | Item | Grade | Custody | Track | sha256(transcript) |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@
 | `meeks-demands` | P1 | VERIFIED | D | `6492894c88c2…` |
 | `musk-woodchipper-posts` | P1 | VERIFIED | B / II(3)(d) | `d8cb4cdfca1b…` |
 | `named-deaths` | S1/T1 (named individuals, multi-outlet) | VERIFIED | C / IV(4) | `f9bdc495b352…` |
-| `propublica-internal-memos` | S1 (ProPublica, reported) + embedded P1 (memos) — underlying memos pending | VERIFIED | C / B | `f9565587fbc6…` |
+| `propublica-internal-memos` | S1 (ProPublica, reported) + embedded P1 (memos) — underlying memos pending | LOCATOR-VERIFIED | C / B | `f9565587fbc6…` |
 | `rubio-hfac-testimony` | P2 | VERIFIED | D | `e372a2dd69b4…` |
 | `rubio-waivers-nonfunctional` | S1 (multi-outlet) + reported P1 (DOGE payment-veto account) | VERIFIED | Defense-6 rebuttal / A / B / II(2)(c) | `c0c99fcadfcb…` |
 | `schatz-record` | P1/P2 (congressional record) | VERIFIED | C | `d81983349ea7…` |
 | `secondary-accountability-removal` | S1 + legal (mirror) | VERIFIED | D / B | `b83507940c50…` |
 | `secondary-doge-savings-witnesses` | S1/S2 (multi-outlet mirror) | VERIFIED | A | `77a634a17887…` |
 | `secondary-mortality-modeling` | S2 (modeling/expert mirror) | VERIFIED | C / IV(4) | `6caba69a75f3…` |
-| `tamlyn-cable` | S1 (WaPo, reported) + embedded P1 (cable) — original cable pending | VERIFIED | C | `3a5efa7c6872…` |
+| `tamlyn-cable` | S1 (WaPo, reported) + embedded P1 (cable) — original cable pending | LOCATOR-VERIFIED | C | `3a5efa7c6872…` |
 
 ## Custody states
 
