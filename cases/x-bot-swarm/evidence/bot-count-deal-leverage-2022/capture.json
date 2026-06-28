@@ -1,0 +1,18 @@
+{
+  "item_id": "bot-count-deal-leverage-2022",
+  "source_url": "https://www.cbsnews.com/news/elon-musk-twitter-bots-new-owner-2022/",
+  "capture_method": "Sanctioned web search + outlet pages via Claude Code agent proxy (this environment has full egress; source hosts return HTTP 200). Locator + verbatim text verified; original-form bytes captured by capture.sh (see custody_state).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-28T00:00:00Z",
+  "bears_date": "2022-05-01",
+  "grade": "S1 (reputable secondary)",
+  "track": "legibility / the concern-is-fungible tell",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "36cd862e5f62c0781bb0e7adea1450c3cd9234f9664cf47b7bbd6506e6c0ff7d",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 5 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Twitter <5% vs Musk's hired firms (CounterAction 10-14.2%, Cyabra 13.7%); bot count deployed as deal-exit leverage. Approximate bears_date (mid-2022 dispute window); confirm at capture.",
+  "verified_at": "2026-06-28T23:20:35.180079Z"
+}
