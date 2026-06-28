@@ -37,7 +37,7 @@ The ledger operates under five foundational instruments, all in `docs/`:
 
 ## Ledger structure
 
-`ledger/ledger.md` is organized into the following sections (physical order: I, II, III, IV, VI, VII, V — Section V is kept at end-of-file as the scraper's append target):
+`ledger/ledger.md` is organized into six sequential sections (I–VI) followed by an appendix. The Continuous Collection is **Appendix A** — deliberately outside the numeral sequence — kept physically last because it is the scraper's automated append target:
 
 - **Section I** — Preamble and Reflexivity Clause (analyst-as-subject discipline)
 - **Section II** — Track A Ledger entries by cluster:
@@ -55,9 +55,9 @@ The ledger operates under five foundational instruments, all in `docs/`:
   - 1 Interpersonal Abuse at Scale · 2 Convergence Architecture · 3 Care-Vocabulary Capture · 4 Technical Vocabulary as Epistemic Closure · 5 Preventive Epistemic Closure · 6 Vocabulary Capture as Inversion Tool · 7 The Accountability Simulacrum · 8 Complementary Sycophancy Structure
   - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test
 - **Section IV** — Gap Register (open evidentiary priorities)
-- **Section VI** — Track B: Authorization Chain (who authorized the conduct; direct / permissive / constructive)
-- **Section VII** — Track C: Foreseeability Corpus (what was perceptible at time of deployment; constructive / actual / documented awareness)
-- **Section V** — Continuous Collection (scraper append target; kept at end-of-file)
+- **Section V** — Track B: Authorization Chain (who authorized the conduct; direct / permissive / constructive)
+- **Section VI** — Track C: Foreseeability Corpus (what was perceptible at time of deployment; constructive / actual / documented awareness)
+- **Appendix A** — Continuous Collection / Scraper Archive (raw scraper append target; kept physically last)
 
 ---
 
