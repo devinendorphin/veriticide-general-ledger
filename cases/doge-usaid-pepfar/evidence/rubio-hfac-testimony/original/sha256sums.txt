@@ -1,0 +1,3 @@
+94f4023adf0ff06b49fd824915d182b86e6f3de5e55e1397ee81bd75a3f04615  ./www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.warc
+98744683e548fa32a02203bc290221de92e1819b0f0eb99f9f34d93f4aab7025  ./www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.html
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log

@@ -6,12 +6,13 @@
   "captured_at": "2026-06-24T11:10:00Z",
   "bears_date": "2025-04-21",
   "grade": "S1 (WaPo, reported) + embedded P1 (cable) \u2014 original cable pending",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "3a5efa7c6872c9204cf64235d56cb9d38a7c2e86317d6df2ad708c8871216108",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "PENDING \u2014 requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../README.md.",
+  "original_form_capture": "CAPTURED: 3 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture. [2026-06-24 grade corrected: lead grade is the held outlet reproduction (S1); the embedded primary (P1) is pending original-artifact capture \u2014 no grade inflation.]",
-  "track": "C"
+  "track": "C",
+  "verified_at": "2026-06-28T21:59:00.012958Z"
 }

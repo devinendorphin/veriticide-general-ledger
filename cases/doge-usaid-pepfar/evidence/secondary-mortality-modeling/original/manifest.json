@@ -1,0 +1,83 @@
+{
+  "item": "./secondary-mortality-modeling",
+  "captured_at": "2026-06-28T21:57:21.369310Z",
+  "artifact_count": 19,
+  "artifacts": {
+    "www.unaids.org_en_impact-US-funding-cuts_About.html": {
+      "sha256": "df30ab8f6dc0e683d72a98129fe191e1a05526bc29afc31a59ba9970bb5712bf",
+      "bytes": 5016619
+    },
+    "www.medrxiv.org_content_10.1101_2025.02.27.25323033.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.medrxiv.org_content_10.1101_2025.02.27.25323033.warc": {
+      "sha256": "6cb525adb39b6a4b444436bc99ba217f5d30b0e2ef6604fc4850944dc218f52f",
+      "bytes": 10034
+    },
+    "www.oxfam.org_en_press-releases_child-under-five-could-die-every-forty-seconds-2.html": {
+      "sha256": "e89d7cc322ef53ecf244421228fe7fc6ab8fa4adc64458ae3cb446288bf89f4f",
+      "bytes": 1709240
+    },
+    "www.cgdev.org_blog_update-lives-lost-usaid-cuts.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.wfp.org_news_wfp-warns-six-critical-operations-are-facing-significant-food-a.html": {
+      "sha256": "44d0635c058a8f8649e9fe59813b87cacd2a19030368340ac9672d4b4e4ad755",
+      "bytes": 156005
+    },
+    "newsroom.ucla.edu_stories_USAID-cuts-global-impact-14-million-deaths.warc": {
+      "sha256": "d28914d8a8656857d7b08e269393342b292c07d8ba9bc8ecd27a680208e0d0e5",
+      "bytes": 1637557
+    },
+    "www.ncbi.nlm.nih.gov_pmc_articles_PMC12447089_.warc": {
+      "sha256": "8bfc68f5a5628164c75302567c23a015f71cbefe4aa3460cc33b863926a2ac95",
+      "bytes": 930739
+    },
+    "www.ncbi.nlm.nih.gov_pmc_articles_PMC12274115_.html": {
+      "sha256": "b3e53f8a4c7c7c63b5f7a0cb09b4c81594fd8d2a6c32acd1edb1a32f93021080",
+      "bytes": 1097045
+    },
+    "www.ncbi.nlm.nih.gov_pmc_articles_PMC12230335_.warc": {
+      "sha256": "bd31b4422894caa3cacf6bcaf4ac9e8f85c7c4520e0d067d7f999c84d9e35efd",
+      "bytes": 1029649
+    },
+    "www.ncbi.nlm.nih.gov_pmc_articles_PMC12230335_.html": {
+      "sha256": "8dbd66c40fa1bd4f59cee3e161ba9a38de11be45ce18d6cfc808d4b132b1864b",
+      "bytes": 928723
+    },
+    "www.oxfam.org_en_press-releases_child-under-five-could-die-every-forty-seconds-2.warc": {
+      "sha256": "e44e737be4faf84c753813bad6bfecfc641e094f90b56c87921b7c5be9935c51",
+      "bytes": 1784582
+    },
+    "www.wfp.org_news_wfp-warns-six-critical-operations-are-facing-significant-food-a.warc": {
+      "sha256": "5de4783b259c4cc050ae98b014dd910ce5ac6afd2066b83572de9fddc19b2695",
+      "bytes": 271946
+    },
+    "www.cgdev.org_blog_update-lives-lost-usaid-cuts.warc": {
+      "sha256": "d045e5eff3e5818c73585e53a0c67c3ebc0c7a8ff713b177724207de26d16eeb",
+      "bytes": 11035
+    },
+    "www.unaids.org_en_impact-US-funding-cuts_About.warc": {
+      "sha256": "5a82a6afee5f5a56a893fab0e85a96fda37b5f02095cb7739843768ceeed66e7",
+      "bytes": 5768766
+    },
+    "newsroom.ucla.edu_stories_USAID-cuts-global-impact-14-million-deaths.html": {
+      "sha256": "469c1b7708371ffe4e7b137d2eb0e1e94a55be795c7c3596833e3d5f98248bd1",
+      "bytes": 1459577
+    },
+    "www.ncbi.nlm.nih.gov_pmc_articles_PMC12274115_.warc": {
+      "sha256": "60f5da71b1f3f0b4578323e45fe2af6718b9123e0cf02cad4f43a315bc7ecb93",
+      "bytes": 1198999
+    },
+    "www.ncbi.nlm.nih.gov_pmc_articles_PMC12447089_.html": {
+      "sha256": "89dbdcee99e318642fd59279271c1af4b614268c56e008d50a3c3839a2186079",
+      "bytes": 825252
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

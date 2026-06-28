@@ -1,0 +1,59 @@
+{
+  "item": "./doge-savings-subset",
+  "captured_at": "2026-06-28T20:44:43.596133Z",
+  "artifact_count": 13,
+  "artifacts": {
+    "abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.warc": {
+      "sha256": "58c9bcaac6ea636725aaf96aae085bbc8aa2e232ed46917102786b87137a4e53",
+      "bytes": 13593598
+    },
+    "thehill.com_homenews_administration_5162621-doge-wall-of-receipts-savings_.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.warc": {
+      "sha256": "236b410b948748e0006a6945e91f9854d5659446ecedbc0e8e8ff2c11a51f9a0",
+      "bytes": 5534289
+    },
+    "www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.html": {
+      "sha256": "d15619f6297f5f9114775aed9f2a67a64b4241ccca5bc82352e5726a8dca3704",
+      "bytes": 4465660
+    },
+    "www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.html": {
+      "sha256": "2cbf369c0f5fa2aef2d73db8c26eb70e94187e10ce316b2619eb09080948a960",
+      "bytes": 5424872
+    },
+    "www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.warc": {
+      "sha256": "f5ac010d66f25ca4bbe6de66156717ded37cf5677ac0448d7fc614cdae438b7d",
+      "bytes": 4045919
+    },
+    "www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.html": {
+      "sha256": "ae3a42412771c4d27ca32fa669257dd52e653c3d1eff9066f2db713e02d579b3",
+      "bytes": 3855405
+    },
+    "doge.gov_savings.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "doge.gov_savings.warc": {
+      "sha256": "ac6d6fbcd6e8862e2fa3f3964afd27ba568febdf3aa3e5d71418a38b13478755",
+      "bytes": 10936
+    },
+    "thehill.com_homenews_administration_5162621-doge-wall-of-receipts-savings_.warc": {
+      "sha256": "76f307f0a62a7e1b4f9e4c180c5d0be0b25fe17db9fb90195ef4ec8caf160f36",
+      "bytes": 4282
+    },
+    "abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.html": {
+      "sha256": "8be4c80ecd6fae475703861b7a8a9868d4eda43056f0f304e81ddcef32e8cde8",
+      "bytes": 13267199
+    },
+    "www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.warc": {
+      "sha256": "8847e52dedfc11b73842352ae4cb64d11e09755ed551179a8d3dd0b686529e35",
+      "bytes": 4570646
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}
