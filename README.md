@@ -14,6 +14,9 @@ The ledger applies the Documentation & Standing Protocol to a specific documente
 - **Christian nationalism** — Turning Point USA, Project 2025 affiliates: epistemic isolation infrastructure
 - **Musk / X** — Platform owner amplification; loyalty-enforcement economy; voter ID and birthrate gap formulas
 - **Objection.ai** — Adjudicative capture instrument (site went dark April 23, 2026 without issuing rulings; absence confirms INSTRUMENT classification)
+- **Venture accelerationism** — Andreessen Horowitz / Marc Andreessen: the Techno-Optimist Manifesto's enemy-list as a negative map of accountability infrastructure
+- **Fossil fuel / AI-energy nexus** — 40-year climate-science suppression record continued as the demand-side enabler of fossil revival under a "beneficial AI" mandate
+- **Palantir** — The surveillance substrate beneath DOGE, ICE, law enforcement, and military targeting; charged at the level of missing contestability
 - **Any URL** — Add to `scraper/config.yaml` to include it
 
 ---
@@ -45,7 +48,12 @@ The ledger operates under five foundational instruments, all in `docs/`:
   - Cluster 5: Christian nationalism / Turning Point USA (INSTRUMENT)
   - Cluster 6: EA/Longtermism (Open Philanthropy, 80,000 Hours, MacAskill, Yudkowsky)
   - Cluster 7: AI Lab Safety Washing (industry-wide INSTRUMENT, Anthropic RSP downgrade, OpenAI SB 1047)
-- **Section III** — Pattern Registry (cross-cluster structural analysis)
+  - Cluster 8: Venture Accelerationism (Andreessen Horowitz / Marc Andreessen — Techno-Optimist Manifesto enemy-list)
+  - Cluster 9: Fossil Fuel Climate Suppression / AI-Energy Nexus (40-year suppression record + demand-side fossil revival)
+  - Cluster 10: Palantir / the surveillance substrate (INSTRUMENT beneath the ledger; Habermas inversion; contestability gap register)
+- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–14:
+  - 1 Interpersonal Abuse at Scale · 2 Convergence Architecture · 3 Care-Vocabulary Capture · 4 Technical Vocabulary as Epistemic Closure · 5 Preventive Epistemic Closure · 6 Vocabulary Capture as Inversion Tool · 7 The Accountability Simulacrum · 8 Complementary Sycophancy Structure
+  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test
 - **Section IV** — Gap Register (open evidentiary priorities)
 
 ---
