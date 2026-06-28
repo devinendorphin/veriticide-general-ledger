@@ -37,7 +37,7 @@ The ledger operates under five foundational instruments, all in `docs/`:
 
 ## Ledger structure
 
-`ledger/ledger.md` is organized into six sequential sections (I–VI) followed by an appendix. The Continuous Collection is **Appendix A** — deliberately outside the numeral sequence — kept physically last because it is the scraper's automated append target:
+`ledger/ledger.md` is organized into nine sequential sections (I–IX) followed by an appendix. The Continuous Collection is **Appendix A** — deliberately outside the numeral sequence — kept physically last because it is the scraper's automated append target:
 
 - **Section I** — Preamble and Reflexivity Clause (analyst-as-subject discipline)
 - **Section II** — Track A Ledger entries by cluster:
@@ -57,6 +57,9 @@ The ledger operates under five foundational instruments, all in `docs/`:
 - **Section IV** — Gap Register (open evidentiary priorities)
 - **Section V** — Track B: Authorization Chain (who authorized the conduct; direct / permissive / constructive)
 - **Section VI** — Track C: Foreseeability Corpus (what was perceptible at time of deployment; constructive / actual / documented awareness)
+- **Section VII** — Track D: Dismissal & Retaliation (how testimony naming the pattern was suppressed, and by whom; the second-order harm)
+- **Section VIII** — Track E: Conscription (the aggravating element — system fluency built from uncompensated expression; Art. II(3)(b))
+- **Section IX** — Track F: Custody (how each item was captured, hashed, and kept unaltered; index to `cases/**/evidence/`)
 - **Appendix A** — Continuous Collection / Scraper Archive (raw scraper append target; kept physically last)
 
 ---
