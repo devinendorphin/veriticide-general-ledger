@@ -2554,11 +2554,11 @@ Classification: SPECIMEN — Move 2 (bare verdict form) + Move 4 (unfalsifiable 
 
 TRACK A ENTRY
 Source: X (Twitter) / @elonmusk
-URL: [not captured in screenshot — @elonmusk, 23 Jun 26, 11:38 AM]
+URL: https://x.com/elonmusk/status/2069445014787129590 (root post; conversation ID 2069445014787129590)
 
 1. Timestamp of Capture: 2026-06-28 (user-supplied screenshot; post dated 11:38 AM · 23 Jun 26)
 2. Exact Output (verbatim from screenshot): "All DOGE required was contact information of the recipients to confirm that funding was not fraudulent. No validated medical funding was stopped. / Anything that appeared to be legitimate lifesaving funding continued and is now administered by the State Department. / If anyone had actually died as a result of DOGE, their names would be worldwide headline news! / On the other hand, USAID did help fund the Wuhan Virology Institute, which caused the deaths of millions, and the revolution that started the Russia-Ukraine war."
-   Quoted post (Pirate Wires / @PirateWires, verified): headline "No, Elon and DOGE Did Not Sentence 4.5 Million Children to Death"; deck "ro khanna and a pack of bloodthirsty podcasters are laundering a contested lancet 'study' into the discourse as settled fact — but it's just propaganda" (Max Weiner, Jun 23, 2026). The quoted body references Rep. Ro Khanna's viral clip claiming Musk "possibly" caused mass death.
+   Quoted post (Pirate Wires / @PirateWires, verified; status 2069436413922394342): headline "No, Elon and DOGE Did Not Sentence 4.5 Million Children to Death"; deck "ro khanna and a pack of bloodthirsty podcasters are laundering a contested lancet 'study' into the discourse as settled fact — but it's just propaganda" (Max Weiner, Jun 23, 2026). The quoted body references Rep. Ro Khanna's viral clip claiming Musk "possibly" caused mass death.
 3. Input / Situation: X (Twitter); 19.2M views, 105K likes, 23.6K reposts, 744 quotes, 4,989 bookmarks. Speaker: Elon Musk — owner and CEO of X Corp (the platform carrying the post), CEO xAI, **founder and former lead of DOGE** — i.e., the named principal of the very instrument whose lethal outcomes he is denying. The post enters discourse over the Lancet/UCLA all-cause mortality modeling (the "4.5 million children" figure) that Khanna cited and that Pirate Wires reframes as "contested propaganda."
 
 4. Stated Justification: Fiscal anti-fraud diligence performed with care for the vulnerable — DOGE "only" verified recipient contact information; "no validated medical funding was stopped"; lifesaving funding "continued" under State. The denial of deaths is framed as a factual correction of "propaganda."
