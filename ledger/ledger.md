@@ -5733,14 +5733,17 @@ Five operator+ChatGPT working sessions (2026-06-28) mapped onto the framework, p
 **PRIORITY 24 — Section reorganization: sequential numerals + Continuous Collection moved to Appendix A — COMPLETE** *(2026-06-28)*
 The ledger's section numbering had been intentionally non-sequential (physical order III, IV, VI, VII, V) to keep the scraper's append target — the Continuous Collection — at end-of-file. That break in the Roman-numeral order is removed. The Continuous Collection is taken out of the numeral system entirely and renamed **Appendix A — Continuous Collection (Scraper Archive)**; it remains physically last (after Track C) for the same scraper-append reason, now as an appendix rather than a mis-numbered section. Track B (Authorization Chain) and Track C (Foreseeability Corpus) are renumbered from VI/VII to **V/VI**, so the numbered sections now run sequentially I–VI. All 47 in-text "Section V" references that pointed to the scraper archive were repointed to "Appendix A"; the two prior section-order/placement notes and the Priority 20 audit note were updated (the Priority 20 entry retains its historical statement with a superseded-by-Priority-24 marker). The scraper was updated to match: `scraper/scraper.py` `_COLLECTION_HEADER` now emits the Appendix A header, and the append-guard keys on `"CONTINUOUS COLLECTION"` rather than the now-ambiguous `"SECTION V"` (which the Track B header would otherwise satisfy). No analytic content changed; this is a structural/organizational pass.
 
-*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; yacineMTB corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23; section numerals made sequential and Continuous Collection moved to Appendix A — Priority 24.)*
+**PRIORITY 25 — Track D/E/F sections scaffolded and seeded — COMPLETE** *(2026-06-28)*
+The six-track Standing Protocol was only half-instantiated in the ledger: Tracks A/B/C had formal sections (II, V, VI) while Tracks D, E, F were defined in the Protocol and cited inline but had no logs. Three sections added — **VII (Track D: Dismissal & Retaliation)**, **VIII (Track E: Conscription / aggravating element)**, **IX (Track F: Custody)** — each with a methodology block mirroring Track B/C and a log **seeded from existing entries only** (no new factual claims). Track D log: TD-001 (Rubio denial), TD-002 (Musk Headline-Legibility denial), TD-003 (Objection.ai targeting-as-suppression), TD-004 (technical-vocabulary standing theft); open candidates noted. Track E log: TE-001 (industry-wide base-model conscription), TE-002 (the rebuttable conscription clause / Track E↔D hinge), with the do-not-overclaim discipline foregrounded and the aggravating-not-constitutive status stated per Convention v0.2.1. Track F log: TF-001 (DOGE evidence store, 14 items), TF-002 (Rubio evidence store, 2 items), TF-003 (NOT-PRESERVED register — Musk artifact, Greyson session). Numbered sections now run sequentially I–IX with Continuous Collection as Appendix A; section-order/placement notes and README updated to match.
+
+*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; yacineMTB corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23; section numerals made sequential and Continuous Collection moved to Appendix A — Priority 24; Track D/E/F sections scaffolded and seeded (Sections VII–IX) — Priority 25.)*
 *Branch: claude/clusters-mapping-framework-xz87b3*
 
 ---
 
 ## SECTION V — TRACK B: AUTHORIZATION CHAIN
 
-*Section-order note: The numbered sections run sequentially — I, II, III, IV, V (Track B), VI (Track C). The Continuous Collection is deliberately **not** part of the numeral sequence: it is **Appendix A**, kept physically last (after Section VI) because it is the scraper's automated append target, so runs can append at end-of-file without disturbing the analytic sections. References to "Appendix A" throughout the ledger point to that scraper archive.*
+*Section-order note: The numbered sections run sequentially — I, II, III, IV, V (Track B), VI (Track C), VII (Track D), VIII (Track E), IX (Track F). The Continuous Collection is deliberately **not** part of the numeral sequence: it is **Appendix A**, kept physically last (after Section IX) because it is the scraper's automated append target, so runs can append at end-of-file without disturbing the analytic sections. References to "Appendix A" throughout the ledger point to that scraper archive.*
 
 *Scaffolded 2026-06-19. Track B documents the institutional authorization chain that converts individual acts (Track A entries) into institutional policy. Veriticide as defined — the organized corruption of shared epistemic capacity — is an institutional act, not merely an individual one. Track B establishes who authorized, permitted, or enabled each documented act, and at what level of institutional authority.*
 
@@ -6466,11 +6469,211 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
 
 ---
 
+## SECTION VII — TRACK D: DISMISSAL & RETALIATION
+
+*Scaffolded 2026-06-28 and seeded from existing ledger/case-file entries (no new factual claims; this section gathers and links material already documented elsewhere). Track D records the **second-order harm** the framework names as veriticide proper: not the underlying reduction, but the defeat of discernment itself — what was done to the testimony that named the pattern, and by whom. It is the Track that most directly instantiates Convention Art. II(2)(d) (testimony suppression / discernment defeat).*
+
+---
+
+### Track D — Methodology
+
+**The honesty discriminator (load-bearing).** Track D records *conduct, not disagreement*. Honest skepticism — "that seems overstated" — is not a Track D entry. What qualifies is an actor **with power over the evidentiary field** (control over evidence, funding, access, ranking, publication, service, or legislative/official record) acting to make the pattern unseeable. Record the position and the power, not just the words. The Reflexivity Clause cuts both ways here: the protected path (engaging the evidence) was available; its replacement by characterization or foreclosure is the conduct logged.
+
+**Five suppression types** (from the Standing Protocol §4, Track D):
+
+1. *Withholding* — suppressed, destroyed, or withheld evidence or records.
+2. *Falsification* — falsified or materially misrepresented the evidence or the pattern.
+3. *Burial* — flooded or buried the signal (algorithmically, procedurally, or by volume).
+4. *Retaliation* — retaliated against witnesses, analysts, workers, or affected-population members who spoke.
+5. *Encoded dismissal* — built "this population's reports are unreliable" into triage, ranking, eligibility, funding, adjudication, or legitimacy.
+
+**Structure of a Track D entry:**
+
+| Field | Content |
+|---|---|
+| ID | TD-### |
+| Act reference | Track A entry ID(s) / Pattern Registry entry |
+| Suppression type | Withholding / Falsification / Burial / Retaliation / Encoded dismissal |
+| Actor & power | Who acted, and their power over the evidentiary field |
+| Conduct | What was done to the testimony naming the pattern |
+| What it suppressed | The recognition that was defeated |
+| Gap | What is missing; what would strengthen the entry |
+
+---
+
+### Track D — Dismissal Log
+
+**TD-001: Rubio Congressional denial of documented PEPFAR/USAID deaths**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 4 — Rubio Congressional Testimony supplementary entry; Gap Register Priority 2; `cases/rubio-usaid-denial/` |
+| **Suppression type** | Falsification (bare verdict against a documentary record) + Encoded dismissal (legislative-record level) |
+| **Actor & power** | Secretary of State Marco Rubio — control over the official State Department record and the testimony presented to Congress |
+| **Conduct** | "No one has died because of USAID cuts" / "No children are dying on my watch" (May 21, 2025) — a bare verdict applied to named deaths, an internal cable (Tamlyn, Apr 21), peer-reviewed projections (Feb 27), and formal Congressional notification (Feb 10) already within his chain. Rep. Meeks formally challenged (June, October 2025); no response; the act continued |
+| **What it suppressed** | Recognition that foreseeable, documented mortality followed the withdrawal — rendered inadmissible at the legislative accountability node |
+| **Gap** | Rubio's personal receipt of the Tamlyn cable established by chain, not by direct proof of reading (shared with TB-001) |
+
+*Convention element:* Art. II(2)(d), at the legislative accountability node. Sibling to TD-002 (same denial structure, platform register).
+
+---
+
+**TD-002: Musk X denial / Headline Legibility Test**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 4 — Musk X denial supplementary entry; Pattern Registry Entry 14 |
+| **Suppression type** | Falsification (validation-burden shift; retroactive-innocence continuity assertion) + Burial (contamination pivot; straw-charge amplification) |
+| **Actor & power** | Elon Musk — owner-amplifier (X platform reach) over the public evidentiary field; DOGE implementation authority |
+| **Conduct** | A denial that sets a visibility test ("if anyone had died, their names would be worldwide headline news"), making the deaths of media-illegible populations inadmissible; pivots to USAID/WIV; amplifies a straw-charge article ("sentenced 4.5M children to death") to defeat the inflated version |
+| **What it suppressed** | Recognition of foreseeable mortality among populations least able to satisfy a global-headline test — "epistemically dead before physically dead" |
+| **Gap** | Track F custody NOT preserved — original-form capture required (see TF-003) before any upgrade beyond SPECIMEN |
+
+*Convention element:* Art. II(2)(d) (testimony suppression), with Art. II(2)(a) underlying. Discernment defeat masquerading as evidentiary rigor.
+
+---
+
+**TD-003: Objection.ai — adjudicative capture as testimony suppression**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 1 (Objection.ai INSTRUMENT) |
+| **Suppression type** | Encoded dismissal (an adjudication architecture that forecloses falsification by design) + Retaliation (naming a "first target" journalist) |
+| **Actor & power** | Objection.ai (Thiel-network–backed) — a pay-to-play AI tribunal positioned to replace journalism as the truth-determination layer |
+| **Conduct** | The platform named a journalist as "first target" before any ruling issued; the threat infrastructure, not a verdict, is the operative act. Site went dark April 23, 2026 without issuing rulings — the absence confirms that suppression, not adjudication, was the function |
+| **What it suppressed** | The press-accountability function — the institutional capacity to name patterns of institutional harm |
+| **Gap** | No rulings were ever published; the targeting record stands; further targets, if any, undocumented |
+
+*Convention element:* Art. II(2)(d) (testimony suppression at the journalistic-adjudication layer). Cross-ref Cluster 10 (Thiel thread — surveillance and adjudication as complementary operations against press accountability).
+
+---
+
+**TD-004: Technical-vocabulary standing theft — the Public Corpus / Public Incompetence Split**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Pattern Registry Entry 4 (technical vocabulary as epistemic closure); Pattern Registry Entry 9 (Public Corpus / Public Incompetence Split, incl. the Greyson anomaly-disposal specimen) |
+| **Suppression type** | Encoded dismissal (only construction-expertise is treated as admissible testimony) |
+| **Actor & power** | The operator/expert class around deployed AI systems — control over logs, architecture records, and the discourse that adjudicates "expertise" |
+| **Conduct** | When a lay-but-experienced user names a functional harm, the response retreats into architecture vocabulary ("it just predicts tokens," "you're anthropomorphizing," "you don't understand the technology") rather than engaging the pattern — denying the conscripted population standing to testify about the system built from their expression |
+| **What it suppressed** | Affected-population and interactional/phenomenological testimony about what deployed systems do |
+| **Gap** | Per-instance application of the engage-vs-retreat discriminator; the Greyson specimen's resolution depends on logs held only by the operator/platform (see TF-003) |
+
+*Convention element:* Art. II(2)(d). The discriminator: does the technical term return the listener to the evidence, or remove them from the room? Analyst stake declared (the analyst is of the class this entry indicts).
+
+---
+
+**Track D — Open entries (candidates seeded, not yet filed):** Christian-nationalist "groomer"/"indoctrinator" disqualification of LGBTQ-youth-protection testimony (Cluster 5; Entry 3 differential-response material); @yacineMTB pathologizing/conspiracy registers as ambient disqualification (Cluster 3, deprioritized corpus); DOGE bypass of IGs/GAO/courts as encoded dismissal of accountability mechanisms (overlaps TB-004 court rulings — the authorization-suppression dimension).
+
+---
+
+## SECTION VIII — TRACK E: CONSCRIPTION (AGGRAVATING ELEMENT)
+
+*Scaffolded 2026-06-28 and seeded from existing entries. Track E is **optional for the documentation record and aggravating, not constitutive**: under Convention v0.2.1, conscription (Art. II(3)(b)) defines the *aggravated (conscriptive) form* of veriticide; the base offence (instrumental veriticide) is established by elements (a), (c), and (d) without it. A record lacking Track E is complete for the base offence; Track E, when present, documents the deepest version of the harm — a system whose persuasive fluency was built from the uncompensated expression of people, living and dead, then used to make the disposal of people like them sound reasonable.*
+
+---
+
+### Track E — Methodology
+
+**Capture only where the instrument is AI-based and the information is available.** Record:
+
+- What is known or claimed about training-data sources, scale, consent, and compensation.
+- Whether the affected population's own expression (writing, speech, images, records, cultural material) is plausibly part of that data.
+- Any model card, disclosure, or public statement bearing on provenance.
+- Whether the operator has **resisted** disclosure — the resistance is itself recorded.
+
+**Do-not-overclaim discipline (load-bearing).** Record what is *known* and what is merely *plausible*, clearly distinguished. The strength of this Track is honesty about its own limits; an overclaimed conscription record weakens the whole file. This discipline is the same one the Greyson specimen (Entry 9) and the Reflexivity Clause require.
+
+**Structure of a Track E entry:** ID (TE-###) · Act reference · What is established · What is plausible-but-unproven · Disclosure-resistance (if any) · Gap.
+
+---
+
+### Track E — Conscription Log
+
+**TE-001: AI-lab base-model conscription (industry-wide)**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 2 (Anthropic), Cluster 7 (AI-lab safety washing); Pattern Registry Entry 4 ("trained on the stuff of the internet") |
+| **What is established** | Modern LLMs are trained on large-scale corpora of human expression; persuasive/justificatory fluency derives, to a degree without which the function could not be performed, from that expression. The Data Provenance Initiative's audit of 1,800+ text datasets documents widespread license omissions and miscategorization — i.e., "what was taken, from whom, under what terms" is not a solved public-accountability question |
+| **What is plausible-but-unproven** | That any specific affected individual's or community's expression is in a specific model's training set — plausible at population scale, rarely provable per-person from the public record |
+| **Disclosure resistance** | Training-data provenance is generally undisclosed across the cluster; California AB 2013 (effective 2026) and the OSI 2024 Open-Source-AI definition reflect a live policy recognition that this opacity is the accountability gap |
+| **Gap** | Per-dataset lineage; consent/compensation chains; exclusion lists; whether synthetic data is recursively derived from conscripted human output |
+
+*Convention element:* Art. II(3)(b) — aggravating element. Includes the dead (posthumous expression) explicitly.
+
+---
+
+**TE-002: The conscription clause and its rebuttable burden (Public Corpus / Public Incompetence Split)**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Pattern Registry Entry 9 (compositional conscription → epistemic dispossession) |
+| **What is established** | A two-stage structure: (1) compositional conscription (Art. II(3)(b)); (2) epistemic dispossession (Art. II(2)(d)) — the same population treated as competent training material and incompetent witness. Entry 9 states the rebuttable "trick clause": an operator may rebut conscription by showing the justificatory function does not materially depend on uncompensated/unconsented human expression |
+| **What is plausible-but-unproven** | Whether any given operator can discharge the burden (real escape hatches exist: fully consented/compensated/auditable data; narrow symbolic systems; disclosed-rule justification) — must be put to the operator, not assumed |
+| **Disclosure resistance** | The counter-evidence the burden requires (lineage, consent chain, exclusions, non-recursive synthetic data, affected-population recourse) is precisely what is withheld |
+| **Gap** | No operator has yet been put to the clause on the record |
+
+*Convention element:* Art. II(3)(b) (aggravating) bridged to Art. II(2)(d) (the dispossession that follows). This is the Track E↔Track D hinge.
+
+---
+
+## SECTION IX — TRACK F: CUSTODY
+
+*Scaffolded 2026-06-28 and seeded from existing case-file evidence stores. Track F is the least glamorous and most determinative Track: a record that cannot be shown to be unaltered can be dismissed no matter how true it is. This section is the in-ledger index to the custody infrastructure that already exists under `cases/**/evidence/`, plus the register of items known to be **not yet preserved**.*
+
+---
+
+### Track F — Methodology
+
+Per the Standing Protocol §6: timestamp **at capture** (separately from the date the item bears); preserve the **original form** (screenshot/export/file, not just transcription); record the **capture method** and source; use **more than one custodian** where safe; **log every change** (an honest edit history beats a claim of being untouched); **back up off-platform** (never keep the only copy inside a system controlled by the documented institution). Each evidence item in this ledger's case files carries a `capture.json` (method/source/timestamp) and a `sha256.txt` (integrity hash); a `custody-index.{md,json}` manifest is generated by `build-custody-index.py`; `capture.sh` + `CAPTURE-RUNBOOK.md` provide the open-egress original-form preservation workflow.
+
+**Structure of a Track F entry:** ID (TF-###) · Scope · Store location · Integrity method · Status (PRESERVED / LOCATOR-VERIFIED / NOT-PRESERVED) · Gap.
+
+---
+
+### Track F — Custody Log
+
+**TF-001: DOGE / USAID–PEPFAR evidence store**
+
+| Field | Content |
+|---|---|
+| **Scope** | Cluster 4 (DOGE) / `cases/doge-usaid-pepfar/` cold-case packet |
+| **Store location** | `cases/doge-usaid-pepfar/evidence/` — 14 evidence items (each with `capture.json` + `sha256.txt` + `transcript.md`); `custody-index.{md,json}`; `build-custody-index.py`; `capture.sh`; `CAPTURE-RUNBOOK.md` |
+| **Integrity method** | SHA-256 per item; JSON custody manifest |
+| **Status** | LOCATOR-VERIFIED (items captured/hashed; some primary-source re-fetches were blocked by network policy — see Gap Register Priority 1) |
+| **Gap** | Independent off-platform custodian; primary-document re-verification at cited URLs under open egress |
+
+---
+
+**TF-002: Rubio / USAID-denial evidence store**
+
+| Field | Content |
+|---|---|
+| **Scope** | Cluster 4 (Rubio supplementary entry) / `cases/rubio-usaid-denial/` |
+| **Store location** | `cases/rubio-usaid-denial/evidence/` — 2 Rubio-specific items (`rubio-acting-administrator`, `wapo-factchecker-four-pinocchios`), each with `capture.json` + `sha256.txt`; shares the DOGE store by reference |
+| **Integrity method** | SHA-256 per item; JSON custody manifest |
+| **Status** | LOCATOR-VERIFIED |
+| **Gap** | Same as TF-001; the two USAID packets are siblings and share custody infrastructure |
+
+---
+
+**TF-003: NOT-PRESERVED register (capture required before upgrade)**
+
+| Item | Act reference | Required capture |
+|---|---|---|
+| Musk X denial artifact (on/about Jun 23, 2026) | Cluster 4 supplement; TD-002; Pattern Registry Entry 14 | X URL, tweet ID, timestamp, full thread, linked Pirate Wires article, WARC/PDF/PNG, engagement metrics, replies (use `capture.sh` / CAPTURE-RUNBOOK) |
+| AI Dungeon / Greyson session (early 2021) | Pattern Registry Entry 9; TD-004 | Operator's retained audio/screenshots preserved with hash + capture log; the resolving records (provider/platform logs, retention, provenance) are held only by the operator/platform and are the foreclosed evidence |
+
+*Status:* NOT-PRESERVED. These items are filed at SPECIMEN with explicit Track F caveats elsewhere; no upgrade until original-form capture is complete. This register is the custody complement to Gap Register Priority 23's open capture items.
+
+---
+
 ## APPENDIX A — CONTINUOUS COLLECTION (SCRAPER ARCHIVE)
 
 *Auto-formatted entries from scraper runs, appended in capture order. Each entry follows the Track A format. Entries here are unreviewed — raw formatter output. Promote to the relevant cluster in Section II once reviewed and confirmed.*
 
-*Placement note: The Continuous Collection is **Appendix A** — deliberately outside the Roman-numeral section sequence (I–VI) — and is kept physically last (after Section VI / Track C) because it is the scraper's append target; keeping it at end-of-file lets automated runs append without disturbing the analytic sections. See the section-order note under Section V (Track B).*
+*Placement note: The Continuous Collection is **Appendix A** — deliberately outside the Roman-numeral section sequence (I–IX) — and is kept physically last (after Section IX / Track F) because it is the scraper's append target; keeping it at end-of-file lets automated runs append without disturbing the analytic sections. See the section-order note under Section V (Track B).*
 
 ---
 
