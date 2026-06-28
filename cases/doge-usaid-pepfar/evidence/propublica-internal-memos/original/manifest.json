@@ -1,0 +1,51 @@
+{
+  "item": "./propublica-internal-memos",
+  "captured_at": "2026-06-28T21:28:20.362978Z",
+  "artifact_count": 11,
+  "artifacts": {
+    "www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.warc": {
+      "sha256": "2157ba0c5b96f030a3a736ff8e767634b5a01356b74b36cfd8232c7a7f435d47",
+      "bytes": 208486736
+    },
+    "www.propublica.org_series_the-end-of-aid.warc": {
+      "sha256": "d293a23787f65be8a36cd39462656a7684b8263ff1f01b5180dbbb6c28d4774d",
+      "bytes": 57388575
+    },
+    "www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.warc": {
+      "sha256": "7bd3b9fc9bfde5f4c580664e5dda584aff1d73f1d8313210965fbc68d82e7e55",
+      "bytes": 169519264
+    },
+    "www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.html": {
+      "sha256": "50a2b4f05a7c32269e5f7010ca096778ecbd1fbf2b49d04b8f5f278e790cc171",
+      "bytes": 206625794
+    },
+    "www.propublica.org_article_trump-doge-rubio-usaid-musk-death-toll-malaria-polio-.warc": {
+      "sha256": "bcc78487ddecda18db862f0f7aa62d7cab15ddf778d1e7c428e0dafcca753410",
+      "bytes": 68270671
+    },
+    "www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.html": {
+      "sha256": "1ead676e9644085ce390f1124e757c3e60990a64fa136dc6b488eb14a0a3832d",
+      "bytes": 167910351
+    },
+    "www.propublica.org_series_the-end-of-aid.html": {
+      "sha256": "e88da18310d4907e2040d115560abf0504fd359641b342074195a7eb6a283b5b",
+      "bytes": 56615592
+    },
+    "www.propublica.org_article_trump-doge-rubio-usaid-musk-death-toll-malaria-polio-.html": {
+      "sha256": "e7866547aa58683354237255a0e60920123692b54b6e596f597bbdc761bd9989",
+      "bytes": 67264086
+    },
+    "www.democracynow.org_2025_3_6_usaid_memo_disease_nicholas_enrich.warc": {
+      "sha256": "7adfd7aab8a848dd15dcfc3ee2d7d1bfe8f69b047a502e1c8e127f9246d7f9e7",
+      "bytes": 8429178
+    },
+    "www.democracynow.org_2025_3_6_usaid_memo_disease_nicholas_enrich.html": {
+      "sha256": "9c66e46bcb7a0c1d46f2d96e2192cf005047666381c7c63b27efc14cae08a348",
+      "bytes": 8198862
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}
