@@ -5734,9 +5734,9 @@ Five operator+ChatGPT working sessions (2026-06-28) mapped onto the framework, p
 The ledger's section numbering had been intentionally non-sequential (physical order III, IV, VI, VII, V) to keep the scraper's append target — the Continuous Collection — at end-of-file. That break in the Roman-numeral order is removed. The Continuous Collection is taken out of the numeral system entirely and renamed **Appendix A — Continuous Collection (Scraper Archive)**; it remains physically last (after Track C) for the same scraper-append reason, now as an appendix rather than a mis-numbered section. Track B (Authorization Chain) and Track C (Foreseeability Corpus) are renumbered from VI/VII to **V/VI**, so the numbered sections now run sequentially I–VI. All 47 in-text "Section V" references that pointed to the scraper archive were repointed to "Appendix A"; the two prior section-order/placement notes and the Priority 20 audit note were updated (the Priority 20 entry retains its historical statement with a superseded-by-Priority-24 marker). The scraper was updated to match: `scraper/scraper.py` `_COLLECTION_HEADER` now emits the Appendix A header, and the append-guard keys on `"CONTINUOUS COLLECTION"` rather than the now-ambiguous `"SECTION V"` (which the Track B header would otherwise satisfy). No analytic content changed; this is a structural/organizational pass.
 
 **PRIORITY 25 — Track D/E/F sections scaffolded and seeded — COMPLETE** *(2026-06-28)*
-The six-track Standing Protocol was only half-instantiated in the ledger: Tracks A/B/C had formal sections (II, V, VI) while Tracks D, E, F were defined in the Protocol and cited inline but had no logs. Three sections added — **VII (Track D: Dismissal & Retaliation)**, **VIII (Track E: Conscription / aggravating element)**, **IX (Track F: Custody)** — each with a methodology block mirroring Track B/C and a log **seeded from existing entries only** (no new factual claims). Track D log: TD-001 (Rubio denial), TD-002 (Musk Headline-Legibility denial), TD-003 (Objection.ai targeting-as-suppression), TD-004 (technical-vocabulary standing theft); open candidates noted. Track E log: TE-001 (industry-wide base-model conscription), TE-002 (the rebuttable conscription clause / Track E↔D hinge), with the do-not-overclaim discipline foregrounded and the aggravating-not-constitutive status stated per Convention v0.2.1. Track F log: TF-001 (DOGE evidence store, 14 items), TF-002 (Rubio evidence store, 2 items), TF-003 (NOT-PRESERVED register — Musk artifact, Greyson session). Numbered sections now run sequentially I–IX with Continuous Collection as Appendix A; section-order/placement notes and README updated to match.
+The six-track Standing Protocol was only half-instantiated in the ledger: Tracks A/B/C had formal sections (II, V, VI) while Tracks D, E, F were defined in the Protocol and cited inline but had no logs. Three sections added — **VII (Track D: Dismissal & Retaliation)**, **VIII (Track E: Conscription / aggravating element)**, **IX (Track F: Custody)** — each with a methodology block mirroring Track B/C and a log **seeded from existing entries only** (no new factual claims). Track D log: TD-001 (Rubio denial), TD-002 (Musk Headline-Legibility denial), TD-003 (Objection.ai targeting-as-suppression), TD-004 (technical-vocabulary standing theft); the three scaffolding candidates subsequently filed as TD-005 (Christian-nationalist "groomer"/"indoctrinator" disqualification), TD-006 (@yacineMTB disqualification registers — ambient, account-verdict declined), TD-007 (DOGE bypass of courts/IGs/GAO as encoded dismissal). Track E log: TE-001 (industry-wide base-model conscription), TE-002 (the rebuttable conscription clause / Track E↔D hinge), with the do-not-overclaim discipline foregrounded and the aggravating-not-constitutive status stated per Convention v0.2.1. Track F log: TF-001 (DOGE evidence store, 14 items), TF-002 (Rubio evidence store, 2 items), TF-003 (NOT-PRESERVED register — Musk artifact, Greyson session). Numbered sections now run sequentially I–IX with Continuous Collection as Appendix A; section-order/placement notes and README updated to match.
 
-*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; yacineMTB corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23; section numerals made sequential and Continuous Collection moved to Appendix A — Priority 24; Track D/E/F sections scaffolded and seeded (Sections VII–IX) — Priority 25.)*
+*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; yacineMTB corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23; section numerals made sequential and Continuous Collection moved to Appendix A — Priority 24; Track D/E/F sections scaffolded and seeded (Sections VII–IX) — Priority 25; open Track D candidates filed as TD-005–007.)*
 *Branch: claude/clusters-mapping-framework-xz87b3*
 
 ---
@@ -6563,7 +6563,52 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
 
 ---
 
-**Track D — Open entries (candidates seeded, not yet filed):** Christian-nationalist "groomer"/"indoctrinator" disqualification of LGBTQ-youth-protection testimony (Cluster 5; Entry 3 differential-response material); @yacineMTB pathologizing/conspiracy registers as ambient disqualification (Cluster 3, deprioritized corpus); DOGE bypass of IGs/GAO/courts as encoded dismissal of accountability mechanisms (overlaps TB-004 court rulings — the authorization-suppression dimension).
+**TD-005: Christian-nationalist "groomer" / "indoctrinator" disqualification of LGBTQ-youth-protection testimony**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 5 (Christian nationalism / TPUSA INSTRUMENT; Entry 5.1 "Prove Me Wrong" / San Diego State transcript); Pattern Registry Entry 3 differential-response test, item (3); Entry 3 Addendum 2 (HB2, 2016 — earliest documented instance) |
+| **Suppression type** | Encoded dismissal (a register that pre-classifies a whole population's testimony as predatory) + Falsification (recasting protection-claims as their opposite) |
+| **Actor & power** | The Christian-nationalist movement / TPUSA and affiliated legislative actors — power over curriculum, statute, platform reach, and the "child protection" vocabulary itself |
+| **Conduct** | The same child-protection claim is absorbed when made for cisgender/straight children and recast as "grooming" / "indoctrination" when made for LGBTQ youth; the differential is framing, not harm-claim content. The "Prove Me Wrong" format performs futility as social proof — staging the affected party's testimony so that its defeat looks like fair adjudication |
+| **What it suppressed** | LGBTQ-youth-protection and accurate-health-education testimony — disqualified at the source by assignment to a predatory category |
+| **Gap** | Entry 5.1 production/source-URL confirmation still pending (noted in Cluster 5); per-statute differential-response instances beyond HB2 would extend the temporal record |
+
+*Convention element:* Art. II(2)(d) (testimony suppression via category-assignment). Pairs with Pattern Registry Entry 3 (care-vocabulary capture — "protecting children" as owned vocabulary) and Entry 5 (preventive epistemic closure — formation-environment exclusion).
+
+---
+
+**TD-006: @yacineMTB disqualification registers — ambient, credentialed-technical-figure level**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 3 (@yacineMTB corpus, 26 records); Gap Register Priorities 6 and 19 (deprioritized) |
+| **Suppression type** | Encoded dismissal (pathologizing register) + Falsification/Burial (conspiracy register) |
+| **Actor & power** | @yacineMTB — an ML engineer with a large following (≈298K at capture); power is reach and credentialed-technical legitimacy, not control over evidence/funding/service |
+| **Conduct** | Three documented registers that recast trans-healthcare and LGBTQ-affirmation testimony as illegitimate: pathologizing ("chemical castration," "epidemic"), grooming/conspiracy ("they want to make your kids gay"), and Satanic-panic ("they were actually eating children," 252K views — highest-reach post in the corpus). The registers function to make affirming testimony pre-discredited in the ambient information environment |
+| **What it suppressed** | Trans-healthcare and LGBTQ-affirmation testimony, at the level of public epistemic climate rather than institutional gatekeeping |
+| **Gap** | **Account-level verdict declined per the high-variance-account discipline** — the corpus carries both registers and five+ counter-evidence/NULL entries (affirmative cultural posts); this entry logs the *register as conduct*, not an account-level charge. Corpus is deprioritized and not load-bearing for any classification; retained as ambient-environment documentation only |
+
+*Convention element:* Art. II(2)(d), ambient/credentialed-figure form. Distinct in power-type from TD-001–005 (reach, not control over the evidentiary field) — recorded with that distinction explicit per the Track D honesty discriminator.
+
+---
+
+**TD-007: DOGE bypass of accountability mechanisms (courts, IGs, GAO) as encoded dismissal**
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 4 (DOGE INSTRUMENT); TB-004 (authorization chain — five court rulings) — this is the testimony-suppression dimension of the same conduct TB-004 logs as authorization |
+| **Suppression type** | Encoded dismissal (nullifying the mechanisms designed to evaluate the conduct) + Withholding (continuation after restraint) |
+| **Actor & power** | The executive / DOGE — power to fire oversight officials, withhold records, and continue implementation past judicial restraint |
+| **Conduct** | Accountability mechanisms were bypassed or appealed rather than reversed: CFPB wind-down continued after the TRO (Judge Jackson: "more likely a charade for the Court's benefit"); USIP seizure appealed rather than undone; Treasury access continued through modification; the USAID OIG's Feb-2025 watchdog warning on $8.2B frozen aid did not halt the dismantlement. The mechanisms built to make the conduct legible were themselves defeated |
+| **What it suppressed** | Independent recognition and restraint — the institutional capacity (judicial, inspector-general, GAO) to name and stop the pattern |
+| **Gap** | Statutory basis for classified-system access (disclaimed in EO 14158, reportedly occurred regardless); whether specific IG removals were directed to foreclose particular reviews (shared with TB-004) |
+
+*Convention element:* Art. II(2)(d) terminal-node condition at the constitutional/oversight level — the Track D (discernment-defeat) reading of the same record TB-004 reads as authorization. Cross-ref Pattern Registry Entry 2 (convergence — accountability dismantlement layer) and Entry 7 (accountability simulacrum).
+
+---
+
+*Track D accrues further entries as the Cluster 3 and Cluster 5 corpora extend; the three candidates flagged at scaffolding (2026-06-28) are filed above as TD-005–007.*
 
 ---
 
