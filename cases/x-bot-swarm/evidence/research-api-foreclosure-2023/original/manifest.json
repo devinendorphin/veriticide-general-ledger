@@ -1,0 +1,75 @@
+{
+  "item": "./research-api-foreclosure-2023",
+  "captured_at": "2026-06-28T23:30:52.578389Z",
+  "artifact_count": 17,
+  "artifacts": {
+    "www.cjr.org_tow_center_qa-what-happened-to-academic-research-on-twitter.php.html": {
+      "sha256": "2af119b2ecb51a132603eda7be67db07be703f315fc9ffaf8750c2964f6a0b5b",
+      "bytes": 2964064
+    },
+    "techcrunch.com_2023_02_14_twitters-restrictive-api-may-leave-researchers-out-in-.html": {
+      "sha256": "5893012102080be878c8dc8d83ef0d56802c4acebeb59a667b4c12bd2636ca8f",
+      "bytes": 3053115
+    },
+    "www.cjr.org_tow_center_qa-what-happened-to-academic-research-on-twitter.php.png": {
+      "sha256": "e600eb76d05f8fc477f9f4126e999730f31ca95a979100e912fdff11a6d8a6de",
+      "bytes": 35778
+    },
+    "osome.iu.edu_research_blog_introducing-botometer-x.png": {
+      "sha256": "0c126848a45c15034536614f399eca8ff1c1e73de5633c8f1aef351fa8da8d2b",
+      "bytes": 36618
+    },
+    "independenttechresearch.org_letter-twitters-new-api-plans-will-devastate-public-.pdf": {
+      "sha256": "2db833fbee97a8108876dbac8494d302f6b8c6fcc60e02b1adc075ab31b85dd5",
+      "bytes": 52544
+    },
+    "independenttechresearch.org_letter-twitters-new-api-plans-will-devastate-public-.png": {
+      "sha256": "3b297bdc7da6e69bbe86b1451dfd732a70ddc9bad80df1d03a28cfb44c0d4f5f",
+      "bytes": 38151
+    },
+    "techcrunch.com_2023_02_14_twitters-restrictive-api-may-leave-researchers-out-in-.pdf": {
+      "sha256": "d334d2c28796c00863637d60134f379d7be9f35fb34d5190687ea04a383dfb49",
+      "bytes": 52468
+    },
+    "osome.iu.edu_research_blog_introducing-botometer-x.html": {
+      "sha256": "e4760fe6edb44413d4dc5c398d6267b1900c6acfa142ab4f01b6db99a6bd3ccc",
+      "bytes": 3673372
+    },
+    "www.cjr.org_tow_center_qa-what-happened-to-academic-research-on-twitter.php.warc": {
+      "sha256": "a86c09bbb4583c011373814b047ebac145a1f44260c13260b9d93464d996e698",
+      "bytes": 7554469
+    },
+    "independenttechresearch.org_letter-twitters-new-api-plans-will-devastate-public-.html": {
+      "sha256": "f82e5782f03b9246bde57acac2625e1a3b350db770384b925dad854721a7f3b4",
+      "bytes": 821581
+    },
+    "techcrunch.com_2023_02_14_twitters-restrictive-api-may-leave-researchers-out-in-.png": {
+      "sha256": "37fe1ccb690cde34d3c928a6a81ea439557ca155f138b208c2e777a5ca106a0d",
+      "bytes": 36867
+    },
+    "osome.iu.edu_research_blog_introducing-botometer-x.warc": {
+      "sha256": "79554a2b337a967d7529c144213387f25aa3a0c50accd8ce913cd3b2b02a21ef",
+      "bytes": 3758753
+    },
+    "www.cjr.org_tow_center_qa-what-happened-to-academic-research-on-twitter.php.pdf": {
+      "sha256": "5fd898d06e4c1054e02a79c922d867d8e170d563dab7dc1be44a1b64076c8bc9",
+      "bytes": 51863
+    },
+    "osome.iu.edu_research_blog_introducing-botometer-x.pdf": {
+      "sha256": "65946369903fcb71aaa27d8b91c0b26cb9298a6a6cfc822856039c16820bb444",
+      "bytes": 51531
+    },
+    "independenttechresearch.org_letter-twitters-new-api-plans-will-devastate-public-.warc": {
+      "sha256": "bedaa797c19f0cccf6a3b0e8ca4bcadd09fdc5746396c1a39b9d9507e3cc6abd",
+      "bytes": 852415
+    },
+    "techcrunch.com_2023_02_14_twitters-restrictive-api-may-leave-researchers-out-in-.warc": {
+      "sha256": "16627b2d6cc3801c68c2df5809f38e2bbabe4956910c061adc5cf6b65236de38",
+      "bytes": 3471509
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

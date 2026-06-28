@@ -76,11 +76,18 @@ falsification memo, and custody manifest.
 |---|---|---|
 | DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 (DOGE) — Tier 3, the withdrawal + laundering instrument |
 | Rubio / USAID denial | `cases/rubio-usaid-denial/` | Ledger Cluster 4 (Rubio Supplementary Entry) — Tier 4, the denial that defeats discernment |
+| X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Ledger Pattern Registry Entry 15 + Cluster 3 (Musk/X) — Tier 4, the consensus layer: habitat + purge-verdict + foreclosed measurement |
 
 The two USAID cases are **siblings**: the DOGE packet charges Musk/DOGE for the withdrawal and
 its laundering instrument (Tier 3); the Rubio packet charges Rubio for the official denial that
 rendered the resulting deaths inadmissible (Tier 4). They share an evidence store (the Rubio
 packet adds two Rubio-specific items and references the rest).
+
+The **X bot-swarm** packet is a different Tier 4 knife: it charges Musk/X Corp not for a withdrawal
+or a single denial but for a *habitat* that foreseeably manufactures the appearance of public
+opinion, plus a "we defeated the bots" verdict made unfalsifiable by the foreclosure of independent
+measurement. Its hardest joint is **attribution** (who runs the swarms) — which it concedes and
+charges around. It has its own six-item evidence store (all VERIFIED original-form).
 
 A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
 disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is

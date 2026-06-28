@@ -1,0 +1,18 @@
+{
+  "item_id": "research-api-foreclosure-2023",
+  "source_url": "https://techcrunch.com/2023/02/14/twitters-restrictive-api-may-leave-researchers-out-in-the-cold/",
+  "capture_method": "Sanctioned web search + outlet pages via Claude Code agent proxy (this environment has full egress; source hosts return HTTP 200). Locator + verbatim text verified; original-form bytes captured by capture.sh (see custody_state).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-28T00:00:00Z",
+  "bears_date": "2023-02-14",
+  "grade": "S1 (reputable secondary) + embedded P1 (OSoMe/Botometer makers)",
+  "track": "II(2)(d) \u2014 measurement foreclosure",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "ce79470f050bac23c40c400893ed5046b40f86ee768f781330fce1dd4c739901",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 17 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Feb 2023 API pricing ended free access; Botometer disabled then archival-only (Botometer X, Feb 2024); cannot detect AI-supercharged bots. The omission half of the charge.",
+  "verified_at": "2026-06-28T23:30:52.599814Z"
+}
