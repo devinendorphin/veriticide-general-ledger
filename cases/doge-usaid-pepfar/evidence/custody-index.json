@@ -3,8 +3,8 @@
   "generator": "evidence/build-custody-index.py",
   "item_count": 15,
   "custody_states": {
-    "VERIFIED": 15,
-    "LOCATOR-VERIFIED": 0
+    "VERIFIED": 13,
+    "LOCATOR-VERIFIED": 2
   },
   "items": [
     {
@@ -66,7 +66,7 @@
     {
       "item_id": "propublica-internal-memos",
       "grade": "S1 (ProPublica, reported) + embedded P1 (memos) \u2014 underlying memos pending",
-      "custody_state": "VERIFIED",
+      "custody_state": "LOCATOR-VERIFIED",
       "track": "C / B",
       "source_url": "https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis",
       "sha256_transcript": "f9565587fbc6c081b1cc9f2ea2a0637f3f528efa4b0c5ced5eb6a1afcc8bf258"
@@ -122,7 +122,7 @@
     {
       "item_id": "tamlyn-cable",
       "grade": "S1 (WaPo, reported) + embedded P1 (cable) \u2014 original cable pending",
-      "custody_state": "VERIFIED",
+      "custody_state": "LOCATOR-VERIFIED",
       "track": "C",
       "source_url": "https://www.washingtonpost.com/investigations/interactive/2025/usaid-trump-malaria-hiv-drugs-death/",
       "sha256_transcript": "3a5efa7c6872c9204cf64235d56cb9d38a7c2e86317d6df2ad708c8871216108"
