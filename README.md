@@ -51,9 +51,9 @@ The ledger operates under five foundational instruments, all in `docs/`:
   - Cluster 8: Venture Accelerationism (Andreessen Horowitz / Marc Andreessen — Techno-Optimist Manifesto enemy-list)
   - Cluster 9: Fossil Fuel Climate Suppression / AI-Energy Nexus (40-year suppression record + demand-side fossil revival)
   - Cluster 10: Palantir / the surveillance substrate (INSTRUMENT beneath the ledger; Habermas inversion; contestability gap register)
-- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–14:
+- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–15:
   - 1 Interpersonal Abuse at Scale · 2 Convergence Architecture · 3 Care-Vocabulary Capture · 4 Technical Vocabulary as Epistemic Closure · 5 Preventive Epistemic Closure · 6 Vocabulary Capture as Inversion Tool · 7 The Accountability Simulacrum · 8 Complementary Sycophancy Structure
-  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test
+  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat
 - **Section IV** — Gap Register (open evidentiary priorities)
 - **Section V** — Track B: Authorization Chain (who authorized the conduct; direct / permissive / constructive)
 - **Section VI** — Track C: Foreseeability Corpus (what was perceptible at time of deployment; constructive / actual / documented awareness)
