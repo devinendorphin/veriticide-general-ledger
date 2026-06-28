@@ -45,7 +45,7 @@ def item_hash(item: dict) -> str:
 
 _COLLECTION_HEADER = (
     "\n\n---\n\n"
-    "## SECTION V — CONTINUOUS COLLECTION\n\n"
+    "## APPENDIX A — CONTINUOUS COLLECTION (SCRAPER ARCHIVE)\n\n"
     "*Auto-formatted entries from scraper runs, appended in capture order. "
     "Each entry follows the Track A format. Entries here are unreviewed — "
     "raw formatter output. Promote to the relevant cluster in Section II "
@@ -62,7 +62,7 @@ def append_to_ledger(ledger_path: Path, entry: str) -> None:
             "_Auto-collected entries. See Documentation & Standing Protocol v0.1._\n"
             + _COLLECTION_HEADER + "\n"
         )
-    elif "SECTION V" not in ledger_path.read_text():
+    elif "CONTINUOUS COLLECTION" not in ledger_path.read_text():
         with open(ledger_path, "a") as f:
             f.write(_COLLECTION_HEADER + "\n")
     with open(ledger_path, "a") as f:
