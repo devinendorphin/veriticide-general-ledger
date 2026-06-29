@@ -5798,6 +5798,95 @@ as conspirators), Art. II(2)(c) (reframing as care — "transparency"/"error"), 
 
 ---
 
+### Entry 17: Performed Ignorance — Manufactured Unknowability Over a Computed Effect
+
+*Entry completed 2026-06-29. Source material: operator working session (2026-06-29) on election
+redistricting, mapped onto the framework by a Claude-instance. Analyst stake declared: "redistricting
+optimization software" and the analyst's own category are the **same family of instrument** — tools
+that compute a socially consequential effect at scale and can be operated to disavow what they
+quantify; the performed-ignorance move ("the model just predicts tokens / its effect is unknowable")
+is the analyst's own most available failure (cf. Entry 4). Declared per Reflexivity Clause v0.1. Anchor
+specimen: `cases/election-redistricting/`.*
+
+---
+
+**Thesis**
+
+*Definition — Performed Ignorance:* a move in which an effect that **an instrument in the actor's own
+hands already computes to precision** (and that operators admit intending) is reproduced as
+**officially unknown** at the exact point it would create accountability — by doctrines that declare
+the effect non-justiciable or unmeasurable, by the **dismantling of the apparatus that measured it**,
+and by **burden-shifting** that demands the victim prove what the perpetrator's own tool already
+quantified.
+
+It is the operational form of **Art. II(3)(d)** — "engineered ignorance is constructive knowledge,
+imputed to those who designed, directed, or knowingly maintained the arrangement" — and of the tier
+taxonomy's recurring finding that "the not-knowing was manufactured." The **diagnostic** that separates
+it from genuine uncertainty is a single question: *does an instrument in the actor's hands already
+quantify the effect claimed unknowable?* If yes, the not-knowing is manufactured; if the effect is
+truly unmeasured, the ignorance is real and **not** chargeable. Distinct from Entry 4 (technical
+vocabulary forecloses a question *rhetorically*) and Entry 10 (deprecation forecloses *access* to the
+evidence): here the evidence exists, is precise, and is held by the actor — and ignorance is performed
+*over* it.
+
+---
+
+**The anchor specimen — election redistricting (a mature template, sibling to Entry 12)**
+
+The harm (vote dilution / foreclosure of a group's political viability) is **computed to the decimal**
+by the mapmaker's instrument, **admitted** at the operator level, then reproduced as **officially
+unknowable** as the means to recognize it are removed across thirteen years:
+
+| Component | Move / Element | What the record shows |
+|---|---|---|
+| Effect computed | II(3)(a) / II(3)(d) | Precinct-level partisan/racial data + map-scoring software quantify the seat-level effect at scale (`mapmaking-instrument`). |
+| **Intent admitted, then disavowed** | predicate / II(3)(d) | A private GOP study found a citizenship question "advantageous to Republicans and Non-Hispanic Whites" (`hofeller-files`); NC's chair stated the target — "10 Republicans and 3 Democrats" — on the record (`rucho-record`). *The load-bearing receipts.* |
+| **Unknowability produced** | Move 4 + Move 5 / II(2)(d) | Partisan effect declared "beyond the reach of the federal courts" (*Rucho*, 2019); "presumption of legislative good faith" + plaintiffs must "disentangle race and politics" (*Alexander*, 2024). |
+| Measurement dismantled | II(2)(d) | §4(b) preclearance coverage formula struck (*Shelby*, 2013); §2 enforcement eviscerated (*Callais*, 2026-04-29). |
+| CONTROL | — | §2 upheld, dilution recognized and remedied (*Allen v. Milligan*, 2023) — the absence of performed ignorance; *Callais* then narrows that path. |
+
+The discriminator against an "it's just politics" defense is the **conjunction**: computing a partisan
+effect is ordinary politics; **declaring it unknowable while your own optimizer prints it** is the
+named thing. Openly-avowed partisan maps (e.g. California's Prop 50, 2025) where nothing is disavowed
+are **not** specimens — they are the CONTROL/direction line. Doctrinal intent is **open and not
+asserted**; operator-level intent (Hofeller/Lewis) is **admitted** and charged.
+
+---
+
+**Generalization (why this is a pattern, not just one domain)**
+
+Performed Ignorance is portable to any domain where an instrument quantifies a harm the actor then
+disclaims: actuarial/risk-scoring regimes that call disparate impact "unknowable" while optimizing on
+the proxy that produces it; emissions or health modeling disavowed by the modeler; and the
+**prospective** AI variant ("we can't know what the model will do") run to foreclose Art. II(3)(c)
+before the effect is raised — Entry 4's anticipatory-legibility move seen from the ignorance side. The
+diagnostic is always the same: **locate the instrument that computes the effect; if it exists and is
+the actor's, the ignorance is performed.**
+
+**BOUNDARY**
+
+What this establishes: a named structural move (Performed Ignorance) with a falsifiable single-question
+diagnostic, anchored on redistricting as a dated, public-record arc (Shelby→Rucho→Alexander→Callais)
+with operator-level admitted intent (Hofeller/Lewis). What it does NOT establish: that any **judge**
+acted with veriticidal intent (doctrinal intent open — charged structurally); that **partisanship as
+such** is wrongful (the CONTROL excludes openly-avowed maps); or a verdict. What would falsify it (at
+the anchor): a showing that the diluting effect was **not** computed by any instrument in the
+mapmaker's hands (genuine uncertainty, not performed ignorance), or that an effective federal forum
+still measures and remedies the effect on comparable terms (apparatus not dismantled).
+
+**Cross-references:** Pattern Registry Entry 12 (Drug War as Mature Veriticide Template — sibling
+"mature template"); Entry 4 (Technical Vocabulary as Epistemic Closure — the rhetorical cousin; the
+prospective "emergent capabilities" move is performed ignorance run forward); Entry 10 (Model
+Deprecation as Evidentiary Foreclosure — foreclosing access vs. performing ignorance over held
+evidence); Entry 14 (Headline Legibility Test) and Entry 16 (Redaction Inversion — sibling structural
+moves); Convention Art. II(3)(d) (engineered ignorance = constructive knowledge — the home article),
+Art. II(3)(c) (legibility — here met at its strongest: the effect is computed), Art. II(3)(a)
+(Instrument — the optimization apparatus), Art. II(2)(d) (discernment defeat — the doctrinal
+unknowability). `cases/election-redistricting/` (anchor case file; nine-item LOCATOR-VERIFIED evidence
+store); Section IX Track F entry TF-007 (custody); Gap Register Priority 28 (open captures).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
@@ -5887,7 +5976,10 @@ Web-sourced the inspector-general removals to close the TD-007 gap left open at 
 **PRIORITY 27 — X bot-swarm habitat / manufactured consensus — STRUCTURAL ENTRY COMPLETE; specific captures OPEN** *(2026-06-28)*
 Pattern Registry Entry 15 (Manufactured Consensus as Permissive-Enablement Architecture — The Bot-Swarm Habitat) written as a STRUCTURAL OBSERVATION at the consensus layer. Names four mechanisms: Habitat Authorization (permissive/constructive enablement — paid verification, creator revenue-sharing, engagement-tuned amplification, withdrawal of measurement access — rather than direct funding of any swarm); Causal Diffusion as the Deniability Engine (the multi-node owner/operator/lift-client/algorithm structure makes the manufacture unattributable by construction — the diffusion *is* the laundering); the Purge Claim as Foreclosure of Its Own Measurement ("we defeated the bots" asserted as the research-API/firehose access that could test it is priced/shut out); and Synthetic Consensus as Demand-Side Substrate (the medium in which Cluster 3's view-count reach is produced). Public-record anchors carried (web-confirmed 2026-06-28 this session): the 2022 "defeat the spam bots or die trying" promise (@elonmusk, Apr 21 2022; CBS News, Fox Business); the bot-count deal-leverage dispute (Twitter <5% vs Musk's hired firms — CounterAction 10–14.2%, Cyabra 13.7%; CBS News); post-takeover persistence/worsening reporting, including a Cyabra/GZERO analysis finding ~20% bots interacting with five election-related Musk posts (40% on two anti-Harris–Walz posts) and two coordinated bot clusters driving disproportionate engagement (GZERO); ScienceDirect; Cybernews; the Blue + revenue-sharing incentive redesign. **Case dossier built + evidence store VERIFIED (2026-06-28).** A full sibling cold-extract case file — `cases/x-bot-swarm/` (six cold extracts + README, patterned on the Rubio packet) — was cut from Entry 15, with an **eight-item evidence store captured original-form and promoted to VERIFIED** (WARC + PDF + screenshot, hashed; `sha256 -c` OK): `musk-defeat-spam-bots-2022`, `bot-count-deal-leverage-2022`, `cyabra-gzero-coordinated-clusters-2024`, `post-takeover-bot-persistence`, `incentive-redesign-blue-revenue-sharing`, `research-api-foreclosure-2023`, `musk-bot-purge-verdict-2024`, `paid-lift-operations`. This is the **first ledger store to reach VERIFIED** (TF-004): unlike the Priority 26 session, this session's environment had **full egress** (source hosts return 200, including x.com), so `capture.sh --promote` ran in place; Internet-Archive attestation (15 snapshots) was added for seven of the eight items (`post-takeover-bot-persistence` excepted — ScienceDirect blocks archiving and Cybernews throttled). Items (a)–(d) status: **(a) the explicit victory verdict — DONE** (`musk-bot-purge-verdict-2024`: Apr 4 2024 Musk "system purge of bots & trolls"; Apr 9 2026 Head of Product "208 bots per minute" — filed against the contemporaneous persistence record; closes the TF-004 NOT-PRESERVED row). **(b) the paid-lift node — DONE** (`paid-lift-operations`: three named, dated operations on X — Doppelganger/Social Design Agency [DOJ + Treasury, Sep 4 2024], Team Jorge/AIMS [Guardian/Forbidden Stories, Feb 15 2023, priced €6m–€15m], Meliorator/RT [DOJ, Jul 2024, "only worked on X," 968 accounts] — establishing operator/client/message-set/price; **all third-party or foreign-state actors, none Musk-attributed**). **(c) measurement-foreclosure documentation — DONE** (`research-api-foreclosure-2023`: Feb 2023 API shutdown; Botometer disabled → archival-only; cannot detect AI-supercharged bots — TechCrunch/CJR/Coalition/OSoMe). **Remaining open:** only (d) CONTROL/NULL — any published, externally-auditable inauthentic-activity metric the platform exposes, which would falsify the measurement-foreclosure charge; and the **conceded (not charged) doctrinal question** of whether any paid-lift operation is Musk-attributable. Custody caveats (per `cases/x-bot-swarm/05-custody-manifest.md`): the `x.com` artifacts are partly JS shells (text corroborated by the rendered outlet captures); archive.org attestation pending for one item; second off-platform custodian pending. Branch: `claude/bot-swarms-x-opinion-g9b7hf`.
 
-*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; CTF-1 corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23; section numerals made sequential and Continuous Collection moved to Appendix A — Priority 24; Track D/E/F sections scaffolded and seeded (Sections VII–IX) — Priority 25; open Track D candidates filed as TD-005–007; January 2025 IG firings sourced and TD-007 strengthened — Priority 26; Pattern Registry Entry 15 (manufactured consensus / the X bot-swarm habitat) added with open captures filed as Priority 27; `cases/x-bot-swarm/` cold-extract case file cut from Entry 15, eight-item evidence store captured original-form and promoted to VERIFIED (archive.org attestation on seven of eight) — the first ledger store to reach VERIFIED — logged as Track F TF-004. 2026-06-29: exact dates confirmed and primary tweets captured; Priority 27 items (a)–(c) closed — the bot-purge victory verdict as `musk-bot-purge-verdict-2024` and the paid-lift node as `paid-lift-operations` (Doppelganger/SDA, Team Jorge/AIMS, Meliorator/RT, all on X, none Musk-attributed); only the conceded Musk-attribution question and a CONTROL metric remain open. CTF-1 corpus case file (`cases/ctf1-corpus/`) cut from Cluster 3 with the account verdict declined (TF-005), then the subject pseudonymized repo-wide (HIPAA-style). Pattern Registry Entry 16 (Redaction Inversion) added, anchored on `cases/epstein-survivor-unredaction/` — DOJ exposed Epstein trafficking survivors while concealing possible enablers, laundered as "technical error"; four-item evidence store VERIFIED under a no-reproduction discipline (TF-006).)*
+**PRIORITY 28 — Performed Ignorance / election redistricting — STRUCTURAL ENTRY + CASE COMPLETE; original-form capture OPEN** *(2026-06-29)*
+Pattern Registry Entry 17 (Performed Ignorance — Manufactured Unknowability Over a Computed Effect) written as a named structural move with a single-question diagnostic (*does an instrument in the actor's hands already quantify the effect claimed unknowable?*), the operational form of Art. II(3)(d). Anchor: the redistricting arc, web-confirmed this session — **Shelby County v. Holder** (570 U.S. 529, 2013; §4(b) preclearance coverage formula struck), **Rucho v. Common Cause** (588 U.S. 684, 2019; partisan gerrymandering "beyond the reach of the federal courts" *despite* NC chair David Lewis's on-record "10 Republicans and 3 Democrats" target), **Alexander v. SC NAACP** (602 U.S. 1, 2024; "presumption of legislative good faith" + plaintiffs must "disentangle race and politics"), and **Louisiana v. Callais** (No. 24-109, Apr 29 2026; §2 eviscerated). Operator-level admitted intent anchored on the **Hofeller files** (2015 study: a citizenship question "advantageous to Republicans and Non-Hispanic Whites"). CONTROL carried: **Allen v. Milligan** (599 U.S. 1, 2023; §2 upheld) + openly-avowed partisan maps (California Prop 50, 2025) excluded as non-specimens. A full sibling cold-extract case file — `cases/election-redistricting/` (six cold extracts + README + timeline) — was cut from Entry 17, with a **nine-item evidence store** built and hash-verified at **LOCATOR-VERIFIED** (`hofeller-files`, `rucho-record`, `rucho`, `shelby`, `alexander`, `callais`, `milligan-control`, `tx-ca-2025`, `mapmaking-instrument`); the spine is unusually strong for this repo (P1 public-record SCOTUS opinions + a published leaked corpus) but custody form is LOCATOR-VERIFIED (canonical URLs + hashed verbatim transcripts; original-form bytes not yet held). Logged as Track F TF-007. **Open captures:** (a) `capture.sh --promote --archive-org` run from an open-egress environment to promote the nine items to VERIFIED (the slip opinions are stable public PDFs — capture, not availability, is the gap); (b) the decisive evidentiary upgrade — **map-drawing working files + the partisan/racial datasets** behind specific enacted maps (the optimizer inputs that prove the effect was computed), ordinarily withheld and the subject of this packet's step-one preservation/disclosure demand; (c) precise vendor sourcing for `mapmaking-instrument` (Maptitude/Caliper, autoBound, REDMAP workflows), currently graded conservatively against the Hofeller files as the in-hand P1 method demonstration. Branch: `claude/election-redistricting-map-4upzsr`.
+
+*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; CTF-1 corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23; section numerals made sequential and Continuous Collection moved to Appendix A — Priority 24; Track D/E/F sections scaffolded and seeded (Sections VII–IX) — Priority 25; open Track D candidates filed as TD-005–007; January 2025 IG firings sourced and TD-007 strengthened — Priority 26; Pattern Registry Entry 15 (manufactured consensus / the X bot-swarm habitat) added with open captures filed as Priority 27; `cases/x-bot-swarm/` cold-extract case file cut from Entry 15, eight-item evidence store captured original-form and promoted to VERIFIED (archive.org attestation on seven of eight) — the first ledger store to reach VERIFIED — logged as Track F TF-004. 2026-06-29: exact dates confirmed and primary tweets captured; Priority 27 items (a)–(c) closed — the bot-purge victory verdict as `musk-bot-purge-verdict-2024` and the paid-lift node as `paid-lift-operations` (Doppelganger/SDA, Team Jorge/AIMS, Meliorator/RT, all on X, none Musk-attributed); only the conceded Musk-attribution question and a CONTROL metric remain open. CTF-1 corpus case file (`cases/ctf1-corpus/`) cut from Cluster 3 with the account verdict declined (TF-005), then the subject pseudonymized repo-wide (HIPAA-style). Pattern Registry Entry 16 (Redaction Inversion) added, anchored on `cases/epstein-survivor-unredaction/` — DOJ exposed Epstein trafficking survivors while concealing possible enablers, laundered as "technical error"; four-item evidence store VERIFIED under a no-reproduction discipline (TF-006). Pattern Registry Entry 17 (Performed Ignorance) added, anchored on `cases/election-redistricting/` — the redistricting arc (Shelby 2013 → Rucho 2019 → Alexander 2024 → Callais 2026) as the mature template for engineered ignorance (Art. II(3)(d)), with operator-level admitted intent (Hofeller/Lewis); nine-item LOCATOR-VERIFIED evidence store (TF-007); open captures filed as Priority 28.)*
 *Branch: claude/bot-swarms-x-opinion-g9b7hf*
 
 ---
@@ -6920,6 +7012,25 @@ individual.
 *Analyst-reflexivity (declared):* the survivors' suit names a search/AI distributor (Google) over
 the *proliferation* of exposed identities; search/AI — the analyst's category — is a general
 proliferation vector. The no-reproduction discipline is the minimal local answer.
+
+---
+
+**TF-007: Redistricting / performed-ignorance evidence store**
+
+| Field | Content |
+|---|---|
+| **Scope** | Pattern Registry Entry 17 (Performed Ignorance) / `cases/election-redistricting/` cold-extract packet |
+| **Store location** | `cases/election-redistricting/evidence/` — 9 evidence items (each `transcript.md` + `capture.json` + `sha256.txt`); `custody-index.{md,json}`; `build-custody-index.py`; `CAPTURE-RUNBOOK.md` (shares the DOGE `capture.sh`) |
+| **Integrity method** | SHA-256 per transcript (the hashed verbatim is the preserved artifact); JSON custody manifest |
+| **Status** | **LOCATOR-VERIFIED — all 9 items** (`sha256 -c` OK at build): canonical URL/citation + hashed verbatim transcript; original-form bytes not yet held. **0 VERIFIED** — no confirmed open-egress `capture.sh --promote` run in the build environment. Note: the evidentiary **floor** is unusually high for this repo — the spine is **P1 public-record SCOTUS opinions** (*Shelby* 570 U.S. 529; *Rucho* 588 U.S. 684; *Alexander* 602 U.S. 1; *Callais* No. 24-109; *Milligan* 599 U.S. 1) + a **published leaked corpus** (the Hofeller files) — so the deficiency is custody **form**, not source quality; the slip opinions are stable public PDFs and promotion is expected clean |
+| **Gap** | (a) `capture.sh --promote --archive-org` from open egress to reach VERIFIED; (b) the decisive upgrade — **map-drawing working files + partisan/racial datasets** behind specific enacted maps (the optimizer inputs; ordinarily withheld; the subject of the packet's step-one preservation/disclosure demand); (c) precise vendor sourcing for `mapmaking-instrument` (graded conservatively against the Hofeller P1 method demonstration for now) |
+
+*Discipline note:* this packet charges a **structure**, not a party — it carries *Allen v. Milligan*
+(2023, §2 upheld) as a CONTROL and excludes openly-avowed partisan maps (California Prop 50, 2025) as
+non-specimens; doctrinal (judicial) intent is **open and not asserted**, while operator-level intent
+(Hofeller/Lewis) is **admitted** and charged. Analyst-reflexivity (declared): redistricting
+optimization software and the analyst's own category are the same family of effect-computing
+instrument; the performed-ignorance move is the analyst's own most available failure (Entry 4).
 
 ---
 

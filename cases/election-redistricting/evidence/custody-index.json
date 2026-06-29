@@ -1,0 +1,83 @@
+{
+  "generated": "2026-06-29",
+  "generator": "evidence/build-custody-index.py",
+  "item_count": 9,
+  "custody_states": {
+    "VERIFIED": 0,
+    "LOCATOR-VERIFIED": 9
+  },
+  "items": [
+    {
+      "item_id": "alexander",
+      "grade": "P1 (Supreme Court opinion)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(d) \u2014 good-faith presumption + disentanglement burden",
+      "source_url": "https://www.supremecourt.gov/opinions/23pdf/22-807_3e04.pdf",
+      "sha256_transcript": "acb0605b8b2de18cc111919f2991ec126f36f3de70d2aa73315955132899af3f"
+    },
+    {
+      "item_id": "callais",
+      "grade": "P1 (Supreme Court opinion)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(d) \u2014 \u00a72 racial-vote-dilution enforcement narrowed/eviscerated",
+      "source_url": "https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf",
+      "sha256_transcript": "91b3d833c9878d1591fe4030910c03b151ffffce02b00dcb5d23f83c693bb9c4"
+    },
+    {
+      "item_id": "hofeller-files",
+      "grade": "S1 on P1 (the files)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(3)(d) \u2014 effect computed in private / disavowed (operator intent)",
+      "source_url": "https://www.commoncause.org/resources/the-hofeller-files/",
+      "sha256_transcript": "0f30d236dcae177f3d62be1c1d04543cc0a372df67777721b1300ffa44ef0866"
+    },
+    {
+      "item_id": "mapmaking-instrument",
+      "grade": "S1 + P1 (Hofeller files exemplify the method)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(3)(a) \u2014 the instrument that computes the effect at scale",
+      "source_url": "https://www.commoncause.org/resources/the-hofeller-files/",
+      "sha256_transcript": "937e281ebfd9d756d718d20aa8f286b8adde2d92069885119371feb8becfd074"
+    },
+    {
+      "item_id": "milligan-control",
+      "grade": "P1 (Supreme Court opinion)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "CONTROL \u2014 dilution recognized and remedied (direction opposite)",
+      "source_url": "https://supreme.justia.com/cases/federal/us/599/",
+      "sha256_transcript": "90ff4bd9936558215fa41d32d2fb62f7136bd29a272e7fb17d99d12c7f5734d4"
+    },
+    {
+      "item_id": "rucho-record",
+      "grade": "P2 (named on-record statement) in P1 (legislative record)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(3)(d) \u2014 admitted precise intended effect (operator)",
+      "source_url": "https://www.commoncause.org/articles/background-on-common-cause-v-rucho/",
+      "sha256_transcript": "39b90e583b2339d2e1d0267f07eb8ca0c6a322d450f204f6da84e0d906415cf7"
+    },
+    {
+      "item_id": "rucho",
+      "grade": "P1 (Supreme Court opinion)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(d) \u2014 partisan effect rendered non-justiciable",
+      "source_url": "https://en.wikipedia.org/wiki/Rucho_v._Common_Cause",
+      "sha256_transcript": "f7690dbf0df4adda847d1460777ab126820bf7e46ee8d6ddd0e150c8ddf4b9b9"
+    },
+    {
+      "item_id": "shelby",
+      "grade": "P1 (Supreme Court opinion)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(d) \u2014 measurement apparatus (preclearance) dismantled",
+      "source_url": "https://supreme.justia.com/cases/federal/us/570/529/",
+      "sha256_transcript": "a2cf2ed426ddbd6168420b82ce6727a77b72786a4c409f15be89eb0673798a51"
+    },
+    {
+      "item_id": "tx-ca-2025",
+      "grade": "S1 on P1 (rulings / ballot measure)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "Tier 3 realized harm + the race/party discriminator",
+      "source_url": "https://www.cbsnews.com/news/texas-redistricting-court-ruling-california-prop-50/",
+      "sha256_transcript": "b264b5db36f5d75155c905f6e943b7b85b5f12cd746cbdc7ae90697ed53a55c4"
+    }
+  ]
+}

@@ -51,9 +51,9 @@ The ledger operates under five foundational instruments, all in `docs/`:
   - Cluster 8: Venture Accelerationism (Andreessen Horowitz / Marc Andreessen — Techno-Optimist Manifesto enemy-list)
   - Cluster 9: Fossil Fuel Climate Suppression / AI-Energy Nexus (40-year suppression record + demand-side fossil revival)
   - Cluster 10: Palantir / the surveillance substrate (INSTRUMENT beneath the ledger; Habermas inversion; contestability gap register)
-- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–16:
+- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–17:
   - 1 Interpersonal Abuse at Scale · 2 Convergence Architecture · 3 Care-Vocabulary Capture · 4 Technical Vocabulary as Epistemic Closure · 5 Preventive Epistemic Closure · 6 Vocabulary Capture as Inversion Tool · 7 The Accountability Simulacrum · 8 Complementary Sycophancy Structure
-  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat · 16 Redaction Inversion
+  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat · 16 Redaction Inversion · 17 Performed Ignorance
 - **Section IV** — Gap Register (open evidentiary priorities)
 - **Section V** — Track B: Authorization Chain (who authorized the conduct; direct / permissive / constructive)
 - **Section VI** — Track C: Foreseeability Corpus (what was perceptible at time of deployment; constructive / actual / documented awareness)
@@ -79,6 +79,7 @@ falsification memo, and custody manifest.
 | X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Ledger Pattern Registry Entry 15 + Cluster 3 (Musk/X) — Tier 4, the consensus layer: habitat + purge-verdict + foreclosed measurement |
 | CTF-1 corpus (verdict declined) | `cases/ctf1-corpus/` | Ledger Cluster 3 (CTF-1 corpus) + Track D TD-006 — individual-scale, high-variance: charges acts (register-as-conduct), **declines the account verdict** |
 | DOJ / Epstein survivor re-exposure | `cases/epstein-survivor-unredaction/` | Ledger Pattern Registry Entry 16 (Redaction Inversion) — Tier 3+4: the protective apparatus turned to expose victims while shielding enablers; **documents the exposure without reproducing it** |
+| Redistricting / performed ignorance | `cases/election-redistricting/` | Ledger Pattern Registry Entry 17 (Performed Ignorance) — Tier 3+4: a vote-diluting effect computed to the decimal by the mapmaker's instrument, then rendered officially unknowable by doctrine (Shelby→Rucho→Alexander→Callais); **charges the structure, concedes doctrinal intent, excludes openly-avowed partisan maps** |
 
 The two USAID cases are **siblings**: the DOGE packet charges Musk/DOGE for the withdrawal and
 its laundering instrument (Tier 3); the Rubio packet charges Rubio for the official denial that
@@ -105,6 +106,18 @@ concealing possible enablers, laundered as "technical error," with survivors rec
 It charges the *structure* (intent is conceded open) and is governed by a strict **no-reproduction
 rule** — it documents the exposure without reproducing any survivor's identity, and never captures the
 leaked files themselves.
+
+The **redistricting / performed ignorance** packet anchors Pattern Registry Entry 17 (Performed
+Ignorance): the mature template where a vote-diluting effect is **computed to the decimal** by the
+mapmaker's optimization software (and admitted at the operator level — the Hofeller study, the Lewis
+"10–3" target), then reproduced as **officially unknowable** as the means to recognize it are removed
+across thirteen years (Shelby 2013 → Rucho 2019 → Alexander 2024 → Callais 2026). It is the operational
+form of the Convention's own Art. II(3)(d) ("engineered ignorance is constructive knowledge"). It
+charges the **structure**, concedes its hardest joints (the race/party entanglement; **doctrinal intent
+is left open** — only operator-level intent is charged), and holds two CONTROL lines so it cannot
+collapse into a partisan complaint: *Allen v. Milligan* (2023, §2 upheld) and openly-avowed partisan
+maps (California Prop 50, 2025) excluded as non-specimens. Its nine-item evidence store is
+LOCATOR-VERIFIED on a P1 public-record spine (SCOTUS opinions + the published Hofeller corpus).
 
 A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
 disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is

@@ -1,0 +1,17 @@
+{
+  "item_id": "hofeller-files",
+  "source_url": "https://www.commoncause.org/resources/the-hofeller-files/",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). Canonical URL + verbatim text verified and hashed as transcript.md (LOCATOR-VERIFIED). Original-form WARC/PDF/PNG not yet captured in this environment \u2014 see ../CAPTURE-RUNBOOK.md for the promotion run.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2015 (study); published 2019\u20132020",
+  "grade": "S1 on P1 (the files)",
+  "track": "II(3)(d) \u2014 effect computed in private / disavowed (operator intent)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "0f30d236dcae177f3d62be1c1d04543cc0a372df67777721b1300ffa44ef0866",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: no original/ artifacts yet; run capture.sh --promote from open egress (see ../CAPTURE-RUNBOOK.md).",
+  "notes": "The agnotology anchor: the diluting effect was calculated privately, the rationale concealed publicly."
+}

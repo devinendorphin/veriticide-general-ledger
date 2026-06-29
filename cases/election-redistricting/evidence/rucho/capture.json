@@ -1,0 +1,17 @@
+{
+  "item_id": "rucho",
+  "source_url": "https://en.wikipedia.org/wiki/Rucho_v._Common_Cause",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). Canonical URL + verbatim text verified and hashed as transcript.md (LOCATOR-VERIFIED). Original-form WARC/PDF/PNG not yet captured in this environment \u2014 see ../CAPTURE-RUNBOOK.md for the promotion run.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2019-06-27",
+  "grade": "P1 (Supreme Court opinion)",
+  "track": "II(2)(d) \u2014 partisan effect rendered non-justiciable",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "f7690dbf0df4adda847d1460777ab126820bf7e46ee8d6ddd0e150c8ddf4b9b9",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: no original/ artifacts yet; run capture.sh --promote from open egress (see ../CAPTURE-RUNBOOK.md).",
+  "notes": "588 U.S. 684 (2019), 5\u20134, Roberts. The forum for the computed partisan effect is closed."
+}
