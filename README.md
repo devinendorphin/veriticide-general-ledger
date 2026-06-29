@@ -77,6 +77,7 @@ falsification memo, and custody manifest.
 | DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 (DOGE) — Tier 3, the withdrawal + laundering instrument |
 | Rubio / USAID denial | `cases/rubio-usaid-denial/` | Ledger Cluster 4 (Rubio Supplementary Entry) — Tier 4, the denial that defeats discernment |
 | X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Ledger Pattern Registry Entry 15 + Cluster 3 (Musk/X) — Tier 4, the consensus layer: habitat + purge-verdict + foreclosed measurement |
+| @yacineMTB corpus (verdict declined) | `cases/yacinemtb-corpus/` | Ledger Cluster 3 (@yacineMTB corpus) + Track D TD-006 — individual-scale, high-variance: charges acts (register-as-conduct), **declines the account verdict** |
 
 The two USAID cases are **siblings**: the DOGE packet charges Musk/DOGE for the withdrawal and
 its laundering instrument (Tier 3); the Rubio packet charges Rubio for the official denial that
@@ -88,6 +89,14 @@ or a single denial but for a *habitat* that foreseeably manufactures the appeara
 opinion, plus a "we defeated the bots" verdict made unfalsifiable by the foreclosure of independent
 measurement. Its hardest joint is **attribution** (who runs the swarms) — which it concedes and
 charges around. It has its own eight-item evidence store (all VERIFIED original-form).
+
+The **@yacineMTB corpus** packet is the deliberate outlier: an individual-scale, high-variance case
+that **declines the account-level verdict** and charges only the documented *acts* (register-as-conduct)
+at the level of the ambient epistemic climate. It is filed to demonstrate the protocol's restraint —
+it preserves the account's affirmative counter-register beside the specimens, concedes the instrument
+element is weak, declares that the operator is a participant in the corpus, and holds the
+protected-speech wall as its spine. Custody is SCREENSHOT-HELD (no canonical URLs; cannot reach
+VERIFIED) by design.
 
 A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
 disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is

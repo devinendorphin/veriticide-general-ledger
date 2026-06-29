@@ -1,0 +1,22 @@
+{
+  "item_id": "eating-children-conspiracy",
+  "source_url": null,
+  "capture_method": "Operator-supplied screenshot. No canonical tweet URL captured; no original-form web bytes held. Verbatim text preserved and hashed in transcript.md.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-02-08",
+  "classification": "SPECIMEN",
+  "register": "Satanic-panic/conspiracy",
+  "reach": "252K views (highest in corpus)",
+  "screenshot": "/root/.claude/uploads/a1f72562-9656-5403-a095-cbd8483f7173/742bb7d9-1000027101.jpg",
+  "grade": "P2 (named on-record statement, screenshot-held)",
+  "track": "II(2)(d) ambient/credentialed-figure form (register-as-conduct; account verdict DECLINED)",
+  "custody_state": "SCREENSHOT-HELD",
+  "account_level_verdict": "DECLINED (high-variance account)",
+  "sha256_transcript": "32219e284690c05cedb03f50bf065a38a4d7e0a2b1f5656cd718aff13937306b",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "NOT HELD \u2014 no canonical URL. Upgrade would require locating the canonical tweet URL, then capture.sh; deliberately not pursued (private individual; corpus deprioritized/not load-bearing).",
+  "notes": "@yacineMTB high-variance corpus. Records the act, not the account. See ../00-charge-theory.md (verdict declined) and ../03-adversarial-check.md (protected-speech wall)."
+}

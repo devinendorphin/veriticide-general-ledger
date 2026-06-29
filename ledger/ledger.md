@@ -6672,6 +6672,7 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
 | **Conduct** | Three documented registers that recast trans-healthcare and LGBTQ-affirmation testimony as illegitimate: pathologizing ("chemical castration," "epidemic"), grooming/conspiracy ("they want to make your kids gay"), and Satanic-panic ("they were actually eating children," 252K views — highest-reach post in the corpus). The registers function to make affirming testimony pre-discredited in the ambient information environment |
 | **What it suppressed** | Trans-healthcare and LGBTQ-affirmation testimony, at the level of public epistemic climate rather than institutional gatekeeping |
 | **Gap** | **Account-level verdict declined per the high-variance-account discipline** — the corpus carries both registers and five+ counter-evidence/NULL entries (affirmative cultural posts); this entry logs the *register as conduct*, not an account-level charge. Corpus is deprioritized and not load-bearing for any classification; retained as ambient-environment documentation only |
+| **Cold extract** | `cases/yacinemtb-corpus/` — six cold extracts + a SCREENSHOT-HELD evidence store (6 specimens; TF-005), cut from this corpus with the account verdict declined and the operator-as-participant reflexivity caveat foregrounded |
 
 *Convention element:* Art. II(2)(d), ambient/credentialed-figure form. Distinct in power-type from TD-001–005 (reach, not control over the evidentiary field) — recorded with that distinction explicit per the Track D honesty discriminator.
 
@@ -6817,6 +6818,24 @@ Per the Standing Protocol §6: timestamp **at capture** (separately from the dat
 | **Gap** | Second off-platform custodian; archive.org attestation for one item; and — a doctrinal question, not a custody item — whether any documented paid-lift operation is **Musk-attributable** (the case's conceded contested beam) |
 
 *Note:* this store has **no NOT-PRESERVED items**. The two formerly-open captures are closed: the explicit victory verdict (`musk-bot-purge-verdict-2024` — Apr 4 2024 "system purge of bots & trolls"; Apr 9 2026 "208 bots per minute") and the paid-lift node (`paid-lift-operations` — Doppelganger/SDA, Team Jorge/AIMS [priced €6m–€15m], Meliorator/RT ["only worked on X," 968 accounts]; all third-party or foreign-state actors). The Meliorator item adds a second court-grade instance of the terminal-node pattern (X suspended the accounts only after the DOJ filing). What remains is the conceded Musk-attribution question — a doctrine/sourcing matter, not a capture of a known artifact.
+
+---
+
+**TF-005: @yacineMTB corpus evidence store (SCREENSHOT-HELD; verdict declined)**
+
+| Field | Content |
+|---|---|
+| **Scope** | Cluster 3 (@yacineMTB corpus) + Track D TD-006 / `cases/yacinemtb-corpus/` cold-extract packet |
+| **Store location** | `cases/yacinemtb-corpus/evidence/` — 6 SPECIMEN items (each `transcript.md` + `capture.json` + `sha256.txt`); `custody-index.{md,json}`; `build-custody-index.py`. Counter-evidence (5), NULL, SINCERE-UNBOUNDED, the algorithm meta-post, and the `@glubose` companion counter-speech are tabulated in the packet's `02-source-bundle.md`, not as separate dirs |
+| **Integrity method** | SHA-256 per transcript (the hashed verbatim is the preserved artifact); JSON custody manifest |
+| **Status** | **SCREENSHOT-HELD — all 6 items** (`sha256 -c` OK). **Cannot reach VERIFIED:** the corpus is operator-supplied screenshots with **no canonical tweet URLs** and no original-form bytes. Original-form capture is **deliberately not pursued** (private individual; corpus deprioritized/not load-bearing) and is recorded as an accepted limitation, not a to-do |
+| **Account verdict** | **DECLINED** (high-variance discipline) — the packet records acts (register-as-conduct), not the account |
+| **Gap** | The gravest caveat is **not custody but reflexivity**: the operator is a participant in the corpus and the screenshots are operator-curated (selection effect). An independent, complete capture of the account — which an account-level inference would require — is absent and not sought. See `cases/yacinemtb-corpus/04-falsification-memo.md` §Reflexivity |
+
+*Note:* this is the repo's weakest-custody packet by the nature of its sources, and the only one
+that **declines its own verdict**. It is filed as a demonstration of the high-variance discipline and
+the protected-speech wall (Reflexivity Clause / Art. V), not as a prosecutable charge against an
+individual.
 
 ---
 
