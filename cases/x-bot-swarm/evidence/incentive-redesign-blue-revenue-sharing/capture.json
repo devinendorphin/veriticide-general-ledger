@@ -1,0 +1,18 @@
+{
+  "item_id": "incentive-redesign-blue-revenue-sharing",
+  "source_url": "https://theconversation.com/x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only-make-the-platforms-problems-worse-216193",
+  "capture_method": "Sanctioned web search + outlet pages via Claude Code agent proxy (this environment has full egress; source hosts return HTTP 200). Locator + verbatim text verified; original-form bytes captured by capture.sh (see custody_state).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-28T00:00:00Z",
+  "bears_date": "2023-11-01",
+  "grade": "S1/S2 (reputable secondary + analysis)",
+  "track": "II(3)(a) instrument \u2014 habitat economic substrate",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "b04be7cfb49aad14f93d57e15c413e4b9db06cbfce84054538a99f7b59b04cd4",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 6 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Paid verification (Blue/Premium) + creator revenue-sharing monetize engagement-farming. Structural/incentive claim, not a claim that any specific account is a bot. Approximate bears_date.",
+  "verified_at": "2026-06-28T23:50:00.468559Z"
+}

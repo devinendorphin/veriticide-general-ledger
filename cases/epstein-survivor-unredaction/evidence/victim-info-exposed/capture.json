@@ -1,0 +1,18 @@
+{
+  "item_id": "victim-info-exposed",
+  "source_url": "https://www.nbcnews.com/news/us-news/epstein-survivors-identities-appear-unredacted-files-released-doj-rcna257057",
+  "capture_method": "Sanctioned web search + reporting pages via Claude Code agent proxy (full egress). Locator + structural text verified; original-form bytes captured by capture.sh. NO survivor identifying information is reproduced or captured beyond what the reporting itself contains (the reporting does not name survivors).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-02-04",
+  "grade": "S1 (multiple outlets) on P1 (DOJ releases)",
+  "track": "II(2)(d) \u2014 predicate exposure",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "3469d38cc44b1a545b6af988141c87398b889ade0dfdeea459887452900b9350",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 14 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "DOJ Epstein-files survivor re-exposure. No-reproduction discipline: documents the exposure without restating any survivor identity. Approximate bears_date (Feb 2026 reporting window); confirm at capture.",
+  "verified_at": "2026-06-29T08:41:56.484518Z"
+}

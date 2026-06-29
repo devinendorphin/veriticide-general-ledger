@@ -1,0 +1,15 @@
+{
+  "item_id": "rubio-acting-administrator",
+  "source_url": "https://www.state.gov/secretary-marco-rubio-appointed-as-acting-administrator-for-the-united-states-agency-for-international-development-usaid",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy. Direct WebFetch/curl to source host denied by org egress policy (HTTP 403). Content/locator verified; original-form bytes not retrieved.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-24T13:10:00Z",
+  "bears_date": "2025-02-03",
+  "grade": "P1 (State Dept official) + S1",
+  "track": "B / II(3)(d)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "43347d81d0f5bd8d394d99a7e2688ffed14348590a2d0cb02d25b0544ecc8888",
+  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
+  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot). See ../README.md and ../../doge-usaid-pepfar/evidence/CAPTURE-RUNBOOK.md.",
+  "notes": "Rubio-denial sibling case. Verbatim quoted text reproduced from sanctioned-search; confirm against source at original-form capture."
+}

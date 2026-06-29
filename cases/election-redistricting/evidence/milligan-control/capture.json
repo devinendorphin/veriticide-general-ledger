@@ -1,0 +1,17 @@
+{
+  "item_id": "milligan-control",
+  "source_url": "https://supreme.justia.com/cases/federal/us/599/",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). Canonical URL + verbatim text verified and hashed as transcript.md (LOCATOR-VERIFIED). Original-form WARC/PDF/PNG not yet captured in this environment \u2014 see ../CAPTURE-RUNBOOK.md for the promotion run.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2023-06-08",
+  "grade": "P1 (Supreme Court opinion)",
+  "track": "CONTROL \u2014 dilution recognized and remedied (direction opposite)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "90ff4bd9936558215fa41d32d2fb62f7136bd29a272e7fb17d99d12c7f5734d4",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: no original/ artifacts yet; run capture.sh --promote from open egress (see ../CAPTURE-RUNBOOK.md).",
+  "notes": "Allen v. Milligan, 599 U.S. 1 (2023), 5\u20134, Roberts. The absence of performed ignorance."
+}

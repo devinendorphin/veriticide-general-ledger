@@ -1,0 +1,47 @@
+{
+  "item": "./technical-error-framing",
+  "captured_at": "2026-06-29T10:11:27.063688Z",
+  "artifact_count": 10,
+  "artifacts": {
+    "archive-org-snapshots.txt": {
+      "sha256": "bc9f28a5e5996ffdd89abc8a32a7e40bdb817631ff4d7f698b7e9d863371dc3c",
+      "bytes": 316
+    },
+    "www.cbc.ca_news_investigates_epstein-files-redaction-mistakes-9.7073148.pdf": {
+      "sha256": "7589a143911c20cc287d2c7da5aaeff4cefeff032eb8c2e1dec688794f1813aa",
+      "bytes": 52810
+    },
+    "www.pbs.org_newshour_politics_government-says-its-fixing-thousands-of-documents-.html": {
+      "sha256": "963f1fb49bb05436b4cfb007859a565b400dcc9af7d546459239571b838a249b",
+      "bytes": 7483812
+    },
+    "www.pbs.org_newshour_politics_government-says-its-fixing-thousands-of-documents-.warc": {
+      "sha256": "10ab002834ff6867af7c095d9069ee53ebb9ca28077c3909c5b9d3b6f6a029d8",
+      "bytes": 7684310
+    },
+    "www.pbs.org_newshour_politics_government-says-its-fixing-thousands-of-documents-.png": {
+      "sha256": "f77aca33b4c8c263c34eedd857ce4a3848c6105a3f5a44a2465ebe00d8297a99",
+      "bytes": 36012
+    },
+    "www.pbs.org_newshour_politics_government-says-its-fixing-thousands-of-documents-.pdf": {
+      "sha256": "ddcf013c515898427727ee2bc0bb3810620e90f4c50ad67cfc2f56239267a200",
+      "bytes": 53856
+    },
+    "www.cbc.ca_news_investigates_epstein-files-redaction-mistakes-9.7073148.warc": {
+      "sha256": "77ad8271a682018692eaaa1c725f1a1577c76c82a3cecefc481c1c221d684a7f",
+      "bytes": 4122154
+    },
+    "www.cbc.ca_news_investigates_epstein-files-redaction-mistakes-9.7073148.png": {
+      "sha256": "1ce11acc7d8bc5a3af5b1a7138f382d8f8e17a941c8f25c78fd5bbe21f37865d",
+      "bytes": 35845
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.cbc.ca_news_investigates_epstein-files-redaction-mistakes-9.7073148.html": {
+      "sha256": "abae49b45a31c0aff97e9bb735de191839f5eb75a91c0b38a7c1738c99fbbb60",
+      "bytes": 4040875
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "item_id": "secondary-mortality-modeling",
+  "source_url": "multiple (see transcript table)",
+  "capture_method": "Mirror of the IN-LEDGER secondary corpus + sanctioned web search via Claude Code agent proxy. Direct WebFetch/curl to source hosts denied by org egress policy (HTTP 403). Content/locator verified; original-form bytes not retrieved.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-24T11:50:00Z",
+  "bears_date": "2025",
+  "grade": "S2 (modeling/expert mirror)",
+  "track": "C / IV(4)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "6caba69a75f3cb3c8aa714639038f29ef378f5710064bde1653cf86d14e362af",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 19 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Grouped mirror of multiple sources; per-row URL status noted in transcript. Verbatim snippets reproduced from sanctioned search; confirm against each source at original-form capture.",
+  "verified_at": "2026-06-28T21:57:21.390818Z"
+}
