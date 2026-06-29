@@ -12,7 +12,7 @@
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "CAPTURED: 5 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "original_form_capture": "CAPTURED: 6 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "~20% bots on five election-related Musk posts (40% on two anti-Harris-Walz posts); two coordinated bot clusters driving disproportionate engagement. Approximate bears_date; confirm at capture.",
-  "verified_at": "2026-06-28T23:21:50.105357Z"
+  "verified_at": "2026-06-28T23:49:20.514349Z"
 }

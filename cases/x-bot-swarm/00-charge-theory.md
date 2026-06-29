@@ -51,7 +51,7 @@ weighed; corrupting it is the defining Tier 4 injury (PR Entry 15, Mechanism 4).
 | 1 | The care-register promise that sets the standard: "we will defeat the spam bots or die trying" | `musk-defeat-spam-bots-2022` |
 | 2 | The habitat: paid verification + creator revenue-sharing monetize engagement-farming (II(3)(a) instrument) | `incentive-redesign-blue-revenue-sharing` |
 | 3 | The persistence the verdict denies: coordinated bot clusters amplifying his own posts; bot prevalence persisting/worsening | `cyabra-gzero-coordinated-clusters-2024`, `post-takeover-bot-persistence` |
-| 4 | **The verdict** — "we defeated the bots" / crackdown-accomplished, asserted as a bare verdict (II(2)(d)) | *(public-record statements; capture-pending, see Gap)* |
+| 4 | **The verdict** — April 2024 "system purge of bots & trolls" / 2026 "208 bots per minute," asserted as a bare verdict (II(2)(d)) | `musk-bot-purge-verdict-2024` |
 | 5 | **The foreclosure** — independent bot-measurement priced/shut out (the verdict made unfalsifiable by design) | `research-api-foreclosure-2023` |
 
 Step 5 is the apex: it is what converts an ordinary boast into veriticide — the verdict is asserted

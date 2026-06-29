@@ -19,7 +19,9 @@ original-form capture (~ = approximate).
 | **2023-02** | **FORECLOSE** | Free research API access ends; new pricing prices out academic detection. **Botometer disabled**; researchers warn it will "devastate public interest research" | `research-api-foreclosure-2023` |
 | ~2023 | **HABITAT** | Paid verification (Blue/Premium) sells the legibility signal; creator revenue-sharing **monetizes engagement** — the engagement-farming substrate | `incentive-redesign-blue-revenue-sharing` |
 | ~2023 | **RECORD** | Independent reporting: bot/invalid traffic persisted/worsened (CHEQ; academic; Cybernews) — no observable cessation | `post-takeover-bot-persistence` |
-| ~2023–onward | **VERDICT** | Crackdowns claimed / bots framed as defeated; applause from the user base (the consensus-display mechanism ratifies the verdict) — **capture-pending** | *(Gap Register Priority 27, item (a))* |
+| **2024-04** | **VERDICT** | Musk announces a **"system purge of bots & trolls"**; @Safety: "a significant, proactive initiative to eliminate accounts that violate our Rules" — the crackdown framed as accomplished, applause from the user base | `musk-bot-purge-verdict-2024` |
+| ~2024 (UK 04 Jul; Rwanda 15 Jul) | **RECORD** | Persistence *during the purge*: Global Witness 610,000+ bot-like posts (UK election); Clemson 460+ coordinated accounts (Rwanda) — reported to X, "nothing happened" | `musk-bot-purge-verdict-2024` |
+| **2026-04-09** | **VERDICT** | Head of Product: X is "**identifying and suspending 208 bots per minute**" — verdict re-asserted as a quantified, externally-unauditable success metric | `musk-bot-purge-verdict-2024` |
 | 2024-02 | **FORECLOSE** | Botometer revived only as **Botometer X** — archival mode, no post-May-2023 accounts, **cannot detect AI-supercharged bots** | `research-api-foreclosure-2023` |
 | ~2024 | **RECORD** | Cyabra/GZERO: ~20% bots on five election-related Musk posts (40% on two anti-Harris–Walz posts); **two coordinated clusters in tandem** driving disproportionate engagement — the verdict outlasted by the persistence, on his own posts | `cyabra-gzero-coordinated-clusters-2024` |
 

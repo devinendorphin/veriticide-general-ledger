@@ -25,7 +25,7 @@ packet's `evidence/`.*
 | Proposition | Item | Grade |
 |---|---|---|
 | The care-register promise setting the standard: "we will defeat the spam bots or die trying" | `musk-defeat-spam-bots-2022` | P2 + S1 |
-| **The victory verdict** — "we defeated the bots" / crackdown-accomplished (bare verdict against the persistence record) | *public-record statements — capture-pending (Gap)* | P2 (pending) |
+| **The victory verdict** — April 2024 "system purge of bots & trolls" (@Safety: "significant, proactive initiative to eliminate accounts…"); Apr 2026 Head of Product "208 bots per minute" (bare verdict against the persistence record) | `musk-bot-purge-verdict-2024` | P2 + S1 |
 | **The measurement foreclosure** — Feb 2023 API pricing ended free research access; Botometer disabled → archival-only; cannot detect AI-supercharged bots | `research-api-foreclosure-2023` | S1 + embedded P1 |
 
 ## C — The instrument & the role (Art. II(3)(a) + the mental element, II(3)(d))

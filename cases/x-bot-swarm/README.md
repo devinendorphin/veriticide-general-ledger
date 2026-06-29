@@ -60,10 +60,12 @@ charge does not depend on it.
 
 Unlike the DOGE/Rubio packets — built in a **Trusted** environment that blocked source hosts — this
 packet was built in a **full-egress** environment, so original-form capture (WARC/PDF/PNG, hashed)
-was run **in place**. See `05-custody-manifest.md` and `evidence/custody-index.md` for the
-per-item VERIFIED/LOCATOR-VERIFIED split and the `x.com` JavaScript-shell limitation. The
-**explicit victory-verdict statements remain the primary open capture** (Gap Register Priority 27,
-item (a)).
+was run **in place** — all seven items VERIFIED, with Internet-Archive attestation on six of seven
+(see `05-custody-manifest.md` and `evidence/custody-index.md`, plus the `x.com` JavaScript-shell
+limitation). The explicit victory-verdict statements — once the primary open capture — are now the
+VERIFIED `musk-bot-purge-verdict-2024`. The one item that remains **unsourced** is the
+direct-authorship node (a paid-lift operation: operator, client, message-set, price), which is the
+case's conceded contested beam, not a custody gap.
 
 ## What this packet is, and is not
 

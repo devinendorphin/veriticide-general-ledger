@@ -16,6 +16,7 @@ S2 expert/modeling · T1 witness testimony.
 | ID | Source | Grade | Supports |
 |---|---|---|---|
 | `musk-defeat-spam-bots-2022` | @elonmusk tweet, Apr 21 2022; CBS News; Fox Business | P2 + S1 | The purge-claim's origin / standard-setting promise |
+| `musk-bot-purge-verdict-2024` | Rest of World; Social Media Today (Apr 2024 @Safety purge; 2026 Head of Product "208/min") | P2 + S1 | The bare-verdict half of the act (crackdown declared) |
 | `bot-count-deal-leverage-2022` | CBS News (CounterAction, Cyabra figures) | S1 | The concern-is-fungible tell; 2022 prevalence baseline |
 | `cyabra-gzero-coordinated-clusters-2024` | GZERO Media (Cyabra analysis) | S1 + embedded S2 | Persistence/substitution on Musk's own posts |
 | `post-takeover-bot-persistence` | Cybernews; ScienceDirect; (CHEQ as reported) | S1/S2 | No observable cessation after the verdict |
@@ -25,6 +26,8 @@ S2 expert/modeling · T1 witness testimony.
 Canonical URLs:
 - `https://x.com/elonmusk/status/1517215066550116354`
 - `https://www.cbsnews.com/news/elon-musk-twitter-bots-new-owner-2022/`
+- `https://restofworld.org/2024/twitter-x-bots-elon-musk-elections/`
+- `https://www.socialmediatoday.com/news/x-formerly-twitter-conducting-bot-purge-removal/817160/`
 - `https://www.foxbusiness.com/technology/elon-musk-vows-to-defeat-the-spam-bots-or-die-trying-if-twitter-bid-succeeds`
 - `https://www.gzeromedia.com/news/analysis/musk-promised-to-rid-x-of-bots-but-they-love-his-tweets`
 - `https://cybernews.com/tech/twitter-bot-struggle/`
@@ -35,25 +38,26 @@ Canonical URLs:
 - `https://independenttechresearch.org/letter-twitters-new-api-plans-will-devastate-public-interest-research/`
 - `https://osome.iu.edu/research/blog/introducing-botometer-x`
 
-## Priority capture
+## Capture status
 
-1. **`research-api-foreclosure-2023`** — the apex act (the verdict's foreclosure); capture
-   TechCrunch + CJR + OSoMe original-form.
-2. **`cyabra-gzero-coordinated-clusters-2024`** — the load-bearing persistence instance; capture
-   the GZERO analysis.
-3. **`musk-defeat-spam-bots-2022`** — the standard-setting promise; capture the tweet + CBS + Fox
-   (the tweet page is JS-heavy — see custody manifest's `x.com` shell note).
-
-Use this packet's `evidence/CAPTURE-RUNBOOK.md` (allowlist included).
+All seven items are **VERIFIED** (original-form WARC + PDF + screenshot, hashed) — captured in
+place in a full-egress environment. Internet-Archive attestation is held for six of seven (the
+`post-takeover-bot-persistence` hosts — ScienceDirect, which blocks archiving, and Cybernews —
+declined/throttled Save Page Now at capture). See `05-custody-manifest.md` and
+`evidence/custody-index.md`. Re-run via `evidence/CAPTURE-RUNBOOK.md` (allowlist included).
 
 ## Honesty notes
 
-- **The victory verdict is capture-pending.** Step 4 of the charge (the explicit "we defeated the
-  bots" statements) is carried in the charge theory and ledger from public reporting but is **not
-  yet an original-form item** in this store — it is the primary open capture (Gap Register Priority
-  27, item (a)). The case rests, until then, on the *promise* (`musk-defeat-spam-bots-2022`), the
-  *persistence* (Cyabra/GZERO; Cybernews), and the *foreclosure* (`research-api-foreclosure-2023`),
-  which together establish the habitat + foreclosure spine without the explicit boast.
+- **The victory verdict is now captured.** Step 4 of the charge (the explicit "we defeated the
+  bots" statements) was the primary open item; it is now the VERIFIED `musk-bot-purge-verdict-2024`
+  (April 2024 @Safety "system purge"; 2026 Head of Product "208/min"), filed against the
+  contemporaneous persistence record. The case's spine — promise (`musk-defeat-spam-bots-2022`),
+  habitat (`incentive-redesign-blue-revenue-sharing`), persistence (Cyabra/GZERO; the verdict
+  item's own election-period figures), verdict (`musk-bot-purge-verdict-2024`), and foreclosure
+  (`research-api-foreclosure-2023`) — is complete.
+- **The direct-authorship node remains unsourced.** A dated, sourced paid-lift operation (operator,
+  client, message-set, price) is the one substantive open item — the case's conceded contested beam
+  (`03-adversarial-check.md`, Defense 1), not a custody gap.
 - **No CONTROL/NULL on record.** What one would require is defined in `04-falsification-memo.md` §E
   (an independently-auditable inauthentic-activity metric the platform exposes).
 - **Structural vs individual claims kept distinct:** the incentive-redesign item supports the

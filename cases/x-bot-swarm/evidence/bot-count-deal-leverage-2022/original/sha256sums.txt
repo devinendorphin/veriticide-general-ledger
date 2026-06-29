@@ -1,5 +1,6 @@
-9a4fc7c0f1e3658d69e7394f4d368251fe068644caab6455ac9eede4d1b4a85c  ./www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.pdf
+cf9a0b79e011ce564d37d6a1231f9ed0cb2ebed75c7b78df31fda21f075b709f  ./archive-org-snapshots.txt
+a4ecf83d9e81b35ac6dfb8b40379062d7fdabaeb7e8ba282d9204dd6fda290a1  ./www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.pdf
 63e738b4f5f2de5ef1d1320e6735b8bbaf9503071676cf15e99508a8c9d5ca29  ./www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.png
-024fb6df3b499b3bfcaa7073609b09931d4193b968d30dab0a989b9a0f481069  ./www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.warc
+61e047e8bd0362a5ccd809bc3af67cfa8d2e0b7c26171ac11ee4bccfbefcd15b  ./www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.warc
 c43eb58a74c74cde4e65e679269cd2af1ab6989ba18101b006cccaad795a8ecd  ./www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.html
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log

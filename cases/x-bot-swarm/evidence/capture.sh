@@ -106,10 +106,15 @@ for item in "${ITEMS[@]}"; do
           && echo "     video ok" || true ;;
     esac
     if [ "$ARCHIVE_ORG" -eq 1 ] && have curl; then
-      snap="$(curl -sS -I "https://web.archive.org/save/$url" 2>/dev/null \
-              | awk 'tolower($1)=="content-location:"{print $2}' | tr -d '\r')"
-      [ -n "$snap" ] && echo "https://web.archive.org${snap}" >> "$outdir/archive-org-snapshots.txt" \
-        && echo "     archive.org: ${snap}" || true
+      # Save Page Now replies either 200 with `content-location: /web/...` (relative)
+      # or 302 with `location: https://web.archive.org/web/...` (absolute). Handle both.
+      hdrs="$(curl -sS -I --max-time 60 "https://web.archive.org/save/$url" 2>/dev/null)"
+      snap="$(printf '%s' "$hdrs" | awk 'tolower($1)=="location:"{print $2}'        | tr -d '\r' | tail -1)"
+      [ -z "$snap" ] && snap="$(printf '%s' "$hdrs" | awk 'tolower($1)=="content-location:"{print "https://web.archive.org" $2}' | tr -d '\r' | tail -1)"
+      case "$snap" in
+        https://web.archive.org/*) echo "$snap" >> "$outdir/archive-org-snapshots.txt"; echo "     archive.org: $snap" ;;
+        *) echo "     archive.org: no snapshot URL returned" ;;
+      esac
     fi
   done
 

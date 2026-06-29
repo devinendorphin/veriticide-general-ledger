@@ -7,13 +7,14 @@
 > bundle, custody manifest) shows a custody state that conflicts with this table, **this
 > table is authoritative.** Per-row custody marks elsewhere are indicative/historical.
 
-**Generated:** 2026-06-28 · **Items:** 6 · **VERIFIED:** 6 · **LOCATOR-VERIFIED:** 0
+**Generated:** 2026-06-29 · **Items:** 7 · **VERIFIED:** 7 · **LOCATOR-VERIFIED:** 0
 
 | Item | Grade | Custody | Track | sha256(transcript) |
 |---|---|---|---|---|
 | `bot-count-deal-leverage-2022` | S1 (reputable secondary) | VERIFIED | legibility / the concern-is-fungible tell | `36cd862e5f62…` |
 | `cyabra-gzero-coordinated-clusters-2024` | S1 (reputable secondary) + embedded S2 (Cyabra analysis) | VERIFIED | II(2)(d) / legibility — the swarm-substitution instance | `ae46d28b7dae…` |
 | `incentive-redesign-blue-revenue-sharing` | S1/S2 (reputable secondary + analysis) | VERIFIED | II(3)(a) instrument — habitat economic substrate | `b04be7cfb49a…` |
+| `musk-bot-purge-verdict-2024` | P2 (named on-record statements) + S1 | VERIFIED | II(2)(d) — the bare-verdict half of the act (crackdown declared) | `29be06cd7183…` |
 | `musk-defeat-spam-bots-2022` | P2 (named on-record statement) + S1 | VERIFIED | II(2)(c) — the purge-claim origin (care-register frame) | `ff0386397441…` |
 | `post-takeover-bot-persistence` | S1/S2 (reputable secondary + academic) | VERIFIED | legibility — no observable cessation | `2c9bbc50a57c…` |
 | `research-api-foreclosure-2023` | S1 (reputable secondary) + embedded P1 (OSoMe/Botometer makers) | VERIFIED | II(2)(d) — measurement foreclosure | `ce79470f050b…` |
