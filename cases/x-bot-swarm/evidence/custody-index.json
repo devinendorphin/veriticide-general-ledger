@@ -1,9 +1,9 @@
 {
   "generated": "2026-06-29",
   "generator": "evidence/build-custody-index.py",
-  "item_count": 7,
+  "item_count": 8,
   "custody_states": {
-    "VERIFIED": 7,
+    "VERIFIED": 8,
     "LOCATOR-VERIFIED": 0
   },
   "items": [
@@ -46,6 +46,14 @@
       "track": "II(2)(c) \u2014 the purge-claim origin (care-register frame)",
       "source_url": "https://x.com/elonmusk/status/1517215066550116354",
       "sha256_transcript": "ff03863974411ae342226ca942d5d32bc017b15250b783b959e0b5f5b92fd8a6"
+    },
+    {
+      "item_id": "paid-lift-operations",
+      "grade": "P1 (DOJ/court + Treasury) + S1 (Guardian/Forbidden Stories)",
+      "custody_state": "VERIFIED",
+      "track": "II(3)(c) legibility + II(3)(a) habitat \u2014 the paid-lift node (NOT Musk-attributed)",
+      "source_url": "https://www.justice.gov/usao-edpa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign",
+      "sha256_transcript": "56de605d334927e3d49e9a3e8f2568ea4728ccc8da6b36a8d9fc89f73e7359bf"
     },
     {
       "item_id": "post-takeover-bot-persistence",

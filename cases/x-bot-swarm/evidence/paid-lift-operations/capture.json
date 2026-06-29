@@ -1,0 +1,18 @@
+{
+  "item_id": "paid-lift-operations",
+  "source_url": "https://www.justice.gov/usao-edpa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign",
+  "capture_method": "Sanctioned web search + court/outlet pages via Claude Code agent proxy (full egress; source hosts return HTTP 200). Locator + verbatim text verified; original-form bytes captured by capture.sh.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2024-09-04",
+  "grade": "P1 (DOJ/court + Treasury) + S1 (Guardian/Forbidden Stories)",
+  "track": "II(3)(c) legibility + II(3)(a) habitat \u2014 the paid-lift node (NOT Musk-attributed)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "56de605d334927e3d49e9a3e8f2568ea4728ccc8da6b36a8d9fc89f73e7359bf",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 30 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Addresses Gap Priority 27 item (b): documents the paid-lift node (operator/client/message/price) on X via three instances \u2014 Doppelganger/Social Design Agency (DOJ Sep 4 2024), Team Jorge/AIMS (Guardian Feb 15 2023, EUR6-15m), Meliorator/RT (DOJ Jul 2024, X-only, 968 accounts). Third-party/state actors; does NOT implicate Musk (the Musk-direct-authorship sub-question remains open/conceded). bears_date anchors to the DOJ Doppelganger action; span Feb 2023-Sep 2024.",
+  "verified_at": "2026-06-29T01:59:30.841315Z"
+}

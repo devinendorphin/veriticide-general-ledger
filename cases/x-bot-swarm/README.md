@@ -60,12 +60,14 @@ charge does not depend on it.
 
 Unlike the DOGE/Rubio packets — built in a **Trusted** environment that blocked source hosts — this
 packet was built in a **full-egress** environment, so original-form capture (WARC/PDF/PNG, hashed)
-was run **in place** — all seven items VERIFIED, with Internet-Archive attestation on six of seven
+was run **in place** — all eight items VERIFIED, with Internet-Archive attestation on seven of eight
 (see `05-custody-manifest.md` and `evidence/custody-index.md`, plus the `x.com` JavaScript-shell
-limitation). The explicit victory-verdict statements — once the primary open capture — are now the
-VERIFIED `musk-bot-purge-verdict-2024`. The one item that remains **unsourced** is the
-direct-authorship node (a paid-lift operation: operator, client, message-set, price), which is the
-case's conceded contested beam, not a custody gap.
+limitation). Two formerly-open items are now captured: the explicit victory verdict
+(`musk-bot-purge-verdict-2024`) and the paid-lift node itself (`paid-lift-operations` — three named,
+dated operations on X: Doppelganger/SDA and Meliorator/RT court-established, Team Jorge/AIMS priced
+at €6m–€15m). What remains is **not a sourcing gap** but the doctrinal question of whether any such
+operation is **Musk-attributable** — every documented operator is a third-party or foreign-state
+actor, and the case concedes (does not charge) Musk-direct-authorship.
 
 ## What this packet is, and is not
 
