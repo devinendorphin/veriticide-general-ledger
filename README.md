@@ -17,6 +17,7 @@ The ledger applies the Documentation & Standing Protocol to a specific documente
 - **Venture accelerationism** — Andreessen Horowitz / Marc Andreessen: the Techno-Optimist Manifesto's enemy-list as a negative map of accountability infrastructure
 - **Fossil fuel / AI-energy nexus** — 40-year climate-science suppression record continued as the demand-side enabler of fossil revival under a "beneficial AI" mandate
 - **Palantir** — The surveillance substrate beneath DOGE, ICE, law enforcement, and military targeting; charged at the level of missing contestability
+- **Prediction markets** — Kalshi / Polymarket as a reality-pricing engine; the Trump-family operator/competitor/regulator/outcome-lever convergence; the forecast/cause collapse as a veracity-kill (Pattern Registry Entry 17)
 - **Any URL** — Add to `scraper/config.yaml` to include it
 
 ---
@@ -53,7 +54,7 @@ The ledger operates under five foundational instruments, all in `docs/`:
   - Cluster 10: Palantir / the surveillance substrate (INSTRUMENT beneath the ledger; Habermas inversion; contestability gap register)
 - **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–16:
   - 1 Interpersonal Abuse at Scale · 2 Convergence Architecture · 3 Care-Vocabulary Capture · 4 Technical Vocabulary as Epistemic Closure · 5 Preventive Epistemic Closure · 6 Vocabulary Capture as Inversion Tool · 7 The Accountability Simulacrum · 8 Complementary Sycophancy Structure
-  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat · 16 Redaction Inversion
+  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat · 16 Redaction Inversion · 17 The Reality-Pricing Engine (Prediction Markets)
 - **Section IV** — Gap Register (open evidentiary priorities)
 - **Section V** — Track B: Authorization Chain (who authorized the conduct; direct / permissive / constructive)
 - **Section VI** — Track C: Foreseeability Corpus (what was perceptible at time of deployment; constructive / actual / documented awareness)
