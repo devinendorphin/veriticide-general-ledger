@@ -117,7 +117,8 @@ charges the **structure**, concedes its hardest joints (the race/party entanglem
 is left open** — only operator-level intent is charged), and holds two CONTROL lines so it cannot
 collapse into a partisan complaint: *Allen v. Milligan* (2023, §2 upheld) and openly-avowed partisan
 maps (California Prop 50, 2025) excluded as non-specimens. Its nine-item evidence store is
-LOCATOR-VERIFIED on a P1 public-record spine (SCOTUS opinions + the published Hofeller corpus).
+**VERIFIED** (original-form captured and hashed 2026-06-29) on a P1 public-record spine (SCOTUS opinions
++ the published Hofeller corpus).
 
 A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
 disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is

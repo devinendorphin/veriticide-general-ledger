@@ -1,0 +1,4 @@
+e7d6a6adbe4905852763bc0c6375aeb6f8f8c2949945c9245b1d23365740b289  ./www.cbsnews.com_news_texas-redistricting-court-ruling-california-prop-50_.pdf
+63e738b4f5f2de5ef1d1320e6735b8bbaf9503071676cf15e99508a8c9d5ca29  ./www.cbsnews.com_news_texas-redistricting-court-ruling-california-prop-50_.png
+f79288b74fa04f3d619f5ded3c0a6affb1a26ff74c6e9b9951c71b2995cd280e  ./www.cbsnews.com_news_texas-redistricting-court-ruling-california-prop-50_.warc
+8860a9bb710e6869799973259e1977f7b59790aa48048f780565a54ad4ad0f9f  ./www.cbsnews.com_news_texas-redistricting-court-ruling-california-prop-50_.html

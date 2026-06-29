@@ -78,8 +78,9 @@ map-drawing files.
 **Why it fails — and is marked.** The spine is **P1 public-record opinions** with stable citations
 (*Rucho* 588 U.S. 684; *Shelby* 570 U.S. 529; *Alexander* 602 U.S. 1; *Callais* No. 24-109; *Milligan*
 599 U.S. 1) and a **published leaked corpus** (the Hofeller files via Common Cause/NPR). The limitation
-is **custody form** — LOCATOR-VERIFIED, not VERIFIED — disclosed in `05` and `CAPTURE-RUNBOOK.md`, not
-hidden. The strongest upgrade is the **map-drawing working files and the partisan/racial datasets
+was **custody form** — now closed: the store is **VERIFIED** as of 2026-06-29 (original-form
+captured/hashed; off-platform second custodian + archive.org attestation still pending), disclosed in
+`05`, not hidden. The strongest upgrade is the **map-drawing working files and the partisan/racial datasets
 themselves** (the optimizer inputs), whose preservation and disclosure is exactly the step-one demand
 this packet asserts (`07-demand.md`).
 

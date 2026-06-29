@@ -2,7 +2,10 @@
 
 **Canonical citation:** Shelby County v. Holder, 570 U.S. 529 (2013); decided June 25, 2013; 5–4;
 opinion by Chief Justice Roberts.
-**Locator (LOCATOR-VERIFIED; capture pending):** https://supreme.justia.com/cases/federal/us/570/529/
+**Locators (LOCATOR-VERIFIED):**
+- https://www.law.cornell.edu/supremecourt/text/12-96 (Cornell LII — full opinion)
+- https://en.wikipedia.org/wiki/Shelby_County_v._Holder
+- https://supreme.justia.com/cases/federal/us/570/529/ (Justia — blocks automated capture in some environments)
 
 **[VERBATIM — the reasoning, as quoted across sources]**
 "a statute's current burdens must be justified by current needs."
