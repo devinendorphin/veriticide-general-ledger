@@ -4,11 +4,11 @@
   "capture_method": "Sanctioned web search + outlet pages via Claude Code agent proxy (this environment has full egress; source hosts return HTTP 200). Locator + verbatim text verified; original-form bytes captured by capture.sh (see custody_state).",
   "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
   "captured_at": "2026-06-28T00:00:00Z",
-  "bears_date": "2022-05-01",
+  "bears_date": "2022-05-13",
   "grade": "S1 (reputable secondary)",
   "track": "legibility / the concern-is-fungible tell",
   "custody_state": "VERIFIED",
-  "sha256_transcript": "36cd862e5f62c0781bb0e7adea1450c3cd9234f9664cf47b7bbd6506e6c0ff7d",
+  "sha256_transcript": "e8d328b69af1f9f9f31f0d30cafcd0c17fe13b216983fbef31b406e1860c88fe",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],

@@ -14,8 +14,8 @@ the cited outlet; confirm at original-form capture.
 
 ## A. The finding
 
-- A **Cyabra** analysis, conducted in partnership with **GZERO**, examined **five election-related
-  Musk posts**.
+- A **Cyabra** analysis, conducted in partnership with **GZERO** (GZERO Media, published **October
+  31, 2024**), examined **five election-related Musk posts**.
 - Results reported:
   - **~20%** of accounts interacting with these posts were **bots**.
   - On **two** additional posts where Musk **opposed the Harris–Walz ticket**, **~40%** of the
