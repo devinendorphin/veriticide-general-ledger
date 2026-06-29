@@ -5,8 +5,8 @@
 > ⚠️ Custody authoritative in `evidence/CAPTURE-RUNBOOK.md` / the custody index once generated. Grade
 > legend: P1 primary artifact (court opinion, leaked working file) · P2 named on-record statement ·
 > S1 reputable secondary. Most anchors here are **P1 public-record opinions** — unusually strong for
-> this repo — but custody is **LOCATOR-VERIFIED** (canonical URLs identified; original-form capture
-> queued), not yet VERIFIED.
+> this repo — and custody is now **VERIFIED**: original-form artifacts (WARC/PDF/PNG, or the
+> official slip-opinion PDF) were captured and hashed 2026-06-29 (`evidence/custody-index.md` governs).
 
 ---
 
@@ -68,5 +68,6 @@ partisanship serving as the actionable proxy for race (E) — the Performed-Igno
 
 **Does not establish:** that any **judge** acted with veriticidal intent (doctrinal intent open —
 charged structurally); that **partisanship as such** is wrongful (the California row is a discriminator,
-not a villain); or a verdict. Custody is **LOCATOR-VERIFIED** (canonical URLs identified; the P1
-opinions and the Hofeller files are public and citable; original-form capture via `CAPTURE-RUNBOOK.md`).
+not a villain); or a verdict. Custody is **VERIFIED** (original-form WARC/PDF/PNG captured and hashed
+2026-06-29; `evidence/custody-index.md` governs; off-platform second custodian + archive.org attestation
+remain open per `05-custody-manifest.md`).

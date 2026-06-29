@@ -7,11 +7,12 @@
   "bears_date": "2010s\u20132020s",
   "grade": "S1 + P1 (Hofeller files exemplify the method)",
   "track": "II(3)(a) \u2014 the instrument that computes the effect at scale",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "937e281ebfd9d756d718d20aa8f286b8adde2d92069885119371feb8becfd074",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "PENDING: no original/ artifacts yet; run capture.sh --promote from open egress (see ../CAPTURE-RUNBOOK.md).",
-  "notes": "The optimization apparatus: precinct-level partisan/racial data + map-scoring software."
+  "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "The optimization apparatus: precinct-level partisan/racial data + map-scoring software.",
+  "verified_at": "2026-06-29T17:36:12.539408Z"
 }

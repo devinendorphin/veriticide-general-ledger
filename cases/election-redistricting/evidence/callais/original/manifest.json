@@ -1,0 +1,20 @@
+{
+  "item": "callais",
+  "captured_at": "2026-06-29T17:37:43.003368Z",
+  "capture_url": null,
+  "artifact_count": 3,
+  "artifacts": {
+    "www.supremecourt.gov_opinions_25pdf_24-109_21o3.pdf.pdf": {
+      "sha256": "2243c2444d6f56503fac1bd39870aa90cc140007a8a3c7960921aff50f8369b0",
+      "bytes": 707252
+    },
+    "www.supremecourt.gov_opinions_25pdf_24-109_21o3.pdf.warc-body": {
+      "sha256": "2243c2444d6f56503fac1bd39870aa90cc140007a8a3c7960921aff50f8369b0",
+      "bytes": 707252
+    },
+    "www.supremecourt.gov_opinions_25pdf_24-109_21o3.pdf.warc": {
+      "sha256": "149cdd0db0fa501f52cc43083b45e7544151fdc8e0c1f4cc6e49ec43a60822cb",
+      "bytes": 711338
+    }
+  }
+}

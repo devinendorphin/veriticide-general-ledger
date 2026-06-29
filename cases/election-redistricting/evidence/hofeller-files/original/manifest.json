@@ -1,0 +1,24 @@
+{
+  "item": "hofeller-files",
+  "captured_at": "2026-06-29T17:37:13.828591Z",
+  "capture_url": null,
+  "artifact_count": 4,
+  "artifacts": {
+    "www.commoncause.org_resources_the-hofeller-files_.png": {
+      "sha256": "cb3b95acee72c1b00ab9e1287db728647f7ecd7357aa8e0b3647a1dd62f8b60c",
+      "bytes": 37688
+    },
+    "www.commoncause.org_resources_the-hofeller-files_.pdf": {
+      "sha256": "458014df72ec320a4b6902227a64aa988f98bca4cf727128ed72ce43551eb30c",
+      "bytes": 53228
+    },
+    "www.commoncause.org_resources_the-hofeller-files_.html": {
+      "sha256": "4d9562c84d41640d9419a4594baf7d013c186a9927b8d6198ac4ec02f4a728ab",
+      "bytes": 133828
+    },
+    "www.commoncause.org_resources_the-hofeller-files_.warc": {
+      "sha256": "87ba09c5a21017a40255e8b21179782a7c06b0fb10a96518cde46e0de8e1aaba",
+      "bytes": 138267
+    }
+  }
+}

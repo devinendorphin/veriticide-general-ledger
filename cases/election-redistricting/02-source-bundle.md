@@ -6,7 +6,7 @@ statement · S1 reputable secondary.*
 > ⚠️ Custody authoritative in `evidence/CAPTURE-RUNBOOK.md` (and the custody index once generated).
 > Unusually for this repo, the spine is **P1 public-record SCOTUS opinions** plus a **published leaked
 > working corpus** (the Hofeller files); the doctrinal facts are not in serious dispute. Custody state
-> is **LOCATOR-VERIFIED** (canonical URLs identified; original-form bytes not yet held).
+> is **VERIFIED** as of 2026-06-29 (original-form WARC/PDF/PNG captured and hashed; `evidence/custody-index.md` governs).
 
 ---
 
@@ -46,8 +46,9 @@ statement · S1 reputable secondary.*
 ## Honesty notes
 
 - **The legal anchors are P1 and public** — SCOTUS opinions and a published leaked corpus — so this
-  packet's evidentiary floor is higher than the social-media-reporting cases. The weak link is
-  **custody form** (LOCATOR-VERIFIED, not yet VERIFIED), not source quality.
+  packet's evidentiary floor is higher than the social-media-reporting cases. The earlier weak link —
+  **custody form** — is closed: the store is **VERIFIED** as of 2026-06-29 (original-form captured/hashed),
+  so source quality and custody now align (off-platform second custodian + archive.org attestation still pending; `05`).
 - **Doctrinal intent is not sourced because it is not charged.** No source here purports to show a
   justice's veriticidal intent; the opinions are cited for their **holdings and effects**.
 - **The instrument item is the softest.** Vendor/optimization-software specifics (Maptitude/Caliper,

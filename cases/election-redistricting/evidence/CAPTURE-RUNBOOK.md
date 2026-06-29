@@ -8,11 +8,16 @@
 
 ## Status note (this packet's as-built state)
 
-This packet was built **without a confirmed open-egress capture run**, so every item is filed
-`LOCATOR-VERIFIED`: canonical URL + verbatim text preserved as a hashed `transcript.md`, original-form
-bytes not yet held. This is the **DOGE/Rubio** as-built state, not the x-bot-swarm/Epstein VERIFIED
-state. The spine, however, is unusually strong for this repo — **P1 public-record SCOTUS opinions** and
-a **published leaked corpus** — so promotion is expected to be clean once a capture run is performed.
+This packet was built and then **promoted in place** in an open-egress session (2026-06-29): a tailored
+run (equivalent to `capture.sh --promote`) captured original-form artifacts — WARC + PDF + PNG for HTML
+pages, and the **official slip-opinion PDF** (+ WARC) for the court items — and hashed them into each
+item's `original/manifest.json`. As of that run: **9 VERIFIED · 0 LOCATOR-VERIFIED** (`custody-index.md`
+governs). Two conditions remain open for *full* VERIFIED, recorded in `../05-custody-manifest.md`:
+(1) an **off-platform second custodian** (the binaries are git-ignored and currently live only in the
+build workspace); (2) **archive.org attestation** (skipped here for run speed — add later with
+`capture.sh --archive-org`). One host (`supreme.justia.com`) returns 403 to automated capture, so
+`shelby` and `milligan-control` were captured from the **official slip opinion** + **Cornell LII**
+instead (strictly stronger primaries).
 
 ## Custody states
 

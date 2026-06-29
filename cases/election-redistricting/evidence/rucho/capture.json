@@ -7,11 +7,12 @@
   "bears_date": "2019-06-27",
   "grade": "P1 (Supreme Court opinion)",
   "track": "II(2)(d) \u2014 partisan effect rendered non-justiciable",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "dc568c49eea217692bbc2925b27deaa9417c25ed1303f84db382eb66a8315142",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "PENDING: no original/ artifacts yet; run capture.sh --promote from open egress (see ../CAPTURE-RUNBOOK.md).",
-  "notes": "588 U.S. 684 (2019), 5\u20134, Roberts. The forum for the computed partisan effect is closed."
+  "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "588 U.S. 684 (2019), 5\u20134, Roberts. The forum for the computed partisan effect is closed.",
+  "verified_at": "2026-06-29T17:35:45.007746Z"
 }

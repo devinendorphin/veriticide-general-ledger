@@ -1,0 +1,4 @@
+0ef5fcaaa6232ff88785c4df9edff44f1bc4e57d6aa424bacd72108597b11631  ./www.law.cornell.edu_supremecourt_text_12-96.warc
+a8e8e3b994604877af6091dc010ea0f54be1a606dab1884f410bdae581c0fbd0  ./www.law.cornell.edu_supremecourt_text_12-96.png
+e8f2917c69eb96e60f2dcc351d5663d4cf9417ee63eb4969f57da57834ebb947  ./www.law.cornell.edu_supremecourt_text_12-96.pdf
+37a0eb22f84a9193c6118fdf016d17c557c1aecdb8684dece9188787b297ebe3  ./www.law.cornell.edu_supremecourt_text_12-96.html

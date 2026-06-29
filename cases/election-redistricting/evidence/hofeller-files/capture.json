@@ -7,11 +7,12 @@
   "bears_date": "2015 (study); published 2019\u20132020",
   "grade": "S1 on P1 (the files)",
   "track": "II(3)(d) \u2014 effect computed in private / disavowed (operator intent)",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "0f30d236dcae177f3d62be1c1d04543cc0a372df67777721b1300ffa44ef0866",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "PENDING: no original/ artifacts yet; run capture.sh --promote from open egress (see ../CAPTURE-RUNBOOK.md).",
-  "notes": "The agnotology anchor: the diluting effect was calculated privately, the rationale concealed publicly."
+  "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "The agnotology anchor: the diluting effect was calculated privately, the rationale concealed publicly.",
+  "verified_at": "2026-06-29T17:37:13.828856Z"
 }
