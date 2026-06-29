@@ -1,0 +1,17 @@
+{
+  "item_id": "fed-staff-forecast-accuracy",
+  "source_url": "https://tsimagine.com/insights/global-regulation-prediction-event-markets/",
+  "capture_method": "Carried from the source brainstorm via a single secondary citation; NOT independently re-confirmed this session. Flagged PENDING-PRIMARY (the underlying Federal Reserve staff finding/working paper). Graded conservatively.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": null,
+  "grade": "S1 (single secondary; PENDING-PRIMARY)",
+  "track": "CONTROL / good-faith anchor (Art. V protected-activity reference)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "c4c364ade1de077ebb371bec413b8378a057220d93e6b434839d8b017c2b9a3e",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING-PRIMARY: locate and capture the underlying Federal Reserve staff finding/working paper. Until then this item is the granted-but-unverified good-faith anchor, not a load-bearing fact. Gap Register Priority 28(b).",
+  "notes": "The good-faith case the charge theory grants first: prediction markets aggregate dispersed knowledge and on some questions match/beat survey + Bloomberg consensus. The ONLY packet item not web-confirmed this session; deliberately graded low."
+}

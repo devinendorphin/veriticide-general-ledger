@@ -1,0 +1,17 @@
+{
+  "item_id": "cftc-withdraws-political-sports-ban-2026",
+  "source_url": "https://www.ropesgray.com/en/insights/alerts/2026/06/rewriting-the-rulebook-cftc-proposes-rule-changes-for-prediction-market-contracts",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). This environment's egress policy returns HTTP 403 on source hosts and throttles web.archive.org (429), so original-form bytes are not held. Canonical URL + verbatim text verified; promote with capture.sh --promote from an open-egress environment.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-06-10",
+  "grade": "S1 + embedded P1 (CFTC notice / Federal Register 2026-05105)",
+  "track": "II(2)(d) — the apex act (permissive-posture foreclosure of the protective wall) + II(3)(d)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "41092ce332abbb7db41565a611ee7866f7fcad28df72c7f4c4aedc1a37fa4f9c",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: requires open-egress capture.sh --promote. Capture the CFTC notice and Federal Register entry 2026-05105 directly as the underlying P1.",
+  "notes": "Selig (sole commissioner) withdrew the 2024 proposed ban on political/sports event contracts; Jun 10 2026 NPRM frames when gaming/war/terrorism/assassination/unlawful contracts are 'contrary to the public interest' under the CEA. Permissive posture maintained AFTER the Venezuela bet = the knowing-the-grave-risk artifact."
+}

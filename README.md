@@ -80,6 +80,7 @@ falsification memo, and custody manifest.
 | X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Ledger Pattern Registry Entry 15 + Cluster 3 (Musk/X) — Tier 4, the consensus layer: habitat + purge-verdict + foreclosed measurement |
 | CTF-1 corpus (verdict declined) | `cases/ctf1-corpus/` | Ledger Cluster 3 (CTF-1 corpus) + Track D TD-006 — individual-scale, high-variance: charges acts (register-as-conduct), **declines the account verdict** |
 | DOJ / Epstein survivor re-exposure | `cases/epstein-survivor-unredaction/` | Ledger Pattern Registry Entry 16 (Redaction Inversion) — Tier 3+4: the protective apparatus turned to expose victims while shielding enablers; **documents the exposure without reproducing it** |
+| Prediction markets / reality-pricing engine | `cases/prediction-markets/` | Ledger Pattern Registry Entry 17 (The Reality-Pricing Engine) — Tier 4: the forecast/cause collapse + the protective wall stood down after the grave-risk record; charges the architecture + regulator and **concedes intent (deliberate causation-for-payout)** |
 
 The two USAID cases are **siblings**: the DOGE packet charges Musk/DOGE for the withdrawal and
 its laundering instrument (Tier 3); the Rubio packet charges Rubio for the official denial that
@@ -106,6 +107,18 @@ concealing possible enablers, laundered as "technical error," with survivors rec
 It charges the *structure* (intent is conceded open) and is governed by a strict **no-reproduction
 rule** — it documents the exposure without reproducing any survivor's identity, and never captures the
 leaked files themselves.
+
+The **prediction-markets** packet anchors Pattern Registry Entry 17 (The Reality-Pricing Engine): an
+architecture that converts belief about the future into an institutionally-deferred-to price and
+collapses the distinction between a *forecast* outcome and a *caused* one, while a conflicted
+regulator stands down the protective wall over the statute's flagged contract categories (war,
+assassination) **after** the outcome-channel harm (the Venezuela insider bet) is already on the
+record. It charges the architecture (INSTRUMENT) + the CFTC permissive posture, with the Trump-family
+operator/competitor/regulator/outcome-lever convergence as the structure that defeats the
+"neutral pricing" defense — and **concedes intent** (deliberate causation-for-payout), charging only
+the two affordable, already-operating mechanisms (perception-manufacture and free-riding on decisions
+already being made). Eight-item evidence store, all LOCATOR-VERIFIED (built in a Trusted/Custom-egress
+environment; promotion to VERIFIED is one open-egress `capture.sh` run away).
 
 A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
 disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is
