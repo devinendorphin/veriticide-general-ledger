@@ -1,0 +1,17 @@
+{
+  "item_id": "prediction-market-conflict-coverage-2026",
+  "source_url": "https://www.cnn.com/2026/05/15/politics/prediction-markets-kalshi-polymarket-gambling-explained",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). This environment's egress policy returns HTTP 403 on source hosts and throttles web.archive.org (429), so original-form bytes are not held. Canonical URL + verbatim text verified; promote with capture.sh --promote from an open-egress environment.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-05-15",
+  "grade": "S1 (multiple independent outlets)",
+  "track": "II(2)(c) corroboration — declaration-mode + convergence (context)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "6337a8a5c23b4686bc8f487f51c72bf87b52f0ed4d1d4ad8b91e206e07cdb523",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: requires open-egress capture.sh --promote (source hosts return 403 in this environment).",
+  "notes": "CNN/Slate/NPR/CNBC coverage establishing the convergence is reported openly (declaration-mode, Entry 16 sibling) and is not an artifact of one source's framing. Context/corroboration only; not a primary on any single contested fact."
+}

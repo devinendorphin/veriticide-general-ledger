@@ -1,0 +1,17 @@
+{
+  "item_id": "trump-cftc-thrive-post-2026",
+  "source_url": "https://thehill.com/homenews/administration/5896316-trump-cftc-prediction-markets/",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). This environment's egress policy returns HTTP 403 on source hosts and throttles web.archive.org (429), so original-form bytes are not held. Canonical URL + verbatim text verified; promote with capture.sh --promote from an open-egress environment.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-05-26",
+  "grade": "P2 (Presidential statement) + S1",
+  "track": "Track B constructive authorization (executive endorsement) + Move 6 benefit reframe",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "7482ee2beb64713f9e5d1bf6db6b2eddbe0034544808cf3a320e18724eaf52c8",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: requires open-egress capture.sh --promote (source hosts return 403 in this environment). The Truth Social post is the underlying P1; capture the post itself plus outlet corroboration.",
+  "notes": "Trump Truth Social post: CFTC 'exclusive authority ... maintained, and that they will thrive'; praised chairman Selig by name; 'Gold Standard'; 'remain at the top'. Admin sued MN, NY, AZ, WI, CT over state restrictions. The executive-endorsement / authorization node."
+}

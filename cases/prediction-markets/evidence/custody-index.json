@@ -1,0 +1,75 @@
+{
+  "generated": "2026-06-29",
+  "generator": "evidence/build-custody-index.py",
+  "item_count": 8,
+  "custody_states": {
+    "VERIFIED": 0,
+    "LOCATOR-VERIFIED": 8
+  },
+  "items": [
+    {
+      "item_id": "cftc-withdraws-political-sports-ban-2026",
+      "grade": "S1 + embedded P1 (CFTC notice / Federal Register 2026-05105)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(d) \u2014 the apex act (permissive-posture foreclosure of the protective wall) + II(3)(d)",
+      "source_url": "https://www.ropesgray.com/en/insights/alerts/2026/06/rewriting-the-rulebook-cftc-proposes-rule-changes-for-prediction-market-contracts",
+      "sha256_transcript": "41092ce332abbb7db41565a611ee7866f7fcad28df72c7f4c4aedc1a37fa4f9c"
+    },
+    {
+      "item_id": "fed-staff-forecast-accuracy",
+      "grade": "S1 (single secondary; PENDING-PRIMARY)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "CONTROL / good-faith anchor (Art. V protected-activity reference)",
+      "source_url": "https://tsimagine.com/insights/global-regulation-prediction-event-markets/",
+      "sha256_transcript": "c4c364ade1de077ebb371bec413b8378a057220d93e6b434839d8b017c2b9a3e"
+    },
+    {
+      "item_id": "kalshi-candidate-enforcement-2026",
+      "grade": "P2 (named enforcement actions) + S1",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(3)(c) foreseeability + partial CONTROL (the exclusion wall, applied)",
+      "source_url": "https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html",
+      "sha256_transcript": "b40ffc815ac4b86182a4ae6a4b06a911947e6ed8b008285725102778281e93d1"
+    },
+    {
+      "item_id": "prediction-market-conflict-coverage-2026",
+      "grade": "S1 (multiple independent outlets)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(c) corroboration \u2014 declaration-mode + convergence (context)",
+      "source_url": "https://www.cnn.com/2026/05/15/politics/prediction-markets-kalshi-polymarket-gambling-explained",
+      "sha256_transcript": "6337a8a5c23b4686bc8f487f51c72bf87b52f0ed4d1d4ad8b91e206e07cdb523"
+    },
+    {
+      "item_id": "trump-cftc-thrive-post-2026",
+      "grade": "P2 (Presidential statement) + S1",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "Track B constructive authorization (executive endorsement) + Move 6 benefit reframe",
+      "source_url": "https://thehill.com/homenews/administration/5896316-trump-cftc-prediction-markets/",
+      "sha256_transcript": "7482ee2beb64713f9e5d1bf6db6b2eddbe0034544808cf3a320e18724eaf52c8"
+    },
+    {
+      "item_id": "trumpjr-dual-platform-roles-2026",
+      "grade": "S1 (multiple independent outlets)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(c) \u2014 the operator node of the vertical stack",
+      "source_url": "https://frontofficesports.com/donald-trump-jr-kalshi-polymarket/",
+      "sha256_transcript": "bd9a1da029bd3c65196d343c82f6d87237cf92594fbbd1c629065958b08a2582"
+    },
+    {
+      "item_id": "truth-predict-competitor-2026",
+      "grade": "S1",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(c) \u2014 the competitor node of the vertical stack",
+      "source_url": "https://www.cryptotimes.io/2026/05/27/trump-backs-prediction-markets-as-family-holds-ties-to-polymarket-kalshi/",
+      "sha256_transcript": "87fed61cbcb6286d7603fa0be12002517d4ab48a23758958699ce2b3db44c82d"
+    },
+    {
+      "item_id": "vandyke-venezuela-insider-bet-2026",
+      "grade": "P1 (DOJ charging release) + S1",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "II(2)(d) + II(3)(c) \u2014 the outcome channel made concrete; foreseeability anchor",
+      "source_url": "https://www.justice.gov/opa/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets",
+      "sha256_transcript": "951faf635dee10a9d6fdae15c25dffdb82181fc926a9df3e6b04282a9bf1e498"
+    }
+  ]
+}

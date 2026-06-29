@@ -1,0 +1,17 @@
+{
+  "item_id": "vandyke-venezuela-insider-bet-2026",
+  "source_url": "https://www.justice.gov/opa/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). This environment's egress policy returns HTTP 403 on source hosts and throttles web.archive.org (429), so original-form bytes are not held. Canonical URL + verbatim text verified; promote with capture.sh --promote from an open-egress environment.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-04-23",
+  "grade": "P1 (DOJ charging release) + S1",
+  "track": "II(2)(d) + II(3)(c) — the outcome channel made concrete; foreseeability anchor",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "951faf635dee10a9d6fdae15c25dffdb82181fc926a9df3e6b04282a9bf1e498",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: requires open-egress capture.sh --promote (source hosts return 403 in this environment).",
+  "notes": "Gannon Ken Van Dyke, US Army SF master sergeant; ~$33K across ~13 Polymarket bets before Operation Absolute Resolve (Maduro capture); won ~$410K; tried to delete account. The source brainstorm's '$400K bet' corrected to a ~$410K win on ~$33K staked. Case does NOT allege the bet caused the operation."
+}

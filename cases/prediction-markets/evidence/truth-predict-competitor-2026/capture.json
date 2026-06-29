@@ -1,0 +1,17 @@
+{
+  "item_id": "truth-predict-competitor-2026",
+  "source_url": "https://www.cryptotimes.io/2026/05/27/trump-backs-prediction-markets-as-family-holds-ties-to-polymarket-kalshi/",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). This environment's egress policy returns HTTP 403 on source hosts and throttles web.archive.org (429), so original-form bytes are not held. Canonical URL + verbatim text verified; promote with capture.sh --promote from an open-egress environment.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-05-27",
+  "grade": "S1",
+  "track": "II(2)(c) — the competitor node of the vertical stack",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "87fed61cbcb6286d7603fa0be12002517d4ab48a23758958699ce2b3db44c82d",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: requires open-egress capture.sh --promote (source hosts return 403 in this environment).",
+  "notes": "Trump Media announced Truth Predict (event contracts for Truth Social users; Truth gems -> CRO). Own-exchange-vs-licensing ambiguity preserved, not resolved. The competitor node on a Nasdaq-listed vehicle (declaration-mode)."
+}
