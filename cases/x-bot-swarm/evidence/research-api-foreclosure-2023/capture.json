@@ -12,7 +12,7 @@
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "CAPTURED: 17 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "original_form_capture": "CAPTURED: 18 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Feb 2023 API pricing ended free access; Botometer disabled then archival-only (Botometer X, Feb 2024); cannot detect AI-supercharged bots. The omission half of the charge.",
-  "verified_at": "2026-06-28T23:30:52.599814Z"
+  "verified_at": "2026-06-28T23:58:23.792379Z"
 }

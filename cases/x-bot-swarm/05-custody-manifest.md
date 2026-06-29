@@ -1,7 +1,7 @@
 # 05 — CUSTODY MANIFEST
 
 *Track F for the manufactured-consensus packet. Convention Art. VI(6); Protocol §6. This packet
-holds six items, all captured original-form in place.*
+holds seven items, all captured original-form in place.*
 
 > **Authoritative source:** the canonical index `evidence/custody-index.md` governs custody state
 > and grade. If any narrative below diverges from it, **the index governs.**
@@ -18,16 +18,17 @@ holds six items, all captured original-form in place.*
 ## This packet's items (all VERIFIED)
 
 Built in a **full-egress** environment (unlike the Trusted-blocked DOGE/Rubio packets), so
-`capture.sh --promote` ran in place. As of capture (2026-06-28): **6 VERIFIED · 0 LOCATOR-VERIFIED.**
+`capture.sh --promote` ran in place. As of capture (2026-06-28): **7 VERIFIED · 0 LOCATOR-VERIFIED.**
 
-| Item | Grade | Custody | Artifacts |
-|---|---|---|---|
-| `musk-defeat-spam-bots-2022` | P2 + S1 | VERIFIED | 13 (x.com + CBS + Fox × WARC/HTML/PDF/PNG) |
-| `bot-count-deal-leverage-2022` | S1 | VERIFIED | 5 (CBS) |
-| `cyabra-gzero-coordinated-clusters-2024` | S1 + embedded S2 | VERIFIED | 5 (GZERO) |
-| `post-takeover-bot-persistence` | S1/S2 | VERIFIED | 9 (Cybernews + ScienceDirect) |
-| `incentive-redesign-blue-revenue-sharing` | S1/S2 | VERIFIED | 5 (The Conversation) |
-| `research-api-foreclosure-2023` | S1 + embedded P1 | VERIFIED | 17 (TechCrunch + CJR + Coalition + OSoMe) |
+| Item | Grade | Custody | Artifacts | archive.org |
+|---|---|---|---|---|
+| `musk-defeat-spam-bots-2022` | P2 + S1 | VERIFIED | 14 (x.com + CBS + Fox) | 2 |
+| `bot-count-deal-leverage-2022` | S1 | VERIFIED | 6 (CBS) | 1 |
+| `cyabra-gzero-coordinated-clusters-2024` | S1 + embedded S2 | VERIFIED | 6 (GZERO) | 1 |
+| `post-takeover-bot-persistence` | S1/S2 | VERIFIED | 9 (Cybernews + ScienceDirect) | 0 |
+| `incentive-redesign-blue-revenue-sharing` | S1/S2 | VERIFIED | 6 (The Conversation) | 1 |
+| `research-api-foreclosure-2023` | S1 + embedded P1 | VERIFIED | 18 (TechCrunch + CJR + Coalition + OSoMe) | 4 |
+| `musk-bot-purge-verdict-2024` | P2 + S1 | VERIFIED | 10 (Rest of World + Social Media Today) | 2 |
 
 Integrity: `for d in evidence/*/; do (cd "$d" && sha256sum -c sha256.txt); done` (all `OK` at
 capture). Per-artifact hashes: `evidence/<id>/original/manifest.json`. Index:
@@ -42,28 +43,32 @@ capture). Per-artifact hashes: `evidence/<id>/original/manifest.json`. Index:
    captures (which render fully and both contain the quote). The tweet text is additionally
    preserved, hashed, in `musk-defeat-spam-bots-2022/transcript.md`. No grade is inflated on the
    strength of the `x.com` artifact alone.
-2. **archive.org attestation absent.** `capture.sh --archive-org` was run, but Save Page Now
-   returned no snapshot URL (rate-limited/declined at capture time); `archive-org-snapshots.txt`
-   is empty. Third-party (Internet Archive) attestation is therefore **not yet held** — a
-   re-run of `./capture.sh --archive-org` from a fresh IP is the way to add it. The in-repo WARCs
-   remain the primary original-form record.
+2. **archive.org attestation held for six of seven items** (11 snapshots; per-item URLs in each
+   `original/archive-org-snapshots.txt`, committed). The exception is
+   `post-takeover-bot-persistence`: its two hosts declined/throttled Save Page Now — **ScienceDirect
+   blocks archiving** (robots/paywall) and **Cybernews** throttled on retry. The first capture run
+   recorded zero snapshots due to a header-parsing bug in `capture.sh` (it matched only
+   `content-location:`; Save Page Now now replies `302` with `location:`). The bug is fixed and the
+   re-run produced the attestation above; the fix is in this packet's `capture.sh` for reuse.
 3. **Second custodian / off-platform backup.** Per the manifest definition, full VERIFIED assumes a
    second custodian and an off-platform backup beyond this git repo. Committing the integrity
    records (and, off-platform, the binaries) is one custodian; the second is an out-of-band step
    the operator completes (the `.gitignore` keeps the large binaries out of the repo by design).
 
-## The capture-pending item (not in this store)
+## The verdict item (now captured)
 
-The **explicit victory-verdict statements** ("we defeated the bots" / crackdown-accomplished),
-charged as Step 4 of the act (`00-charge-theory.md`), are **not yet an evidence item** — they are
-the primary open capture (Gap Register Priority 27, item (a)). The case's habitat + foreclosure
-spine stands without them on the six VERIFIED items; the explicit boast would strengthen the
-verdict element.
+The **explicit victory-verdict statements** ("system purge of bots & trolls" / "208 bots per
+minute"), charged as Step 4 of the act (`00-charge-theory.md`), were the primary open capture; they
+are now the VERIFIED `musk-bot-purge-verdict-2024`. The TF-004 NOT-PRESERVED row is accordingly
+closed. The one substantive item that remains **unsourced** is the direct-authorship node — a
+dated, sourced paid-lift operation (operator, client, message-set, price) — which is the case's
+conceded contested beam (`03-adversarial-check.md`, Defense 1), not a custody item.
 
 ## What this packet does not claim
 
-It does not hold Internet-Archive attestation yet (note 2). It does not treat the `x.com` shell as
-self-sufficient (note 1). It does not assert custody over any swarm-operator or lift-client record —
-those (the direct-authorship node) are unsourced and are the case's contested beam, not a custody
-item. And it does not pretend custody cures the attribution question (`03-adversarial-check.md`,
-Defense 1) — custody preserves the record; it does not settle the doctrine.
+It does not hold archive.org attestation for `post-takeover-bot-persistence` (note 2). It does not
+treat the `x.com` shell as self-sufficient (note 1). It does not assert custody over any
+swarm-operator or lift-client record — those (the direct-authorship node) are unsourced and are the
+case's contested beam, not a custody item. And it does not pretend custody cures the attribution
+question (`03-adversarial-check.md`, Defense 1) — custody preserves the record; it does not settle
+the doctrine.

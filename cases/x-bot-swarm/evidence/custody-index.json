@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28",
+  "generated": "2026-06-29",
   "generator": "evidence/build-custody-index.py",
-  "item_count": 6,
+  "item_count": 7,
   "custody_states": {
-    "VERIFIED": 6,
+    "VERIFIED": 7,
     "LOCATOR-VERIFIED": 0
   },
   "items": [
@@ -30,6 +30,14 @@
       "track": "II(3)(a) instrument \u2014 habitat economic substrate",
       "source_url": "https://theconversation.com/x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only-make-the-platforms-problems-worse-216193",
       "sha256_transcript": "b04be7cfb49aad14f93d57e15c413e4b9db06cbfce84054538a99f7b59b04cd4"
+    },
+    {
+      "item_id": "musk-bot-purge-verdict-2024",
+      "grade": "P2 (named on-record statements) + S1",
+      "custody_state": "VERIFIED",
+      "track": "II(2)(d) \u2014 the bare-verdict half of the act (crackdown declared)",
+      "source_url": "https://restofworld.org/2024/twitter-x-bots-elon-musk-elections/",
+      "sha256_transcript": "29be06cd7183553cf9256d6c059bff2d8dff13d1b1277b7c1a8db4e2ec320e44"
     },
     {
       "item_id": "musk-defeat-spam-bots-2022",
