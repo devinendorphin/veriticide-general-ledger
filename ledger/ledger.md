@@ -5733,6 +5733,71 @@ What would convert it to stronger / specific evidence: (a) original-form capture
 
 ---
 
+### Entry 16: Redaction Inversion — The Protective Apparatus Turned Against Its Protected Class
+
+*Entry completed 2026-06-29. Source material: operator working session (2026-06-29) on the DOJ "Epstein files" survivor re-exposure, mapped onto the framework by a Claude-instance. Analyst stake declared: the survivors' suit names a search/AI distributor (Google) over the *proliferation* of exposed identities, and search/AI — the analyst's own category — is a general proliferation vector for exposed identities; declared per Reflexivity Clause v0.1. **No-reproduction discipline:** this entry and its case file document the exposure of trafficking survivors without reproducing any survivor's identity. Anchor specimen: `cases/epstein-survivor-unredaction/`.*
+
+---
+
+**Thesis**
+
+*Definition — Redaction Inversion:* a move in which an epistemic-protection apparatus (redaction,
+sealing, anonymization, privacy controls) whose function is to **shield the vulnerable from
+exposure** is operated so as to **expose the vulnerable while shielding the powerful** — and the
+inversion is laundered as accident ("technical/human error") or as transparency.
+
+Redaction is one of the few institutional tools whose *entire purpose* is epistemic care for the
+exposed party. That makes its inversion a particularly clean veriticide structure: the harm is not
+concealment of the truth but **weaponized disclosure** — truth-release aimed at the people the tool
+exists to protect, while the people it should expose stay hidden. It is the photographic negative of
+legitimate transparency, and it borrows transparency's moral credit (Move 6) while running in the
+opposite direction.
+
+---
+
+**The anchor specimen — DOJ "Epstein files" survivor re-exposure (2025–2026)**
+
+| Component | Move | What the record shows |
+|---|---|---|
+| Exposure | predicate | Survivor names/contact/images appeared unredacted across DOJ releases, despite assurances; some women never previously named (`victim-info-exposed`). |
+| **Asymmetry** | II(2)(d) / structural | Reporting: DOJ "revealing victim info and concealing possible enablers" — redaction's **direction inverted** (`redaction-asymmetry`). *The load-bearing element.* |
+| Euphemism | Move 5 | "Technical or human error"; thousands of documents "fixed"/taken down — scale + repetition strain the accident framing (`technical-error-framing`). |
+| Realized harm + inversion | Tier 3 + Move 3 / DARVO | Harassment, threats; survivors "accused of conspiring with Epstein when they are… Epstein's victims"; class action vs. the U.S. (and Google over proliferation) (`survivors-lawsuit`). |
+
+Intent (deliberate vs. negligent) is **open and not asserted**; the charge is the structure. The
+discriminator against a transparency defense is **direction**: exposing the powerful is protected and
+good; exposing the vulnerable while shielding the powerful is the named thing.
+
+---
+
+**Generalization (why this is a pattern, not just one artifact)**
+
+Redaction Inversion is portable to any protective-disclosure regime: court-record sealing that
+unseals victims while keeping defendants' material sealed; "transparency" data releases that publish
+the surveilled but not the surveillers; FOIA productions that expose complainants while redacting
+officials; breach-notification regimes that name the breached. The diagnostic is always the same
+two-part test — **(1) did the exposure hit the vulnerable? (2) did the apparatus simultaneously
+shield the powerful?** One-directional failures are tragedies or hard tradeoffs; the *conjunction* is
+the inversion.
+
+**BOUNDARY**
+
+What this establishes: a named structural move (Redaction Inversion) with a falsifiable two-part
+diagnostic, anchored on the DOJ/Epstein survivor re-exposure as a dated, sourced specimen. What it
+does NOT establish: that the anchor exposure was intentional (intent open); the specific officials
+responsible; or any survivor identity (never reproduced). What would falsify it (at the anchor): a
+showing that enablers were disclosed on comparable terms to victims (no asymmetry), in which case the
+conduct is a generic transparency tradeoff, not an inversion.
+
+**Cross-references:** Pattern Registry Entry 3 (Care-Vocabulary Capture — "transparency" as the
+captured care-vocabulary here); Pattern Registry Entry 14 (Headline Legibility Test — sibling
+disclosure-register move); Pattern Registry Entry 1 (DARVO — the victim→perpetrator inversion at
+institutional scale); Convention Art. II(2)(d) (testimony/recognition suppression — survivors recoded
+as conspirators), Art. II(2)(c) (reframing as care — "transparency"/"error"), Art. II(3)(a)
+(Instrument — the disclosure/redaction apparatus), Art. II(3)(c) (foreseeability). `cases/epstein-survivor-unredaction/` (anchor case file); Section IX Track F entry TF-006 (custody).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
@@ -5822,7 +5887,7 @@ Web-sourced the inspector-general removals to close the TD-007 gap left open at 
 **PRIORITY 27 — X bot-swarm habitat / manufactured consensus — STRUCTURAL ENTRY COMPLETE; specific captures OPEN** *(2026-06-28)*
 Pattern Registry Entry 15 (Manufactured Consensus as Permissive-Enablement Architecture — The Bot-Swarm Habitat) written as a STRUCTURAL OBSERVATION at the consensus layer. Names four mechanisms: Habitat Authorization (permissive/constructive enablement — paid verification, creator revenue-sharing, engagement-tuned amplification, withdrawal of measurement access — rather than direct funding of any swarm); Causal Diffusion as the Deniability Engine (the multi-node owner/operator/lift-client/algorithm structure makes the manufacture unattributable by construction — the diffusion *is* the laundering); the Purge Claim as Foreclosure of Its Own Measurement ("we defeated the bots" asserted as the research-API/firehose access that could test it is priced/shut out); and Synthetic Consensus as Demand-Side Substrate (the medium in which Cluster 3's view-count reach is produced). Public-record anchors carried (web-confirmed 2026-06-28 this session): the 2022 "defeat the spam bots or die trying" promise (@elonmusk, Apr 21 2022; CBS News, Fox Business); the bot-count deal-leverage dispute (Twitter <5% vs Musk's hired firms — CounterAction 10–14.2%, Cyabra 13.7%; CBS News); post-takeover persistence/worsening reporting, including a Cyabra/GZERO analysis finding ~20% bots interacting with five election-related Musk posts (40% on two anti-Harris–Walz posts) and two coordinated bot clusters driving disproportionate engagement (GZERO); ScienceDirect; Cybernews; the Blue + revenue-sharing incentive redesign. **Case dossier built + evidence store VERIFIED (2026-06-28).** A full sibling cold-extract case file — `cases/x-bot-swarm/` (six cold extracts + README, patterned on the Rubio packet) — was cut from Entry 15, with an **eight-item evidence store captured original-form and promoted to VERIFIED** (WARC + PDF + screenshot, hashed; `sha256 -c` OK): `musk-defeat-spam-bots-2022`, `bot-count-deal-leverage-2022`, `cyabra-gzero-coordinated-clusters-2024`, `post-takeover-bot-persistence`, `incentive-redesign-blue-revenue-sharing`, `research-api-foreclosure-2023`, `musk-bot-purge-verdict-2024`, `paid-lift-operations`. This is the **first ledger store to reach VERIFIED** (TF-004): unlike the Priority 26 session, this session's environment had **full egress** (source hosts return 200, including x.com), so `capture.sh --promote` ran in place; Internet-Archive attestation (15 snapshots) was added for seven of the eight items (`post-takeover-bot-persistence` excepted — ScienceDirect blocks archiving and Cybernews throttled). Items (a)–(d) status: **(a) the explicit victory verdict — DONE** (`musk-bot-purge-verdict-2024`: Apr 4 2024 Musk "system purge of bots & trolls"; Apr 9 2026 Head of Product "208 bots per minute" — filed against the contemporaneous persistence record; closes the TF-004 NOT-PRESERVED row). **(b) the paid-lift node — DONE** (`paid-lift-operations`: three named, dated operations on X — Doppelganger/Social Design Agency [DOJ + Treasury, Sep 4 2024], Team Jorge/AIMS [Guardian/Forbidden Stories, Feb 15 2023, priced €6m–€15m], Meliorator/RT [DOJ, Jul 2024, "only worked on X," 968 accounts] — establishing operator/client/message-set/price; **all third-party or foreign-state actors, none Musk-attributed**). **(c) measurement-foreclosure documentation — DONE** (`research-api-foreclosure-2023`: Feb 2023 API shutdown; Botometer disabled → archival-only; cannot detect AI-supercharged bots — TechCrunch/CJR/Coalition/OSoMe). **Remaining open:** only (d) CONTROL/NULL — any published, externally-auditable inauthentic-activity metric the platform exposes, which would falsify the measurement-foreclosure charge; and the **conceded (not charged) doctrinal question** of whether any paid-lift operation is Musk-attributable. Custody caveats (per `cases/x-bot-swarm/05-custody-manifest.md`): the `x.com` artifacts are partly JS shells (text corroborated by the rendered outlet captures); archive.org attestation pending for one item; second off-platform custodian pending. Branch: `claude/bot-swarms-x-opinion-g9b7hf`.
 
-*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; CTF-1 corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23; section numerals made sequential and Continuous Collection moved to Appendix A — Priority 24; Track D/E/F sections scaffolded and seeded (Sections VII–IX) — Priority 25; open Track D candidates filed as TD-005–007; January 2025 IG firings sourced and TD-007 strengthened — Priority 26; Pattern Registry Entry 15 (manufactured consensus / the X bot-swarm habitat) added with open captures filed as Priority 27; `cases/x-bot-swarm/` cold-extract case file cut from Entry 15, eight-item evidence store captured original-form and promoted to VERIFIED (archive.org attestation on seven of eight) — the first ledger store to reach VERIFIED — logged as Track F TF-004. 2026-06-29: exact dates confirmed and primary tweets captured; Priority 27 items (a)–(c) closed — the bot-purge victory verdict as `musk-bot-purge-verdict-2024` and the paid-lift node as `paid-lift-operations` (Doppelganger/SDA, Team Jorge/AIMS, Meliorator/RT, all on X, none Musk-attributed); only the conceded Musk-attribution question and a CONTROL metric remain open.)*
+*Ledger last updated: 2026-06-28 (2026-06-21: Entries 3.3, 3.4 filed; CTF-1 corpus updated +2 records; Finding 5 added to Pattern Closure Assessment; Priority 19 filed. 2026-06-22: coram corroboration and Pattern Registry Entry 8 added; internal-consistency audit — Priority 20; Convention-citation remap to canonical Article II — Priority 21, see docs/provenance.md. 2026-06-23: Entry 2.7 Art. II(2)(c) tag added; Pattern Registry Entry 8 Sub-mechanism 5 addendum logged; Priority 22 parked. 2026-06-28: Pattern Registry Entries 9–14, Cluster 10 contestability-register supplement, and Cluster 4 Musk-X-denial supplement added — Priority 23; section numerals made sequential and Continuous Collection moved to Appendix A — Priority 24; Track D/E/F sections scaffolded and seeded (Sections VII–IX) — Priority 25; open Track D candidates filed as TD-005–007; January 2025 IG firings sourced and TD-007 strengthened — Priority 26; Pattern Registry Entry 15 (manufactured consensus / the X bot-swarm habitat) added with open captures filed as Priority 27; `cases/x-bot-swarm/` cold-extract case file cut from Entry 15, eight-item evidence store captured original-form and promoted to VERIFIED (archive.org attestation on seven of eight) — the first ledger store to reach VERIFIED — logged as Track F TF-004. 2026-06-29: exact dates confirmed and primary tweets captured; Priority 27 items (a)–(c) closed — the bot-purge victory verdict as `musk-bot-purge-verdict-2024` and the paid-lift node as `paid-lift-operations` (Doppelganger/SDA, Team Jorge/AIMS, Meliorator/RT, all on X, none Musk-attributed); only the conceded Musk-attribution question and a CONTROL metric remain open. CTF-1 corpus case file (`cases/ctf1-corpus/`) cut from Cluster 3 with the account verdict declined (TF-005), then the subject pseudonymized repo-wide (HIPAA-style). Pattern Registry Entry 16 (Redaction Inversion) added, anchored on `cases/epstein-survivor-unredaction/` — DOJ exposed Epstein trafficking survivors while concealing possible enablers, laundered as "technical error"; four-item evidence store VERIFIED under a no-reproduction discipline (TF-006).)*
 *Branch: claude/bot-swarms-x-opinion-g9b7hf*
 
 ---
@@ -6838,6 +6903,23 @@ Per the Standing Protocol §6: timestamp **at capture** (separately from the dat
 that **declines its own verdict**. It is filed as a demonstration of the high-variance discipline and
 the protected-speech wall (Reflexivity Clause / Art. V), not as a prosecutable charge against an
 individual.
+
+---
+
+**TF-006: DOJ / Epstein survivor-unredaction evidence store (no-reproduction discipline)**
+
+| Field | Content |
+|---|---|
+| **Scope** | Pattern Registry Entry 16 (Redaction Inversion) / `cases/epstein-survivor-unredaction/` cold-extract packet |
+| **Store location** | `cases/epstein-survivor-unredaction/evidence/` — 4 evidence items (each `transcript.md` + `capture.json` + `sha256.txt` + `original/` manifest); `custody-index.{md,json}`; `build-custody-index.py`; `capture.sh`; `CAPTURE-RUNBOOK.md` |
+| **Integrity method** | SHA-256 per transcript and per original-form artifact; JSON custody manifest |
+| **Status** | **VERIFIED — all 4 items** (WARC + PDF + screenshot, hashed; `sha256 -c` OK), archive.org attestation on all four (7 snapshots). Built full-egress. Some news hosts block `wget` (403); those items reached VERIFIED via Chromium + archive.org |
+| **No-reproduction rule** | **Load-bearing.** The store holds **reporting about** the exposure (which does not name survivors); it does **NOT** capture, mirror, or reproduce the leaked "Epstein files" or any survivor identity. Capturing the primary files would replicate the charged harm — so it is forbidden, not pending. Per `.gitignore`, only integrity records are committed (the captured news-page binaries stay off-platform) |
+| **Gap** | Second off-platform custodian; upgrade path is the court **complaint** (a P1 citable without handling victim-identifying exhibits) — named in the packet's falsification memo, deliberately not pursued here |
+
+*Analyst-reflexivity (declared):* the survivors' suit names a search/AI distributor (Google) over
+the *proliferation* of exposed identities; search/AI — the analyst's category — is a general
+proliferation vector. The no-reproduction discipline is the minimal local answer.
 
 ---
 

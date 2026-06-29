@@ -1,0 +1,63 @@
+{
+  "item": "./victim-info-exposed",
+  "captured_at": "2026-06-29T10:11:29.763237Z",
+  "artifact_count": 14,
+  "artifacts": {
+    "archive-org-snapshots.txt": {
+      "sha256": "be99bdb77c8623b4cc7ef7aec7a15bad6b5eec81da1d8abfee35b4a1027c588e",
+      "bytes": 304
+    },
+    "abcnews.com_US_latest-release-epstein-files-includes-survivors-names-despite_sto.html": {
+      "sha256": "dd8fbfdd73b86427fbc92a75f0fb85379db1d15f9fa96579ef8ef488083ae622",
+      "bytes": 14168149
+    },
+    "www.ksat.com_news_politics_2026_02_04_epstein-files-rife-with-uncensored-nudes-a.pdf": {
+      "sha256": "4075f43e41747288d550df1b9b3b1d578d243fa02496a801c65ee383c6d8acc0",
+      "bytes": 53865
+    },
+    "abcnews.com_US_latest-release-epstein-files-includes-survivors-names-despite_sto.pdf": {
+      "sha256": "2fdf3efa42e46a1bacdcf5847dfe8792438981680ab425478ab8ffd6a101d048",
+      "bytes": 54316
+    },
+    "www.nbcnews.com_news_us-news_epstein-survivors-identities-appear-unredacted-file.warc": {
+      "sha256": "f3edeba2ffd31e9ca424af2a8a05176561e8cd1b00eac067205362b9ec04306c",
+      "bytes": 6601167
+    },
+    "www.ksat.com_news_politics_2026_02_04_epstein-files-rife-with-uncensored-nudes-a.html": {
+      "sha256": "362b405e98b6af5b781a5e612233ea50654494858fabeb167ea1048cd38ff04a",
+      "bytes": 5886845
+    },
+    "www.ksat.com_news_politics_2026_02_04_epstein-files-rife-with-uncensored-nudes-a.png": {
+      "sha256": "ab518e9abb03220b3d254ce9cd1cd33b4b5f899a463cdb86227bc24c3cc40eac",
+      "bytes": 36171
+    },
+    "abcnews.com_US_latest-release-epstein-files-includes-survivors-names-despite_sto.png": {
+      "sha256": "dad08a72c94f141b05a70c957c019449f99303cebeffed89108d5e1bbe9cb4b5",
+      "bytes": 36843
+    },
+    "www.ksat.com_news_politics_2026_02_04_epstein-files-rife-with-uncensored-nudes-a.warc": {
+      "sha256": "f4c69016811f63ff7c7689bfc8fdd717f04fab132c49880627ab1e7c17dfd99f",
+      "bytes": 6070192
+    },
+    "abcnews.com_US_latest-release-epstein-files-includes-survivors-names-despite_sto.warc": {
+      "sha256": "e6109cb198a7066258f084de92c5cce380085397c68138fc49c68343cd888976",
+      "bytes": 14497628
+    },
+    "www.nbcnews.com_news_us-news_epstein-survivors-identities-appear-unredacted-file.png": {
+      "sha256": "2f704fedd5a65bf2046f00e7d4fe190aff29f0e6f984ceaf9988ab261ebec3be",
+      "bytes": 36993
+    },
+    "www.nbcnews.com_news_us-news_epstein-survivors-identities-appear-unredacted-file.pdf": {
+      "sha256": "3d7223dc99d993ecb2ffd80026f651df6b56107ccb86a5c966c2a53eaa906eb8",
+      "bytes": 53375
+    },
+    "www.nbcnews.com_news_us-news_epstein-survivors-identities-appear-unredacted-file.html": {
+      "sha256": "a6fc3d76af95c0aa3921d0b07791cc459e0ccaf41e561eaa186ac03abd1d9c17",
+      "bytes": 6378067
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

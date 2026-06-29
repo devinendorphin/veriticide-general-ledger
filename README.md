@@ -51,9 +51,9 @@ The ledger operates under five foundational instruments, all in `docs/`:
   - Cluster 8: Venture Accelerationism (Andreessen Horowitz / Marc Andreessen — Techno-Optimist Manifesto enemy-list)
   - Cluster 9: Fossil Fuel Climate Suppression / AI-Energy Nexus (40-year suppression record + demand-side fossil revival)
   - Cluster 10: Palantir / the surveillance substrate (INSTRUMENT beneath the ledger; Habermas inversion; contestability gap register)
-- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–15:
+- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–16:
   - 1 Interpersonal Abuse at Scale · 2 Convergence Architecture · 3 Care-Vocabulary Capture · 4 Technical Vocabulary as Epistemic Closure · 5 Preventive Epistemic Closure · 6 Vocabulary Capture as Inversion Tool · 7 The Accountability Simulacrum · 8 Complementary Sycophancy Structure
-  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat
+  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat · 16 Redaction Inversion
 - **Section IV** — Gap Register (open evidentiary priorities)
 - **Section V** — Track B: Authorization Chain (who authorized the conduct; direct / permissive / constructive)
 - **Section VI** — Track C: Foreseeability Corpus (what was perceptible at time of deployment; constructive / actual / documented awareness)
@@ -78,6 +78,7 @@ falsification memo, and custody manifest.
 | Rubio / USAID denial | `cases/rubio-usaid-denial/` | Ledger Cluster 4 (Rubio Supplementary Entry) — Tier 4, the denial that defeats discernment |
 | X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Ledger Pattern Registry Entry 15 + Cluster 3 (Musk/X) — Tier 4, the consensus layer: habitat + purge-verdict + foreclosed measurement |
 | CTF-1 corpus (verdict declined) | `cases/ctf1-corpus/` | Ledger Cluster 3 (CTF-1 corpus) + Track D TD-006 — individual-scale, high-variance: charges acts (register-as-conduct), **declines the account verdict** |
+| DOJ / Epstein survivor re-exposure | `cases/epstein-survivor-unredaction/` | Ledger Pattern Registry Entry 16 (Redaction Inversion) — Tier 3+4: the protective apparatus turned to expose victims while shielding enablers; **documents the exposure without reproducing it** |
 
 The two USAID cases are **siblings**: the DOGE packet charges Musk/DOGE for the withdrawal and
 its laundering instrument (Tier 3); the Rubio packet charges Rubio for the official denial that
@@ -97,6 +98,13 @@ it preserves the account's affirmative counter-register beside the specimens, co
 element is weak, declares that the operator is a participant in the corpus, and holds the
 protected-speech wall as its spine. Custody is SCREENSHOT-HELD (no canonical URLs; cannot reach
 VERIFIED) by design.
+
+The **DOJ / Epstein survivor re-exposure** packet anchors Pattern Registry Entry 16 (Redaction
+Inversion): a state disclosure apparatus that exposed trafficking survivors' identities while
+concealing possible enablers, laundered as "technical error," with survivors recoded as conspirators.
+It charges the *structure* (intent is conceded open) and is governed by a strict **no-reproduction
+rule** — it documents the exposure without reproducing any survivor's identity, and never captures the
+leaked files themselves.
 
 A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
 disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is
