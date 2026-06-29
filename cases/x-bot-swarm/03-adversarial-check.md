@@ -36,6 +36,22 @@ of Entry 15 names unattributability as the laundering *output* of the multi-node
 **residue:** if a tribunal insists the *only* cognizable harm is a directly-attributed swarm, the
 case narrows to the verdict + foreclosure (the II(2)(d) act), which stands alone.
 
+**The paid-lift node is no longer hypothetical (but is still not Musk's).** A prior version of this
+defense had to concede that the paid-lift operator/client/price node was *un-sourced*. It is now
+**documented** — `paid-lift-operations` records three named, dated operations run *on X*, two of
+them U.S.-court-established: **Doppelganger / Social Design Agency** (DOJ + Treasury, Sept 4 2024 —
+operator SDA/Structura/ANO Dialog, client the Russian Presidential Administration, message anti-
+Ukraine, fake accounts "mainly X and Meta"); **Team Jorge / AIMS** (Guardian/Forbidden Stories, Feb
+15 2023 — operator Tal Hanan, Twitter avatars, clients across 33 elections, **price €6m–€15m**); and
+**Meliorator / RT** (DOJ, July 2024 — Kremlin-financed, FSB-accessed, **"only worked on X,"** 968
+accounts). This **closes the "is the node even real?" objection** and adds a second court-grade
+instance of the terminal-node pattern (in Meliorator, X suspended the accounts only *after* the
+court filing). It does **not** move the attribution beam an inch toward Musk — all three are
+third-party or foreign-state actors, and the case still charges Musk only for the habitat and the
+verdict+foreclosure, never for authorship. What the node's documentation *does* strengthen is the
+**habitat** element: X is the empirically-attested venue where paid manipulation operates, and
+(twice now) the place where it persists until external legal force intervenes.
+
 ## Defense 2 — "This is protected speech and protected business judgment. A platform owner gets to run moderation and pricing how he likes, and to say he thinks the bot problem is handled."
 
 *The wall that keeps this case from becoming the thing it opposes.*

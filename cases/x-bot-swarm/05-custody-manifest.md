@@ -1,7 +1,7 @@
 # 05 — CUSTODY MANIFEST
 
 *Track F for the manufactured-consensus packet. Convention Art. VI(6); Protocol §6. This packet
-holds seven items, all captured original-form in place.*
+holds eight items, all captured original-form in place.*
 
 > **Authoritative source:** the canonical index `evidence/custody-index.md` governs custody state
 > and grade. If any narrative below diverges from it, **the index governs.**
@@ -18,7 +18,7 @@ holds seven items, all captured original-form in place.*
 ## This packet's items (all VERIFIED)
 
 Built in a **full-egress** environment (unlike the Trusted-blocked DOGE/Rubio packets), so
-`capture.sh --promote` ran in place. As of capture (2026-06-28): **7 VERIFIED · 0 LOCATOR-VERIFIED.**
+`capture.sh --promote` ran in place. As of capture (2026-06-29): **8 VERIFIED · 0 LOCATOR-VERIFIED.**
 
 | Item | Grade | Custody | Artifacts | archive.org |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@ Built in a **full-egress** environment (unlike the Trusted-blocked DOGE/Rubio pa
 | `incentive-redesign-blue-revenue-sharing` | S1/S2 | VERIFIED | 6 (The Conversation) | 1 |
 | `research-api-foreclosure-2023` | S1 + embedded P1 | VERIFIED | 18 (TechCrunch + CJR + Coalition + OSoMe) | 4 |
 | `musk-bot-purge-verdict-2024` | P2 + S1 | VERIFIED | 18 (x.com Musk Apr 4 2024 + x.com Bier Apr 9 2026 + Rest of World + Social Media Today) | 2 |
+| `paid-lift-operations` | P1 + S1 | VERIFIED | 30 (DOJ + ISD + The Record ×2 + Guardian + Gizmodo + BleepingComputer) | 5 |
 
 Integrity: `for d in evidence/*/; do (cd "$d" && sha256sum -c sha256.txt); done` (all `OK` at
 capture). Per-artifact hashes: `evidence/<id>/original/manifest.json`. Index:
@@ -45,10 +46,12 @@ capture). Per-artifact hashes: `evidence/<id>/original/manifest.json`. Index:
    the fully-rendered outlet captures** in the same item — CBS News and Fox Business for the 2022
    promise; Rest of World and Social Media Today for the verdict. No grade is inflated on the
    strength of an `x.com` artifact alone.
-2. **archive.org attestation held for six of seven items** (10 snapshots; per-item URLs in each
+2. **archive.org attestation held for seven of eight items** (15 snapshots; per-item URLs in each
    `original/archive-org-snapshots.txt`, committed). The exception is
    `post-takeover-bot-persistence`: its two hosts declined/throttled Save Page Now — **ScienceDirect
-   blocks archiving** (robots/paywall) and **Cybernews** throttled on retry. The first capture run
+   blocks archiving** (robots/paywall) and **Cybernews** throttled on retry. (Two further single
+   sources — Gizmodo and BleepingComputer in `paid-lift-operations` — also did not snapshot, but
+   that item's DOJ, Guardian, ISD and Record sources did, so it is attested.) The first capture run
    recorded zero snapshots due to a header-parsing bug in `capture.sh` (it matched only
    `content-location:`; Save Page Now now replies `302` with `location:`). The bug is fixed and the
    re-run produced the attestation above; the fix is in this packet's `capture.sh` for reuse.
@@ -57,14 +60,19 @@ capture). Per-artifact hashes: `evidence/<id>/original/manifest.json`. Index:
    records (and, off-platform, the binaries) is one custodian; the second is an out-of-band step
    the operator completes (the `.gitignore` keeps the large binaries out of the repo by design).
 
-## The verdict item (now captured)
+## The two formerly-open items (now captured)
 
-The **explicit victory-verdict statements** ("system purge of bots & trolls" / "208 bots per
-minute"), charged as Step 4 of the act (`00-charge-theory.md`), were the primary open capture; they
-are now the VERIFIED `musk-bot-purge-verdict-2024`. The TF-004 NOT-PRESERVED row is accordingly
-closed. The one substantive item that remains **unsourced** is the direct-authorship node — a
-dated, sourced paid-lift operation (operator, client, message-set, price) — which is the case's
-conceded contested beam (`03-adversarial-check.md`, Defense 1), not a custody item.
+1. **The explicit victory verdict** ("system purge of bots & trolls" / "208 bots per minute"),
+   charged as Step 4 of the act, is now the VERIFIED `musk-bot-purge-verdict-2024`. The TF-004
+   NOT-PRESERVED row is closed.
+2. **The paid-lift node** (operator/client/message-set/price) is now the VERIFIED
+   `paid-lift-operations` — three named, dated operations on X (Doppelganger/SDA and Meliorator/RT,
+   both U.S.-court-established; Team Jorge/AIMS, priced €6m–€15m).
+
+What remains is **not a custody gap and not unsourced**: it is the doctrinal/attribution question of
+whether any such operation is **Musk-attributable**. Every documented operator is a third-party or
+foreign-state actor; the case concedes Musk-direct-authorship and does not charge it
+(`03-adversarial-check.md`, Defense 1).
 
 ## What this packet does not claim
 

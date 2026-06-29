@@ -92,7 +92,10 @@ attribution: here the conduct is architectural and multi-decision, but still own
 
 - That Musk or X **runs, funds, or directs** any specific bot-swarm (not charged — the harm is
   habitat + verdict + foreclosure, not authorship of a swarm).
-- The **identity, paymaster, or message-author** of any operator or lift-client (the open node).
+- That Musk **runs, funds, or directs** any operator or lift-client. (The paid-lift node itself is
+  now *documented* — `paid-lift-operations`: Doppelganger/SDA, Team Jorge/AIMS, Meliorator/RT, all
+  on X — but every documented operator is a third-party or foreign-state actor; **none is
+  Musk-attributed**, and Musk-direct-authorship remains the open, conceded sub-question.)
 - A **platform-wide** inauthentic-activity prevalence figure (foreclosed by the very measurement
   shutdown charged in Step 5).
 - That honest content-moderation or free-speech choices are wrongful — they are **protected**; the

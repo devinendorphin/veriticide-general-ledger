@@ -19,6 +19,7 @@ packet's `evidence/`.*
 | Bot/inauthentic activity persisted and by measures worsened after the takeover | `post-takeover-bot-persistence` | S1/S2 |
 | Coordinated bot clusters disproportionately amplified Musk's own election posts (~20%; 40% on two anti-Harris–Walz posts; two clusters in tandem) | `cyabra-gzero-coordinated-clusters-2024` | S1 + embedded S2 |
 | Even on Musk's own 2022 commissioned numbers, inauthentic-account share was a measurable, contested quantity (CounterAction 10–14.2%; Cyabra 13.7%) | `bot-count-deal-leverage-2022` | S1 |
+| Paid/state-financed lift-operations run *on X* are documented and named (operator/client/message/price) — Doppelganger/SDA, Team Jorge/AIMS, Meliorator/RT — confirming the ecosystem the habitat hosts (NOT Musk-attributed) | `paid-lift-operations` | P1 + S1 |
 
 ## B — The verdict and its foreclosure (the act, Art. II(2)(d))
 
@@ -42,6 +43,7 @@ packet's `evidence/`.*
 |---|---|---|
 | Coordinated inauthentic amplification continued well after the 2022 victory framing (2024 election posts) | `cyabra-gzero-coordinated-clusters-2024` | S1 + embedded S2 |
 | Independent detection of the persistence was simultaneously foreclosed (the verdict maintained not by measurement but by un-measurability) | `research-api-foreclosure-2023` | S1 + embedded P1 |
+| Second court-grade terminal-node instance: in the Meliorator case X suspended 968 bot accounts **only after** the DOJ court filing — platform action following external legal force | `paid-lift-operations` | P1 |
 
 ## E — Conscription — **aggravating, not constitutive (Track E)**
 

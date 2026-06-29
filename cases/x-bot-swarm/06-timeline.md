@@ -6,7 +6,7 @@ inauthentic activity it named persisted.*
 
 **Types:** **PROMISE** the standard set · **LEVERAGE** the concern deployed for advantage ·
 **HABITAT** design decision building the habitat · **FORECLOSE** measurement removed ·
-**RECORD** persistence on the record · **VERDICT** the purge declared won.
+**RECORD** persistence on the record · **VERDICT** the purge declared won · **NODE** a documented paid/state lift-operation on X (a habitat tenant — not Musk-attributed).
 
 Custody governed by `evidence/custody-index.md`. Dates via sanctioned search; confirm exact days at
 original-form capture (~ = approximate).
@@ -19,7 +19,10 @@ original-form capture (~ = approximate).
 | **2023-02** | **FORECLOSE** | Free research API access ends; new pricing prices out academic detection. **Botometer disabled**; researchers warn it will "devastate public interest research" | `research-api-foreclosure-2023` |
 | ~2023 | **HABITAT** | Paid verification (Blue/Premium) sells the legibility signal; creator revenue-sharing **monetizes engagement** — the engagement-farming substrate | `incentive-redesign-blue-revenue-sharing` |
 | ~2023 | **RECORD** | Independent reporting: bot/invalid traffic persisted/worsened (CHEQ; academic; Cybernews) — no observable cessation | `post-takeover-bot-persistence` |
+| **2023-02-15** | **NODE** | Guardian/Forbidden Stories exposes **Team Jorge / AIMS** (Tal Hanan): thousands of fake **Twitter** avatars sold to manipulate opinion across 33 elections; **price €6m–€15m** per election | `paid-lift-operations` |
 | **2024-04-04** | **VERDICT** | Musk (10:58 AM): **"System purge of bots & trolls underway… X Corp will be tracing the people responsible and bringing the full force of the law to bear upon them."** — the crackdown framed as accomplished, applause from the user base | `musk-bot-purge-verdict-2024` |
+| **2024-07-09** | **NODE** | DOJ/FBI (+ Canada, NL) disrupt **Meliorator / RT** AI bot farm — Kremlin-financed, FSB-accessed, **"only worked on X"**; 968 X accounts; X suspended them **only after** the court filing | `paid-lift-operations` |
+| **2024-09-04** | **NODE** | DOJ seizes 32 domains; Treasury sanctions **Doppelganger / Social Design Agency** (Gambashidze, Tupikin) — directed by the **Russian Presidential Administration**; fake accounts "**mainly X** and Meta" to reduce support for Ukraine | `paid-lift-operations` |
 | ~2024 (UK 04 Jul; Rwanda 15 Jul) | **RECORD** | Persistence *during the purge*: Global Witness 610,000+ bot-like posts (UK election); Clemson 460+ coordinated accounts (Rwanda) — reported to X, "nothing happened" | `musk-bot-purge-verdict-2024` |
 | **2026-04-09** | **VERDICT** | Head of Product: X is "**identifying and suspending 208 bots per minute**" — verdict re-asserted as a quantified, externally-unauditable success metric | `musk-bot-purge-verdict-2024` |
 | 2024-02 | **FORECLOSE** | Botometer revived only as **Botometer X** — archival mode, no post-May-2023 accounts, **cannot detect AI-supercharged bots** | `research-api-foreclosure-2023` |
@@ -38,9 +41,14 @@ original-form capture (~ = approximate).
 4. **The concern is fungible.** The same "bot problem" is maximized for deal-exit leverage (2022)
    and declared solved for the ownership narrative — the tell that the concern tracks the speaker's
    interest, not the harm.
+5. **The paid-lift node is documented, and the terminal-node pattern recurs.** Across 2023–2024 the
+   NODE rows establish that paid/state lift-operations on X are real and named (Team Jorge priced;
+   Doppelganger and Meliorator court-established) — and in the Meliorator case X acted **only after**
+   the DOJ filing, a second court-grade instance of the "nothing happens until external force" tell.
 
 ## What this timeline does NOT establish
 
-Exact-day precision for `~` rows (confirm at capture); that Musk authored/funded any swarm (not
-charged); a platform-wide prevalence figure (foreclosed by the Feb 2023 shutdown); and the explicit
-victory-verdict statements as original-form items (capture-pending — Gap Register Priority 27).
+Exact-day precision for `~` rows (confirm at capture); **that Musk authored, funded, or directed any
+swarm or any of the NODE operations** (all documented operators are third-party/foreign-state — not
+charged, and not advanced by the NODE rows); a platform-wide prevalence figure (foreclosed by the
+Feb 2023 shutdown).

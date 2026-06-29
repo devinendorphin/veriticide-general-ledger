@@ -17,6 +17,7 @@ S2 expert/modeling · T1 witness testimony.
 |---|---|---|---|
 | `musk-defeat-spam-bots-2022` | @elonmusk tweet, Apr 21 2022; CBS News; Fox Business | P2 + S1 | The purge-claim's origin / standard-setting promise |
 | `musk-bot-purge-verdict-2024` | @elonmusk (Apr 4 2024 "system purge"); @nikitabier (Apr 9 2026 "208/min"); Rest of World; Social Media Today | P2 + S1 | The bare-verdict half of the act (crackdown declared) |
+| `paid-lift-operations` | DOJ + Treasury (Doppelganger/SDA); Guardian/Forbidden Stories (Team Jorge/AIMS); DOJ (Meliorator/RT) | P1 + S1 | The paid-lift node exists on X (operator/client/message/price) — NOT Musk-attributed |
 | `bot-count-deal-leverage-2022` | CBS News (CounterAction, Cyabra figures) | S1 | The concern-is-fungible tell; 2022 prevalence baseline |
 | `cyabra-gzero-coordinated-clusters-2024` | GZERO Media (Cyabra analysis) | S1 + embedded S2 | Persistence/substitution on Musk's own posts |
 | `post-takeover-bot-persistence` | Cybernews; ScienceDirect; (CHEQ as reported) | S1/S2 | No observable cessation after the verdict |
@@ -30,6 +31,9 @@ Canonical URLs:
 - `https://x.com/nikitabier/status/2042121229998682517`
 - `https://restofworld.org/2024/twitter-x-bots-elon-musk-elections/`
 - `https://www.socialmediatoday.com/news/x-formerly-twitter-conducting-bot-purge-removal/817160/`
+- `https://www.justice.gov/usao-edpa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign` (Doppelganger/SDA)
+- `https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan` (Team Jorge/AIMS)
+- `https://www.bleepingcomputer.com/news/security/us-disrupts-ai-powered-bot-farm-pushing-russian-propaganda-on-x/` (Meliorator/RT)
 - `https://www.foxbusiness.com/technology/elon-musk-vows-to-defeat-the-spam-bots-or-die-trying-if-twitter-bid-succeeds`
 - `https://www.gzeromedia.com/news/analysis/musk-promised-to-rid-x-of-bots-but-they-love-his-tweets`
 - `https://cybernews.com/tech/twitter-bot-struggle/`
@@ -42,8 +46,8 @@ Canonical URLs:
 
 ## Capture status
 
-All seven items are **VERIFIED** (original-form WARC + PDF + screenshot, hashed) — captured in
-place in a full-egress environment. Internet-Archive attestation is held for six of seven (the
+All eight items are **VERIFIED** (original-form WARC + PDF + screenshot, hashed) — captured in
+place in a full-egress environment. Internet-Archive attestation is held for seven of eight (the
 `post-takeover-bot-persistence` hosts — ScienceDirect, which blocks archiving, and Cybernews —
 declined/throttled Save Page Now at capture). See `05-custody-manifest.md` and
 `evidence/custody-index.md`. Re-run via `evidence/CAPTURE-RUNBOOK.md` (allowlist included).
@@ -57,9 +61,12 @@ declined/throttled Save Page Now at capture). See `05-custody-manifest.md` and
   habitat (`incentive-redesign-blue-revenue-sharing`), persistence (Cyabra/GZERO; the verdict
   item's own election-period figures), verdict (`musk-bot-purge-verdict-2024`), and foreclosure
   (`research-api-foreclosure-2023`) — is complete.
-- **The direct-authorship node remains unsourced.** A dated, sourced paid-lift operation (operator,
-  client, message-set, price) is the one substantive open item — the case's conceded contested beam
-  (`03-adversarial-check.md`, Defense 1), not a custody gap.
+- **The paid-lift node is now sourced; Musk-attribution is not.** The paid-lift operator/client/
+  message/price node is documented in `paid-lift-operations` (Doppelganger/SDA, Team Jorge/AIMS,
+  Meliorator/RT — all on X, two court-established, Team Jorge priced at €6m–€15m). This closes the
+  "is the node real?" question. What remains open — and is **conceded, not a gap** — is whether any
+  such operation is **attributable to Musk/X Corp**; all documented operators are third-party or
+  foreign-state actors (`03-adversarial-check.md`, Defense 1).
 - **No CONTROL/NULL on record.** What one would require is defined in `04-falsification-memo.md` §E
   (an independently-auditable inauthentic-activity metric the platform exposes).
 - **Structural vs individual claims kept distinct:** the incentive-redesign item supports the

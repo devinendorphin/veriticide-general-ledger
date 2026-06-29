@@ -87,7 +87,7 @@ The **X bot-swarm** packet is a different Tier 4 knife: it charges Musk/X Corp n
 or a single denial but for a *habitat* that foreseeably manufactures the appearance of public
 opinion, plus a "we defeated the bots" verdict made unfalsifiable by the foreclosure of independent
 measurement. Its hardest joint is **attribution** (who runs the swarms) — which it concedes and
-charges around. It has its own seven-item evidence store (all VERIFIED original-form).
+charges around. It has its own eight-item evidence store (all VERIFIED original-form).
 
 A case file asserts **step one** of the Standing Protocol (a basis to demand preservation,
 disclosure, audit, inquiry, and reporting) and **not step two** (a finding of guilt, which is

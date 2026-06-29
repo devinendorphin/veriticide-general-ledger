@@ -7,7 +7,7 @@
 > bundle, custody manifest) shows a custody state that conflicts with this table, **this
 > table is authoritative.** Per-row custody marks elsewhere are indicative/historical.
 
-**Generated:** 2026-06-29 · **Items:** 7 · **VERIFIED:** 7 · **LOCATOR-VERIFIED:** 0
+**Generated:** 2026-06-29 · **Items:** 8 · **VERIFIED:** 8 · **LOCATOR-VERIFIED:** 0
 
 | Item | Grade | Custody | Track | sha256(transcript) |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | `incentive-redesign-blue-revenue-sharing` | S1/S2 (reputable secondary + analysis) | VERIFIED | II(3)(a) instrument — habitat economic substrate | `b04be7cfb49a…` |
 | `musk-bot-purge-verdict-2024` | P2 (named on-record statements) + S1 | VERIFIED | II(2)(d) — the bare-verdict half of the act (crackdown declared) | `a972e0926e08…` |
 | `musk-defeat-spam-bots-2022` | P2 (named on-record statement) + S1 | VERIFIED | II(2)(c) — the purge-claim origin (care-register frame) | `ff0386397441…` |
+| `paid-lift-operations` | P1 (DOJ/court + Treasury) + S1 (Guardian/Forbidden Stories) | VERIFIED | II(3)(c) legibility + II(3)(a) habitat — the paid-lift node (NOT Musk-attributed) | `56de605d3349…` |
 | `post-takeover-bot-persistence` | S1/S2 (reputable secondary + academic) | VERIFIED | legibility — no observable cessation | `2c9bbc50a57c…` |
 | `research-api-foreclosure-2023` | S1 (reputable secondary) + embedded P1 (OSoMe/Botometer makers) | VERIFIED | II(2)(d) — measurement foreclosure | `ce79470f050b…` |
 
