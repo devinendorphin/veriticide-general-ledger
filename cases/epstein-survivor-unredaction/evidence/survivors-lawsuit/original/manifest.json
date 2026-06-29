@@ -1,0 +1,47 @@
+{
+  "item": "./survivors-lawsuit",
+  "captured_at": "2026-06-29T10:11:26.103942Z",
+  "artifact_count": 10,
+  "artifacts": {
+    "archive-org-snapshots.txt": {
+      "sha256": "8ae601e2617e553c77c45b706b2839f3a1521486e0da534253771b90cd1a30d7",
+      "bytes": 177
+    },
+    "www.courthousenews.com_epstein-sexual-assault-survivors-file-class-action-to-sto.png": {
+      "sha256": "d466aa1b65076978aaae13071bbe31749f7cec0938818a9dcd75e41b74747e24",
+      "bytes": 37821
+    },
+    "www.nbcnews.com_politics_justice-department_epstein-survivors-sue-trump-administ.png": {
+      "sha256": "2f704fedd5a65bf2046f00e7d4fe190aff29f0e6f984ceaf9988ab261ebec3be",
+      "bytes": 36993
+    },
+    "www.nbcnews.com_politics_justice-department_epstein-survivors-sue-trump-administ.html": {
+      "sha256": "45f5f2bd86861e6b0acc9d6dc4de161b69b6774a95976f3de7db16ddd4014aa4",
+      "bytes": 6398016
+    },
+    "www.courthousenews.com_epstein-sexual-assault-survivors-file-class-action-to-sto.warc": {
+      "sha256": "d7e17619e2f5e6d17b6840fefc1af9dfab7dd19e5fe934176e6eb68004c84604",
+      "bytes": 14344598
+    },
+    "www.courthousenews.com_epstein-sexual-assault-survivors-file-class-action-to-sto.pdf": {
+      "sha256": "a08ab2bd8828be2dfeaea7884e55a72c809755b2d0bd9c3f2f41b082c07fab4c",
+      "bytes": 53690
+    },
+    "www.courthousenews.com_epstein-sexual-assault-survivors-file-class-action-to-sto.html": {
+      "sha256": "8cb83e38096c3ec854e94fa2da576ecfc40ffd150172e3fee6f30fbd4f458e42",
+      "bytes": 12167776
+    },
+    "www.nbcnews.com_politics_justice-department_epstein-survivors-sue-trump-administ.warc": {
+      "sha256": "e0473d8bb1bddfc4c91f6c259b3d98d1e2a5f30e98091901852f49d00f170c18",
+      "bytes": 6618614
+    },
+    "www.nbcnews.com_politics_justice-department_epstein-survivors-sue-trump-administ.pdf": {
+      "sha256": "905fbf49942f597f0cd5e2fdce32922d5b930a34e37907cf7765d997ef844b27",
+      "bytes": 53288
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

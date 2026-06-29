@@ -1,0 +1,47 @@
+{
+  "item": "./redaction-asymmetry",
+  "captured_at": "2026-06-29T10:11:24.409374Z",
+  "artifact_count": 10,
+  "artifacts": {
+    "www.cnn.com_2026_02_05_politics_justice-department-under-scrutiny-for-revealing-.html": {
+      "sha256": "67de7bae1341655a6a5a3242c18358bad1d4e0c2499a6a4bd2345ed7b1381523",
+      "bytes": 7932375
+    },
+    "archive-org-snapshots.txt": {
+      "sha256": "2b037e2f46815f3760d8e1b8da2f6fe548d65d522b6d3e2aa0805da1c5cb12e1",
+      "bytes": 351
+    },
+    "www.cnn.com_2026_02_05_politics_justice-department-under-scrutiny-for-revealing-.png": {
+      "sha256": "313e0e6432e571991ce0a848058172658196f31149802b182eafd0911a9b446e",
+      "bytes": 35681
+    },
+    "www.cnn.com_2026_02_05_politics_justice-department-under-scrutiny-for-revealing-.pdf": {
+      "sha256": "716b4a112e3786bd07e27383e322e6a0382aa7af6321ea53d02fe0dc59cb8878",
+      "bytes": 53077
+    },
+    "www.aljazeera.com_news_2026_2_11_six-men-named-in-us-congress-why-is-so-much-red.warc": {
+      "sha256": "32cb2b784902a7df6898672c137fe511b0ea485c9aac0fccf990143548419105",
+      "bytes": 4635272
+    },
+    "www.aljazeera.com_news_2026_2_11_six-men-named-in-us-congress-why-is-so-much-red.html": {
+      "sha256": "f58a359a9d150f2b31171eb0e802d0bc61957310a57880ce14036fd2ea6ff701",
+      "bytes": 4413326
+    },
+    "www.aljazeera.com_news_2026_2_11_six-men-named-in-us-congress-why-is-so-much-red.png": {
+      "sha256": "73871bf253071d9d17d28d32ccd232fc85dc467b39599467d718340dd654e941",
+      "bytes": 36866
+    },
+    "www.aljazeera.com_news_2026_2_11_six-men-named-in-us-congress-why-is-so-much-red.pdf": {
+      "sha256": "57e083bee6b2a1f536215584c10360e4cd51cda90ea836125d3aa83d12beb0c7",
+      "bytes": 53906
+    },
+    "www.cnn.com_2026_02_05_politics_justice-department-under-scrutiny-for-revealing-.warc": {
+      "sha256": "38a7d26b106b5f0d854a4c6c53b6df2c092e1872156ab4bcdb84d3a25dc89f97",
+      "bytes": 8260417
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}
