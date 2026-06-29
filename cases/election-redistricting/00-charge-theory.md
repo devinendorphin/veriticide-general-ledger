@@ -80,14 +80,26 @@ not as the base II(3)(a) instrument).
   presumption, the disentanglement burden, and the §2 evisceration render the dilution undiscernable
   as harm while it is still occurring.
 
-## Named respondents
+## The respondent — and the enabling condition (kept distinct)
 
-Distributed, and named at the right altitude: (1) **partisan mapmakers / vendors and the legislatures
-that adopt their maps** — operator level, where intent is **on the record**; and (2) the **doctrinal
-apparatus** — documented from public SCOTUS opinions by its *effect*, with jurists' intent **open**.
-The distributed, multi-actor attribution is this case's structural feature, conceded openly: no single
-actor authored the whole structure, which is what makes the ignorance *performed* rather than merely
-held.
+**The respondent (base offence).** The named respondents are the **partisan mapmakers / vendors and the
+legislatures that adopt their maps** — the operator level, where the instrument is run (II(3)(a)) and
+where intent is **on the record** (II(3)(d): the Hofeller study, the Lewis admission). This is the
+charged party.
+
+**The enabling condition (NOT a charged respondent).** The **doctrinal apparatus** (Shelby → Rucho →
+Alexander → Callais) is **not** named as a defendant, and the case seeks **no finding against any court
+or judge**. It is documented **only** at the Art. II(2)(d) discernment-defeat layer — by its public,
+on-the-record *effect* (the removal of the means to recognize the diluting effect) — with jurists'
+intent **open and not asserted**. It is the environment in which the operator's performed ignorance
+becomes unfalsifiable, not a co-perpetrator.
+
+**Why the altitudes are kept apart.** Collapsing them is this packet's main over-reach risk
+(`03-adversarial-check.md`, Defense 2 and the residual-soft-spots log): charge the **operator** for an
+effect computed and admitted; document the **doctrine** for an effect it forecloses. The distributed,
+multi-actor shape is the case's structural feature, conceded openly — operator-level ignorance is
+*performed* (authored, dated: Hofeller/Lewis), while the systemic unknowability is *manufactured*
+(institutional output, intent open). Neither claim is inflated into the other.
 
 ## What this charge theory does NOT establish
 

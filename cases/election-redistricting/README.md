@@ -28,7 +28,7 @@ political viability as either "just politics" or as unknowable.
 
 | | This packet |
 |---|---|
-| Named respondents | **Partisan mapmakers / vendors + adopting legislatures** (operator-level admitted intent) **and** the **doctrinal apparatus** (public-record SCOTUS opinions) |
+| Respondent / enabling condition | **Respondent:** partisan mapmakers / vendors + adopting legislatures (operator-level admitted intent). **Enabling condition (NOT a defendant):** the doctrinal apparatus, documented at II(2)(d) by effect; jurists' intent open |
 | Protected population | Voters whose ability to elect representatives of choice is reduced — in the racial-dilution line, **Black and Latino voters**; delineated downstream by where the maps demonstrably dilute (Tier-3 evidentiary delineation) |
 | Core move | **Performed Ignorance** — a computed, admitted effect reproduced as officially unknown at the point of accountability (Art. II(3)(d) operationalized) |
 | Tier | **3** (subgraph erasure: political viability reduced; proxy = party-for-race) **+ 4** (recognition attack: non-justiciability / good-faith presumption / disentanglement burden / §2 evisceration) |
