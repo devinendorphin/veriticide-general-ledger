@@ -67,9 +67,11 @@ Per Standing Protocol §7 it asserts **step one** (a documented, hashed record) 
 establish intent or coordination, and is **not** load-bearing for any ledger classification. The
 analyst's stake (operator is a participant) is declared in `04-falsification-memo.md` §Reflexivity.
 
-> **Anonymization option:** the ledger names CTF-1 openly, so this extract matches it. The packet
-> can be reduced to "a credentialed technical figure" at the operator's election without affecting the
-> analysis — the acts carry the charge, not the identity. Say the word.
+> **Pseudonymized (2026-06-29).** The subject is de-identified repo-wide as **CTF-1** ("a
+> credentialed technical figure") per operator request (HIPAA-style). Handle, display name, and
+> follower count are redacted; evidence-ID stems use `ctf1`. Verbatim post text is retained as the
+> evidentiary artifact — note the residual risk that dated, high-reach verbatim posts remain
+> searchable. The acts carry the analysis, not the identity.
 
 ---
 

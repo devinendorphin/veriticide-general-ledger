@@ -9,12 +9,12 @@
 
 | Item | Class | Register | Reach | Custody | sha256(transcript) |
 |---|---|---|---|---|---|
-| `agp-breakcore-narrow` | SPECIMEN-narrow | medical-pathologizing (vocab-normalization; affirmative frame) | 3.1K views | SCREENSHOT-HELD | `eb583391132c…` |
-| `eating-children-conspiracy` | SPECIMEN | Satanic-panic/conspiracy | 252K views (highest in corpus) | SCREENSHOT-HELD | `32219e284690…` |
-| `epidemic-homely-girls` | SPECIMEN | medical-pathologizing | 12.8K views | SCREENSHOT-HELD | `34762d2d5fbb…` |
-| `grooming-vindication` | SPECIMEN | grooming/conspiracy | 60.6K views | SCREENSHOT-HELD | `d5ea287a825b…` |
-| `shoujo-maxx-chemical-castration` | SPECIMEN | medical-pathologizing | engagement not captured | SCREENSHOT-HELD | `727dc7b4c387…` |
-| `trans-muslims-death-threats` | SPECIMEN | negative-equivalence | 414 views | SCREENSHOT-HELD | `decfcf309d0d…` |
+| `agp-breakcore-narrow` | SPECIMEN-narrow | medical-pathologizing (vocab-normalization; affirmative frame) | 3.1K views | SCREENSHOT-HELD | `0e99cfc548d2…` |
+| `eating-children-conspiracy` | SPECIMEN | Satanic-panic/conspiracy | 252K views (highest in corpus) | SCREENSHOT-HELD | `879edb22adbb…` |
+| `epidemic-homely-girls` | SPECIMEN | medical-pathologizing | 12.8K views | SCREENSHOT-HELD | `a94f73c0607e…` |
+| `grooming-vindication` | SPECIMEN | grooming/conspiracy | 60.6K views | SCREENSHOT-HELD | `4ed4429cc0a0…` |
+| `shoujo-maxx-chemical-castration` | SPECIMEN | medical-pathologizing | engagement not captured | SCREENSHOT-HELD | `2cf81ab0126f…` |
+| `trans-muslims-death-threats` | SPECIMEN | negative-equivalence | 414 views | SCREENSHOT-HELD | `402c7bca2676…` |
 
 ## Custody states
 

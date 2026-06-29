@@ -1729,7 +1729,9 @@ The "techno-feudal serf" formulation is not a rhetorical insult; it is a structu
 
 ---
 
-**CTF-1  — HIGH-VARIANCE ACCOUNT**
+**CTF-1 — HIGH-VARIANCE ACCOUNT**
+
+**Pseudonymization note (2026-06-29):** the subject of this corpus is pseudonymized as **CTF-1** ("a credentialed technical figure") per operator request — HIPAA-style de-identification of a private individual. The handle, display name, and follower count were redacted repo-wide; evidence-ID stems were changed from the handle to `ctf1`. Verbatim post text is retained (it is the evidentiary artifact); note the residual re-identification risk that dated, high-reach verbatim posts remain searchable. The cold extract is `cases/ctf1-corpus/`.
 
 **Method note:** 26 records captured for this account across October 2025–June 2026 (updated June 21, 2026: +2 records via supplemental batch). The corpus spans explicit affirmation of trans people and culture, medicalized/pathologizing language about trans identity, Satanic panic / conspiracy content, and content that mixes registers. Per protocol: acts are logged, not the account. Counter-evidence is logged as counter-evidence. Account-level verdict declined.
 

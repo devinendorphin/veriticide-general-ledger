@@ -13,7 +13,7 @@
   "track": "II(2)(d) ambient/credentialed-figure form (register-as-conduct; account verdict DECLINED)",
   "custody_state": "SCREENSHOT-HELD",
   "account_level_verdict": "DECLINED (high-variance account)",
-  "sha256_transcript": "eb583391132ce8fbd4e8e8bce57d8a4629f475c3c54cd434d849048898af270c",
+  "sha256_transcript": "0e99cfc548d20daf36e4ef8fbb65d1f3463ef7b8d64451f5f1e0c94926627238",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],

@@ -71,11 +71,12 @@ classification or an account-level finding. It documents specimens.
   not *structure*: per the ledger, the corpus "is not load-bearing for any classification" and is
   retained as ambient-environment documentation only (Gap Register Priority 6, deprioritized).
 
-## Named subject (verdict declined)
+## Subject (pseudonymized; verdict declined)
 
-**CTF-1 ** — ML engineer, ≈[redacted] followers at capture. The ledger names him openly; this
-extract matches the ledger. The packet can be **anonymized to "a credentialed technical figure"** at
-the operator's election without affecting the analysis (the acts carry the charge, not the identity).
+**CTF-1** — "a credentialed technical figure" (ML engineer, large following). The subject is
+**de-identified repo-wide** per operator request (HIPAA-style, 2026-06-29): handle, display name, and
+follower count redacted. The acts carry the analysis, not the identity. Residual risk: dated,
+high-reach verbatim posts remain searchable.
 
 ## What this charge theory does NOT establish
 
