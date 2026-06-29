@@ -77,7 +77,7 @@ falsification memo, and custody manifest.
 | DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 (DOGE) — Tier 3, the withdrawal + laundering instrument |
 | Rubio / USAID denial | `cases/rubio-usaid-denial/` | Ledger Cluster 4 (Rubio Supplementary Entry) — Tier 4, the denial that defeats discernment |
 | X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Ledger Pattern Registry Entry 15 + Cluster 3 (Musk/X) — Tier 4, the consensus layer: habitat + purge-verdict + foreclosed measurement |
-| @yacineMTB corpus (verdict declined) | `cases/yacinemtb-corpus/` | Ledger Cluster 3 (@yacineMTB corpus) + Track D TD-006 — individual-scale, high-variance: charges acts (register-as-conduct), **declines the account verdict** |
+| CTF-1 corpus (verdict declined) | `cases/ctf1-corpus/` | Ledger Cluster 3 (CTF-1 corpus) + Track D TD-006 — individual-scale, high-variance: charges acts (register-as-conduct), **declines the account verdict** |
 
 The two USAID cases are **siblings**: the DOGE packet charges Musk/DOGE for the withdrawal and
 its laundering instrument (Tier 3); the Rubio packet charges Rubio for the official denial that
@@ -90,7 +90,7 @@ opinion, plus a "we defeated the bots" verdict made unfalsifiable by the foreclo
 measurement. Its hardest joint is **attribution** (who runs the swarms) — which it concedes and
 charges around. It has its own eight-item evidence store (all VERIFIED original-form).
 
-The **@yacineMTB corpus** packet is the deliberate outlier: an individual-scale, high-variance case
+The **CTF-1 corpus** packet is the deliberate outlier: an individual-scale, high-variance case
 that **declines the account-level verdict** and charges only the documented *acts* (register-as-conduct)
 at the level of the ambient epistemic climate. It is filed to demonstrate the protocol's restraint —
 it preserves the account's affirmative counter-register beside the specimens, concedes the instrument

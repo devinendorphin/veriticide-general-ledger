@@ -14,7 +14,7 @@ A full read-through audit produced a numbered list of internal inconsistencies, 
 - Labeled the first Cluster 2 entry as Entry 2.1 (it was cited as such throughout but unlabeled).
 - Corrected misdescribed/misattributed cross-references (Entry 2.5a's account of the 3.5b–d diagnostic; Entry 3.5d's "Entry 3.6" attribution — Musk, not Altman; Cluster 9 "Section B"→"Section C" for the AI-energy nexus).
 - Added a Convention Reference subsection to Section I; clarified the INSTRUMENT document/element registers and discriminator population.
-- Updated stale "proposed/potential" references to Pattern Registry Entry 5; reconciled @yacineMTB record counts to 26; refreshed header metadata; normalized Pattern Registry heading formats; reordered Clusters 6/7 and Gap Register priorities into numeric sequence; corrected the escalating-sophistication-gradient enumeration.
+- Updated stale "proposed/potential" references to Pattern Registry Entry 5; reconciled CTF-1 record counts to 26; refreshed header metadata; normalized Pattern Registry heading formats; reordered Clusters 6/7 and Gap Register priorities into numeric sequence; corrected the escalating-sophistication-gradient enumeration.
 - One flagged item — the Section V capture arithmetic — was a false positive on re-examination (75 pruned + 1 promoted to Cluster 4 + 11 pending = 87) and was left unchanged.
 
 Full detail: Gap Register Priority 20.
