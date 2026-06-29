@@ -13,6 +13,12 @@ the cited outlet; confirm at original-form capture.
 
 ## A. The dispute
 
+*Dated anchor: on **May 13, 2022**, Musk posted that the Twitter deal was "temporarily on hold"
+pending confirmation of the spam/bot proportion — the moment the bot-count concern was converted
+into deal-exit leverage. The dispute ran across mid-2022 (the figures below were exchanged through
+the May–July 2022 litigation window).*
+
+
 - Twitter maintained that **"fewer than 5% of its daily active users are fake or spam accounts."**
 - Musk contested the figure and commissioned outside analyses:
   - **CounterAction** (Musk's hired research firm) concluded Twitter's spam rate for monetizable

@@ -28,7 +28,7 @@ Built in a **full-egress** environment (unlike the Trusted-blocked DOGE/Rubio pa
 | `post-takeover-bot-persistence` | S1/S2 | VERIFIED | 9 (Cybernews + ScienceDirect) | 0 |
 | `incentive-redesign-blue-revenue-sharing` | S1/S2 | VERIFIED | 6 (The Conversation) | 1 |
 | `research-api-foreclosure-2023` | S1 + embedded P1 | VERIFIED | 18 (TechCrunch + CJR + Coalition + OSoMe) | 4 |
-| `musk-bot-purge-verdict-2024` | P2 + S1 | VERIFIED | 10 (Rest of World + Social Media Today) | 2 |
+| `musk-bot-purge-verdict-2024` | P2 + S1 | VERIFIED | 18 (x.com Musk Apr 4 2024 + x.com Bier Apr 9 2026 + Rest of World + Social Media Today) | 2 |
 
 Integrity: `for d in evidence/*/; do (cd "$d" && sha256sum -c sha256.txt); done` (all `OK` at
 capture). Per-artifact hashes: `evidence/<id>/original/manifest.json`. Index:
@@ -37,13 +37,15 @@ capture). Per-artifact hashes: `evidence/<id>/original/manifest.json`. Index:
 ## Honest-custody notes (limitations recorded, not papered over)
 
 1. **`x.com` JavaScript shell.** Twitter/X status pages render client-side, so the WARC/HTML/PDF/PNG
-   of the tweet URL may capture a login/interstitial shell rather than the fully-rendered post. In
-   this capture the tweet's verbatim text ("…defeat the spam bots or die trying!") **was present in
-   the captured `x.com` HTML and is independently corroborated** by the CBS News and Fox Business
-   captures (which render fully and both contain the quote). The tweet text is additionally
-   preserved, hashed, in `musk-defeat-spam-bots-2022/transcript.md`. No grade is inflated on the
-   strength of the `x.com` artifact alone.
-2. **archive.org attestation held for six of seven items** (11 snapshots; per-item URLs in each
+   of a tweet URL may capture a login/interstitial shell rather than the fully-rendered post, and
+   Save Page Now does not snapshot `x.com` at all. This affects three captured tweets: the 2022
+   promise (`musk-defeat-spam-bots-2022`) and the two verdict tweets — Musk's Apr 4 2024 "system
+   purge" and Bier's Apr 9 2026 "208/min" (`musk-bot-purge-verdict-2024`). In each case the verbatim
+   text is preserved and hashed in the item's `transcript.md`, and is **independently corroborated by
+   the fully-rendered outlet captures** in the same item — CBS News and Fox Business for the 2022
+   promise; Rest of World and Social Media Today for the verdict. No grade is inflated on the
+   strength of an `x.com` artifact alone.
+2. **archive.org attestation held for six of seven items** (10 snapshots; per-item URLs in each
    `original/archive-org-snapshots.txt`, committed). The exception is
    `post-takeover-bot-persistence`: its two hosts declined/throttled Save Page Now — **ScienceDirect
    blocks archiving** (robots/paywall) and **Cybernews** throttled on retry. The first capture run

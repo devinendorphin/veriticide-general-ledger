@@ -18,11 +18,14 @@ the cited outlets; confirm at original-form capture.
 - Musk, on first moving to acquire the platform, "emphasized the dire effects of bot accounts, and
   **pledged to remove them as one of his first acts as owner**" (restofworld, summarizing the arc
   from the 2022 promise).
-- **April 2024:** Musk announced **"a system purge of bots & trolls,"** which the platform's
-  official **@Safety** account described as **"a significant, proactive initiative to eliminate
-  accounts that violate our Rules against platform manipulation and spam."**
-- **April 9, 2026:** Head of Product **Nikita Bier** stated X was **"identifying and suspending 208
-  bots per minute"** — the crackdown re-asserted as an ongoing, quantified success metric.
+- **April 4, 2024, 10:58 AM** (primary — @elonmusk, tweet 1775900800520262071): **"System purge of
+  bots & trolls underway. Please reply to me or @XEng if legitimate accounts are suspended. X Corp
+  will be tracing the people responsible and bringing the full force of the law to bear upon
+  them."** Rest of World described the initiative as "a significant, proactive initiative to
+  eliminate accounts that violate our Rules against platform manipulation and spam."
+- **April 9, 2026** (primary — @nikitabier, Head of Product, tweet 2042121229998682517):
+  **"Currently identifying and suspending 208 bots per minute and growing."** — the crackdown
+  re-asserted as an ongoing, quantified success metric.
 
 These are the explicit "the bots are being handled / defeated" statements charged as the bare-verdict
 half of the Art. II(2)(d) act — the consensus-layer sibling of the Rubio "no one has died" verdict.
@@ -46,5 +49,7 @@ it had been priced/shut out. A self-declared, quantified success ("208/min") tha
 externally audited is the bare-verdict + foreclosure structure the case charges.
 
 Sources:
+- Elon Musk (@elonmusk), tweet, Apr 4, 2024 (10:58 AM) — https://x.com/elonmusk/status/1775900800520262071
+- Nikita Bier (@nikitabier), tweet, Apr 9, 2026 — https://x.com/nikitabier/status/2042121229998682517
 - Rest of World, "Elon Musk said he'd eliminate bots from X. Instead, election influence campaigns are running wild" (2024) — https://restofworld.org/2024/twitter-x-bots-elon-musk-elections/
 - Social Media Today, "X eliminates thousands of accounts in new bot purge" — https://www.socialmediatoday.com/news/x-formerly-twitter-conducting-bot-purge-removal/817160/

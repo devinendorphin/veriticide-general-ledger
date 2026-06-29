@@ -16,7 +16,7 @@ S2 expert/modeling · T1 witness testimony.
 | ID | Source | Grade | Supports |
 |---|---|---|---|
 | `musk-defeat-spam-bots-2022` | @elonmusk tweet, Apr 21 2022; CBS News; Fox Business | P2 + S1 | The purge-claim's origin / standard-setting promise |
-| `musk-bot-purge-verdict-2024` | Rest of World; Social Media Today (Apr 2024 @Safety purge; 2026 Head of Product "208/min") | P2 + S1 | The bare-verdict half of the act (crackdown declared) |
+| `musk-bot-purge-verdict-2024` | @elonmusk (Apr 4 2024 "system purge"); @nikitabier (Apr 9 2026 "208/min"); Rest of World; Social Media Today | P2 + S1 | The bare-verdict half of the act (crackdown declared) |
 | `bot-count-deal-leverage-2022` | CBS News (CounterAction, Cyabra figures) | S1 | The concern-is-fungible tell; 2022 prevalence baseline |
 | `cyabra-gzero-coordinated-clusters-2024` | GZERO Media (Cyabra analysis) | S1 + embedded S2 | Persistence/substitution on Musk's own posts |
 | `post-takeover-bot-persistence` | Cybernews; ScienceDirect; (CHEQ as reported) | S1/S2 | No observable cessation after the verdict |
@@ -26,6 +26,8 @@ S2 expert/modeling · T1 witness testimony.
 Canonical URLs:
 - `https://x.com/elonmusk/status/1517215066550116354`
 - `https://www.cbsnews.com/news/elon-musk-twitter-bots-new-owner-2022/`
+- `https://x.com/elonmusk/status/1775900800520262071`
+- `https://x.com/nikitabier/status/2042121229998682517`
 - `https://restofworld.org/2024/twitter-x-bots-elon-musk-elections/`
 - `https://www.socialmediatoday.com/news/x-formerly-twitter-conducting-bot-purge-removal/817160/`
 - `https://www.foxbusiness.com/technology/elon-musk-vows-to-defeat-the-spam-bots-or-die-trying-if-twitter-bid-succeeds`
