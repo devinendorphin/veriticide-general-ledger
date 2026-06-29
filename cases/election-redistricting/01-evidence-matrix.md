@@ -41,6 +41,7 @@
 
 | Proposition | Item | Grade |
 |---|---|---|
+| **Realized removals (the Tier-3 anchor):** after *Callais* (2026), Louisiana enacted a map eliminating a majority-Black district; Tennessee eliminated its **sole** majority-minority district and Florida moved to dismantle majority-minority districts — for the 2026 elections | `callais` | S1 on P1 (opinion + enacted maps) |
 | 2025 mid-decade maps: a federal panel found "substantial evidence" Texas "racially gerrymandered the 2025 map"; California's Prop 50 response drawn "overwhelmingly for partisan reasons" with no race-predominance finding — the live race/party discriminator | `tx-ca-2025` | S1 on P1 (rulings/measure) |
 
 ## F — The CONTROL (direction runs opposite — keeps the case honest)

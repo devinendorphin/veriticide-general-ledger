@@ -15,6 +15,12 @@ by Chief Justice Roberts. (Slip opinion to be pulled to PDF at capture.)
   questions**.
 - The decision left the admitted, precise partisan intent of North Carolina's map (see `rucho-record`)
   without a federal remedy.
+- **Bipartisan on its face:** Rucho (No. 18-422) was decided together with **Lamone v. Benisek**
+  (No. 18-726), and the Court left in place **both** North Carolina's **Republican** gerrymander **and**
+  Maryland's **Democratic** gerrymander (the 2011 map led by Gov. Martin O'Malley). The
+  non-justiciability shield protects whoever draws the map — the load-bearing fact for this packet's
+  structural (not partisan) posture. (Source: en.wikipedia.org/wiki/Rucho_v._Common_Cause; SCOTUS slip
+  op. 18-422 consolidated with 18-726.)
 
 **Why it is here:** this is the keystone of the produced unknowability — an effect computed and admitted
 is placed beyond the reach of the courts that would recognize it as harm.

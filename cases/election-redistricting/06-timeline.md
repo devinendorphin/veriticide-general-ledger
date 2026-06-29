@@ -17,6 +17,7 @@ is computed/admitted · **CTRL** a CONTROL (recognition occurs) · **HARM** real
 | 2024-05-23 | **MEAS** | *Alexander v. SC NAACP*, 602 U.S. 1 — **"presumption of legislative good faith"**; challengers must **"disentangle race and politics,"** typically via an alternative map | `alexander` |
 | 2025 | **HARM** | Mid-decade map war: Texas redraws (Trump-urged, ~+5 GOP seats) — a 2-1 federal panel finds "substantial evidence" of a **racial** gerrymander; California's Prop 50 responds (~+5 Dem seats), drawn **overwhelmingly for partisan reasons**, no race-predominance finding — the live race/party discriminator | `tx-ca-2025` |
 | 2026-04-29 | **MEAS** | *Louisiana v. Callais*, No. 24-109 — §2 racial-vote-dilution enforcement **eviscerated**; stricter challenger standard imposed; the §2 path *Milligan* ran on is narrowed | `callais` |
+| 2026 (post-Callais) | **HARM** | Realized cascade: Louisiana enacts a map **eliminating a majority-Black district**; **Tennessee** eliminates its **sole** majority-minority district; **Florida** moves to dismantle majority-minority districts — representation opportunities removed **for the 2026 elections** | `callais` |
 
 ## What the ordering establishes
 

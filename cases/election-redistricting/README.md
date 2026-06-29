@@ -42,10 +42,11 @@ political viability as either "just politics" or as unknowable.
 | 00 | Charge theory | `00-charge-theory.md` |
 | 01 | Evidence matrix | `01-evidence-matrix.md` |
 | 02 | Source bundle | `02-source-bundle.md` |
-| 03 | Adversarial check | `03-adversarial-check.md` |
+| 03 | Adversarial check (incl. red-team pass, Defenses 1–8) | `03-adversarial-check.md` |
 | 04 | Falsification memo | `04-falsification-memo.md` |
 | 05 | Custody manifest | `05-custody-manifest.md` |
 | 06 | Timeline | `06-timeline.md` |
+| 07 | Step-one demand (preservation · disclosure · audit · restraint) | `07-demand.md` |
 | — | Evidence store + runbook | `evidence/` · `evidence/CAPTURE-RUNBOOK.md` |
 
 ## Charging register (Convention v0.2.1)
