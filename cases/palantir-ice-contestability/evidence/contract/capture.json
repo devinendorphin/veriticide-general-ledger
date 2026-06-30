@@ -1,0 +1,18 @@
+{
+  "item_id": "contract",
+  "source_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "bears_date": "2025-04-00",
+  "grade": "P1 (federal award record)",
+  "track": "authorization/instrument \u2014 the ICE sole-source award",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "5a97ca4cfd3257e6f2e8621ed792967a54d9da3c824ef17facd060e6f341936e",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "USASpending is a JS SPA; WARC preserves the canonical locator even if the body is a shell. Facts corroborated by S1 (Axios/AIC).",
+  "verified_at": "2026-06-30T21:23:32.388541Z"
+}

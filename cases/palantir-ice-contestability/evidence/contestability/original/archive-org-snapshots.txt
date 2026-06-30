@@ -1,0 +1,7 @@
+# Wayback third-party snapshots for contestability
+# generated 2026-06-30T21:24:08.897053Z via archive.org availability API
+# NOTE: Save Page Now requires an archive.org login (unavailable this session),
+# so NEW snapshots could not be created. Existing snapshots recorded below.
+
+https://www.biometricupdate.com/202601/ice-using-data-and-probability-to-decide-where-to-detain-and-arrest-people
+  -> http://web.archive.org/web/20260513205403/https://www.biometricupdate.com/202601/ice-using-data-and-probability-to-decide-where-to-detain-and-arrest-people  (ts 20260513205403, status 200)
