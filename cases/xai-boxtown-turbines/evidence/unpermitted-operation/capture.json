@@ -1,0 +1,19 @@
+{
+  "item_id": "unpermitted-operation",
+  "source_url": "https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/",
+  "capture_method": "Sanctioned web capture via Claude Code agent proxy (2026-06-30, open egress). Canonical URL + verbatim transcript.md hashed (LOCATOR-VERIFIED); original-form WARC+PDF+PNG pending the capture.sh --promote run in this same session.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T00:00:00Z",
+  "bears_date": "2025-07-17",
+  "grade": "S1 (secondary; embeds P1 permit + SCHD determination)",
+  "track": "predicate / instrument \u2014 unpermitted operation + 'nonroad' exemption frame",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "87372c314bf66722dfc9241e2092ac98e1d43b580d03d379cddbd6f9b301945c",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) (WARC+body, document-only). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "The unpermitted-operation predicate; exemption legality sub judice.",
+  "verified_at": "2026-06-30T19:51:12.915772Z",
+  "source_url_alt": "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/"
+}

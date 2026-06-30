@@ -1,0 +1,18 @@
+{
+  "item_id": "appeal-challenge",
+  "source_url": "https://www.cnbc.com/2025/07/16/musks-xai-permits-challenged-by-naacp-environmental-groups-memphis.html",
+  "capture_method": "Sanctioned web capture via Claude Code agent proxy (2026-06-30, open egress). Canonical URL + verbatim transcript.md hashed (LOCATOR-VERIFIED); original-form WARC+PDF+PNG pending the capture.sh --promote run in this same session.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T00:00:00Z",
+  "bears_date": "2025-07-16",
+  "grade": "P1 (appeal filing) + S1 (coverage)",
+  "track": "RECOGNITION-LIVE \u2014 stay-triggering appeal (the Tier-4 falsifier)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "d4c0545023162dbd57cadeacfd85be6e2bc1a09cb4f31eb9aca8159c216e6aeb",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) (WARC+body, document-only). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Load-bearing CONTROL against any veriticide reading: the commons functioned.",
+  "verified_at": "2026-06-30T19:51:12.915772Z"
+}

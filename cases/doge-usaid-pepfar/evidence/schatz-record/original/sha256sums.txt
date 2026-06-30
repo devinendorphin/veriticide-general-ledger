@@ -1,0 +1,5 @@
+795bb488eb2f4635e0a27e6bfc591093b76f96cc009d2e0a4bf21e9a802f9361  ./www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.html
+8961c203ffa4f2c8d76d6e1441ba6e6eeeaa4d197b2716567cf85b9b6a3cb8dc  ./www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.html
+74c49d36dfc5dae1b8cf2b2dde2d75454c7b1a61268f5057259270f6fef58d54  ./www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.warc
+8b2f928bcc625ca24883063674419d868d97b888720fc3ed7e24140a6e430e90  ./www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.warc
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log

@@ -1,0 +1,3 @@
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./www.washingtonpost.com_investigations_interactive_2025_usaid-trump-malaria-hiv-d.html
+606e5590623b4188b7f87fbb7b9cb6a93a5e45a34dd9c740dfb0e3820d5afc8b  ./www.washingtonpost.com_investigations_interactive_2025_usaid-trump-malaria-hiv-d.warc
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log

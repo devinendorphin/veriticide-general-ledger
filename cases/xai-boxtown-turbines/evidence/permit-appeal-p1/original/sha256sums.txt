@@ -1,0 +1,2 @@
+ab75444eb75f82d1d14a18db75bf689df091ca2c8f4ca34782f6120f617fef40  ./cdn.arstechnica.net_wp-content_uploads_2025_07_NAACP-and-YGGs-xAI-Air-Permit-Appeal-7-15-2.bin
+b9fa66f40487f9aca4d19c2736d521fdee06b9b63c9acc2032d12e9a8d6c7154  ./cdn.arstechnica.net_wp-content_uploads_2025_07_NAACP-and-YGGs-xAI-Air-Permit-Appeal-7-15-2.warc

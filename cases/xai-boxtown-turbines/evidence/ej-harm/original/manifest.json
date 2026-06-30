@@ -1,0 +1,15 @@
+{
+  "item": "ej-harm",
+  "captured_at": "2026-06-30T19:51:12.915772Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.nbcnews.com_news_us-news_musk-xai-colossus-supercomputer-boxtown-memphis-ten.warc": {
+      "sha256": "0ea6251f982aeebc9a999b1213ba205326197d074479b83bf7b36c63756a6b77",
+      "bytes": 463421
+    },
+    "www.nbcnews.com_news_us-news_musk-xai-colossus-supercomputer-boxtown-memphis-ten.html": {
+      "sha256": "fd2d73e0898ebbaafe69011e04b37df67f858eeaa6ec4e86814d3648dfe2c8a4",
+      "bytes": 457639
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "item_id": "redaction-asymmetry",
+  "source_url": "https://www.cnn.com/2026/02/05/politics/justice-department-under-scrutiny-for-revealing-victim-info-and-concealing-possible-enablers-in-epstein-files",
+  "capture_method": "Sanctioned web search + reporting pages via Claude Code agent proxy (full egress). Locator + structural text verified; original-form bytes captured by capture.sh. NO survivor identifying information is reproduced or captured beyond what the reporting itself contains (the reporting does not name survivors).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-02-05",
+  "grade": "S1 (CNN) on P1 conduct",
+  "track": "Redaction Inversion \u2014 load-bearing (II(2)(d))",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "7c8bfa297d4fa93033e1a9e9e91079e2b6ce6ec256d3265b3f54278d04642707",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 10 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "DOJ Epstein-files survivor re-exposure. No-reproduction discipline: documents the exposure without restating any survivor identity. Approximate bears_date (Feb 2026 reporting window); confirm at capture.",
+  "verified_at": "2026-06-29T08:30:13.375349Z"
+}

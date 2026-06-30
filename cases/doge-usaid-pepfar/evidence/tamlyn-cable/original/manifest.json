@@ -1,0 +1,19 @@
+{
+  "item": "./tamlyn-cable",
+  "captured_at": "2026-06-28T21:58:59.992207Z",
+  "artifact_count": 3,
+  "artifacts": {
+    "www.washingtonpost.com_investigations_interactive_2025_usaid-trump-malaria-hiv-d.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.washingtonpost.com_investigations_interactive_2025_usaid-trump-malaria-hiv-d.warc": {
+      "sha256": "606e5590623b4188b7f87fbb7b9cb6a93a5e45a34dd9c740dfb0e3820d5afc8b",
+      "bytes": 4155
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

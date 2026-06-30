@@ -1,0 +1,59 @@
+{
+  "item": "./named-deaths",
+  "captured_at": "2026-06-28T21:17:15.791258Z",
+  "artifact_count": 13,
+  "artifacts": {
+    "sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.warc": {
+      "sha256": "72e2e16639752cbd9ac62e37fcdb54396f1863fc7a9443367864d88a4fd8b642",
+      "bytes": 3407104
+    },
+    "www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.warc": {
+      "sha256": "b8d94ca34d380b99a49840eec8482c22440db1cd1c5e97f2b346c8f2b5cb6b61",
+      "bytes": 209596883
+    },
+    "www.washingtonpost.com_investigations_interactive_2025_usaid-trump-malaria-hiv-d.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.washingtonpost.com_world_2025_06_29_sudan-usaid-funding-cuts-trump-musk_.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.warc": {
+      "sha256": "fcbbbfd2b8d818dfcf87e3d1a04dc15ab623fc2a95e8a868a791c556d83aa91f",
+      "bytes": 4126842
+    },
+    "www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.warc": {
+      "sha256": "bd8e71885a39b777f306b779fef466ef593800cd93200f6d4825bff64e9feb83",
+      "bytes": 169519181
+    },
+    "sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.html": {
+      "sha256": "be093db74f0378def0e40ab62a2c21fb2434ae60b179b0f67460e10a7c182891",
+      "bytes": 3304648
+    },
+    "www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.html": {
+      "sha256": "86808b0d2543b520e14c18d83f2b3f2388e54fda63daaaa1ee1e3bbead0ff429",
+      "bytes": 207735774
+    },
+    "www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.html": {
+      "sha256": "c1c5bc51e43c296218ae6ec14767b6932302d206cee83bc791b2da78371005dd",
+      "bytes": 167910351
+    },
+    "www.washingtonpost.com_investigations_interactive_2025_usaid-trump-malaria-hiv-d.warc": {
+      "sha256": "0c8ec71ad6ccfcec04e4fa86fd875ebe3ccaff5cd80895286c239cc3db07d5bf",
+      "bytes": 4155
+    },
+    "www.washingtonpost.com_world_2025_06_29_sudan-usaid-funding-cuts-trump-musk_.warc": {
+      "sha256": "9f0cd8cf45cdc57e3fb80f57c59e8f8654030d7a68c5cd4d9c564ae8cfaf644a",
+      "bytes": 4045
+    },
+    "www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.html": {
+      "sha256": "4908bd0e0ead239e7e8e1e556d56df095de673101a5e2dea6cc6d113975ab61f",
+      "bytes": 3987755
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

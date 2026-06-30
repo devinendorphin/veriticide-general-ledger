@@ -32,12 +32,15 @@ auditor, reporter, or oversight body actually needs:
 | — | Capture & custody store | `evidence/` | the preserved artifacts (Track F) |
 | — | **Canonical custody index** | `evidence/custody-index.md` | single source of truth for custody + grade |
 
-The evidence artifacts are preserved in `evidence/` at custody state **`LOCATOR-VERIFIED`**
-(canonical URL + verbatim text + integrity hash). **`evidence/custody-index.md` is the single
-authoritative record of each item's custody state and grade** — it is mechanically generated
-from the per-item `capture.json` files, so the status tables elsewhere cannot drift from it.
-Full original-form preservation (`VERIFIED`) is blocked by this environment's egress policy and
-is the next custody action; see `evidence/README.md` and `05-custody-manifest.md`.
+The evidence artifacts are preserved in `evidence/`: as of the 2026-06-28 capture run,
+**13 of 15 items are `VERIFIED`** (original-form WARC + raw HTML, hashed; binaries in off-platform
+custody) and **2 remain `LOCATOR-VERIFIED`** — `tamlyn-cable` and `propublica-internal-memos`,
+which embed a non-public primary and so are not promoted on the strength of the reporting alone.
+**`evidence/custody-index.md` is the single authoritative record of each item's custody state and
+grade** — it is mechanically generated from the per-item `capture.json` files, so the status tables
+elsewhere cannot drift from it. Completing tribunal-grade `VERIFIED` (a named second custodian and
+PDF/screenshot/archive.org artifacts the open-egress run did not produce) is the next custody
+action; see `evidence/README.md`, `evidence/CAPTURE-RUNBOOK.md`, and `05-custody-manifest.md`.
 
 **Doctrinal note (Convention v0.2.1):** this pilot charges the **base offence — instrumental
 veriticide** (elements (a) instrument, (c) legibility, (d) mental element). Conscription

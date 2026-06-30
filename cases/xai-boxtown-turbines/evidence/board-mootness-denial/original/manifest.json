@@ -1,0 +1,15 @@
+{
+  "item": "board-mootness-denial",
+  "captured_at": "2026-06-30T20:15:36.452644Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.actionnews5.com_2025_12_16_shelby-co-air-pollution-control-board-denies-appeal-over-xa.warc": {
+      "sha256": "c54dbd9aa6dfd23618e18296a8f1b5087e43e6b4fdda3163592d12592a23e7a5",
+      "bytes": 183794
+    },
+    "www.actionnews5.com_2025_12_16_shelby-co-air-pollution-control-board-denies-appeal-over-xa.bin": {
+      "sha256": "dd6a8e279a02268258c189895d9460aac1f9dad9f1cf39ea097c856ff2ca4ab1",
+      "bytes": 178815
+    }
+  }
+}

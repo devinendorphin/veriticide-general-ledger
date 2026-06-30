@@ -1,0 +1,6 @@
+fc04fc527d253ad2d9105225f89c1047c7070b5745700294acb01aec6c3b7c4a  ./archive-org-snapshots.txt
+a631fce6e6bf872d30f73b00456a6a23cd1b00710f800777e8301f07d6a06f7b  ./theconversation.com_x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only.html
+31e74182981c0324efa916650c7112d8054d505fe5fb40824e7eaae6c980fb39  ./theconversation.com_x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only.pdf
+2edcc75f90b86cd1d7f4563294232350e029b43e59688e8816dd2626d5e1d212  ./theconversation.com_x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only.png
+53addb1188b7a09dd560a5cd306746505f1caaa4c3bfd44c4cbcc5b1952f6938  ./theconversation.com_x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only.warc
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log

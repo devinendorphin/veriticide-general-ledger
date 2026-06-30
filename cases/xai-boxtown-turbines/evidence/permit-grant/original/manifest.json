@@ -1,0 +1,15 @@
+{
+  "item": "permit-grant",
+  "captured_at": "2026-06-30T19:51:12.915772Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.cnbc.com_2025_07_03_musks-xai-gets-permit-for-turbines-to-power-supercompute.html": {
+      "sha256": "61eb568b792a9aadfe0e765062ee2d64027713258e44ec3a4e38ba70e0014f1d",
+      "bytes": 925948
+    },
+    "www.cnbc.com_2025_07_03_musks-xai-gets-permit-for-turbines-to-power-supercompute.warc": {
+      "sha256": "d67075a635ce15395a57fcbae67f14b1429e52450f38da808d6f77a0ccf566cf",
+      "bytes": 931171
+    }
+  }
+}

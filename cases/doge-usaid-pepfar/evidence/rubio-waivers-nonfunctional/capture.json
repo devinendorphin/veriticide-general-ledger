@@ -7,9 +7,12 @@
   "bears_date": "2025 (Jan-Feb waivers; reporting Feb 2025+)",
   "grade": "S1 (multi-outlet) + reported P1 (DOGE payment-veto account)",
   "track": "Defense-6 rebuttal / A / B / II(2)(c)",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "c0c99fcadfcbcf77bcbd90c39a7ba1750e21e336bbe6e6258eaf9d19b654f33d",
-  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
-  "original_form_capture": "PENDING — confirm the 'DOGE vetoed payments box-by-box' account against its source at original-form capture.",
-  "notes": "Strongest defense (waivers) and its rebuttal; the DOGE-payment-veto fact is the priority original-form target."
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 15 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Strongest defense (waivers) and its rebuttal; the DOGE-payment-veto fact is the priority original-form target.",
+  "verified_at": "2026-06-28T21:35:04.950192Z"
 }

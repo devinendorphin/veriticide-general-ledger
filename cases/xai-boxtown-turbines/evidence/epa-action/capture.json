@@ -1,0 +1,18 @@
+{
+  "item_id": "epa-action",
+  "source_url": "https://earthjustice.org/press/2026/naacp-asks-court-for-emergency-action-to-stop-illegal-air-pollution-from-xais-data-center-power-plant",
+  "capture_method": "Document/PDF WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T20:15:36.452644Z",
+  "bears_date": "2026-00-00",
+  "grade": "P1 (party/counsel press) \u2014 EPA + court track",
+  "track": "recognition continues in court (2026); EPA context",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "bbb8410273f855fd39b6dcf95888f15108f86e0296c95364d0b660e1dfeb0d3f",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Litigation moved to federal court (2026) after the administrative appeal was denied on mootness; EPA confirmed such turbines require permits and was investigating.",
+  "verified_at": "2026-06-30T20:15:36.452644Z"
+}
