@@ -7,7 +7,8 @@ sourced.*
 |---|---|---|
 | **2013 (~)** | Palantir begins providing ICE with **FALCON** and **Investigative Case Management (ICM)**; used in workplace raids and large-scale enforcement | S1 |
 | **2007–2015** | ICE detains/removes **~2,840 U.S. citizens** (the error-and-database backdrop) | ADV/S1 |
-| **2025-04** | ICE awards Palantir **$30M sole-source** to build **ImmigrationOS** (award ID **70CTD022FR0000170**); prototype due **2025-09-25**, full capability target **2027** | **P1** (USASpending) + S1 |
+| **2022-09-26** | Base **ICM** delivery order to Palantir (PIID **70CTD022FR0000170**); total obligation grows to **$150,703,824.61** by 2026 (potential end 2027-09-26) | **P1** (USASpending API) |
+| **2025-04** | **ImmigrationOS** ($30M) added as a reported **enhancement under the ICM vehicle**; prototype due **2025-09-25**, full-capability target **2027** | S1 (Axios/AIC) |
 | **2025-05-01** | Axios/others report the contract and its targeting/self-deportation-tracking scope | S1 |
 | **2025 (mid)** | Congressional oversight: **Menendez** letter; **Goldman/Wyden/Velázquez** demand answers on ICE use of Palantir tech | **P1** |
 | **2025-09-30** | ICE awards Palantir **another ~$30M** for a "voluntary return" program | S1 (Forbes) |

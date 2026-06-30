@@ -1,7 +1,7 @@
 # Wayback third-party snapshots for counter-register
-# generated 2026-06-30T21:24:08.897053Z via archive.org availability API
+# generated 2026-06-30T21:40:31.750781Z via archive.org availability API
 # NOTE: Save Page Now requires an archive.org login (unavailable this session),
 # so NEW snapshots could not be created. Existing snapshots recorded below.
 
 https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup
-  -> http://web.archive.org/web/20260621033734/https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup  (ts 20260621033734, status 200)
+  -> NO EXISTING WAYBACK SNAPSHOT (SPN login required; could not create)

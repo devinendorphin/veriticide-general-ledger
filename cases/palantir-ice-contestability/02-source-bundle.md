@@ -12,6 +12,7 @@ characterization). Custody status in `05`.*
 - **Congressional oversight** — Menendez letter to Palantir (PDF) https://menendez.house.gov/imo/media/doc/palantir_letter.pdf
   · Goldman/Wyden/Velázquez demand https://goldman.house.gov/media/press-releases/goldman-wyden-velazquez-demand-answers-ice-use-palantir-developed-technologies
 - **Palantir SEC 8-K / earnings** (corporate primary; for contract/financial context) https://www.sec.gov/Archives/edgar/data/0001321655/000132165525000007/a2024q4ex991earningsrelease.htm
+- **Palantir blog** — *Correcting the Record: Response to the EFF January 15, 2026 Report* (first-party verbatim defense) https://blog.palantir.com/correcting-the-record-response-to-the-eff-january-15-2026-report-on-palantir-4b3a12536cd2
 - **ACLU SoCal** — U.S. citizen unlawfully arrested/jailed by ICE, suit (party/primary press + filing) https://www.aclusocal.org/press-releases/us-citizen-unlawfully-arrested-handcuffed-and-jailed-ice-sues-government/
 
 ## S1 — quality journalism
