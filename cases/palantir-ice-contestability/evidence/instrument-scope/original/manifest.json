@@ -1,0 +1,15 @@
+{
+  "item": "instrument-scope",
+  "captured_at": "2026-06-30T21:44:50.995843Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.americanimmigrationcouncil.org_blog_ice-immigrationos-palantir-ai-track-immigrants_.bin": {
+      "sha256": "48958ba2bd81e1d4eb646d656b13d618f4d9983fbe0b1f5e6b828c969badc293",
+      "bytes": 214751
+    },
+    "www.americanimmigrationcouncil.org_blog_ice-immigrationos-palantir-ai-track-immigrants_.warc": {
+      "sha256": "56851dbb3252ec93e689a2c28e7d9dafe48bffc3edb9c62fd479c9fefdc4136f",
+      "bytes": 221339
+    }
+  }
+}

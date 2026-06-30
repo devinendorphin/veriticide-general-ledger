@@ -1,0 +1,15 @@
+{
+  "item": "harm-citizen-suit",
+  "captured_at": "2026-06-30T21:44:50.995843Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.aclusocal.org_press-releases_us-citizen-unlawfully-arrested-handcuffed-and-jailed-ice-.bin": {
+      "sha256": "3176c9430cb53ffab3d76b7b746f1bdc6b2792ee5be93dccd9a381960fa6ab4e",
+      "bytes": 58869
+    },
+    "www.aclusocal.org_press-releases_us-citizen-unlawfully-arrested-handcuffed-and-jailed-ice-.warc": {
+      "sha256": "a810285e9d01f204dcfe9e7b5bf86613bf5fcf49aa2392e202b9575b88ad1bc9",
+      "bytes": 63839
+    }
+  }
+}

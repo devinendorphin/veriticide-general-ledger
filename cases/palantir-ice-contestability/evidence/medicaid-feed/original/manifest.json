@@ -1,0 +1,15 @@
+{
+  "item": "medicaid-feed",
+  "captured_at": "2026-06-30T21:44:50.995843Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.eff.org_deeplinks_2026_01_report-ice-using-palantir-tool-feeds-medicaid-data.bin": {
+      "sha256": "462e5129cc4dd7ec201596b71cfcf49685d16ef61ff55453b1e5f854cf602423",
+      "bytes": 59729
+    },
+    "www.eff.org_deeplinks_2026_01_report-ice-using-palantir-tool-feeds-medicaid-data.warc": {
+      "sha256": "5c9f4ebbd44f97c3013992d0d7aa68983242ca755f201a82fa84d0e0d2bf1bff",
+      "bytes": 64782
+    }
+  }
+}
