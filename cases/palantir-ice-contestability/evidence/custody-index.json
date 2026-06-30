@@ -1,10 +1,10 @@
 {
   "generated": "2026-06-30",
   "generator": "evidence/build-custody-index.py",
-  "item_count": 9,
+  "item_count": 10,
   "custody_states": {
     "VERIFIED": 9,
-    "LOCATOR-VERIFIED": 0
+    "LOCATOR-VERIFIED": 1
   },
   "items": [
     {
@@ -17,11 +17,11 @@
     },
     {
       "item_id": "contract",
-      "grade": "P1 (federal award record)",
+      "grade": "P1 (federal award record \u2014 structured JSON)",
       "custody_state": "VERIFIED",
       "track": "authorization/instrument \u2014 the ICE sole-source award",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730",
-      "sha256_transcript": "5a97ca4cfd3257e6f2e8621ed792967a54d9da3c824ef17facd060e6f341936e"
+      "sha256_transcript": "ab9fbaace817627be5625d90410ab581257c46c43184a40cad72f8091449274d"
     },
     {
       "item_id": "counter-register",
@@ -78,6 +78,14 @@
       "track": "authorization/foreseeability \u2014 congressional oversight",
       "source_url": "https://menendez.house.gov/imo/media/doc/palantir_letter.pdf",
       "sha256_transcript": "ea43a123b5af7b1b4e419afc715e917c2fccfc26605d2c273afb3b73be0c950c"
+    },
+    {
+      "item_id": "palantir-defense",
+      "grade": "P1 (company's own published statement)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "counter-register (first-party) \u2014 the neutral-tool defense",
+      "source_url": "https://blog.palantir.com/correcting-the-record-response-to-the-eff-january-15-2026-report-on-palantir-4b3a12536cd2",
+      "sha256_transcript": "63e5ac4f9a1fecc7fa58d03d4fda0777ba9f223e0b533d3a41944a3e8c3532ac"
     }
   ]
 }

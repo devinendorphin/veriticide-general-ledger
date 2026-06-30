@@ -5,14 +5,14 @@
   "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
   "captured_at": "2026-06-30T21:23:32.388541Z",
   "bears_date": "2025-04-00",
-  "grade": "P1 (federal award record)",
+  "grade": "P1 (federal award record \u2014 structured JSON)",
   "track": "authorization/instrument \u2014 the ICE sole-source award",
   "custody_state": "VERIFIED",
-  "sha256_transcript": "5a97ca4cfd3257e6f2e8621ed792967a54d9da3c824ef17facd060e6f341936e",
+  "sha256_transcript": "ab9fbaace817627be5625d90410ab581257c46c43184a40cad72f8091449274d",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
-  "notes": "USASpending is a JS SPA; WARC preserves the canonical locator even if the body is a shell. Facts corroborated by S1 (Axios/AIC).",
+  "notes": "Upgraded from JS-shell to the USASpending API JSON. ICM vehicle total $150.7M (P1); $30M ImmigrationOS is the reported enhancement under it (S1).",
   "verified_at": "2026-06-30T21:23:32.388541Z"
 }

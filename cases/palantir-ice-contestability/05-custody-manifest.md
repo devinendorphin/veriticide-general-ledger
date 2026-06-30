@@ -48,3 +48,24 @@ post-run.
 
 *Custody manifest v1, 2026-06-30. Status: VERIFIED in-session; `contract` locator-grade; off-platform
 backup PARTIAL. The index governs; this narrative does not inflate past it.*
+
+---
+
+## Follow-up captures (2026-06-30, "tighten" pass) — items now 10 (9 VERIFIED · 1 LOCATOR)
+
+- **`contract` upgraded to P1 structured record.** The USASpending **API/JSON** was captured (replacing
+  the JS-shell as the held artifact): PIID 70CTD022FR0000170, Palantir ← DHS/ICE, **total obligation
+  $150,703,824.61**, "ICM O&M Support Services and Custom Enhancements," POP 2022-09-26→2026-05-04
+  (potential 2027-09-26). **Precision correction:** this is the **ICM vehicle ($150.7M, P1)**; the **$30M
+  ImmigrationOS** is the April-2025 enhancement under it (S1-reported), not a separate award. Case text
+  (00/01/06/README) corrected accordingly.
+- **`palantir-defense` added — first-party verbatim, LOCATOR-VERIFIED.** Palantir's own blog
+  ("Correcting the Record…") is the D-1 neutral-tool defense in its own words. **blog.palantir.com is
+  Medium-hosted and blocks automated capture** (0 bytes via wget, incl. browser-UA), and has **no
+  Wayback snapshot**, so the item is **LOCATOR-VERIFIED**: canonical URL + verbatim quotes preserved and
+  hashed in the transcript, no original-form WARC. A manual/browser save is the open step.
+- **Wayback pass is best-effort:** the availability API rate-limited some queries this session; recorded
+  snapshots vary by run and are committed as found. Not a precise durable count.
+
+*Custody manifest v2, 2026-06-30. 10 items · 9 VERIFIED · 1 LOCATOR-VERIFIED (`palantir-defense`).
+`contract` now P1 JSON. The index governs.*

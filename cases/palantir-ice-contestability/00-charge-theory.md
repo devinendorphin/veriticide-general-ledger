@@ -43,7 +43,7 @@ instrument's demonstrated/risked outputs**, not off any stated target list.
 
 | # | Component | Move / Element | Item |
 |---|---|---|---|
-| 1 | **Instrument, real + operated:** ImmigrationOS ($30M, Apr 2025, sole-source ID 70CTD022FR0000170; ICM deal >$145M); FALCON/ICM since 2013; ELITE probabilistic targeting; fuses IRS/SSA/DMV/passport/LPR data | Art. II(3)(a) Instrument | `contract`, `instrument-scope` |
+| 1 | **Instrument, real + operated:** the ICM vehicle (PIID 70CTD022FR0000170, **$150.7M**, Palantir←DHS/ICE, 2022→2027, **P1**); **ImmigrationOS** ($30M, Apr 2025) the reported enhancement under it; FALCON/ICM since 2013; ELITE probabilistic targeting; fuses IRS/SSA/DMV/passport/LPR data | Art. II(3)(a) Instrument | `contract`, `instrument-scope` |
 | 2 | **Authorization chain:** ICE/DHS sole-source award → Palantir; documented in federal records + congressional oversight letters | Track B (authorization) | `contract`, `oversight` |
 | 3 | **Harm pathway:** fused, **error-laden** data → probabilistic "likely lives here" scores → home entry/arrest/detention/removal | Tier 3 material/liberty harm | `contestability`, `harm` |
 | 4 | **Contestability failure:** confidence scores reported **insufficient to meet warrant standards**, used to justify entry/arrest; subject cannot inspect/correct the basis | Move 4 (unfalsifiable overlay) + Move 5 (proceduralism) | `contestability` |

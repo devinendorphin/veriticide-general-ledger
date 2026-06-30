@@ -7,7 +7,7 @@ survives. Counter-register logged beside the charge, never suppressed.*
 
 **D-1 — "We are a neutral tool; the agency decides."** Palantir builds software; ICE officers make
 apprehension and detention decisions and bear the legal duty (warrants, probable cause). A vendor is not
-the state actor. *(This is the strongest defense — the attribution joint.)*
+the state actor. **In Palantir's own words** (`palantir-defense`): "we — as contractors to the federal government — should not be in a position to set policy on behalf of the US Government," and are "not an oversight authority entrusted with scrutinizing or questioning executive branch actors." *(This is the strongest defense, now first-party — the attribution joint.)*
 
 **D-2 — "Analytics ≠ the deprivation."** A confidence score is an input to human judgment, not the
 seizure itself; agents, courts, and supervisors stand between the score and any liberty deprivation.

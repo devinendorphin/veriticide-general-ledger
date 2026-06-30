@@ -6,8 +6,9 @@ the cluster names, **contestability failure**.*
 
 ## The knife, in brief
 
-**Palantir** is paid under an ICE **sole-source contract** (ImmigrationOS, $30M, April 2025, award ID
-**70CTD022FR0000170**; part of an ICM deal grown past **$145M**) to build and support the
+**Palantir** is paid under an ICE/DHS **sole-source ICM contract** (PIID **70CTD022FR0000170**, total
+obligation **$150.7M**, P1 via USASpending; **ImmigrationOS** is the $30M April-2025 enhancement under
+it) to build and support the
 deportation-targeting stack (ImmigrationOS / ICM / FALCON / **ELITE**) that fuses tax, benefits, DMV,
 passport/visa, and license-plate data and emits probabilistic "where a removable person likely lives"
 scores used to direct apprehension. The charge is the **contestability gap**: the instrument's
@@ -31,7 +32,7 @@ DECLINED.** The **hard joint is attribution** ("we're a neutral tool") — conce
 | `02-source-bundle.md` | Graded sources (P1 federal/congressional · S1 journalism · ADV advocacy-marked) |
 | `03-adversarial-check.md` | Palantir's defense steel-manned (the attribution/neutral-tool joint), then what survives |
 | `04-falsification-memo.md` | What would defeat or shrink the charge |
-| `05-custody-manifest.md` | Custody status (capture run) |
+| `05-custody-manifest.md` | Custody status — 10 items, **9 VERIFIED · 1 LOCATOR** (`palantir-defense`, Medium-blocked) |
 | `06-timeline.md` | Chronology 2013 → 2026 |
 
 ## Status

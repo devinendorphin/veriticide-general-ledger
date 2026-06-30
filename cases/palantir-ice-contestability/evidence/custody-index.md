@@ -7,12 +7,12 @@
 > bundle, custody manifest) shows a custody state that conflicts with this table, **this
 > table is authoritative.** Per-row custody marks elsewhere are indicative/historical.
 
-**Generated:** 2026-06-30 · **Items:** 9 · **VERIFIED:** 9 · **LOCATOR-VERIFIED:** 0
+**Generated:** 2026-06-30 · **Items:** 10 · **VERIFIED:** 9 · **LOCATOR-VERIFIED:** 1
 
 | Item | Grade | Custody | Track | sha256(transcript) |
 |---|---|---|---|---|
 | `contestability` | S1 (journalism) + court testimony | VERIFIED | contestability failure — ELITE scores vs warrant standard | `b5b524a32dfa…` |
-| `contract` | P1 (federal award record) | VERIFIED | authorization/instrument — the ICE sole-source award | `5a97ca4cfd32…` |
+| `contract` | P1 (federal award record — structured JSON) | VERIFIED | authorization/instrument — the ICE sole-source award | `ab9fbaace817…` |
 | `counter-register` | ADV (aggregator) + Palantir position as reported | VERIFIED | counter-register + charge aggregator | `da0be6fc7761…` |
 | `harm-citizen-suit` | P1 (party press + court filing) | VERIFIED | harm specimen — U.S. citizen wrongful arrest | `1b64a92f8aa1…` |
 | `harm-npr` | S1 (journalism) | VERIFIED | harm pathway — people caught in the surveillance web | `849385241e31…` |
@@ -20,6 +20,7 @@
 | `medicaid-feed` | ADV/S1 (EFF report) | VERIFIED | NULL/PARTIAL — Medicaid-data feed | `377e22317b56…` |
 | `oversight-goldman` | P1 (congressional press) | VERIFIED | recognition-live — Goldman/Wyden/Velazquez demand | `bc5eda4060c9…` |
 | `oversight-menendez` | P1 (congressional letter) | VERIFIED | authorization/foreseeability — congressional oversight | `ea43a123b5af…` |
+| `palantir-defense` | P1 (company's own published statement) | LOCATOR-VERIFIED | counter-register (first-party) — the neutral-tool defense | `63e5ac4f9a1f…` |
 
 ## Custody states
 
