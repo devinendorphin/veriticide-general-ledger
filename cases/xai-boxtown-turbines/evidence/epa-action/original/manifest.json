@@ -1,0 +1,15 @@
+{
+  "item": "epa-action",
+  "captured_at": "2026-06-30T20:15:36.452644Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "earthjustice.org_press_2026_naacp-asks-court-for-emergency-action-to-stop-illegal-air-poll.warc": {
+      "sha256": "2f8d3983ec37966b6ceafa90cdca2d5de642e42b19a3e4d1056e43d6bd338ac9",
+      "bytes": 436647
+    },
+    "earthjustice.org_press_2026_naacp-asks-court-for-emergency-action-to-stop-illegal-air-poll.bin": {
+      "sha256": "1a5deba8470f089633794fb471c717730e02729780d99b876ac68ff730d6437e",
+      "bytes": 431297
+    }
+  }
+}

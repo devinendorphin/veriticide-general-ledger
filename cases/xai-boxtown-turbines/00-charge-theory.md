@@ -43,7 +43,7 @@ perpetrator's stated target.
 
 | # | Component | Move / Element | Item |
 |---|---|---|---|
-| 1 | **Instrument, genuine + emitting:** methane gas turbines installed to power the data center; on the order of dozens on site per April-2025 aerial imagery | Art. II(3)(a) Instrument | `turbine-survey`, `permit` |
+| 1 | **Instrument, genuine + emitting:** methane gas turbines; **peaked at 35 units / >420 MW** ("larger than some TVA power plants"), **largest/among-largest NOₓ source in the county** (~1,000–2,508 tpy NOₓ), per the P1 appeal filing | Art. II(3)(a) Instrument | `permit-appeal-p1`, `turbine-survey` |
 | 2 | **Unpermitted operation:** turbines installed and run ~a year before any air permit; SCHD later treated them under a "nonroad/temporary" theory | predicate (regulatory evasion) | `permit`, `selc-appeal` |
 | 3 | **Legibility — harm knowable pre-deployment:** Memphis in ozone non-attainment; Boxtown's documented pre-existing pollution burden | Art. II(3)(c) Legibility | `nonattainment`, `ej-burden` |
 | 4 | **Laundering frame:** "nonroad engine" exemption; "backup-only / negligible impact"; Chamber's "business continuity"; jobs/$30M tax | Moves 5 (euphemism/proceduralism) + 6 (benefit reframe) | `permit`, `chamber-stmt` |
@@ -65,18 +65,22 @@ effect; here the instrument **is** the emission source.)
 |---|---|
 | (a) **Instrument** | **Met (strong)** — physical emitting turbines at scale. |
 | (b) **Conscription** | **N/A** — not charged. |
-| (c) **Legibility** | **Met (strong)** — non-attainment status + Boxtown's documented burden made the marginal harm foreseeable before the first turbine ran. |
-| (d) **Mental element** | **Operator level: knowing operation** of unpermitted emitting equipment is documented; **intent to harm is NOT asserted** — the charge is knowing imposition of foreseeable burden, not malice. |
+| (c) **Legibility** | **Met (strong)** — non-attainment status + Boxtown's burden made the harm foreseeable; and the regulator was given **dated written notice** (`selc-letter-2024-08`, 2024-08-26; `selc-letter-2025-04`, 2025-04-09) **during** the unpermitted period. |
+| (d) **Mental element** | **Operator level: knowing operation** of unpermitted emitting equipment is documented; **EPA confirmed** such turbines require permits (`epa-action`), undercutting the good-faith-exemption read; **intent to harm is NOT asserted** — the charge is knowing imposition of foreseeable burden, not malice. |
 
 ## Tier placement — **bounded, and this is the case's spine**
 
 - **Tier 1–3 — material / subgraph harm: MET (pending air-monitoring confirmation).** A delineable,
   already-overburdened population bears a fresh, foreseeable pollution load.
-- **Tier 4 — veriticide proper: WEAK / NOT MET.** The recognition commons **functioned**: SELC's
-  appeal (a live stay), the NAACP's Clean Air Act action, 2,000+ public comments, and sustained
-  national press (ICN, CNN, NBC, CNBC, TIME) all named the harm contemporaneously. The "nonroad" and
-  "negligible" frames were **attempted** laundering that **failed to foreclose** recognition. Charging
-  Tier 4 here would be the over-reach this project exists to refuse.
+- **Tier 4 — veriticide proper: WEAK / NOT MET.** The recognition commons **functioned**: the appeal,
+  the NAACP's Clean Air Act action, 1,700–2,000+ public comments, and sustained national press named
+  the harm contemporaneously. The administrative appeal was later **denied on "mootness"
+  (~2025-12-15)** — an administrative closure, **not** a merits vindication — and recognition then
+  **relocated to federal court (2026 NAACP emergency action)** rather than being foreclosed. The
+  "nonroad"/"negligible" frames were **attempted** laundering that did **not** foreclose recognition.
+  Charging Tier 4 here would be the over-reach this project exists to refuse. *(Whether the mootness
+  denial itself functions as a proceduralism closure is a question for the court — flagged, not
+  asserted.)*
 
 ## The respondent — and the enabling condition (kept distinct)
 
