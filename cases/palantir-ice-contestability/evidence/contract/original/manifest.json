@@ -1,12 +1,8 @@
 {
   "item": "contract",
-  "captured_at": "2026-06-30T21:39:38.786024Z",
-  "artifact_count": 4,
+  "captured_at": "2026-06-30T21:44:50.995843Z",
+  "artifact_count": 3,
   "artifacts": {
-    "archive-org-snapshots.txt": {
-      "sha256": "e599f6e43e4159f2b679f5b2e7c24519c32d8d5cdb88d28acd329b47e3e78d20",
-      "bytes": 430
-    },
     "www.usaspending.gov_award_CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730.warc": {
       "sha256": "0db5d8861f9090e8ea3086ae550f2660e5053d20ffc6457fe30ac8b8a23caf47",
       "bytes": 7793
