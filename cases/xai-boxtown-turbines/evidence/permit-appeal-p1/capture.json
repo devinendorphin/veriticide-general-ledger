@@ -1,0 +1,18 @@
+{
+  "item_id": "permit-appeal-p1",
+  "source_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/NAACP-and-YGGs-xAI-Air-Permit-Appeal-7-15-2025.pdf",
+  "capture_method": "Document/PDF WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T20:15:36.452644Z",
+  "bears_date": "2025-07-15",
+  "grade": "P1 (the appeal legal filing itself)",
+  "track": "authorization/recognition \u2014 the P1 appeal document",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "d7a8cec0a895e3e235a57e9221213d90224196c4d341a5029d778e0abd523157",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "P1 original of the appeal (was held only via secondary coverage in appeal-challenge).",
+  "verified_at": "2026-06-30T20:15:36.452644Z"
+}

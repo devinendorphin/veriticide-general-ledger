@@ -1,0 +1,2 @@
+eef80725b5bfdc2382f9b0c8c5ad2af010a20711c6414a491a6f0ee1d1b8b997  ./interactive.localmemphis.com_pdfs_2025-04-09_Letter_from_SELC_et_al._to_SCHD_re_xAI_s_New_.bin
+b9394c5e2cb917b5bb645b7365c2ba858899d8ab42cd2c05fa94756585363e03  ./interactive.localmemphis.com_pdfs_2025-04-09_Letter_from_SELC_et_al._to_SCHD_re_xAI_s_New_.warc

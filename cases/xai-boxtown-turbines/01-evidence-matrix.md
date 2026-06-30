@@ -24,3 +24,22 @@ contested/advocacy-cited) · OPEN.*
 **Load-bearing conjunction (item 2 + 3 + 4 + 5):** a permit-triggering emitting instrument, run
 unpermitted, in a non-attainment airshed, beside an overburdened protected population. Remove any one
 and the knife dulls — which is exactly what `04-falsification-memo.md` tests.
+
+---
+
+## P1 PROMOTION + CORRECTIONS (2026-06-30 capture run)
+
+Going to primaries upgraded grades and **corrected** several rows. `evidence/custody-index.md` governs
+custody; this section governs the facts where it conflicts with the original table above.
+
+| # | Item | Establishes | Source grade | Status |
+|---|---|---|---|---|
+| 1′ | `permit-appeal-p1` | Instrument **peaked at 35 turbines / >420 MW** ("larger than some TVA power plants"); install began **~June 2024** without any permit; **~1,000–2,508 tpy NOₓ** (1,000–2,100 per filing; 2,508 per SELC); **largest/among-largest NOₓ source in the county** | **P1** (the appeal filing) | **VERIFIED** — supersedes the "exact count CONTESTED" note: the *peak* count (35) is now P1; "15" is the permitted subset |
+| 8 | `selc-letter-2024-08` | Regulator given **dated written notice (2024-08-26)** of unpermitted operation — foreseeability/Track C | **P1** | **VERIFIED** |
+| 9 | `selc-letter-2025-04` | Second dated notice (2025-04-09) to SCHD | **P1** | **VERIFIED** |
+| 10 | `epa-action` | **EPA confirmed** such turbines **require permits** (undercuts the "nonroad" exemption, D-4); EPA investigating; **2026 NAACP federal-court emergency action** (recognition relocated, not foreclosed) | **P1** (party/counsel) + reported | **VERIFIED** (held); EPA determination *letter* itself still OPEN |
+| 11 | `board-mootness-denial` | Air Pollution Control Board **denied the appeal on mootness (~2025-12-15)**; xAI presented "no high pollution" data (un-independent) | S1 | **VERIFIED** |
+
+**Permit PDF (01156-01PC) — still OPEN:** the actual SCHD permit document was **not locatable at a
+public URL**; its conditions (15 turbines, 300 MW, backup-only, 110 hrs/yr, rolling caps) are held via
+S1 coverage. The permit PDF itself is a **step-one disclosure demand**, not a held P1 original.

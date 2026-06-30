@@ -20,7 +20,16 @@ case's most important CONTROL: combustion backup is not per se wrongful.
 
 **D-4 — "The Clean Air Act didn't apply (nonroad/temporary engines)."** SCHD itself adopted this
 reading. It is a colorable regulatory position, not a fringe one — which is why the dispute is in an
-appeal, not a slam-dunk enforcement action.
+appeal, not a slam-dunk enforcement action. **However**, the captured record now shows **EPA confirmed
+that large methane gas turbines like these require construction/air permits** (`epa-action`), which
+materially weakens D-4 — the federal authority on the statute contradicts the exemption read.
+
+**D-6 — "We won the appeal; our data shows no high pollution."** The Air Pollution Control Board
+**denied the challenge on mootness (~2025-12-15)**, and xAI presented data of "no high levels of
+pollution near the communities." This is the strongest live counter on the **realized-harm** limb — and
+it cuts both ways: it is xAI's own, un-independent data, which is exactly why the case's step-one demand
+is **independent** ambient monitoring. The mootness denial is an administrative closure, not a merits
+finding; litigation continued in federal court (2026).
 
 **D-5 — "Jobs and tax base."** Hundreds of jobs and ~$30M first-year tax revenue are a genuine public
 benefit for a city that sought the investment.

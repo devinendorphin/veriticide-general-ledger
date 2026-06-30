@@ -4,9 +4,9 @@
 URL-CITED to **original-form captured**. The canonical index `evidence/custody-index.md` **governs**;
 this page is narrative. Honest limits (blocked sources, off-platform backup) are stated, not papered.*
 
-## Current custody status: **VERIFIED (in-session) — 6/6 items**
+## Current custody status: **VERIFIED (in-session) — 11/11 items**
 
-Per `evidence/custody-index.md` (mechanically derived): **6 VERIFIED · 0 LOCATOR-VERIFIED.**
+Per `evidence/custody-index.md` (mechanically derived): **11 VERIFIED · 0 LOCATOR-VERIFIED.** (6 original items + 5 P1/disposition items captured in the (b) run: `permit-appeal-p1`, `selc-letter-2024-08`, `selc-letter-2025-04`, `epa-action`, `board-mootness-denial`.)
 
 | Item | Held original-form artifact | Custody |
 |---|---|---|

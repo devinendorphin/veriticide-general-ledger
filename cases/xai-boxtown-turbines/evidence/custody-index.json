@@ -1,9 +1,9 @@
 {
   "generated": "2026-06-30",
   "generator": "evidence/build-custody-index.py",
-  "item_count": 6,
+  "item_count": 11,
   "custody_states": {
-    "VERIFIED": 6,
+    "VERIFIED": 11,
     "LOCATOR-VERIFIED": 0
   },
   "items": [
@@ -14,6 +14,14 @@
       "track": "RECOGNITION-LIVE \u2014 stay-triggering appeal (the Tier-4 falsifier)",
       "source_url": "https://www.cnbc.com/2025/07/16/musks-xai-permits-challenged-by-naacp-environmental-groups-memphis.html",
       "sha256_transcript": "d4c0545023162dbd57cadeacfd85be6e2bc1a09cb4f31eb9aca8159c216e6aeb"
+    },
+    {
+      "item_id": "board-mootness-denial",
+      "grade": "S1 (local broadcast, on-record ruling)",
+      "custody_state": "VERIFIED",
+      "track": "disposition \u2014 board denied appeal on mootness (~2025-12-15)",
+      "source_url": "https://www.actionnews5.com/2025/12/16/shelby-co-air-pollution-control-board-denies-appeal-over-xais-turbine-use-citing-mootness/",
+      "sha256_transcript": "3e3f1288dc06092bc215a12571ba5057d3570205fe3d678e7bdc860fa78413f3"
     },
     {
       "item_id": "chamber-defense",
@@ -32,12 +40,44 @@
       "sha256_transcript": "5391caeb8cbe1f9b63f55edafb255ca6bb5a6ecf550206b8d187584750bf607c"
     },
     {
+      "item_id": "epa-action",
+      "grade": "P1 (party/counsel press) \u2014 EPA + court track",
+      "custody_state": "VERIFIED",
+      "track": "recognition continues in court (2026); EPA context",
+      "source_url": "https://earthjustice.org/press/2026/naacp-asks-court-for-emergency-action-to-stop-illegal-air-pollution-from-xais-data-center-power-plant",
+      "sha256_transcript": "bbb8410273f855fd39b6dcf95888f15108f86e0296c95364d0b660e1dfeb0d3f"
+    },
+    {
+      "item_id": "permit-appeal-p1",
+      "grade": "P1 (the appeal legal filing itself)",
+      "custody_state": "VERIFIED",
+      "track": "authorization/recognition \u2014 the P1 appeal document",
+      "source_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/NAACP-and-YGGs-xAI-Air-Permit-Appeal-7-15-2025.pdf",
+      "sha256_transcript": "d7a8cec0a895e3e235a57e9221213d90224196c4d341a5029d778e0abd523157"
+    },
+    {
       "item_id": "permit-grant",
       "grade": "S1 (embeds P1: SCHD permit)",
       "custody_state": "VERIFIED",
       "track": "authorization \u2014 SCHD permit, 15 turbines, 2025-07-02",
       "source_url": "https://www.cnbc.com/2025/07/03/musks-xai-gets-permit-for-turbines-to-power-supercomputer-in-memphis.html",
       "sha256_transcript": "1a88239a8434f6769cf2f6ba8ef5c91f11378db886dd0b3d94fa2e6c8eb44161"
+    },
+    {
+      "item_id": "selc-letter-2024-08",
+      "grade": "P1 (dated correspondence to the regulator)",
+      "custody_state": "VERIFIED",
+      "track": "foreseeability \u2014 early notice to SCHD (2024-08-26)",
+      "source_url": "https://interactive.localmemphis.com/pdfs/2024-08-26-Letter-to-SCHD-re-xAI-operating-without-permits.pdf",
+      "sha256_transcript": "2fed26c719074d1e2e712fce5e625ea91694a2c89dd10bffb3e7e1140ed503bd"
+    },
+    {
+      "item_id": "selc-letter-2025-04",
+      "grade": "P1 (dated correspondence to the regulator)",
+      "custody_state": "VERIFIED",
+      "track": "foreseeability \u2014 SELC et al. to SCHD (2025-04-09)",
+      "source_url": "https://interactive.localmemphis.com/pdfs/2025-04-09_Letter_from_SELC_et_al._to_SCHD_re_xAI's_New_Turbines.pdf",
+      "sha256_transcript": "6646a4be5120f438c9f31581514693853f06117cb969982137ebe5906e5c0cff"
     },
     {
       "item_id": "turbine-survey",

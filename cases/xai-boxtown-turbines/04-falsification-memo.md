@@ -9,8 +9,10 @@ checkable.*
 1. **The exemption is legally correct.** If the Air Pollution Control Board (or a court) rules the
    turbines genuinely fell under a valid "nonroad/temporary engine" exemption, the
    **unpermitted-operation predicate (item 3)** collapses into "lawful interim operation," and the case
-   reduces to a siting/EJ grievance without the regulatory-evasion spine. **Status: OPEN (sub judice).**
-   This is the single most likely defeater and is flagged as such.
+   reduces to a siting/EJ grievance without the regulatory-evasion spine. **Status: OPEN, but weakened** —
+   EPA has confirmed such turbines require permits (`epa-action`), cutting against the exemption read,
+   and the Dec-2025 board denial was on **mootness, not the merits**, so it did not validate the
+   exemption. Still the most likely defeater, now less likely.
 
 2. **Independent air monitoring shows no marginal degradation.** If ambient NOₓ/formaldehyde
    monitoring around Boxtown during the unpermitted phase shows no attributable increase over baseline,

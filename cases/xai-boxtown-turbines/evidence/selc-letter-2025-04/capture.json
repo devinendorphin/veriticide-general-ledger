@@ -1,0 +1,18 @@
+{
+  "item_id": "selc-letter-2025-04",
+  "source_url": "https://interactive.localmemphis.com/pdfs/2025-04-09_Letter_from_SELC_et_al._to_SCHD_re_xAI's_New_Turbines.pdf",
+  "capture_method": "Document/PDF WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T20:15:36.452644Z",
+  "bears_date": "2025-04-09",
+  "grade": "P1 (dated correspondence to the regulator)",
+  "track": "foreseeability \u2014 SELC et al. to SCHD (2025-04-09)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "6646a4be5120f438c9f31581514693853f06117cb969982137ebe5906e5c0cff",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Second dated notice to the regulator re: new turbines.",
+  "verified_at": "2026-06-30T20:15:36.452644Z"
+}
