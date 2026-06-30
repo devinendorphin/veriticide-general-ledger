@@ -1,0 +1,15 @@
+{
+  "item": "chamber-defense",
+  "captured_at": "2026-06-30T19:51:12.915772Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "memphischamber.com_economic-development_xai_.html": {
+      "sha256": "95a3829a5077235e1f1af5f7429841e3a6a46187cb7ac15c37b1d8530f9ee445",
+      "bytes": 169815
+    },
+    "memphischamber.com_economic-development_xai_.warc": {
+      "sha256": "bbea880372f24c9f62678192ada2406bc8fcd4a4b4fec8e28fafd44d583f9463",
+      "bytes": 173960
+    }
+  }
+}

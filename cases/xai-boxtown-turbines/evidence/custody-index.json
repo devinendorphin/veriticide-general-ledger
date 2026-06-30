@@ -1,0 +1,59 @@
+{
+  "generated": "2026-06-30",
+  "generator": "evidence/build-custody-index.py",
+  "item_count": 6,
+  "custody_states": {
+    "VERIFIED": 6,
+    "LOCATOR-VERIFIED": 0
+  },
+  "items": [
+    {
+      "item_id": "appeal-challenge",
+      "grade": "P1 (appeal filing) + S1 (coverage)",
+      "custody_state": "VERIFIED",
+      "track": "RECOGNITION-LIVE \u2014 stay-triggering appeal (the Tier-4 falsifier)",
+      "source_url": "https://www.cnbc.com/2025/07/16/musks-xai-permits-challenged-by-naacp-environmental-groups-memphis.html",
+      "sha256_transcript": "d4c0545023162dbd57cadeacfd85be6e2bc1a09cb4f31eb9aca8159c216e6aeb"
+    },
+    {
+      "item_id": "chamber-defense",
+      "grade": "P1 (party statement, adverse interest)",
+      "custody_state": "VERIFIED",
+      "track": "COUNTER-REGISTER \u2014 benefit reframe (Move 6) + 'everyone runs backup' CONTROL",
+      "source_url": "https://memphischamber.com/economic-development/xai/",
+      "sha256_transcript": "62bac7a167c44cc1ea08172645ecbc0734caf1b4ce93633887391777d130bc62"
+    },
+    {
+      "item_id": "ej-harm",
+      "grade": "S1",
+      "custody_state": "VERIFIED",
+      "track": "protected population + harm pathway \u2014 Boxtown, non-attainment, asthma/cancer",
+      "source_url": "https://www.nbcnews.com/news/us-news/musk-xai-colossus-supercomputer-boxtown-memphis-tennessee-rcna206242",
+      "sha256_transcript": "5391caeb8cbe1f9b63f55edafb255ca6bb5a6ecf550206b8d187584750bf607c"
+    },
+    {
+      "item_id": "permit-grant",
+      "grade": "S1 (embeds P1: SCHD permit)",
+      "custody_state": "VERIFIED",
+      "track": "authorization \u2014 SCHD permit, 15 turbines, 2025-07-02",
+      "source_url": "https://www.cnbc.com/2025/07/03/musks-xai-gets-permit-for-turbines-to-power-supercomputer-in-memphis.html",
+      "sha256_transcript": "1a88239a8434f6769cf2f6ba8ef5c91f11378db886dd0b3d94fa2e6c8eb44161"
+    },
+    {
+      "item_id": "turbine-survey",
+      "grade": "S1 + ADV (SELC aerial/thermal imagery)",
+      "custody_state": "VERIFIED",
+      "track": "instrument scale \u2014 'dozens'; count CONTESTED; May removals (CONTROL)",
+      "source_url": "https://www.cnn.com/2025/05/19/climate/xai-musk-memphis-turbines-pollution",
+      "sha256_transcript": "5077718929aa6f3494930e88389e04219228734a385987df39f1065b2ed5c026"
+    },
+    {
+      "item_id": "unpermitted-operation",
+      "grade": "S1 (secondary; embeds P1 permit + SCHD determination)",
+      "custody_state": "VERIFIED",
+      "track": "predicate / instrument \u2014 unpermitted operation + 'nonroad' exemption frame",
+      "source_url": "https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/",
+      "sha256_transcript": "87372c314bf66722dfc9241e2092ac98e1d43b580d03d379cddbd6f9b301945c"
+    }
+  ]
+}

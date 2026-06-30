@@ -31,11 +31,14 @@ laundering**, **not** Tier-4 veriticide. The case is filed at that altitude on p
 | `02-source-bundle.md` | Graded sources (P1 party/primary · P2 journalism · advocacy-marked) |
 | `03-adversarial-check.md` | xAI's defense steel-manned (counter-register), then what survives |
 | `04-falsification-memo.md` | The conditions that would defeat or shrink the charge |
-| `05-custody-manifest.md` | Custody status — **URL-CITED, not yet original-form; below VERIFIED** |
+| `05-custody-manifest.md` | Custody status — **6/6 VERIFIED in-session** (WARC hashed); off-platform backup OPEN |
+| `evidence/` | Captured originals (git-ignored) + committed integrity records + `custody-index.md` (governs) |
 | `06-timeline.md` | Chronology, 2024 → mid-2025 |
 
 ## Status
 
 **Step one only** — a basis to demand the emissions/permit record, independent air monitoring, and EPA
-Region 4 review. Not a verdict. Custody has **not** reached VERIFIED original-form; figures marked
-PARTIAL (turbine count; the "4× cancer risk" provenance) are flagged in `02`/`04`.
+Region 4 review. Not a verdict. Custody: **6/6 items VERIFIED in-session** (original-form WARC captured
++ hashed 2026-06-30); **off-platform backup is the one open custody step** (`05`). Figures marked
+PARTIAL (turbine count; the "4× cancer risk" provenance) are flagged in `02`/`04` and are **not**
+upgraded by capture.

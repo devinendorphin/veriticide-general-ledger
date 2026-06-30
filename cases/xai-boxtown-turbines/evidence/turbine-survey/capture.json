@@ -1,0 +1,18 @@
+{
+  "item_id": "turbine-survey",
+  "source_url": "https://www.cnn.com/2025/05/19/climate/xai-musk-memphis-turbines-pollution",
+  "capture_method": "Sanctioned web capture via Claude Code agent proxy (2026-06-30, open egress). Canonical URL + verbatim transcript.md hashed (LOCATOR-VERIFIED); original-form WARC+PDF+PNG pending the capture.sh --promote run in this same session.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T00:00:00Z",
+  "bears_date": "2025-05-19",
+  "grade": "S1 + ADV (SELC aerial/thermal imagery)",
+  "track": "instrument scale \u2014 'dozens'; count CONTESTED; May removals (CONTROL)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "5077718929aa6f3494930e88389e04219228734a385987df39f1065b2ed5c026",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) (WARC+body, document-only). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Presence VERIFIED; exact count PARTIAL. Removals credited as mitigation.",
+  "verified_at": "2026-06-30T19:51:12.915772Z"
+}
