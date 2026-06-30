@@ -1,0 +1,15 @@
+{
+  "item": "counter-register",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.aclu.org_news_privacy-technology_palantir-deportation-roundup.warc": {
+      "sha256": "8b12147729abc903194a379a67b1039f1221a60427bf75d3ae77d45446777e45",
+      "bytes": 84303
+    },
+    "www.aclu.org_news_privacy-technology_palantir-deportation-roundup.bin": {
+      "sha256": "fe2a45924660e4dea1c02e1cc35c40f4ba132d9764e6ce0ebd66ba86e6e87dfe",
+      "bytes": 77203
+    }
+  }
+}

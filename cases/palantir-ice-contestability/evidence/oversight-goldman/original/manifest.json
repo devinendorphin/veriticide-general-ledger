@@ -1,0 +1,15 @@
+{
+  "item": "oversight-goldman",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "goldman.house.gov_media_press-releases_goldman-wyden-velazquez-demand-answers-ice-use-pala.warc": {
+      "sha256": "21731c272b3c272cb3206d0b8180d68b45c1380210acda757d54d366bbe045ee",
+      "bytes": 66050
+    },
+    "goldman.house.gov_media_press-releases_goldman-wyden-velazquez-demand-answers-ice-use-pala.bin": {
+      "sha256": "1ad38a55b724ecd95227dbf88871cd1570658e7ab5228001c6e08b453701c5a4",
+      "bytes": 61010
+    }
+  }
+}

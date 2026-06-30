@@ -1,0 +1,18 @@
+{
+  "item_id": "harm-npr",
+  "source_url": "https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "bears_date": "2026-03-04",
+  "grade": "S1 (journalism)",
+  "track": "harm pathway \u2014 people caught in the surveillance web",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "849385241e31edf5c3cec0d738afc8d5f7b478dbfaea36993e8f47a53fce0c0d",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Named harm-pathway reporting.",
+  "verified_at": "2026-06-30T21:23:32.388541Z"
+}

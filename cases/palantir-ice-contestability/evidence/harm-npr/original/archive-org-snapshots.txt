@@ -1,0 +1,7 @@
+# Wayback third-party snapshots for harm-npr
+# generated 2026-06-30T21:24:08.897053Z via archive.org availability API
+# NOTE: Save Page Now requires an archive.org login (unavailable this session),
+# so NEW snapshots could not be created. Existing snapshots recorded below.
+
+https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify
+  -> http://web.archive.org/web/20260626065035/https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify  (ts 20260626065035, status 200)

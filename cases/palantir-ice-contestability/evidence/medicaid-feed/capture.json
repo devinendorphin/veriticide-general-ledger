@@ -1,0 +1,18 @@
+{
+  "item_id": "medicaid-feed",
+  "source_url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "bears_date": "2026-01-00",
+  "grade": "ADV/S1 (EFF report)",
+  "track": "NULL/PARTIAL \u2014 Medicaid-data feed",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "377e22317b562e81d9ce1fdaacc7325343c493f4edd0b82c64e2655c674d069c",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Reported expansion of data fusion; filed PARTIAL.",
+  "verified_at": "2026-06-30T21:23:32.388541Z"
+}

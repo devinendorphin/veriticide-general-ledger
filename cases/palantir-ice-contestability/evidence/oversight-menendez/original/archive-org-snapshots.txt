@@ -1,0 +1,7 @@
+# Wayback third-party snapshots for oversight-menendez
+# generated 2026-06-30T21:24:08.897053Z via archive.org availability API
+# NOTE: Save Page Now requires an archive.org login (unavailable this session),
+# so NEW snapshots could not be created. Existing snapshots recorded below.
+
+https://menendez.house.gov/imo/media/doc/palantir_letter.pdf
+  -> NO EXISTING WAYBACK SNAPSHOT (SPN login required; could not create)
