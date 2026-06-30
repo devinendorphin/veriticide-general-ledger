@@ -1,0 +1,7 @@
+# Wayback third-party snapshots for selc-letter-2024-08
+# generated 2026-06-30T20:24:29.759679Z via archive.org availability API
+# NOTE: Save Page Now requires an archive.org login (unavailable this session),
+# so NEW snapshots could not be created. Existing snapshots recorded below.
+
+https://interactive.localmemphis.com/pdfs/2024-08-26-Letter-to-SCHD-re-xAI-operating-without-permits.pdf
+  -> NO EXISTING WAYBACK SNAPSHOT (SPN login required; could not create)

@@ -54,3 +54,25 @@ Per `evidence/custody-index.md` (mechanically derived): **11 VERIFIED · 0 LOCAT
 
 *Custody manifest v2, 2026-06-30. Status: VERIFIED in-session (hashes committed); off-platform backup
 OPEN. The index governs; this narrative does not inflate past it.*
+
+---
+
+## archive.org pass (2026-06-30) — partial off-platform custody
+
+Save Page Now **requires an archive.org login** (unavailable this session), so **new** snapshots could
+not be created. Instead the Wayback **availability API** was queried for every captured source URL, and
+existing third-party snapshots were recorded in each `original/archive-org-snapshots.txt` (committed).
+
+- **10 of 12 source URLs** have an existing Internet-Archive snapshot (incl. the P1 `permit-appeal-p1`
+  filing PDF, Wayback crawl 2026-06-08; the news items, crawls mid/late-June 2026). These are durable,
+  third-party-held copies that survive this container.
+- **2 URLs have no Wayback snapshot:** the two SELC letter PDFs on `interactive.localmemphis.com`
+  (`selc-letter-2024-08`, `selc-letter-2025-04`). SPN-create was unavailable (login). These remain held
+  **only** as in-container WARC + committed hash until backed up off-platform by other means.
+
+**Honesty caveat — corroborant, not byte-match.** A Wayback snapshot is an **independent crawl at its
+own timestamp** (recorded in the snapshots file), not a byte-identical copy of today's WARC. It
+corroborates the URL and its content at a near date; the in-repo `manifest.json` hash remains the
+exact-capture record. So off-platform custody is now **PARTIAL**: 10/12 URLs third-party-corroborated;
+exact-byte off-platform backup of the WARC/PDF artifacts (and the 2 un-snapshotted letters) is still
+open and would need an authenticated SPN or a manual copy out of this workspace.
