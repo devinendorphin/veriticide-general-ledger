@@ -1,0 +1,15 @@
+{
+  "item": "unpermitted-operation",
+  "captured_at": "2026-06-30T19:51:12.915772Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.selc.org_news_xai-built-an-illegal-power-plant-to-power-its-data-center_.html": {
+      "sha256": "3e19bc0a9e85a73a8a5e0c8d340c309030f5f29153d6d81caef7ecc69ffedff6",
+      "bytes": 136850
+    },
+    "www.selc.org_news_xai-built-an-illegal-power-plant-to-power-its-data-center_.warc": {
+      "sha256": "619bcdc9cd392aae38ac424f1d2bc3add2ea1172d711bb6440c2f933fcccff20",
+      "bytes": 141755
+    }
+  }
+}

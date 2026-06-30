@@ -1,0 +1,19 @@
+{
+  "item": "./rubio-hfac-testimony",
+  "captured_at": "2026-06-28T21:31:21.794641Z",
+  "artifact_count": 3,
+  "artifacts": {
+    "www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.warc": {
+      "sha256": "94f4023adf0ff06b49fd824915d182b86e6f3de5e55e1397ee81bd75a3f04615",
+      "bytes": 4079986
+    },
+    "www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.html": {
+      "sha256": "98744683e548fa32a02203bc290221de92e1819b0f0eb99f9f34d93f4aab7025",
+      "bytes": 3941259
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

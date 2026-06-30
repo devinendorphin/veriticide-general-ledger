@@ -1,0 +1,127 @@
+{
+  "item": "./paid-lift-operations",
+  "captured_at": "2026-06-29T04:19:45.258271Z",
+  "artifact_count": 30,
+  "artifacts": {
+    "www.isdglobal.org_digital-dispatch_russian-influence-operation-doppelganger-link.warc": {
+      "sha256": "5a02e4e09eba38ca79147251fd890f37e4ab2f59bb3b089e7dae91523a0e6283",
+      "bytes": 5762618
+    },
+    "archive-org-snapshots.txt": {
+      "sha256": "52720ff3eadf427576aedf181ec7b24f2f9a259de940868a8a8dc7c59c6ff9b0",
+      "bytes": 765
+    },
+    "www.theguardian.com_world_2023_feb_15_revealed-disinformation-team-jorge-claim-m.warc": {
+      "sha256": "67cf2dda770e7d3484dbd6cb8d7305a02d193c051dff843a524c4436e6c0c5d4",
+      "bytes": 2310035
+    },
+    "www.bleepingcomputer.com_news_security_us-disrupts-ai-powered-bot-farm-pushing-r.pdf": {
+      "sha256": "c7eb7e0d91c6e3dfecb3b1dc6779de6e7fe5cc7640c9348fe8814aaf3039621a",
+      "bytes": 53719
+    },
+    "therecord.media_russia-disinformation-bots-social-media-us-canada-netherlands-al.pdf": {
+      "sha256": "e25ca902e66508ec150b90026f7925c24ec9704b0d4a604243a250c316c3f3f5",
+      "bytes": 51866
+    },
+    "gizmodo.com_team-jorge-election-meddling-tal-hanan-misinformation-1850120328.html": {
+      "sha256": "0c2c75ed013e2072f21bec6fac0602b50debedb4fd613e50c224df1597445311",
+      "bytes": 7750588
+    },
+    "www.theguardian.com_world_2023_feb_15_revealed-disinformation-team-jorge-claim-m.png": {
+      "sha256": "c44b5d224c8c0c203d5a7e91bf9c98459be65efb98caae34f900e0baa196a1b9",
+      "bytes": 37118
+    },
+    "therecord.media_russia-disinformation-bots-social-media-us-canada-netherlands-al.html": {
+      "sha256": "70194bccb651fa420881f885ce5cf7f461b1d6aabf512165ff48bc0d6fe1c927",
+      "bytes": 1833409
+    },
+    "gizmodo.com_team-jorge-election-meddling-tal-hanan-misinformation-1850120328.pdf": {
+      "sha256": "e22ee72e80c2a4c0a004dfccbf4b32c7e29162225edb0738b3a842ec1a6bb4a9",
+      "bytes": 51952
+    },
+    "therecord.media_russians-sanctioned-disinformation-social-design-agency-company-.png": {
+      "sha256": "535f6e9970cc3404f25986e2a8890f54017e210ff71c373d7c4831d993dc6f95",
+      "bytes": 36903
+    },
+    "www.justice.gov_usao-edpa_pr_justice-department-disrupts-covert-russian-governme.html": {
+      "sha256": "16c8e112bfa56212fa8ea2791078270031e7ac413a762ada04c6d596e3255c1a",
+      "bytes": 294880
+    },
+    "www.bleepingcomputer.com_news_security_us-disrupts-ai-powered-bot-farm-pushing-r.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "therecord.media_russians-sanctioned-disinformation-social-design-agency-company-.warc": {
+      "sha256": "fc6f3f8e726c689aba25737f713cc09cdc1a65be1df72a235486f2f016e6cfb8",
+      "bytes": 2240011
+    },
+    "www.bleepingcomputer.com_news_security_us-disrupts-ai-powered-bot-farm-pushing-r.warc": {
+      "sha256": "c7fac50165a14ded6b36eddbd6fbacca9b8cb23c0f84f882bd42b290c0ca3c01",
+      "bytes": 11724
+    },
+    "www.bleepingcomputer.com_news_security_us-disrupts-ai-powered-bot-farm-pushing-r.png": {
+      "sha256": "134e3d58b4d2faa7462013991c241ed698f6f97842cefcd74b459335b46e9c1b",
+      "bytes": 37765
+    },
+    "gizmodo.com_team-jorge-election-meddling-tal-hanan-misinformation-1850120328.png": {
+      "sha256": "7f1f2ac4d524d67bb8479ad23bc38cc7b20d109bf154d1a952057f7267ea1c25",
+      "bytes": 35924
+    },
+    "www.theguardian.com_world_2023_feb_15_revealed-disinformation-team-jorge-claim-m.html": {
+      "sha256": "3fed796ec74380e187af27fd10fc64463a474a62afa83a512b852324e022286d",
+      "bytes": 2130477
+    },
+    "www.justice.gov_usao-edpa_pr_justice-department-disrupts-covert-russian-governme.png": {
+      "sha256": "cff79be2698a061b9f96e50bbe524ff613d559c750258e3f463520f06dceb265",
+      "bytes": 36709
+    },
+    "www.justice.gov_usao-edpa_pr_justice-department-disrupts-covert-russian-governme.pdf": {
+      "sha256": "a2359a5f34e158e610eb37e1e26b1b5851755cc15d9c7b28c7a3a1ed4358da6a",
+      "bytes": 53212
+    },
+    "therecord.media_russians-sanctioned-disinformation-social-design-agency-company-.html": {
+      "sha256": "ceb76b5c8b2b3eee6359c9fb5d5b88d0b6f1bfbd5a7f4b7b6bc3b8fef22a7279",
+      "bytes": 2103991
+    },
+    "www.isdglobal.org_digital-dispatch_russian-influence-operation-doppelganger-link.png": {
+      "sha256": "2dfd895c5075419a9f3d14c9b82af9cded1809f94e148e1aacbc084c136d7266",
+      "bytes": 36787
+    },
+    "www.justice.gov_usao-edpa_pr_justice-department-disrupts-covert-russian-governme.warc": {
+      "sha256": "db5776a80af2fbd7d7c4a4a5a948a917c1385d0fa891d39a14799a3389f0afca",
+      "bytes": 302267
+    },
+    "www.isdglobal.org_digital-dispatch_russian-influence-operation-doppelganger-link.html": {
+      "sha256": "b592990ac6de3c2947cfeb4b6e5084d3f2eff599b7d74fd2340684fb8fc79ab7",
+      "bytes": 5520630
+    },
+    "therecord.media_russians-sanctioned-disinformation-social-design-agency-company-.pdf": {
+      "sha256": "497f7e05aa818b88765673ba897625717f4893c82c3fc9ce2f5f54162a3ef561",
+      "bytes": 52244
+    },
+    "gizmodo.com_team-jorge-election-meddling-tal-hanan-misinformation-1850120328.warc": {
+      "sha256": "6b44cef4c108be182f0e30d5293933b36ad58a195bdd846316bbe5682354e18e",
+      "bytes": 8234264
+    },
+    "therecord.media_russia-disinformation-bots-social-media-us-canada-netherlands-al.png": {
+      "sha256": "535f6e9970cc3404f25986e2a8890f54017e210ff71c373d7c4831d993dc6f95",
+      "bytes": 36903
+    },
+    "www.isdglobal.org_digital-dispatch_russian-influence-operation-doppelganger-link.pdf": {
+      "sha256": "8c168d37cba27e7dd22a9f62ae7e72f6dde96f93f1922c4ee12e39a0ddee2f12",
+      "bytes": 53952
+    },
+    "therecord.media_russia-disinformation-bots-social-media-us-canada-netherlands-al.warc": {
+      "sha256": "a6bb3b10931c5b25857a4e1bb19e7eee8e532c19b546233644cb130436f0f266",
+      "bytes": 1899598
+    },
+    "www.theguardian.com_world_2023_feb_15_revealed-disinformation-team-jorge-claim-m.pdf": {
+      "sha256": "01ca132d3ec647da26a4afeccc2265671062e5c601bcb5c03711fd3dad60777f",
+      "bytes": 53947
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

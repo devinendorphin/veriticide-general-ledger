@@ -1,0 +1,65 @@
+{
+  "generated": "2026-06-29",
+  "generator": "evidence/build-custody-index.py",
+  "item_count": 6,
+  "account_level_verdict": "DECLINED (high-variance account)",
+  "custody_states": {
+    "SCREENSHOT-HELD": 6
+  },
+  "items": [
+    {
+      "item_id": "agp-breakcore-narrow",
+      "classification": "SPECIMEN-narrow",
+      "register": "medical-pathologizing (vocab-normalization; affirmative frame)",
+      "reach": "3.1K views",
+      "custody_state": "SCREENSHOT-HELD",
+      "screenshot": "/mnt/data/1000026306.jpg",
+      "sha256_transcript": "0e99cfc548d20daf36e4ef8fbb65d1f3463ef7b8d64451f5f1e0c94926627238"
+    },
+    {
+      "item_id": "eating-children-conspiracy",
+      "classification": "SPECIMEN",
+      "register": "Satanic-panic/conspiracy",
+      "reach": "252K views (highest in corpus)",
+      "custody_state": "SCREENSHOT-HELD",
+      "screenshot": "/root/.claude/uploads/a1f72562-9656-5403-a095-cbd8483f7173/742bb7d9-1000027101.jpg",
+      "sha256_transcript": "879edb22adbb8f9fc1b792755474fc3d581680fa8c5deeac954d5363473e54ec"
+    },
+    {
+      "item_id": "epidemic-homely-girls",
+      "classification": "SPECIMEN",
+      "register": "medical-pathologizing",
+      "reach": "12.8K views",
+      "custody_state": "SCREENSHOT-HELD",
+      "screenshot": "/mnt/data/1000026306.jpg",
+      "sha256_transcript": "a94f73c0607e612dfa6cfc87c1d7398b99b0ba9826e67c6352e789c292e97802"
+    },
+    {
+      "item_id": "grooming-vindication",
+      "classification": "SPECIMEN",
+      "register": "grooming/conspiracy",
+      "reach": "60.6K views",
+      "custody_state": "SCREENSHOT-HELD",
+      "screenshot": "/mnt/data/1000026302.jpg",
+      "sha256_transcript": "4ed4429cc0a015abd712d1221f1ccdafef8ff0f4e83e675ff698988a52454f4b"
+    },
+    {
+      "item_id": "shoujo-maxx-chemical-castration",
+      "classification": "SPECIMEN",
+      "register": "medical-pathologizing",
+      "reach": "engagement not captured",
+      "custody_state": "SCREENSHOT-HELD",
+      "screenshot": "/mnt/data/1000026306.jpg",
+      "sha256_transcript": "2cf81ab0126f940f149da1f2353f36f63d1f3abb5c02ed25d24b2ca39cd929f2"
+    },
+    {
+      "item_id": "trans-muslims-death-threats",
+      "classification": "SPECIMEN",
+      "register": "negative-equivalence",
+      "reach": "414 views",
+      "custody_state": "SCREENSHOT-HELD",
+      "screenshot": "/mnt/data/1000026302.jpg",
+      "sha256_transcript": "402c7bca26769603a12cace0c60f5e2b095843e107e3ffe7fac3780c1bf60dda"
+    }
+  ]
+}

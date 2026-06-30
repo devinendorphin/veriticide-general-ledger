@@ -1,0 +1,7 @@
+# Original-form capture produces large binaries (WARC, HTML, PDF, PNG).
+# Per CAPTURE-RUNBOOK.md these live in off-platform custody; only the small
+# integrity records are tracked in-repo so the chain is auditable without GBs.
+*/original/*
+!*/original/manifest.json
+!*/original/sha256sums.txt
+!*/original/archive-org-snapshots.txt

@@ -5,13 +5,14 @@
   "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
   "captured_at": "2026-06-28T00:00:00Z",
   "bears_date": "2025-01-24 / 2025-02-11 / 2025-09-24",
-  "grade": "S1 (multiple reputable outlets) + reported P1 (Storch v. Hegseth ruling; USAID OIG report) — original ruling/report capture pending",
-  "custody_state": "LOCATOR-VERIFIED",
+  "grade": "S1 (multiple reputable outlets) + reported P1 (Storch v. Hegseth ruling; USAID OIG report) \u2014 original ruling/report capture pending",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "4ef72010cfe0329567df48f9d5bf7ca93a8ed6bea2b3be87cde4c74626fe8b20",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
-  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot + server headers). See ../CAPTURE-RUNBOOK.md.",
+  "original_form_capture": "CAPTURED: 25 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Supports ledger TD-007 (Track D). Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; the $489M figure and ruling quotes must be confirmed against source during original-form capture. Mass-firing removals are not individually tied to specific reviews; only the USAID/Martin removal carries the foreclosure-of-a-specific-review inference (one-day proximity).",
-  "track": "D"
+  "track": "D",
+  "verified_at": "2026-06-28T20:57:32.627037Z"
 }

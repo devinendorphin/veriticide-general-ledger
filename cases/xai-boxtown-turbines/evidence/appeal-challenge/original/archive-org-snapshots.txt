@@ -1,0 +1,7 @@
+# Wayback third-party snapshots for appeal-challenge
+# generated 2026-06-30T20:24:29.759679Z via archive.org availability API
+# NOTE: Save Page Now requires an archive.org login (unavailable this session),
+# so NEW snapshots could not be created. Existing snapshots recorded below.
+
+https://www.cnbc.com/2025/07/16/musks-xai-permits-challenged-by-naacp-environmental-groups-memphis.html
+  -> http://web.archive.org/web/20260107203654/https://www.cnbc.com/2025/07/16/musks-xai-permits-challenged-by-naacp-environmental-groups-memphis.html  (ts 20260107203654, status 200)

@@ -1,0 +1,10 @@
+bc9f28a5e5996ffdd89abc8a32a7e40bdb817631ff4d7f698b7e9d863371dc3c  ./archive-org-snapshots.txt
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log
+abae49b45a31c0aff97e9bb735de191839f5eb75a91c0b38a7c1738c99fbbb60  ./www.cbc.ca_news_investigates_epstein-files-redaction-mistakes-9.7073148.html
+7589a143911c20cc287d2c7da5aaeff4cefeff032eb8c2e1dec688794f1813aa  ./www.cbc.ca_news_investigates_epstein-files-redaction-mistakes-9.7073148.pdf
+1ce11acc7d8bc5a3af5b1a7138f382d8f8e17a941c8f25c78fd5bbe21f37865d  ./www.cbc.ca_news_investigates_epstein-files-redaction-mistakes-9.7073148.png
+77ad8271a682018692eaaa1c725f1a1577c76c82a3cecefc481c1c221d684a7f  ./www.cbc.ca_news_investigates_epstein-files-redaction-mistakes-9.7073148.warc
+963f1fb49bb05436b4cfb007859a565b400dcc9af7d546459239571b838a249b  ./www.pbs.org_newshour_politics_government-says-its-fixing-thousands-of-documents-.html
+ddcf013c515898427727ee2bc0bb3810620e90f4c50ad67cfc2f56239267a200  ./www.pbs.org_newshour_politics_government-says-its-fixing-thousands-of-documents-.pdf
+f77aca33b4c8c263c34eedd857ce4a3848c6105a3f5a44a2465ebe00d8297a99  ./www.pbs.org_newshour_politics_government-says-its-fixing-thousands-of-documents-.png
+10ab002834ff6867af7c095d9069ee53ebb9ca28077c3909c5b9d3b6f6a029d8  ./www.pbs.org_newshour_politics_government-says-its-fixing-thousands-of-documents-.warc

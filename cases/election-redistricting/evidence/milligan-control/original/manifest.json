@@ -1,0 +1,20 @@
+{
+  "item": "milligan-control",
+  "captured_at": "2026-06-29T17:36:46.395371Z",
+  "capture_url": null,
+  "artifact_count": 3,
+  "artifacts": {
+    "www.supremecourt.gov_opinions_22pdf_21-1086_1co6.pdf.warc-body": {
+      "sha256": "9d4402b2a89deb22e05d3d5195fe6e1066878e8d5e8420348cf862189218a5da",
+      "bytes": 1508703
+    },
+    "www.supremecourt.gov_opinions_22pdf_21-1086_1co6.pdf.pdf": {
+      "sha256": "9d4402b2a89deb22e05d3d5195fe6e1066878e8d5e8420348cf862189218a5da",
+      "bytes": 1508703
+    },
+    "www.supremecourt.gov_opinions_22pdf_21-1086_1co6.pdf.warc": {
+      "sha256": "bc85d0c88cd3e9a5576ed305b0492165e247dbe681208f5e6ab952acfa08a096",
+      "bytes": 1512806
+    }
+  }
+}
