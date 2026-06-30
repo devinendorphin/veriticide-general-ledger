@@ -1,0 +1,18 @@
+{
+  "item_id": "counter-register",
+  "source_url": "https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "bears_date": "2025-00-00",
+  "grade": "ADV (aggregator) + Palantir position as reported",
+  "track": "counter-register + charge aggregator",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "da0be6fc7761ad3842e7253cea4b545edcb0ef9879e2307e41d3fb7d0ed7306b",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Charge-side aggregator; Palantir's 'neutral tool/ethics' defense recorded as reported (verbatim statement pending).",
+  "verified_at": "2026-06-30T21:23:32.388541Z"
+}

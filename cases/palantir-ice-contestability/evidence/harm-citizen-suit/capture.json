@@ -1,0 +1,18 @@
+{
+  "item_id": "harm-citizen-suit",
+  "source_url": "https://www.aclusocal.org/press-releases/us-citizen-unlawfully-arrested-handcuffed-and-jailed-ice-sues-government/",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "bears_date": "2025-00-00",
+  "grade": "P1 (party press + court filing)",
+  "track": "harm specimen \u2014 U.S. citizen wrongful arrest",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "1b64a92f8aa1c11b56843393fe36a718f766544b2b27d575bdda68470ad3a7cc",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Named contestability-failure instance (citizen wrongly seized).",
+  "verified_at": "2026-06-30T21:23:32.388541Z"
+}

@@ -1,0 +1,18 @@
+{
+  "item_id": "instrument-scope",
+  "source_url": "https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "bears_date": "2025-00-00",
+  "grade": "S1 (policy journalism)",
+  "track": "instrument scope \u2014 data fusion + functions",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "339a5f343e98b1fa8c2bd1836b9c78a986d1abcda10ac1c52b7484580735fd3b",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "ImmigrationOS capabilities as reported.",
+  "verified_at": "2026-06-30T21:23:32.388541Z"
+}
