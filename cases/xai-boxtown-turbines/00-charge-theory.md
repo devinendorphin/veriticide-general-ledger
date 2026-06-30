@@ -108,5 +108,6 @@ proper forum. This packet does not name SCHD as a perpetrator.
 
 *Cross-reference: `docs/ai-energy-climate-pattern-2026-06-30.md` (S-2, the parent pattern entry);
 `ledger/ledger.md` Cluster 9 (Fossil Fuel / AI-Energy Nexus). This page is the cold extract; the
-pattern brief and ledger are the source of record. Custody is **URL-CITED, not yet original-form
-captured** — see `05-custody-manifest.md`; this case has **not** reached VERIFIED original-form custody.*
+pattern brief and ledger are the source of record. Custody (2026-06-30 capture run): **6/6 items
+VERIFIED in-session** (original-form WARC + body hashed; `evidence/custody-index.md` governs), with
+**off-platform backup OPEN** — see `05-custody-manifest.md`.*
