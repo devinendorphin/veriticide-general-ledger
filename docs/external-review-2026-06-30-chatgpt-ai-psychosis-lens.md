@@ -4,6 +4,8 @@
 
 Custody: operator-supplied; review text preserved verbatim in **Appendix** below · Reviewing instrument: ChatGPT (vendor model, version not captured) · This record produced by the formatting-class instrument (this session).
 
+**Adoption status (operator decision, 2026-06-30):** §4 proposed module — **kept as proposal only, NOT adopted** (no change to the live protocol). §2 distillations — **adopted into `docs/veriticide-stack-tier-taxonomy-v0.1.md` Tier 4**: the "correction-environment" phrasing in the Distinguishing-element row, and a Register note preferring "existential drift / dyadic capture" over "psychosis" (citing arXiv 2605.26858). The §3 adversarial findings govern both: the aperture claim is imported as analogy-with-disanalogy, not identity.
+
 ---
 
 ## 1. Citation verification (the X-1 discipline, applied)
