@@ -63,6 +63,8 @@ The far leg's status changes as follows (declared before any result, per the fra
 
 **Feasibility note (honest):** the strongest near-term move is **re-analysis of already-published fungal sedaDNA cores** that also carry human-impact proxies, screened for mycorrhizal taxa across the agricultural/industrial transition — no new fieldwork, existing datasets. That is the cheapest path from "conceded untestable" to a first decidable result, and the appropriate next step if this scope is taken up.
 
+**This step has now been taken up as a pre-registration:** `experiments/paleo-baseline-erasure/` (README-preregistration + `config.yaml` inclusion gates + `cores.yaml` candidate matrix + `run_baseline_erasure.py` unexecuted skeleton). It turns the criteria above into pre-committed hypotheses H1–H4 with a taphonomic control (rarefaction), a climate-attribution control (breakpoint tested against human vs. climate proxies), and a **negative-guild control** (a fungal guild that must *not* track human impact — if it does, the run reports instrument failure, not a baseline finding). The governing category boundary (no modality recovers past network function) is asserted into every output row. Nothing is executed; freeze-and-hash precedes any run.
+
 ---
 
 ## Sources

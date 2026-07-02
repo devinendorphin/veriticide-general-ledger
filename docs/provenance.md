@@ -242,3 +242,16 @@ human-impact proxies is the cheapest first decidable result). The scope's succes
 the *narrow* claim (anthropogenic mycorrhizal-community simplification, forgotten by present baselines) decidable —
 **not** as resolving the Simard/Karst functional-web dispute, which is held out of reach by category. Wired into the
 Tier-6 brief's temporal sub-mechanism and the apex index. No new tribunal-facing claim; step-zero scoping only.
+
+**Third same-day follow-up (operator: "a then b" → item a).** Turned the measurability scope into a runnable
+**pre-registration**, `experiments/paleo-baseline-erasure/` (mirroring `experiments/topic-bearing-gda/`):
+`README-preregistration.md` + `config.yaml` (inclusion gates) + `cores.yaml` (candidate published-core matrix to
+screen) + `run_baseline_erasure.py` (unexecuted skeleton; compiles). It re-analyses already-published fungal
+sedaDNA cores (no fieldwork), primary estimand = *coincidence of the mycorrhizal change-point with the in-core
+human-impact proxy vs. a climate proxy*, with pre-committed outcomes (SUPPORTED / REFUTED / INSTRUMENT-FAILURE) and
+three fail-closed controls: taphonomic (rarefaction, N-1), climate-attribution + collinearity guard (N-4), and a
+**negative-guild control** (H3 — a guild that must not track human impact; if it does, method is the finding). The
+category boundary (no modality recovers past network *function*) is bound into every output row as
+`functional_layer = OUT_OF_REACH_ALWAYS`. Candidate cores include one (Latvia, Lielais Svētiņu) whose published
+signal is a richness *rise* with human impact — included precisely because it can refute H2's simplification
+direction. Unexecuted; freeze-and-hash precedes any run.
