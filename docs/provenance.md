@@ -172,3 +172,123 @@ asserting; x-bot keeps any Musk-direct-authorship vehicle OFF per its conceded a
 Also added `docs/readers-map.md` — a one-page navigation card (journalist / lawyer / community documenter /
 researcher / skeptic entry paths), linked from the README. Navigation only; no new analytic claim.
 Case-file additive change; no charge theory re-litigated.
+
+---
+
+## 2026-07-02 — Apex-tier evidentiary bodies assembled (Tiers 5–6)
+
+The tier taxonomy's evidence-mode axis (v0.2) asserted an evidence mode for the two apex tiers but pointed
+at no **assembled** body a reader could open — unlike Tiers 1–2 (the GDA assay) or Tiers 3–4 (the case files
++ Convention). Tier 5's evidence existed but was **scattered** across two briefs, a case file, and two ledger
+entries; Tier 6's was **not built at all**. This session closed that gap on the designated branch
+`claude/evidentiary-body-tiers-5-6-c72koo`, prompted by the operator's upload of the origin conversation for
+Tiers 5–6 (the mundicide/worldcide construction session).
+
+- **Built `docs/tier6-worldcide-evidentiary-brief-2026-07-02.md`** — the previously-missing Tier-6 body, in the
+  same house discipline as the AI-energy pattern brief: a falsifiable pattern-claim, specimens (cephalopod
+  sentience → UK Animal Welfare (Sentience) Act 2022 on the Birch/LSE 300-study review; NY Declaration on Animal
+  Consciousness 2024; New Caledonian corvid future-planning, Boeckle et al. 2020; honeybee numerical cognition,
+  Howard et al. 2019), controls weighted to count (the "wood-wide web" over-claim correction, Karst/Jones/
+  Hoeksema 2023 *Nature Ecology & Evolution* — kept as the strongest control **because** it is the framework's
+  own instinct over-reaching; anthropomorphism/Clever Hans; "realistic possibility ≠ proven presence"), nulls
+  (the unsolved hard problem; citation-bias risk), the emptiness-declaration corpus (the *bête-machine* lineage →
+  the "biomass/throughput" register), and the rights-of-nature forum (Ecuador; Vilcabamba; Atrato; Te Urewera/
+  Te Awa Tupua; Mar Menor, upheld Nov 2024, first plaintiff May 2026). Custody LOCATOR-VERIFIED (web-retrieved
+  2026-07-02, URLs per item; not yet hashed/archived). The brief comes back **bounded**: it establishes a
+  *directional correction under a precautionary default*, not a census of consciousness.
+
+- **Built `docs/apex-tiers-5-6-evidentiary-index-2026-07-02.md`** — a one-page index gathering Tier 5's existing
+  body (the two AI-energy briefs + `cases/xai-boxtown-turbines/` + Ledger Cluster 9 / Entry 13) and pointing to
+  the new Tier-6 brief. Its load-bearing function is **boundary-forwarding**: it carries each body's own
+  falsification verdict verbatim so the apex tiers do not float free of the bounded evidence — Tier 5 survives as
+  the *directional reversal* (not a civilizational extraction-kill; the brief's own controls refute that), Tier 6
+  as the *directional correction* (not a proven-consciousness census). It also records that the Boxtown case is
+  charged Tier 1–3 and stays there — the nesting does not license inflation.
+
+- **Wired the taxonomy's Tier-5 and Tier-6 evidence-mode rows** to the assembled bodies (added "Assembled body"
+  pointers), so the axis now links a corpus that exists rather than asserting one that did not. Tier-6's row was
+  additionally corrected to state the finding in its bounded, defensible form (recognition expanding *late* toward
+  structure) rather than the looser "wherever we looked we found structure" phrasing, and to name its own control.
+
+Additive + one corrective (the Tier-6 evidence-mode phrasing tightened toward what the assembled body actually
+bears). No tier's protected object, act, distinguishing element, or laundering signature was changed.
+
+**Same-day follow-up (operator pushback on C-1).** The operator raised the shifting-baseline objection to the
+"wood-wide web" control: that CMN research may measure *degraded* forests, so weak-network findings could be
+late-stage decay rather than the native state. Two edits to `docs/tier6-worldcide-evidentiary-brief-2026-07-02.md`
+resulted, both boundary-forwarding rather than claim-expanding:
+- **C-1 caveated with its own bound.** The over-claim verdict is held to refute the *strong mechanism claims as
+  currently evidenced* only; it is noted that disturbance genuinely degrades mycorrhizal complexity (Wurzburger
+  2023) and that no true pre-industrial control forest survives, so the observable ceiling may itself be shifted —
+  but that this *relocates* the question (the flagship claims were made on relatively intact old-growth, and it is
+  their inference + citation bias, untouched by the baseline point, that Karst faults) rather than rehabilitating
+  the strong claim. Held as untestable-open per N-1/N-2, not as a rescue.
+- **New sub-mechanism added to the emptiness-declaration corpus: *temporal emptiness-declaration / baseline
+  erasure*** — shifting baseline syndrome (Pauly 1995) as the time-axis form of the Tier-6 laundering signature
+  (the same discernment-corruption as Tier 4, run across time not species), with its footing stated asymmetrically:
+  documented near-term degradation leg, explicitly-conceded untestable far leg. Added Pauly 1995, Wurzburger 2023,
+  and Beiler/Simard to the brief's sources. Additive; the far-leg claim is charged only as a named mechanism with
+  a conceded untestable component, not as a proven statement about any vanished past.
+
+**Second same-day follow-up (operator: "scope it").** Added `docs/tier6-baseline-erasure-research-scope-2026-07-02.md`
+— a **step-zero measurability scope** for converting the baseline-erasure far leg from "conceded untestable" toward
+measurable, the Tier-6 analogue of what the GDA did for Tiers 1–2. It maps four paleoecological modalities
+(sedimentary ancient DNA as the core test; pollen/charcoal + Indigenous TEK as the aboveground covariate; the deep
+fossil record as context/boundary only; chronosequences flagged as near-circular for *this* question per Walker
+2010), states the category boundary in its top line (no modality recovers past network *topology/function* — only
+composition/richness/host-context), gives a falsifiable claim with **pre-committed support/refute/remains-untestable
+criteria**, five nulls, and a feasibility note (re-analysis of already-published fungal sedaDNA cores carrying
+human-impact proxies is the cheapest first decidable result). The scope's success is explicitly defined as making
+the *narrow* claim (anthropogenic mycorrhizal-community simplification, forgotten by present baselines) decidable —
+**not** as resolving the Simard/Karst functional-web dispute, which is held out of reach by category. Wired into the
+Tier-6 brief's temporal sub-mechanism and the apex index. No new tribunal-facing claim; step-zero scoping only.
+
+**Third same-day follow-up (operator: "a then b" → item a).** Turned the measurability scope into a runnable
+**pre-registration**, `experiments/paleo-baseline-erasure/` (mirroring `experiments/topic-bearing-gda/`):
+`README-preregistration.md` + `config.yaml` (inclusion gates) + `cores.yaml` (candidate published-core matrix to
+screen) + `run_baseline_erasure.py` (unexecuted skeleton; compiles). It re-analyses already-published fungal
+sedaDNA cores (no fieldwork), primary estimand = *coincidence of the mycorrhizal change-point with the in-core
+human-impact proxy vs. a climate proxy*, with pre-committed outcomes (SUPPORTED / REFUTED / INSTRUMENT-FAILURE) and
+three fail-closed controls: taphonomic (rarefaction, N-1), climate-attribution + collinearity guard (N-4), and a
+**negative-guild control** (H3 — a guild that must not track human impact; if it does, method is the finding). The
+category boundary (no modality recovers past network *function*) is bound into every output row as
+`functional_layer = OUT_OF_REACH_ALWAYS`. Candidate cores include one (Latvia, Lielais Svētiņu) whose published
+signal is a richness *rise* with human impact — included precisely because it can refute H2's simplification
+direction. Unexecuted; freeze-and-hash precedes any run.
+
+**Fourth same-day follow-up (operator: "a then b" → item b).** Brought Tier 5 to parity with Tier 6's
+measurability treatment by adding `docs/tier5-mundicide-measurability-scope-2026-07-02.md` — the Tier-5 analogue of
+the baseline-erasure scope. It states the bounded charge as three independently-scored, quantifiable legs
+(filing-attribution audit of self-attributed fossil life-extension; grid CO₂-intensity change-point time-locked to
+compute load with gas/weather controls; a side-neutral salvation-frame asymmetry index), each with pre-committed
+support/refute criteria and its own null (attribution laundering; gas/weather confound; Jevons/absolute ambiguity;
+the counterfactual "would have retired anyway"; the modest-share crumb/cake control; asymmetry ≠ deception). Its
+top-line boundary mirrors Tier 6's: the *net civilizational climate effect* and *account-level guilt* are held out
+of reach by category (parallel to Tier 6's functional-web layer), consistent with the AI-energy brief's own
+controls that the civilizational reading does not survive. Feasibility note names leg (a) — formalizing the brief's
+already-surfaced specimens (Dominion/Clover; 15 postponed coal retirements; DOE emergency orders) into a counted
+MW/Mt inventory — as the cheapest first decidable result and the natural next pre-registration. Wired into the apex
+index and the taxonomy's Tier-5 evidence-mode row. Step-zero scoping; no tribunal-facing claim; no data analysed.
+
+**Reflexive self-correction (operator pushback: the bounding was deflecting from the hubris).** The operator
+identified that the accumulated Tier-5 bounding — "net climate effect held out of reach by category," "account-level
+guilt is step-two" — had drifted into **empirical hostage** (Tier-4 move 8, run on the framework's own behalf):
+making the moral charge hostage to a contested emissions number, bounding the number, then letting the bound stand
+in for the whole charge (the crumb-shown-so-cake-unseen the taxonomy itself warns about). Diagnosis accepted; it is
+the failure mode named in `docs/external-review-2026-07-01-sycophancy-to-power-self-audit.md` (over-applied humility
+toward power = deference to power). The correction distinguishes three objects that had been collapsed into one:
+(1) emissions accounting — *genuinely uncertain, correctly bounded, stays bounded*; (2) salvation-frame asymmetry —
+measurable; and (3) the **self-authorization / hubris** — a small elite arrogating standing to price present, future,
+and more-than-human worlds as acceptable stakes in a short-horizon wager, reversing a hard-won climate correction to
+place it, narrated as thriving. Object (3) is **not** uncertain and **not** touched by any emissions control; it is
+documented in the principals' own captured statements (Altman "gentle singularity" — harms absorbed into the
+aggregate without population-level specification, no falsifiable stopping condition; Yudkowsky p(doom); Entry-13
+longtermist acceptable-cost arithmetic). Edits: added **leg (d)** (the self-authorization / acceptable-wager corpus,
+scored against the Entry-13 circuit-breaker test) to `docs/tier5-mundicide-measurability-scope-2026-07-02.md` as the
+**primary** charge — the most provable leg, not the least, because it depends on no contested physics — with N-7
+(structure, not sincerity; the "300M–1B" magnitude to be sourced, not asserted), a re-scoped "out of reach" (verdict
+and net-effect physics are bounded; the documented wager is not), and feasibility ordering (d) first; and added a
+matching correction to the apex index's "one thing to know" section. The bound stays on the physics; it is removed
+from the hubris. What was RIGHT about the bounding (the physics is uncertain) is preserved — the fix is to stop
+letting the physics stand in for the crime, not to overclaim the physics (which would be sycophancy to the operator,
+equally barred by the Reflexivity Clause).

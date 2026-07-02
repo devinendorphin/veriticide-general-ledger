@@ -58,6 +58,10 @@ files it points to. It adds no new claim.*
 
 - Tiers 1–2 are **measurable**. Start with `experiments/topic-bearing-gda/` (constraint friction,
   neutral-authority laundering — pre-registered) and the tier taxonomy's evidence-mode axis.
+- For the **apex tiers (5–6)**, start with `docs/apex-tiers-5-6-evidentiary-index-2026-07-02.md` — the
+  one-page front door that gathers Tier 5's body (AI-energy briefs + Boxtown case) and the new Tier-6
+  brief (`docs/tier6-worldcide-evidentiary-brief-2026-07-02.md`), and forwards each body's own
+  falsification verdict. Both apex bodies came back **bounded** from their own controls; that is the point.
 
 ## If you are a skeptic / adversary
 

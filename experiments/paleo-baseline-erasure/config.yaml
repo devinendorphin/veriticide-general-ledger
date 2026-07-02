@@ -1,0 +1,84 @@
+# Paleo baseline-erasure re-analysis — run configuration
+# Operationalizes docs/tier6-baseline-erasure-research-scope-2026-07-02.md.
+#
+# STATUS: pre-registration draft. Freeze this file + cores.yaml + run_baseline_erasure.py before any run.
+# Nothing here has been executed. This is a RE-ANALYSIS of published sedaDNA cores — no new fieldwork.
+#
+# GOVERNING BOUNDARY (repeated so it cannot be lost in tooling):
+#   Tests mycorrhizal COMPOSITION / RICHNESS and its coincidence with human impact.
+#   Does NOT test past network TOPOLOGY or FUNCTION. That layer is out of reach by category.
+
+run:
+  id: "paleo-baseline-erasure-v1"
+  builds_on: "docs/tier6-baseline-erasure-research-scope-2026-07-02.md"
+  script: "run_baseline_erasure.py"
+  out_dir: "runs/v1/"
+  random_seed_master: 20260702        # bootstrap / permutation seeding; logged in every row
+  resume_logic: true                  # skip already-recorded (core,response,method) cells
+
+# ---------------------------------------------------------------------------
+# INCLUSION GATES — a candidate core in cores.yaml is ELIGIBLE only if ALL are true.
+# Each core's pass/fail on each gate is logged; ineligible cores are recorded, not silently dropped.
+# ---------------------------------------------------------------------------
+inclusion_gates:
+  has_fungal_metabarcoding: true      # ITS or 18S/SSU fungal sedaDNA, taxonomically assignable to guild
+  has_in_core_human_proxy: true       # cerealia/anthropogenic pollen | charcoal | Sporormiella | SCP | metals — IN THE SAME CORE
+  has_climate_proxy: true             # in-core or tightly-coupled regional climate proxy (attribution control, N-4)
+  has_dated_age_model: true           # 14C / 210Pb age-depth model with reported uncertainty
+  spans_transition: true              # continuous across pre-agricultural -> agricultural/industrial onset for its region
+  read_depth_reported: true           # per-sample read counts available (rarefaction / taphonomic control, N-1)
+  min_samples_across_transition: 8    # enough points each side of the candidate breakpoint to fit one
+  on_ineligible: "log_and_exclude"    # never quietly include a core failing a gate
+
+# ---------------------------------------------------------------------------
+# RESPONSE VARIABLES (pre-specified; see README R1-R3 + negative control)
+# ---------------------------------------------------------------------------
+responses:
+  R1_mycorrhizal_richness:
+    guilds: ["ectomycorrhizal", "arbuscular_mycorrhizal"]
+    normalization: "rarefy_to_min_read_depth"   # N-1 taphonomic control; also report Hill-number q=0,1,2
+  R2_ecto_share:
+    numerator_guild: "ectomycorrhizal"
+    denominator: "total_assignable_fungal_reads"
+  R3_composition:
+    metric: "bray_curtis"
+    reference: "core_own_pre_impact_centroid"    # distance from THIS core's pre-impact state
+  negative_control_guild:
+    guild: "aquatic_planktonic_parasite_or_obligate_saprotroph"
+    expectation: "no_alignment_with_human_impact_breakpoint"   # H3; if it aligns -> INSTRUMENT FAILURE
+
+# ---------------------------------------------------------------------------
+# CHANGE-POINT + ATTRIBUTION (primary estimand = coincidence of breakpoints)
+# ---------------------------------------------------------------------------
+analysis:
+  changepoint_method: "bayesian_changepoint + PELT_crosscheck"  # agree within tolerance or flag
+  age_uncertainty_propagation: "monte_carlo_over_age_model"      # sample age-depth posteriors; H5
+  attribution_test:
+    compare: ["human_impact_proxy_breakpoint", "climate_proxy_breakpoint"]
+    decision: "mycorrhizal breakpoint must align with human-impact breakpoint MORE than climate, above chance"
+    collinearity_guard: "if human & climate proxies co-break within age error, core CANNOT support H1 (flag, exclude from H1 pool)"
+  meta_analysis: "random_effects across eligible cores"          # estimand is cross-core, not single-core
+  multiple_comparisons: "report all responses x cores; pre-registered primary is R2 ecto_share"
+
+# ---------------------------------------------------------------------------
+# THE FORGETTING LEG (N-5 / H4) — separate, explicit
+# ---------------------------------------------------------------------------
+forgetting_test:
+  compare_reconstructed_pre_impact_to: "modern reference/old-growth baseline composition for same biome"
+  baseline_sources: "cite the specific present-day reference datasets used as management targets"
+  decision: "pre-impact composition differs from the modern 'natural' baseline -> forgetting supported (H4)"
+
+# ---------------------------------------------------------------------------
+# CONVERSION CRITERIA (mirror README; enforced by run_baseline_erasure.classify_outcome)
+# ---------------------------------------------------------------------------
+outcomes:
+  supported: "H1 and H2 and H3_holds and H4"
+  refuted: "H1_null or H2_directionless or H4_null"
+  instrument_failure: "H3_null"          # negative control lights up -> method is the finding
+  functional_layer: "OUT_OF_REACH_ALWAYS"
+
+provenance:
+  freeze_and_hash: ["config.yaml", "cores.yaml", "run_baseline_erasure.py", "queries/"]
+  bind_hash_into_every_output_row: true
+  release_for_contest: true              # Standing Protocol Track F
+  custody_state: "LOCATOR-VERIFIED until frozen-set hashed and archived"
