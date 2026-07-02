@@ -229,3 +229,16 @@ resulted, both boundary-forwarding rather than claim-expanding:
   documented near-term degradation leg, explicitly-conceded untestable far leg. Added Pauly 1995, Wurzburger 2023,
   and Beiler/Simard to the brief's sources. Additive; the far-leg claim is charged only as a named mechanism with
   a conceded untestable component, not as a proven statement about any vanished past.
+
+**Second same-day follow-up (operator: "scope it").** Added `docs/tier6-baseline-erasure-research-scope-2026-07-02.md`
+— a **step-zero measurability scope** for converting the baseline-erasure far leg from "conceded untestable" toward
+measurable, the Tier-6 analogue of what the GDA did for Tiers 1–2. It maps four paleoecological modalities
+(sedimentary ancient DNA as the core test; pollen/charcoal + Indigenous TEK as the aboveground covariate; the deep
+fossil record as context/boundary only; chronosequences flagged as near-circular for *this* question per Walker
+2010), states the category boundary in its top line (no modality recovers past network *topology/function* — only
+composition/richness/host-context), gives a falsifiable claim with **pre-committed support/refute/remains-untestable
+criteria**, five nulls, and a feasibility note (re-analysis of already-published fungal sedaDNA cores carrying
+human-impact proxies is the cheapest first decidable result). The scope's success is explicitly defined as making
+the *narrow* claim (anthropogenic mycorrhizal-community simplification, forgotten by present baselines) decidable —
+**not** as resolving the Simard/Karst functional-web dispute, which is held out of reach by category. Wired into the
+Tier-6 brief's temporal sub-mechanism and the apex index. No new tribunal-facing claim; step-zero scoping only.
