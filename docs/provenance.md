@@ -255,3 +255,17 @@ category boundary (no modality recovers past network *function*) is bound into e
 `functional_layer = OUT_OF_REACH_ALWAYS`. Candidate cores include one (Latvia, Lielais Svētiņu) whose published
 signal is a richness *rise* with human impact — included precisely because it can refute H2's simplification
 direction. Unexecuted; freeze-and-hash precedes any run.
+
+**Fourth same-day follow-up (operator: "a then b" → item b).** Brought Tier 5 to parity with Tier 6's
+measurability treatment by adding `docs/tier5-mundicide-measurability-scope-2026-07-02.md` — the Tier-5 analogue of
+the baseline-erasure scope. It states the bounded charge as three independently-scored, quantifiable legs
+(filing-attribution audit of self-attributed fossil life-extension; grid CO₂-intensity change-point time-locked to
+compute load with gas/weather controls; a side-neutral salvation-frame asymmetry index), each with pre-committed
+support/refute criteria and its own null (attribution laundering; gas/weather confound; Jevons/absolute ambiguity;
+the counterfactual "would have retired anyway"; the modest-share crumb/cake control; asymmetry ≠ deception). Its
+top-line boundary mirrors Tier 6's: the *net civilizational climate effect* and *account-level guilt* are held out
+of reach by category (parallel to Tier 6's functional-web layer), consistent with the AI-energy brief's own
+controls that the civilizational reading does not survive. Feasibility note names leg (a) — formalizing the brief's
+already-surfaced specimens (Dominion/Clover; 15 postponed coal retirements; DOE emergency orders) into a counted
+MW/Mt inventory — as the cheapest first decidable result and the natural next pre-registration. Wired into the apex
+index and the taxonomy's Tier-5 evidence-mode row. Step-zero scoping; no tribunal-facing claim; no data analysed.

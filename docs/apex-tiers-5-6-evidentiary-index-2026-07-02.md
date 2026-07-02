@@ -27,6 +27,7 @@ Read the apex not as "the biggest possible accusation" but as **the widest prote
 | **Footprint brief** | The verified energy/water base the pattern brief builds on | `docs/ai-compute-footprint-verified-brief-2026-06-30.md` | web-retrieved, X-1 disciplined |
 | **Case file (the knife)** | xAI "Colossus" / Boxtown: a real emitting instrument run ~a year without Clean Air Act permits beside an overburdened EJ community — charged **Tier 1–3, deliberately not inflated** to Tier 4/5 | `cases/xai-boxtown-turbines/` | VERIFIED originals + IA/Drive backup (see case custody-index) |
 | **Ledger analysis** | Cluster 9 (AI-energy nexus; "intelligence will repair what it burns"); Entry 13 (eschatological capture; longtermist providence machine reaching Tiers 5/6) | `ledger/ledger.md` | analytic, cross-referenced |
+| **Measurability scope** | Step-zero path making the bounded charge quantifiable — filing-attribution audit, grid CO₂-intensity change-point, salvation-frame asymmetry index; pre-committed per-leg criteria; holds the net-climate-effect and account-guilt layers out of reach | `docs/tier5-mundicide-measurability-scope-2026-07-02.md` | LOCATOR-VERIFIED |
 
 **What the Tier-5 body establishes:** a falsifiable, multi-instance pattern of material, locally-acute, AI-driven energy/water/fossil burden — with the *directional reversal at the bending point* as the load-bearing charge, and one specimen (Boxtown) that has a protected population, an instrument, an authorization chain, and a harm pathway.
 
