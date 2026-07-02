@@ -1,0 +1,18 @@
+{
+  "item_id": "technical-error-framing",
+  "source_url": "https://www.pbs.org/newshour/politics/government-says-its-fixing-thousands-of-documents-in-epstein-related-files-that-may-have-had-victim-information",
+  "capture_method": "Sanctioned web search + reporting pages via Claude Code agent proxy (full egress). Locator + structural text verified; original-form bytes captured by capture.sh. NO survivor identifying information is reproduced or captured beyond what the reporting itself contains (the reporting does not name survivors).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-02-04",
+  "grade": "S1 (PBS/CBC) on P2 govt characterization",
+  "track": "Move 5 \u2014 euphemism",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "b95936362e9cb2310401d15348935b6ba47cbbea41b3d87d15fdba55bb46546a",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 10 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "DOJ Epstein-files survivor re-exposure. No-reproduction discipline: documents the exposure without restating any survivor identity. Approximate bears_date (Feb 2026 reporting window); confirm at capture.",
+  "verified_at": "2026-06-29T08:36:49.234957Z"
+}

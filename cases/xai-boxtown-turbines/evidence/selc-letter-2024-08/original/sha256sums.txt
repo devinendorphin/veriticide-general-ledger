@@ -1,0 +1,2 @@
+91a5f4856f20648cd2ecc833ff64b429a9c3afc523179bd0dc0a294424347bcf  ./interactive.localmemphis.com_pdfs_2024-08-26-Letter-to-SCHD-re-xAI-operating-without-permi.bin
+657412e3e110354aae46da6803ff646942f7b7da93d9d9c86665c4ef6ddb73f5  ./interactive.localmemphis.com_pdfs_2024-08-26-Letter-to-SCHD-re-xAI-operating-without-permi.warc

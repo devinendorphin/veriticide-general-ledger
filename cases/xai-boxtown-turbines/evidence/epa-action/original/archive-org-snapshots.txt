@@ -1,0 +1,7 @@
+# Wayback third-party snapshots for epa-action
+# generated 2026-06-30T20:24:29.759679Z via archive.org availability API
+# NOTE: Save Page Now requires an archive.org login (unavailable this session),
+# so NEW snapshots could not be created. Existing snapshots recorded below.
+
+https://earthjustice.org/press/2026/naacp-asks-court-for-emergency-action-to-stop-illegal-air-pollution-from-xais-data-center-power-plant
+  -> http://web.archive.org/web/20260618074909/https://earthjustice.org/press/2026/naacp-asks-court-for-emergency-action-to-stop-illegal-air-pollution-from-xais-data-center-power-plant  (ts 20260618074909, status 200)

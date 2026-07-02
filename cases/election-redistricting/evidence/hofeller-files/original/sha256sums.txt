@@ -1,0 +1,4 @@
+cb3b95acee72c1b00ab9e1287db728647f7ecd7357aa8e0b3647a1dd62f8b60c  ./www.commoncause.org_resources_the-hofeller-files_.png
+458014df72ec320a4b6902227a64aa988f98bca4cf727128ed72ce43551eb30c  ./www.commoncause.org_resources_the-hofeller-files_.pdf
+4d9562c84d41640d9419a4594baf7d013c186a9927b8d6198ac4ec02f4a728ab  ./www.commoncause.org_resources_the-hofeller-files_.html
+87ba09c5a21017a40255e8b21179782a7c06b0fb10a96518cde46e0de8e1aaba  ./www.commoncause.org_resources_the-hofeller-files_.warc

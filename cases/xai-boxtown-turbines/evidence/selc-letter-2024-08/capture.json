@@ -1,0 +1,18 @@
+{
+  "item_id": "selc-letter-2024-08",
+  "source_url": "https://interactive.localmemphis.com/pdfs/2024-08-26-Letter-to-SCHD-re-xAI-operating-without-permits.pdf",
+  "capture_method": "Document/PDF WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T20:15:36.452644Z",
+  "bears_date": "2024-08-26",
+  "grade": "P1 (dated correspondence to the regulator)",
+  "track": "foreseeability \u2014 early notice to SCHD (2024-08-26)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "2fed26c719074d1e2e712fce5e625ea91694a2c89dd10bffb3e7e1140ed503bd",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Early-notice foreseeability anchor: the regulator was told ~Aug 2024.",
+  "verified_at": "2026-06-30T20:15:36.452644Z"
+}
