@@ -14,6 +14,6 @@
   "original_form_capture": "CAPTURED: 25 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Supports ledger TD-007 (Track D). Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; the $489M figure and ruling quotes must be confirmed against source during original-form capture. Mass-firing removals are not individually tied to specific reviews; only the USAID/Martin removal carries the foreclosure-of-a-specific-review inference (one-day proximity).",
   "track": "D",
-  "promoted_at": "2026-06-28T20:57:32.627037Z",
+  "promoted_at": "2026-07-02T09:11:58.467736Z",
   "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

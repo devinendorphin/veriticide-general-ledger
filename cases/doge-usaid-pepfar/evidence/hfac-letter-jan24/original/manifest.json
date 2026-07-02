@@ -1,39 +1,39 @@
 {
   "item": "./hfac-letter-jan24",
-  "captured_at": "2026-06-28T20:47:03.982575Z",
+  "captured_at": "2026-07-02T09:00:44.499934Z",
   "artifact_count": 9,
   "artifacts": {
     "democrats-foreignaffairs.house.gov_2025_1_meeks-frankel-urge-secretary-rubio-to-.warc": {
-      "sha256": "576768996234c0962142832a5d08eb795d9f35ceb36379a205985617720a1dba",
-      "bytes": 1056325
+      "sha256": "29cc90e5329daaddf7ce896a3b09e8a69f08e0fca194d86cccf45e4e4769ef14",
+      "bytes": 1061406
     },
     "democrats-foreignaffairs.house.gov__cache_files_3_7_3723c215-81d7-49f6-b47e-e281.html": {
       "sha256": "3a1bb724924bd28cef8e4ff49e2c38f5ec5bf985f6fcb65461a7f6e9d29c151c",
       "bytes": 131993
     },
     "democrats-foreignaffairs.house.gov__cache_files_3_7_3723c215-81d7-49f6-b47e-e281.warc": {
-      "sha256": "27f9262452c44d7983ba25b42e9c346e6583dcf8afb4835869094759a2f55845",
-      "bytes": 136971
+      "sha256": "7c2633b6cc2d0f3cbd9bd293f4b70738e5e40a4d789f94138f1ae4d61a9d4d85",
+      "bytes": 136972
     },
     "pocan.house.gov_media-center_press-releases_pocan-kelly-109-addl-house-democrats.warc": {
-      "sha256": "957cbd9ad23715fc579ec8f28340e917a12d1b136f4581409881e66b8d75a3f0",
-      "bytes": 4135829
+      "sha256": "22c07aedbc5bb29623790a08889ad33f43371913f188f6e2e974322e1a0c909c",
+      "bytes": 4129533
     },
     "robinkelly.house.gov_media-center_press-releases_reps-kelly-pocan-109-house-demo.warc": {
-      "sha256": "b43312be767275611b4ae0930b97c0300e802352a31ef4edb8bb4d52bb10dc19",
-      "bytes": 3607901
+      "sha256": "4cba328eea774c133ba7a867c5237fa451ed288ddcb59b904fad41f301b2ddea",
+      "bytes": 2982172
     },
     "robinkelly.house.gov_media-center_press-releases_reps-kelly-pocan-109-house-demo.html": {
-      "sha256": "4e350115a1fbb4c3b0e7efe59bd12de7b42ca9492a25c78d1be3af8fc93a2e99",
-      "bytes": 3512585
+      "sha256": "ad358538b6e2bc0324aef17df9919f7af42236c57e5d15dce5592e77be82c984",
+      "bytes": 2891822
     },
     "pocan.house.gov_media-center_press-releases_pocan-kelly-109-addl-house-democrats.html": {
-      "sha256": "4930a96dfe93bc4c2a3a427a0a1e89c8416af9d9ff3cac6360fd15dd4ad4b5f7",
-      "bytes": 4022668
+      "sha256": "1cea5eba5317e48f6a980a8c59a1da7176a9a7fb63db9a71b41725a012a3e465",
+      "bytes": 4022766
     },
     "democrats-foreignaffairs.house.gov_2025_1_meeks-frankel-urge-secretary-rubio-to-.html": {
-      "sha256": "69894b237d1ac2df64105f1c9a9914f9dc64956064018ac27489c5cc278ac863",
-      "bytes": 999390
+      "sha256": "d8408053c5d2b74ec2a420df2d77d8e546b980e416780d495d249e44784fc52d",
+      "bytes": 1004463
     },
     "wget.log": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

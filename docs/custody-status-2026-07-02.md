@@ -99,7 +99,7 @@ Per operator direction ("roll it out to all four"), the pattern was extended to 
 | xai-boxtown-turbines | 9 | 2 | — | selc letters have no Wayback snapshot |
 | palantir-ice-contestability | 3 | 6 | 1 | only 3 items had organic Wayback snapshots; `palantir-defense` LOCATOR (Medium blocks capture) |
 | rubio-usaid-denial | 0 | 2 | — | real state.gov P1 WARC captured, but 0 IA; WaPo interstitial |
-| doge-usaid-pepfar | *(in progress)* | | | 15 items; 0 organic IA — expect mostly HASHED-PENDING-BACKUP |
+| doge-usaid-pepfar | 0 | 13 | 2 | re-captured real content (error pages replaced); 0 Wayback snapshots → no VERIFIED |
 
 Each case has a Drive subfolder under `the veriticide suite/case-evidence/<case>/` holding a concise custody receipt (transcript + primary-WARC sha256 + IA URLs); the full per-artifact receipt is committed at `cases/<case>/evidence/custody-receipt.md`, and `backup-to-drive.sh` (rclone) syncs the raw binaries.
 
