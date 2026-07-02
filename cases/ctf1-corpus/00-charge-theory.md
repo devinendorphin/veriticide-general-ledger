@@ -87,6 +87,27 @@ high-reach verbatim posts remain searchable.
   (`02-source-bundle.md`).
 - That this is load-bearing — it is **ambient texture** by the ledger's own assessment.
 
+
+## Forum-Now (per Protocol §7-bis) — ACTIVE-soft / DORMANT-hard
+
+*The venues where this record is actionable. Soft vehicles are live; hard vehicles are held OFF
+until their stated preconditions are met, at which point flipping is a dated, provenance-logged act.*
+
+**This packet's toggle is OFF by design — a deliberate exception.** Consistent with the DECLINED
+account-level verdict, the high-variance-account discipline, and the repo-wide de-identification, this
+case charges *acts as ambient texture*, not a person — so it opens **no forum against the individual**.
+
+**ACTIVE — soft vehicles (step one; live now), at the ambient/pattern level only:**
+- **Journalism-with-custody and Pattern-Registry contribution** — the de-identified specimens inform the
+  *climate* pattern (Track D / dismissal-as-credentialed-figure), never an account-level accusation.
+- **Counter-speech** — the preserved affirmative register stands as genuine counter-evidence (`02`).
+- **No** preservation demand, FOIA, IG complaint, or records request is pursued against the individual —
+  deliberately declined (a private individual; no state action; deprioritized in the ledger).
+
+**DORMANT — hard vehicles: none; permanently OFF, not merely dormant.** No account-level or individual-
+targeting vehicle exists here, and **no precondition flips one within this packet** — flipping would mean
+abandoning the high-variance-account discipline the packet exists to hold. That refusal is the point.
+
 ---
 
 *Cross-reference: `ledger/ledger.md` Cluster 3 (CTF-1 corpus, 26 records; Pattern Closure

@@ -112,6 +112,31 @@ multi-actor shape is the case's structural feature, conceded openly — operator
 - A **verdict** — this is step one (a basis to demand preservation of map files/metrics, disclosure of
   the data used, and independent audit), not a tribunal finding.
 
+
+## Forum-Now (per Protocol §7-bis) — ACTIVE-soft / DORMANT-hard
+
+*The venues where this record is actionable. Soft vehicles are live; hard vehicles are held OFF
+until their stated preconditions are met, at which point flipping is a dated, provenance-logged act.*
+
+**ACTIVE — soft vehicles (step one; live now).** A basis to demand, not a verdict:
+- **Preservation/spoliation demand** for the map files, optimization logs, and the precinct-level
+  partisan/racial data used — the Hofeller-files precedent shows these exist and are hidden absent a hold.
+- **State public-records requests** for mapmaker/vendor communications and the data behind enacted plans.
+- **Independent (academic/nonpartisan) audit** of an enacted plan's computed dilution.
+- **Redistricting-commission / public-comment dockets** where a state provides them.
+- **Journalism-with-custody** — the evidence set with its hash chain.
+
+**DORMANT — hard vehicles (step two; OFF by default).** Recorded for foresight; **no assertion** until flipped:
+- **State-court partisan-gerrymandering claim** — the live forum, because the **federal partisan forum is
+  doctrinally FORECLOSED** (*Rucho* 2019; recorded here as a closed vehicle — that foreclosure is itself
+  part of the charged doctrinal architecture). *Preconditions to flip:* a state with a justiciable state-
+  constitutional claim and a plaintiff with standing. *Register shift:* from "demand the data" to "assert
+  unlawful dilution."
+- **VRA §2 racial-vote-dilution suit** — the live *federal* racial vehicle. *Preconditions to flip:* a §2
+  plaintiff, the *Gingles* preconditions, and post-*Callais* viability (the `milligan-control` item is the
+  recognition CONTROL). *Register shift:* to "assert racial dilution."
+- **Tier-4 / tribunal — OFF.**
+
 ---
 
 *Cross-reference: `ledger/ledger.md` Pattern Registry Entry 17 (Performed Ignorance — this packet is

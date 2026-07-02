@@ -84,6 +84,35 @@ charge.)
   the transparency the asymmetry **withheld**, and the protected-activity wall protects it
   absolutely (`03-adversarial-check.md`, Defense 1).
 
+
+## Forum-Now (per Protocol §7-bis) — ACTIVE-soft / DORMANT-hard
+
+*The venues where this record is actionable. Soft vehicles are live; hard vehicles are held OFF
+until their stated preconditions are met, at which point flipping is a dated, provenance-logged act.*
+
+*Survivor-protection and the packet's **no-reproduction rule** govern every vehicle below; the
+record-holder does **not** act on any survivor's behalf and reproduces no survivor identity.*
+
+**ACTIVE — soft vehicles (step one; live now).** A basis to demand, not a verdict:
+- **Litigation-hold / preservation demand** to DOJ for the redaction-decision logs, the redacted-vs-
+  unredacted release records, and the "technical/human error" determination — before they are lost.
+- **Crime Victims' Rights Act channel (18 U.S.C. §3771)** — the survivor-centered vehicle: a basis to
+  demand DOJ account for the exposure and **remediate** (takedown, notification), invoking survivors'
+  right to dignity and privacy. Exercisable **only by survivors or their counsel**, never the record-holder.
+- **DOJ OIG complaint** into the exposure and its "error" characterization.
+- **FOIA** for the redaction *methodology* and the enabler-concealment decisions — **never** for survivor
+  identifying information (the asymmetry is charged without reproducing what it exposed).
+- **Congressional oversight** (Judiciary Committees) of the release; **journalism-with-custody** under the
+  packet's no-reproduction discipline.
+
+**DORMANT — hard vehicles (step two; OFF by default).** Recorded for foresight; **no assertion** until flipped:
+- **Survivor civil action** against DOJ (privacy tort / CVRA enforcement). *Preconditions to flip:* a
+  **survivor-plaintiff** — standing belongs to the survivors alone, expressly **not** the record-holder —
+  and unexpired limitations. *Register shift:* from "demand accounting and remediation" to "assert
+  unlawful exposure." *Not hypothetical:* the survivors' own suit (`survivors-lawsuit`) is this vehicle
+  already live in the proper hands; this packet supports it and does not assert it.
+- **Tier-4 / tribunal — OFF.** No such vehicle is asserted.
+
 ---
 
 *Cross-reference: `ledger/ledger.md` Pattern Registry Entry 16 (Redaction Inversion — this packet is
