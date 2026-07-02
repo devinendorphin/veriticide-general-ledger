@@ -7,12 +7,13 @@
   "bears_date": "2025",
   "grade": "S2 (modeling/expert mirror)",
   "track": "C / IV(4)",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "6caba69a75f3cb3c8aa714639038f29ef378f5710064bde1653cf86d14e362af",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 19 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Grouped mirror of multiple sources; per-row URL status noted in transcript. Verbatim snippets reproduced from sanctioned search; confirm against each source at original-form capture.",
-  "verified_at": "2026-06-28T21:57:21.390818Z"
+  "promoted_at": "2026-06-28T21:57:21.390818Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

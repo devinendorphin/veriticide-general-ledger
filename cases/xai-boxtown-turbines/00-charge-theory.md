@@ -122,7 +122,7 @@ until their stated preconditions are met, at which point flipping is a dated, pr
   forum for contesting the exemption "in the court of public review."
 - **Request for independent ambient air monitoring** in Boxtown / 38109, and for **EPA Region 4
   review** of the permitting.
-- **Journalism-with-custody** — the 6/6 VERIFIED evidence set, released with its hash chain.
+- **Journalism-with-custody** — the 6/6 `HASHED-PENDING-BACKUP` evidence set, released with its hash chain (off-platform backup pending; see `05-custody-manifest.md`).
 
 **DORMANT — hard vehicles (step two; OFF by default).** Recorded for foresight; carry **no assertion**
 until flipped:
@@ -146,5 +146,5 @@ until flipped:
 *Cross-reference: `docs/ai-energy-climate-pattern-2026-06-30.md` (S-2, the parent pattern entry);
 `ledger/ledger.md` Cluster 9 (Fossil Fuel / AI-Energy Nexus). This page is the cold extract; the
 pattern brief and ledger are the source of record. Custody (2026-06-30 capture run): **6/6 items
-VERIFIED in-session** (original-form WARC + body hashed; `evidence/custody-index.md` governs), with
+`HASHED-PENDING-BACKUP`** (original-form WARC + body hashed; `evidence/custody-index.md` governs), with
 **off-platform backup OPEN** — see `05-custody-manifest.md`.*

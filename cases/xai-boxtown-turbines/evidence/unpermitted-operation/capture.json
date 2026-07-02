@@ -7,13 +7,14 @@
   "bears_date": "2025-07-17",
   "grade": "S1 (secondary; embeds P1 permit + SCHD determination)",
   "track": "predicate / instrument \u2014 unpermitted operation + 'nonroad' exemption frame",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "87372c314bf66722dfc9241e2092ac98e1d43b580d03d379cddbd6f9b301945c",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s) (WARC+body, document-only). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "The unpermitted-operation predicate; exemption legality sub judice.",
-  "verified_at": "2026-06-30T19:51:12.915772Z",
-  "source_url_alt": "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/"
+  "source_url_alt": "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/",
+  "promoted_at": "2026-06-30T19:51:12.915772Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

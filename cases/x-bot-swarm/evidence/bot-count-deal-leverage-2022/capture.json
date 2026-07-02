@@ -7,12 +7,13 @@
   "bears_date": "2022-05-13",
   "grade": "S1 (reputable secondary)",
   "track": "legibility / the concern-is-fungible tell",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "e8d328b69af1f9f9f31f0d30cafcd0c17fe13b216983fbef31b406e1860c88fe",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 6 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Twitter <5% vs Musk's hired firms (CounterAction 10-14.2%, Cyabra 13.7%); bot count deployed as deal-exit leverage. Approximate bears_date (mid-2022 dispute window); confirm at capture.",
-  "verified_at": "2026-06-28T23:48:18.233463Z"
+  "promoted_at": "2026-06-28T23:48:18.233463Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

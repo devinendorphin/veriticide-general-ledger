@@ -5,7 +5,7 @@
 > **This index governs** custody state. **ACCOUNT-LEVEL VERDICT: DECLINED** (high-variance account).
 > This packet records *acts* (specimens), not the account. See `../00-charge-theory.md`.
 
-**Generated:** 2026-06-29 · **Items:** 6 · **States:** SCREENSHOT-HELD 6
+**Generated:** 2026-07-02 · **Items:** 6 · **States:** SCREENSHOT-HELD 6
 
 | Item | Class | Register | Reach | Custody | sha256(transcript) |
 |---|---|---|---|---|---|

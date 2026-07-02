@@ -7,12 +7,13 @@
   "bears_date": "2025",
   "grade": "S1 on P1 (rulings / ballot measure)",
   "track": "Tier 3 realized harm + the race/party discriminator",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "b264b5db36f5d75155c905f6e943b7b85b5f12cd746cbdc7ae90697ed53a55c4",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "The live 2025 mid-decade war; Texas racial-gerrymander finding vs. California's avowed-partisan map.",
-  "verified_at": "2026-06-29T17:38:10.683121Z"
+  "promoted_at": "2026-06-29T17:38:10.683121Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

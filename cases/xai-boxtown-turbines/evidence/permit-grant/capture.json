@@ -7,12 +7,13 @@
   "bears_date": "2025-07-03",
   "grade": "S1 (embeds P1: SCHD permit)",
   "track": "authorization \u2014 SCHD permit, 15 turbines, 2025-07-02",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "1a88239a8434f6769cf2f6ba8ef5c91f11378db886dd0b3d94fa2e6c8eb44161",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s) (WARC+body, document-only). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "'Backup/negligible' framing logged as agency/operator frame, not established fact.",
-  "verified_at": "2026-06-30T19:51:12.915772Z"
+  "promoted_at": "2026-06-30T19:51:12.915772Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

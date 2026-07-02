@@ -7,12 +7,13 @@
   "bears_date": "2013-06-25",
   "grade": "P1 (Supreme Court opinion)",
   "track": "II(2)(d) \u2014 measurement apparatus (preclearance) dismantled",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "567efc80b3fca854c982a852a487b648b89785064aa12718efd42d1c7a710413",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "570 U.S. 529 (2013), 5\u20134, Roberts. Struck the \u00a74(b) coverage formula.",
-  "verified_at": "2026-06-29T17:37:41.497318Z"
+  "promoted_at": "2026-06-29T17:37:41.497318Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

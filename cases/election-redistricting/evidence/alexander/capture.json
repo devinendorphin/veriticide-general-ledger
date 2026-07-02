@@ -7,12 +7,13 @@
   "bears_date": "2024-05-23",
   "grade": "P1 (Supreme Court opinion)",
   "track": "II(2)(d) \u2014 good-faith presumption + disentanglement burden",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "acb0605b8b2de18cc111919f2991ec126f36f3de70d2aa73315955132899af3f",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 3 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "602 U.S. 1 (2024), 6\u20133, Alito. Burden-shift onto challengers.",
-  "verified_at": "2026-06-29T17:36:44.538366Z"
+  "promoted_at": "2026-06-29T17:36:44.538366Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

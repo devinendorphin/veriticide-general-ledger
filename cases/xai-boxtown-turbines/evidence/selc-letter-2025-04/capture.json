@@ -7,12 +7,13 @@
   "bears_date": "2025-04-09",
   "grade": "P1 (dated correspondence to the regulator)",
   "track": "foreseeability \u2014 SELC et al. to SCHD (2025-04-09)",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "6646a4be5120f438c9f31581514693853f06117cb969982137ebe5906e5c0cff",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "Second dated notice to the regulator re: new turbines.",
-  "verified_at": "2026-06-30T20:15:36.452644Z"
+  "promoted_at": "2026-06-30T20:15:36.452644Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

@@ -7,12 +7,13 @@
   "bears_date": "2024-10-31",
   "grade": "S1 (reputable secondary) + embedded S2 (Cyabra analysis)",
   "track": "II(2)(d) / legibility \u2014 the swarm-substitution instance",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "56fa404ce55b4e226c597aa8da012b96682119a2e8e581aa5830955262f28ef6",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 6 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "~20% bots on five election-related Musk posts (40% on two anti-Harris-Walz posts); two coordinated bot clusters driving disproportionate engagement. Approximate bears_date; confirm at capture.",
-  "verified_at": "2026-06-28T23:49:20.514349Z"
+  "promoted_at": "2026-06-28T23:49:20.514349Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

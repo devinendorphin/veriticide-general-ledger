@@ -1,9 +1,8 @@
 {
-  "generated": "2026-06-24",
+  "generated": "2026-07-02",
   "generator": "evidence/build-custody-index.py",
   "item_count": 2,
   "custody_states": {
-    "VERIFIED": 0,
     "LOCATOR-VERIFIED": 2
   },
   "items": [

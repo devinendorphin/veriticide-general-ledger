@@ -13,16 +13,17 @@
 #      (headless Chrome) + video (yt-dlp, for democracynow/youtube items)
 #   3. optionally submits the URL to the Internet Archive (third-party attestation)
 #   4. hashes every artifact into evidence/<id>/original/manifest.json
-#   5. with --promote, flips the item's custody_state to VERIFIED in capture.json
+#   5. with --promote, flips the item's custody_state to HASHED-PENDING-BACKUP (VERIFIED is
+#      reserved for the separate off-platform-backup step; --promote never sets VERIFIED)
 #
 # Honest-custody note: a bare run does NOT change custody_state (no overclaiming).
-# Promotion to VERIFIED is a deliberate, separate step (--promote) and still assumes
+# Promotion to HASHED-PENDING-BACKUP is a deliberate step (--promote); reaching VERIFIED still assumes
 # you complete the manifest's other two conditions out of band: a second custodian
 # and an off-platform backup. Committing original/ to this repo is one custodian.
 #
 # Usage:
 #   ./capture.sh                 # capture everything, do not change custody states
-#   ./capture.sh --promote       # capture + mark successfully-captured items VERIFIED
+#   ./capture.sh --promote       # capture + mark successfully-captured items HASHED-PENDING-BACKUP
 #   ./capture.sh --archive-org   # also submit each URL to web.archive.org Save Page Now
 #   ./capture.sh musk-woodchipper-posts tamlyn-cable    # only these items
 #
@@ -142,10 +143,10 @@ item=sys.argv[1]; cj=os.path.join(item,"capture.json"); d=json.load(open(cj))
 man=os.path.join(item,"original","manifest.json")
 n=json.load(open(man))["artifact_count"] if os.path.exists(man) else 0
 if n>0:
-    d["custody_state"]="VERIFIED"
+    d["custody_state"]="HASHED-PENDING-BACKUP"
     d["original_form_capture"]=f"CAPTURED: {n} artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup."
-    d["verified_at"]=datetime.datetime.utcnow().isoformat()+"Z"
-    json.dump(d,open(cj,"w"),indent=2); print(f"     custody_state -> VERIFIED ({n} artifacts)")
+    d["promoted_at"]=datetime.datetime.utcnow().isoformat()+"Z"
+    json.dump(d,open(cj,"w"),indent=2); print(f"     custody_state -> HASHED-PENDING-BACKUP ({n} artifacts)")
 else:
     print("     not promoted (0 artifacts captured)")
 PY
