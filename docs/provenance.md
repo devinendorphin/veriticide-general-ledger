@@ -102,3 +102,11 @@ Streamlining pass on `docs/veriticide-stack-tier-taxonomy-v0.1.md` (filename ret
 - **Restated the "invariant test" as the "asymmetry test."** The old formulation ("if the position were true it would not need the apparatus") is withdrawn as false and self-undermining — true claims under organized attack require vast apparatus *because* opposed (climate science, vaccine safety, evolution), and the framework is itself dense apparatus the old test would self-mark as a lie. The salvageable version reads the **direction** the machinery points (at the claim's content = possibly truth-under-siege; at the speaker's standing = the tell), which is already the defining property of the thirteen Tier-4 moves and the Reflexivity Clause discriminator. This is a correction *toward* consistency with the framework's own existing discriminators, not a new claim.
 
 This entry records form/structure + one corrective; it does not re-litigate any tier's analytic content.
+
+---
+
+## 2026-07-01 — Move-taxonomy crosswalk added to the Protocol (streamlining pass item 4.3)
+
+Added a **crosswalk table** to `docs/documentation-standing-protocol-v0.1.md` §3, immediately after the existing "Relationship to the Ledger Analytical Taxonomy" paragraph. It maps the Protocol's six conduct-lens laundering moves (*what was done*) to the Ledger's six language-lens analytical moves (*how the language works*), and folds the thirteen Tier-4 moves into a single standing-attack lineage (Protocol row 6 / Ledger "disqualification of dissent" / the 13 refinements).
+
+**Correspondence, not merge — deliberately.** The Protocol's own text says the two schemas "should not be treated as alternative encodings of the same six slots." An earlier streamlining proposal to *merge* them was therefore withdrawn as contrary to the Protocol's stated design. The table is explicitly **many-to-many** (one conduct move is implemented by several language moves and vice versa), which preserves rather than collapses the distinction. Nothing was removed from either taxonomy; the crosswalk only makes the existing correspondence explicit and ties the standing-attack family to the v0.2 asymmetry test and the Reflexivity Clause discriminator (all three describe one lineage at different grains). Additive; no analytic content re-litigated.
