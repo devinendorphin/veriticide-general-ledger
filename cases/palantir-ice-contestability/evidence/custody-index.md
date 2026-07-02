@@ -7,17 +7,17 @@
 > bundle, custody manifest) shows a custody state that conflicts with this table, **this
 > table is authoritative.** Per-row custody marks elsewhere are indicative/historical.
 
-**Generated:** 2026-07-02 · **Items:** 10 · **States:** HASHED-PENDING-BACKUP 9, LOCATOR-VERIFIED 1
+**Generated:** 2026-07-02 · **Items:** 10 · **States:** HASHED-PENDING-BACKUP 6, LOCATOR-VERIFIED 1, VERIFIED 3
 
 | Item | Grade | Custody | Track | sha256(transcript) |
 |---|---|---|---|---|
-| `contestability` | S1 (journalism) + court testimony | HASHED-PENDING-BACKUP | contestability failure — ELITE scores vs warrant standard | `b5b524a32dfa…` |
-| `contract` | P1 (federal award record — structured JSON) | HASHED-PENDING-BACKUP | authorization/instrument — the ICE sole-source award | `ab9fbaace817…` |
+| `contestability` | S1 (journalism) + court testimony | VERIFIED | contestability failure — ELITE scores vs warrant standard | `b5b524a32dfa…` |
+| `contract` | P1 (federal award record — structured JSON) | VERIFIED | authorization/instrument — the ICE sole-source award | `ab9fbaace817…` |
 | `counter-register` | ADV (aggregator) + Palantir position as reported | HASHED-PENDING-BACKUP | counter-register + charge aggregator | `da0be6fc7761…` |
 | `harm-citizen-suit` | P1 (party press + court filing) | HASHED-PENDING-BACKUP | harm specimen — U.S. citizen wrongful arrest | `1b64a92f8aa1…` |
 | `harm-npr` | S1 (journalism) | HASHED-PENDING-BACKUP | harm pathway — people caught in the surveillance web | `849385241e31…` |
 | `instrument-scope` | S1 (policy journalism) | HASHED-PENDING-BACKUP | instrument scope — data fusion + functions | `339a5f343e98…` |
-| `medicaid-feed` | ADV/S1 (EFF report) | HASHED-PENDING-BACKUP | NULL/PARTIAL — Medicaid-data feed | `377e22317b56…` |
+| `medicaid-feed` | ADV/S1 (EFF report) | VERIFIED | NULL/PARTIAL — Medicaid-data feed | `377e22317b56…` |
 | `oversight-goldman` | P1 (congressional press) | HASHED-PENDING-BACKUP | recognition-live — Goldman/Wyden/Velazquez demand | `bc5eda4060c9…` |
 | `oversight-menendez` | P1 (congressional letter) | HASHED-PENDING-BACKUP | authorization/foreseeability — congressional oversight | `ea43a123b5af…` |
 | `palantir-defense` | P1 (company's own published statement) | LOCATOR-VERIFIED | counter-register (first-party) — the neutral-tool defense | `63e5ac4f9a1f…` |

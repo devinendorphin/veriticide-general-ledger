@@ -7,12 +7,12 @@
 > bundle, custody manifest) shows a custody state that conflicts with this table, **this
 > table is authoritative.** Per-row custody marks elsewhere are indicative/historical.
 
-**Generated:** 2026-07-02 · **Items:** 2 · **States:** LOCATOR-VERIFIED 2
+**Generated:** 2026-07-02 · **Items:** 2 · **States:** HASHED-PENDING-BACKUP 2
 
 | Item | Grade | Custody | Track | sha256(transcript) |
 |---|---|---|---|---|
-| `rubio-acting-administrator` | P1 (State Dept official) + S1 | LOCATOR-VERIFIED | B / II(3)(d) | `43347d81d0f5…` |
-| `wapo-factchecker-four-pinocchios` | S1 (independent fact-check) | LOCATOR-VERIFIED | D / II(2)(d) | `93cc853e9ad2…` |
+| `rubio-acting-administrator` | P1 (State Dept official) + S1 | HASHED-PENDING-BACKUP | B / II(3)(d) | `43347d81d0f5…` |
+| `wapo-factchecker-four-pinocchios` | S1 (independent fact-check) | HASHED-PENDING-BACKUP | D / II(2)(d) | `93cc853e9ad2…` |
 
 ## Custody states
 

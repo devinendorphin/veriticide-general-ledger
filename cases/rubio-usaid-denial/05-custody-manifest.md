@@ -1,12 +1,12 @@
 # 05 — CUSTODY MANIFEST
 
-> **⚠ Custody reconciliation (2026-07-02).** Counts and per-item marks on this page predate the
-> 2026-07-02 custody audit and are **historical narrative**. The authoritative, machine-derived
-> state is `evidence/custody-index.md`; where this page and the index disagree, **the index
-> governs.** Items formerly marked `VERIFIED` are now `HASHED-PENDING-BACKUP`: original-form
-> artifacts were hashed into `original/manifest.json` in-repo, but the off-platform second
-> custodian that `VERIFIED` requires is not yet in place, and some pre-open-egress captures may
-> hold interstitial/error-page bytes. Remediation plan: `docs/custody-status-2026-07-02.md`.
+> **✅ Custody update (2026-07-02).** The two items were re-captured in open egress (previously
+> LOCATOR-VERIFIED). `rubio-acting-administrator` now holds a real **state.gov P1 WARC** (the .gov
+> appointment notice); `wapo-factchecker-four-pinocchios` returned a WaPo interstitial (wget blocked,
+> no PDF — Chromium unavailable in this run). **Neither reaches `VERIFIED`**: no Wayback snapshot
+> exists (Save Page Now needs an archive.org login) and no other independent off-platform custodian
+> is in place, so both are held `HASHED-PENDING-BACKUP`. The machine-derived `evidence/custody-index.md`
+> governs; full audit: `docs/custody-status-2026-07-02.md`.
 
 *Track F for the Rubio-denial packet. Convention Art. VI(6); Protocol §6. This packet holds two
 new items and references the shared corpus; custody discipline is identical to the DOGE packet

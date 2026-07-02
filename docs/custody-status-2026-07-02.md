@@ -89,6 +89,22 @@ Ran the full remediation on x-bot-swarm as the proof case (operator direction: o
 
 **Practical note that shapes the rollout:** an agent cannot move the raw binaries (~130 MB for this one case) into Drive through the MCP tool — base64 through a chat tool would be millions of tokens. So the durable design is: **Internet Archive = the independent off-platform custodian** (already automated in `capture.sh --archive-org`), **Drive holds the human-readable custody receipt**, and the operator syncs the raw `original/*` bytes with **`evidence/backup-to-drive.sh` (rclone)** from a machine that has them. Corpus-wide `VERIFIED` count after the pilot: **7**.
 
+## 2b. Phase-2 rollout — palantir, xai, rubio (2026-07-02)
+
+Per operator direction ("roll it out to all four"), the pattern was extended to the remaining capturable cases (Epstein excluded). **The limiting factor is Internet Archive:** Save Page Now now requires an archive.org login (unavailable here), so **no new Wayback snapshots could be created** — an item reaches `VERIFIED` only where a *pre-existing* Wayback snapshot already provides the independent off-platform custodian. Re-captures still replace error-page bytes with real content where wget succeeds; items with real content but no independent custodian are held honestly at `HASHED-PENDING-BACKUP`.
+
+| Case | VERIFIED | HASHED-PENDING-BACKUP | LOCATOR | Notes |
+|---|---|---|---|---|
+| x-bot-swarm | 7 | 1 | — | pilot; IA 7/8 |
+| xai-boxtown-turbines | 9 | 2 | — | selc letters have no Wayback snapshot |
+| palantir-ice-contestability | 3 | 6 | 1 | only 3 items had organic Wayback snapshots; `palantir-defense` LOCATOR (Medium blocks capture) |
+| rubio-usaid-denial | 0 | 2 | — | real state.gov P1 WARC captured, but 0 IA; WaPo interstitial |
+| doge-usaid-pepfar | *(in progress)* | | | 15 items; 0 organic IA — expect mostly HASHED-PENDING-BACKUP |
+
+Each case has a Drive subfolder under `the veriticide suite/case-evidence/<case>/` holding a concise custody receipt (transcript + primary-WARC sha256 + IA URLs); the full per-artifact receipt is committed at `cases/<case>/evidence/custody-receipt.md`, and `backup-to-drive.sh` (rclone) syncs the raw binaries.
+
+**To lift the remaining `HASHED-PENDING-BACKUP` items to `VERIFIED`:** run `capture.sh --archive-org` from a session **logged in to archive.org** (so Save Page Now creates the missing snapshots), or run `backup-to-drive.sh` to place the raw binaries with the operator off-platform custodian.
+
 ## 3. Confirmations from the same pass
 
 - **The public ledger body is present and substantial.** `ledger/ledger.md` is **7,456 lines / 56
