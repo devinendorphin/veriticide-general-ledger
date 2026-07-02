@@ -7,12 +7,13 @@
   "bears_date": "2025-06-00",
   "grade": "S1",
   "track": "protected population + harm pathway \u2014 Boxtown, non-attainment, asthma/cancer",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "5391caeb8cbe1f9b63f55edafb255ca6bb5a6ecf550206b8d187584750bf607c",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s) (WARC+body, document-only). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "'4x cancer risk' PARTIAL (advocacy/agency-cited); overburden survives on non-attainment+siting.",
-  "verified_at": "2026-06-30T19:51:12.915772Z"
+  "promoted_at": "2026-06-30T19:51:12.915772Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

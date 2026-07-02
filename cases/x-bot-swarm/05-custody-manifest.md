@@ -1,5 +1,13 @@
 # 05 — CUSTODY MANIFEST
 
+> **⚠ Custody reconciliation (2026-07-02).** Counts and per-item marks on this page predate the
+> 2026-07-02 custody audit and are **historical narrative**. The authoritative, machine-derived
+> state is `evidence/custody-index.md`; where this page and the index disagree, **the index
+> governs.** Items formerly marked `VERIFIED` are now `HASHED-PENDING-BACKUP`: original-form
+> artifacts were hashed into `original/manifest.json` in-repo, but the off-platform second
+> custodian that `VERIFIED` requires is not yet in place, and some pre-open-egress captures may
+> hold interstitial/error-page bytes. Remediation plan: `docs/custody-status-2026-07-02.md`.
+
 *Track F for the manufactured-consensus packet. Convention Art. VI(6); Protocol §6. This packet
 holds eight items, all captured original-form in place.*
 
@@ -15,21 +23,21 @@ holds eight items, all captured original-form in place.*
 | `LOCATOR-VERIFIED` | Canonical URL + verbatim text preserved as a hashed transcript; original-form bytes not yet held. |
 | `VERIFIED` | Original artifact (WARC + PDF + screenshot) hashed into `<id>/original/manifest.json`. Full VERIFIED also requires a second custodian + off-platform backup (committing the integrity records here is one custodian). |
 
-## This packet's items (all VERIFIED)
+## This packet's items (all HASHED-PENDING-BACKUP)
 
 Built in a **full-egress** environment (unlike the Trusted-blocked DOGE/Rubio packets), so
-`capture.sh --promote` ran in place. As of capture (2026-06-29): **8 VERIFIED · 0 LOCATOR-VERIFIED.**
+`capture.sh --promote` ran in place. As of capture (2026-06-29): **8 HASHED-PENDING-BACKUP · 0 LOCATOR-VERIFIED.**
 
 | Item | Grade | Custody | Artifacts | archive.org |
 |---|---|---|---|---|
-| `musk-defeat-spam-bots-2022` | P2 + S1 | VERIFIED | 14 (x.com + CBS + Fox) | 2 |
-| `bot-count-deal-leverage-2022` | S1 | VERIFIED | 6 (CBS) | 1 |
-| `cyabra-gzero-coordinated-clusters-2024` | S1 + embedded S2 | VERIFIED | 6 (GZERO) | 1 |
-| `post-takeover-bot-persistence` | S1/S2 | VERIFIED | 9 (Cybernews + ScienceDirect) | 0 |
-| `incentive-redesign-blue-revenue-sharing` | S1/S2 | VERIFIED | 6 (The Conversation) | 1 |
-| `research-api-foreclosure-2023` | S1 + embedded P1 | VERIFIED | 18 (TechCrunch + CJR + Coalition + OSoMe) | 4 |
-| `musk-bot-purge-verdict-2024` | P2 + S1 | VERIFIED | 18 (x.com Musk Apr 4 2024 + x.com Bier Apr 9 2026 + Rest of World + Social Media Today) | 2 |
-| `paid-lift-operations` | P1 + S1 | VERIFIED | 30 (DOJ + ISD + The Record ×2 + Guardian + Gizmodo + BleepingComputer) | 5 |
+| `musk-defeat-spam-bots-2022` | P2 + S1 | HASHED-PENDING-BACKUP | 14 (x.com + CBS + Fox) | 2 |
+| `bot-count-deal-leverage-2022` | S1 | HASHED-PENDING-BACKUP | 6 (CBS) | 1 |
+| `cyabra-gzero-coordinated-clusters-2024` | S1 + embedded S2 | HASHED-PENDING-BACKUP | 6 (GZERO) | 1 |
+| `post-takeover-bot-persistence` | S1/S2 | HASHED-PENDING-BACKUP | 9 (Cybernews + ScienceDirect) | 0 |
+| `incentive-redesign-blue-revenue-sharing` | S1/S2 | HASHED-PENDING-BACKUP | 6 (The Conversation) | 1 |
+| `research-api-foreclosure-2023` | S1 + embedded P1 | HASHED-PENDING-BACKUP | 18 (TechCrunch + CJR + Coalition + OSoMe) | 4 |
+| `musk-bot-purge-verdict-2024` | P2 + S1 | HASHED-PENDING-BACKUP | 18 (x.com Musk Apr 4 2024 + x.com Bier Apr 9 2026 + Rest of World + Social Media Today) | 2 |
+| `paid-lift-operations` | P1 + S1 | HASHED-PENDING-BACKUP | 30 (DOJ + ISD + The Record ×2 + Guardian + Gizmodo + BleepingComputer) | 5 |
 
 Integrity: `for d in evidence/*/; do (cd "$d" && sha256sum -c sha256.txt); done` (all `OK` at
 capture). Per-artifact hashes: `evidence/<id>/original/manifest.json`. Index:

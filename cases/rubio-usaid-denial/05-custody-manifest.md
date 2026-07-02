@@ -1,5 +1,13 @@
 # 05 — CUSTODY MANIFEST
 
+> **⚠ Custody reconciliation (2026-07-02).** Counts and per-item marks on this page predate the
+> 2026-07-02 custody audit and are **historical narrative**. The authoritative, machine-derived
+> state is `evidence/custody-index.md`; where this page and the index disagree, **the index
+> governs.** Items formerly marked `VERIFIED` are now `HASHED-PENDING-BACKUP`: original-form
+> artifacts were hashed into `original/manifest.json` in-repo, but the off-platform second
+> custodian that `VERIFIED` requires is not yet in place, and some pre-open-egress captures may
+> hold interstitial/error-page bytes. Remediation plan: `docs/custody-status-2026-07-02.md`.
+
 *Track F for the Rubio-denial packet. Convention Art. VI(6); Protocol §6. This packet holds two
 new items and references the shared corpus; custody discipline is identical to the DOGE packet
 and shares its tooling and runbook.*
@@ -16,7 +24,8 @@ and shares its tooling and runbook.*
 | State | Meaning |
 |---|---|
 | `LOCATOR-VERIFIED` | Canonical URL + verbatim text preserved as a hashed transcript; original-form bytes not yet held. |
-| `VERIFIED` | Original artifact (WARC/PDF/screenshot + headers) with metadata, hash, dual custody, off-platform backup. **0 items** — blocked by this environment's egress policy. |
+| `HASHED-PENDING-BACKUP` | Original-form artifact captured + hashed in-repo, but no off-platform second custodian / backup yet. |
+| `VERIFIED` | `HASHED-PENDING-BACKUP` plus an off-platform second custodian and confirmation the capture is real content. **0 items** so far. |
 
 ## This packet's items (new)
 

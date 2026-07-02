@@ -7,12 +7,13 @@
   "bears_date": "2024-08-26",
   "grade": "P1 (dated correspondence to the regulator)",
   "track": "foreseeability \u2014 early notice to SCHD (2024-08-26)",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "2fed26c719074d1e2e712fce5e625ea91694a2c89dd10bffb3e7e1140ed503bd",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "Early-notice foreseeability anchor: the regulator was told ~Aug 2024.",
-  "verified_at": "2026-06-30T20:15:36.452644Z"
+  "promoted_at": "2026-06-30T20:15:36.452644Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

@@ -31,14 +31,14 @@ laundering**, **not** Tier-4 veriticide. The case is filed at that altitude on p
 | `02-source-bundle.md` | Graded sources (P1 party/primary · P2 journalism · advocacy-marked) |
 | `03-adversarial-check.md` | xAI's defense steel-manned (counter-register), then what survives |
 | `04-falsification-memo.md` | The conditions that would defeat or shrink the charge |
-| `05-custody-manifest.md` | Custody status — **11/11 VERIFIED in-session** (WARC/PDF hashed); off-platform backup OPEN |
+| `05-custody-manifest.md` | Custody status — **11/11 HASHED-PENDING-BACKUP** (WARC/PDF hashed); off-platform backup OPEN |
 | `evidence/` | Captured originals (git-ignored) + committed integrity records + `custody-index.md` (governs) |
 | `06-timeline.md` | Chronology, 2024 → 2026 (install → permit → mootness denial → federal court) |
 
 ## Status
 
 **Step one only** — a basis to demand the emissions/permit record, independent air monitoring, and EPA
-Region 4 review. Not a verdict. Custody: **11/11 items VERIFIED in-session** (original-form WARC/PDF
+Region 4 review. Not a verdict. Custody: **11/11 items HASHED-PENDING-BACKUP** (original-form WARC/PDF
 captured + hashed 2026-06-30, incl. the P1 appeal filing + dated SCHD letters); **off-platform backup is
 the one open custody step** (`05`). The **SCHD permit PDF (01156-01PC)** and the **EPA determination
 letter** remain step-one disclosure demands, not held originals. The "4× cancer risk" figure stays

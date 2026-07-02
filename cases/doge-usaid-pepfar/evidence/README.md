@@ -29,7 +29,7 @@ environment network policy"); it travels with the packet rather than being paper
 | `LOCATOR-VERIFIED` | Canonical source URL confirmed, and key verbatim text confirmed via sanctioned web search. Stored as a transcript with an integrity hash. Original-form preservation pending. | **Yes — this pass.** |
 | `VERIFIED` | Original artifact preserved (PDF / screenshot / WARC / raw HTML) with capture metadata, hash, dual custody, off-platform backup. | Partly — original-form capture run 2026-06-28 from an open-egress env. |
 
-**13 of 15 items are now `VERIFIED`; 2 remain `LOCATOR-VERIFIED`.** The 2026-06-28 capture run
+**13 of 15 items are now `HASHED-PENDING-BACKUP`; 2 remain `LOCATOR-VERIFIED`.** The 2026-06-28 capture run
 (`capture.sh --promote --archive-org`) preserved original-form bytes (WARC + raw HTML) for each
 source URL and hashed them into per-item `original/manifest.json` + `sha256sums.txt` (the integrity
 record committed here; the ~2.6 GB of binaries are held in off-platform custody, which is the
@@ -74,20 +74,20 @@ forensically preserved.
 
 | Item | Track(s) | State |
 |---|---|---|
-| `musk-woodchipper-posts` | B (authorization), II(3)(d) (mental element) | VERIFIED |
-| `doge-savings-subset` | A (instrument) | VERIFIED |
+| `musk-woodchipper-posts` | B (authorization), II(3)(d) (mental element) | HASHED-PENDING-BACKUP |
+| `doge-savings-subset` | A (instrument) | HASHED-PENDING-BACKUP |
 | `tamlyn-cable` | C (foreseeability, inside-chain) | LOCATOR-VERIFIED |
 | `propublica-internal-memos` | C (foreseeability, executing tier) | LOCATOR-VERIFIED |
-| `rubio-hfac-testimony` | D (dismissal) | VERIFIED |
-| `meeks-demands` | D (terminal-node / non-response) | VERIFIED |
-| `hfac-letter-jan24` | C (foreseeability — warning on day of freeze; direct PDF locator) | VERIFIED |
-| `schatz-record` | C (foreseeability / realized mortality in congressional record) | VERIFIED |
-| `gawande-democracynow` | C (realized mortality, former USAID global-health head) | VERIFIED |
-| `named-deaths` | C / IV(4) (realized individual harm — consolidated) | VERIFIED |
-| `secondary-doge-savings-witnesses` | A (instrument — mirror of IN-LEDGER witnesses) | VERIFIED |
-| `secondary-mortality-modeling` | C / IV(4) (scale + foreseeability — mirror) | VERIFIED |
-| `secondary-accountability-removal` | D / B (evaluators removed — mirror) | VERIFIED |
-| `rubio-waivers-nonfunctional` | Defense-6 rebuttal / A / B / II(2)(c) — DOGE vetoed PEPFAR payments box-by-box | VERIFIED |
+| `rubio-hfac-testimony` | D (dismissal) | HASHED-PENDING-BACKUP |
+| `meeks-demands` | D (terminal-node / non-response) | HASHED-PENDING-BACKUP |
+| `hfac-letter-jan24` | C (foreseeability — warning on day of freeze; direct PDF locator) | HASHED-PENDING-BACKUP |
+| `schatz-record` | C (foreseeability / realized mortality in congressional record) | HASHED-PENDING-BACKUP |
+| `gawande-democracynow` | C (realized mortality, former USAID global-health head) | HASHED-PENDING-BACKUP |
+| `named-deaths` | C / IV(4) (realized individual harm — consolidated) | HASHED-PENDING-BACKUP |
+| `secondary-doge-savings-witnesses` | A (instrument — mirror of IN-LEDGER witnesses) | HASHED-PENDING-BACKUP |
+| `secondary-mortality-modeling` | C / IV(4) (scale + foreseeability — mirror) | HASHED-PENDING-BACKUP |
+| `secondary-accountability-removal` | D / B (evaluators removed — mirror) | HASHED-PENDING-BACKUP |
+| `rubio-waivers-nonfunctional` | Defense-6 rebuttal / A / B / II(2)(c) — DOGE vetoed PEPFAR payments box-by-box | HASHED-PENDING-BACKUP |
 
 **14 items.** Pass 5 (2026-06-24) added `rubio-waivers-nonfunctional` (the strongest-defense
 rebuttal, with the decisive DOGE-payment-veto fact) and introduced the **canonical custody
@@ -108,7 +108,7 @@ specifically CFPB returns to taxpayers; the $8.2B originates with the USAID OIG 
 "USAFacts"); and the NYT/Fahrenthold deletion scale is ~**1,000 entries (≈40%)**, larger than
 the ledger's "five biggest." The USAID security chiefs are named (John Voorhees + deputy).
 
-**10 items, all integrity-verified.** Second capture pass (2026-06-24) added the four items
+**10 items, all integrity-hashed (off-platform backup pending).** Second capture pass (2026-06-24) added the four items
 below `meeks-demands`. The `named-deaths` artifact consolidates the realized-harm spine
 (Babagana, Suza Kenyaba, Evan Anzoo, Pe Kha Lau, Peter, Peter Lokoyen, the Liberian mother and
 unborn son, ≥54 Turkana children) and corrects the "mostly children" demographic to

@@ -7,12 +7,13 @@
   "bears_date": "2025-07-15",
   "grade": "P1 (the appeal legal filing itself)",
   "track": "authorization/recognition \u2014 the P1 appeal document",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "d7a8cec0a895e3e235a57e9221213d90224196c4d341a5029d778e0abd523157",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "P1 original of the appeal (was held only via secondary coverage in appeal-challenge).",
-  "verified_at": "2026-06-30T20:15:36.452644Z"
+  "promoted_at": "2026-06-30T20:15:36.452644Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

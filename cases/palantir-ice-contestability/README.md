@@ -32,7 +32,7 @@ DECLINED.** The **hard joint is attribution** ("we're a neutral tool") — conce
 | `02-source-bundle.md` | Graded sources (P1 federal/congressional · S1 journalism · ADV advocacy-marked) |
 | `03-adversarial-check.md` | Palantir's defense steel-manned (the attribution/neutral-tool joint), then what survives |
 | `04-falsification-memo.md` | What would defeat or shrink the charge |
-| `05-custody-manifest.md` | Custody status — 10 items, **9 VERIFIED · 1 LOCATOR** (`palantir-defense`, Medium-blocked) |
+| `05-custody-manifest.md` | Custody status — 10 items, **9 HASHED-PENDING-BACKUP · 1 LOCATOR** (`palantir-defense`, Medium-blocked) |
 | `06-timeline.md` | Chronology 2013 → 2026 |
 
 ## Status

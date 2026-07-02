@@ -7,12 +7,13 @@
   "bears_date": "2025-04-00",
   "grade": "P1 (federal award record \u2014 structured JSON)",
   "track": "authorization/instrument \u2014 the ICE sole-source award",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "ab9fbaace817627be5625d90410ab581257c46c43184a40cad72f8091449274d",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "Upgraded from JS-shell to the USASpending API JSON. ICM vehicle total $150.7M (P1); $30M ImmigrationOS is the reported enhancement under it (S1).",
-  "verified_at": "2026-06-30T21:23:32.388541Z"
+  "promoted_at": "2026-06-30T21:23:32.388541Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }
