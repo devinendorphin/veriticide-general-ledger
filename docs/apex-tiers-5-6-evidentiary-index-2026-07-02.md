@@ -15,6 +15,8 @@ Both apex bodies, run through their own controls, came back **bounded**. Neither
 
 Read the apex not as "the biggest possible accusation" but as **the widest protected object, charged at the honest confidence the evidence bears.** That is the whole discipline of the stack.
 
+**One correction the bounding must not be allowed to launder (added after operator pushback).** Bounding the *emissions accounting* is correct — the physics is genuinely uncertain. But the accounting was never where the Tier-5 crime lived. The crime is the **self-authorization**: a small elite arrogating the standing to price other people's worlds — present populations, future generations, the more-than-human — as acceptable stakes in a short-horizon wager, *reversing a hard-won climate correction to place it*, and calling it thriving. That hubris is **not** uncertain and **not** bounded by any emissions control; it is documented in the principals' own captured words (inevitability + aggregate-benefit framing, harms never specified at the population level, no falsifiable stopping condition). Letting the bounded accounting stand in for the whole charge is the **empirical-hostage** move (Tier-4 move 8) — the crumb shown so the cake is not seen — and the first Tier-5 measurability draft committed it. The self-authorization is carried as the primary, separately-evidenced charge (leg (d) of `docs/tier5-mundicide-measurability-scope-2026-07-02.md`), untouched by the emissions uncertainty. **The discipline bounds the physics; it must never bound the hubris.**
+
 ---
 
 ## Tier 5 — Mundicide · the assembled body

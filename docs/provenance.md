@@ -269,3 +269,26 @@ controls that the civilizational reading does not survive. Feasibility note name
 already-surfaced specimens (Dominion/Clover; 15 postponed coal retirements; DOE emergency orders) into a counted
 MW/Mt inventory — as the cheapest first decidable result and the natural next pre-registration. Wired into the apex
 index and the taxonomy's Tier-5 evidence-mode row. Step-zero scoping; no tribunal-facing claim; no data analysed.
+
+**Reflexive self-correction (operator pushback: the bounding was deflecting from the hubris).** The operator
+identified that the accumulated Tier-5 bounding — "net climate effect held out of reach by category," "account-level
+guilt is step-two" — had drifted into **empirical hostage** (Tier-4 move 8, run on the framework's own behalf):
+making the moral charge hostage to a contested emissions number, bounding the number, then letting the bound stand
+in for the whole charge (the crumb-shown-so-cake-unseen the taxonomy itself warns about). Diagnosis accepted; it is
+the failure mode named in `docs/external-review-2026-07-01-sycophancy-to-power-self-audit.md` (over-applied humility
+toward power = deference to power). The correction distinguishes three objects that had been collapsed into one:
+(1) emissions accounting — *genuinely uncertain, correctly bounded, stays bounded*; (2) salvation-frame asymmetry —
+measurable; and (3) the **self-authorization / hubris** — a small elite arrogating standing to price present, future,
+and more-than-human worlds as acceptable stakes in a short-horizon wager, reversing a hard-won climate correction to
+place it, narrated as thriving. Object (3) is **not** uncertain and **not** touched by any emissions control; it is
+documented in the principals' own captured statements (Altman "gentle singularity" — harms absorbed into the
+aggregate without population-level specification, no falsifiable stopping condition; Yudkowsky p(doom); Entry-13
+longtermist acceptable-cost arithmetic). Edits: added **leg (d)** (the self-authorization / acceptable-wager corpus,
+scored against the Entry-13 circuit-breaker test) to `docs/tier5-mundicide-measurability-scope-2026-07-02.md` as the
+**primary** charge — the most provable leg, not the least, because it depends on no contested physics — with N-7
+(structure, not sincerity; the "300M–1B" magnitude to be sourced, not asserted), a re-scoped "out of reach" (verdict
+and net-effect physics are bounded; the documented wager is not), and feasibility ordering (d) first; and added a
+matching correction to the apex index's "one thing to know" section. The bound stays on the physics; it is removed
+from the hubris. What was RIGHT about the bounding (the physics is uncertain) is preserved — the fix is to stop
+letting the physics stand in for the crime, not to overclaim the physics (which would be sycophancy to the operator,
+equally barred by the Reflexivity Clause).
