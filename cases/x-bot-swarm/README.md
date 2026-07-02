@@ -60,7 +60,7 @@ charge does not depend on it.
 
 Unlike the DOGE/Rubio packets — built in a **Trusted** environment that blocked source hosts — this
 packet was built in a **full-egress** environment, so original-form capture (WARC/PDF/PNG, hashed)
-was run **in place** — all eight items VERIFIED, with Internet-Archive attestation on seven of eight
+was run **in place** — all eight items HASHED-PENDING-BACKUP, with Internet-Archive attestation on seven of eight
 (see `05-custody-manifest.md` and `evidence/custody-index.md`, plus the `x.com` JavaScript-shell
 limitation). Two formerly-open items are now captured: the explicit victory verdict
 (`musk-bot-purge-verdict-2024`) and the paid-lift node itself (`paid-lift-operations` — three named,

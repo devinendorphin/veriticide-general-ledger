@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-29",
+  "generated": "2026-07-02",
   "generator": "evidence/build-custody-index.py",
   "item_count": 8,
   "custody_states": {
-    "VERIFIED": 8,
-    "LOCATOR-VERIFIED": 0
+    "VERIFIED": 7,
+    "HASHED-PENDING-BACKUP": 1
   },
   "items": [
     {
@@ -58,7 +58,7 @@
     {
       "item_id": "post-takeover-bot-persistence",
       "grade": "S1/S2 (reputable secondary + academic)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "legibility \u2014 no observable cessation",
       "source_url": "https://cybernews.com/tech/twitter-bot-struggle/",
       "sha256_transcript": "2c9bbc50a57ce353e99478478e8a63914e2d7230467ceec103279a5e7866f3c4"

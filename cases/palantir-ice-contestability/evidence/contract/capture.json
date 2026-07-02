@@ -10,9 +10,13 @@
   "custody_state": "VERIFIED",
   "sha256_transcript": "ab9fbaace817627be5625d90410ab581257c46c43184a40cad72f8091449274d",
   "custodians": [
-    "devinendorphin/veriticide-general-ledger (git)"
+    "devinendorphin/veriticide-general-ledger (git) \u2014 integrity records",
+    "Internet Archive / Wayback (Save Page Now) \u2014 1 snapshot(s), independent third party",
+    "Google Drive: the veriticide suite/case-evidence/palantir-ice-contestability (https://drive.google.com/drive/folders/1RFsfNbY24BCftXkqj2tjFH9HhOD0NvDy) \u2014 custody receipt; raw original/* via operator rclone sync (backup-to-drive.sh)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "Upgraded from JS-shell to the USASpending API JSON. ICM vehicle total $150.7M (P1); $30M ImmigrationOS is the reported enhancement under it (S1).",
-  "verified_at": "2026-06-30T21:23:32.388541Z"
+  "promoted_at": "2026-06-30T21:23:32.388541Z",
+  "verified_at": "2026-07-02T08:56:09.889915Z",
+  "verified_basis": "2026-07-02 verification: real original-form content in original/manifest.json, 1 Internet-Archive snapshot(s) as independent custodian, off-platform custody receipt in the veriticide suite Drive."
 }

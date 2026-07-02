@@ -10,9 +10,13 @@
   "custody_state": "VERIFIED",
   "sha256_transcript": "a972e0926e085065b92357282215a45bdc1932beeb9a27f433381a4df24d3894",
   "custodians": [
-    "devinendorphin/veriticide-general-ledger (git)"
+    "devinendorphin/veriticide-general-ledger (git) \u2014 integrity records",
+    "Internet Archive / Wayback (Save Page Now) \u2014 2 snapshot(s), independent third party",
+    "Google Drive: the veriticide suite/case-evidence/x-bot-swarm (https://drive.google.com/drive/folders/1-znznciSoHZ2lKXjViic7eUhM-dJynZ8) \u2014 custody receipt; raw original/* via operator rclone sync (backup-to-drive.sh)"
   ],
   "original_form_capture": "CAPTURED: 18 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Closes the TF-004 NOT-PRESERVED row / Gap Priority 27 item (a). April 2024 'system purge of bots & trolls' (@Safety: 'significant, proactive initiative to eliminate accounts...'); Apr 9 2026 Head of Product '208 bots per minute'. Verdict against documented persistence. Approximate bears_date (April 2024 announcement).",
-  "verified_at": "2026-06-29T01:43:12.696278Z"
+  "promoted_at": "2026-07-02T08:29:17.817251Z",
+  "verified_at": "2026-07-02T08:46:03.913125Z",
+  "verified_basis": "2026-07-02 open-egress re-capture: real original-form content confirmed (WARC/HTML/PDF hashed in original/manifest.json), 2 Internet-Archive snapshot(s) as independent custodian, and off-platform custody receipt in the veriticide suite Drive. Any x.com/interstitial sub-URLs are documented in 05-custody-manifest.md and corroborated by fully-rendered outlet captures."
 }

@@ -99,6 +99,31 @@ instrument-maker's distinct contribution, intent open.
 - **Not a verdict** — step one: a basis to demand the contract, the data-source list, the error/audit
   records, the confidence-score methodology, and an effective contest mechanism. Not a tribunal finding.
 
+
+## Forum-Now (per Protocol §7-bis) — ACTIVE-soft / DORMANT-hard
+
+*The venues where this record is actionable. Soft vehicles are live; hard vehicles are held OFF
+until their stated preconditions are met, at which point flipping is a dated, provenance-logged act.*
+
+**ACTIVE — soft vehicles (step one; live now).** A basis to demand, not a verdict:
+- **Preservation demand** to Palantir and ICE/DHS for the ImmigrationOS/ICM data-source list, error
+  rates, and audit logs — before the record is contested.
+- **FOIA / Privacy Act** to DHS/ICE for the contract performance-work-statement (the P1 contract is
+  captured), the data-source inventory, the DPIA/PIA, and the subject-access/correction/appeal mechanism
+  (or documentation of its absence — the contestability gap itself).
+- **Congressional oversight** — the Goldman/Wyden/Velázquez and Menendez demands already on record.
+- **Independent audit** (GAO / DHS OIG) of the targeting system's error rates and contest path.
+- **Journalism-with-custody** — the evidence set with its hash chain.
+
+**DORMANT — hard vehicles (step two; OFF by default).** Recorded for foresight; **no assertion** until flipped:
+- **Individual APA / due-process litigation** by a wrongly-targeted person (a citizen/LPR swept in).
+  *Preconditions to flip:* an actually-harmed plaintiff with standing (the ACLU-SoCal citizen suit is a
+  real instance already in others' hands), final action, ripeness. *Register shift:* from "demand the
+  contract and contest mechanism" to "assert liberty deprivation on an uncontestable basis."
+- **Privacy Act civil action / FOIA-enforcement suit.** *Precondition:* agency denial + exhaustion.
+- **Tier-4 / tribunal — OFF (declined in writing; recognition is live).** *Precondition:* a forum in being
+  plus a Tier-4 showing this packet expressly declines to make.
+
 ---
 
 *Cross-reference: `ledger/ledger.md` Cluster 10 (Palantir / surveillance substrate; contestability-gap

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-30",
+  "generated": "2026-07-02",
   "generator": "evidence/build-custody-index.py",
   "item_count": 11,
   "custody_states": {
-    "VERIFIED": 11,
-    "LOCATOR-VERIFIED": 0
+    "VERIFIED": 9,
+    "HASHED-PENDING-BACKUP": 2
   },
   "items": [
     {
@@ -66,7 +66,7 @@
     {
       "item_id": "selc-letter-2024-08",
       "grade": "P1 (dated correspondence to the regulator)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "foreseeability \u2014 early notice to SCHD (2024-08-26)",
       "source_url": "https://interactive.localmemphis.com/pdfs/2024-08-26-Letter-to-SCHD-re-xAI-operating-without-permits.pdf",
       "sha256_transcript": "2fed26c719074d1e2e712fce5e625ea91694a2c89dd10bffb3e7e1140ed503bd"
@@ -74,7 +74,7 @@
     {
       "item_id": "selc-letter-2025-04",
       "grade": "P1 (dated correspondence to the regulator)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "foreseeability \u2014 SELC et al. to SCHD (2025-04-09)",
       "source_url": "https://interactive.localmemphis.com/pdfs/2025-04-09_Letter_from_SELC_et_al._to_SCHD_re_xAI's_New_Turbines.pdf",
       "sha256_transcript": "6646a4be5120f438c9f31581514693853f06117cb969982137ebe5906e5c0cff"

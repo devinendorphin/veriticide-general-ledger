@@ -1,16 +1,15 @@
 {
-  "generated": "2026-06-29",
+  "generated": "2026-07-02",
   "generator": "evidence/build-custody-index.py",
   "item_count": 4,
   "custody_states": {
-    "VERIFIED": 4,
-    "LOCATOR-VERIFIED": 0
+    "HASHED-PENDING-BACKUP": 4
   },
   "items": [
     {
       "item_id": "redaction-asymmetry",
       "grade": "S1 (CNN) on P1 conduct",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "Redaction Inversion \u2014 load-bearing (II(2)(d))",
       "source_url": "https://www.cnn.com/2026/02/05/politics/justice-department-under-scrutiny-for-revealing-victim-info-and-concealing-possible-enablers-in-epstein-files",
       "sha256_transcript": "7c8bfa297d4fa93033e1a9e9e91079e2b6ce6ec256d3265b3f54278d04642707"
@@ -18,7 +17,7 @@
     {
       "item_id": "survivors-lawsuit",
       "grade": "S1 on P1 court filing",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "realized harm (Tier 3) + inversion (Move 3 / DARVO)",
       "source_url": "https://www.courthousenews.com/epstein-sexual-assault-survivors-file-class-action-to-stop-spread-of-personal-information/",
       "sha256_transcript": "b64436df7c116612f9f2062d59e331f729eb870057287c893e7d4833754221f3"
@@ -26,7 +25,7 @@
     {
       "item_id": "technical-error-framing",
       "grade": "S1 (PBS/CBC) on P2 govt characterization",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "Move 5 \u2014 euphemism",
       "source_url": "https://www.pbs.org/newshour/politics/government-says-its-fixing-thousands-of-documents-in-epstein-related-files-that-may-have-had-victim-information",
       "sha256_transcript": "b95936362e9cb2310401d15348935b6ba47cbbea41b3d87d15fdba55bb46546a"
@@ -34,7 +33,7 @@
     {
       "item_id": "victim-info-exposed",
       "grade": "S1 (multiple outlets) on P1 (DOJ releases)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "II(2)(d) \u2014 predicate exposure",
       "source_url": "https://www.nbcnews.com/news/us-news/epstein-survivors-identities-appear-unredacted-files-released-doj-rcna257057",
       "sha256_transcript": "3469d38cc44b1a545b6af988141c87398b889ade0dfdeea459887452900b9350"

@@ -10,9 +10,13 @@
   "custody_state": "VERIFIED",
   "sha256_transcript": "d7a8cec0a895e3e235a57e9221213d90224196c4d341a5029d778e0abd523157",
   "custodians": [
-    "devinendorphin/veriticide-general-ledger (git)"
+    "devinendorphin/veriticide-general-ledger (git) \u2014 integrity records",
+    "Internet Archive / Wayback (Save Page Now) \u2014 1 snapshot(s), independent third party",
+    "Google Drive: the veriticide suite/case-evidence/xai-boxtown-turbines (https://drive.google.com/drive/folders/1dEYYxVV5ijNEtyd16yNFm0vuggPryKj4) \u2014 custody receipt; raw original/* via operator rclone sync (backup-to-drive.sh)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "P1 original of the appeal (was held only via secondary coverage in appeal-challenge).",
-  "verified_at": "2026-06-30T20:15:36.452644Z"
+  "promoted_at": "2026-06-30T20:15:36.452644Z",
+  "verified_at": "2026-07-02T08:56:09.960894Z",
+  "verified_basis": "2026-07-02 verification: real original-form content in original/manifest.json, 1 Internet-Archive snapshot(s) as independent custodian, off-platform custody receipt in the veriticide suite Drive."
 }

@@ -1,5 +1,13 @@
 # 05 — CUSTODY MANIFEST
 
+> **✅ Custody update (2026-07-02).** The two items were re-captured in open egress (previously
+> LOCATOR-VERIFIED). `rubio-acting-administrator` now holds a real **state.gov P1 WARC** (the .gov
+> appointment notice); `wapo-factchecker-four-pinocchios` returned a WaPo interstitial (wget blocked,
+> no PDF — Chromium unavailable in this run). **Neither reaches `VERIFIED`**: no Wayback snapshot
+> exists (Save Page Now needs an archive.org login) and no other independent off-platform custodian
+> is in place, so both are held `HASHED-PENDING-BACKUP`. The machine-derived `evidence/custody-index.md`
+> governs; full audit: `docs/custody-status-2026-07-02.md`.
+
 *Track F for the Rubio-denial packet. Convention Art. VI(6); Protocol §6. This packet holds two
 new items and references the shared corpus; custody discipline is identical to the DOGE packet
 and shares its tooling and runbook.*
@@ -16,7 +24,8 @@ and shares its tooling and runbook.*
 | State | Meaning |
 |---|---|
 | `LOCATOR-VERIFIED` | Canonical URL + verbatim text preserved as a hashed transcript; original-form bytes not yet held. |
-| `VERIFIED` | Original artifact (WARC/PDF/screenshot + headers) with metadata, hash, dual custody, off-platform backup. **0 items** — blocked by this environment's egress policy. |
+| `HASHED-PENDING-BACKUP` | Original-form artifact captured + hashed in-repo, but no off-platform second custodian / backup yet. |
+| `VERIFIED` | `HASHED-PENDING-BACKUP` plus an off-platform second custodian and confirmation the capture is real content. **0 items** so far. |
 
 ## This packet's items (new)
 

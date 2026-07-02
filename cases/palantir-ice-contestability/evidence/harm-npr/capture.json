@@ -7,12 +7,13 @@
   "bears_date": "2026-03-04",
   "grade": "S1 (journalism)",
   "track": "harm pathway \u2014 people caught in the surveillance web",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "849385241e31edf5c3cec0d738afc8d5f7b478dbfaea36993e8f47a53fce0c0d",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "Named harm-pathway reporting.",
-  "verified_at": "2026-06-30T21:23:32.388541Z"
+  "promoted_at": "2026-06-30T21:23:32.388541Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

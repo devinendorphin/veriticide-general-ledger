@@ -10,10 +10,14 @@
   "custody_state": "VERIFIED",
   "sha256_transcript": "87372c314bf66722dfc9241e2092ac98e1d43b580d03d379cddbd6f9b301945c",
   "custodians": [
-    "devinendorphin/veriticide-general-ledger (git)"
+    "devinendorphin/veriticide-general-ledger (git) \u2014 integrity records",
+    "Internet Archive / Wayback (Save Page Now) \u2014 2 snapshot(s), independent third party",
+    "Google Drive: the veriticide suite/case-evidence/xai-boxtown-turbines (https://drive.google.com/drive/folders/1dEYYxVV5ijNEtyd16yNFm0vuggPryKj4) \u2014 custody receipt; raw original/* via operator rclone sync (backup-to-drive.sh)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s) (WARC+body, document-only). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "The unpermitted-operation predicate; exemption legality sub judice.",
-  "verified_at": "2026-06-30T19:51:12.915772Z",
-  "source_url_alt": "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/"
+  "source_url_alt": "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/",
+  "promoted_at": "2026-06-30T19:51:12.915772Z",
+  "verified_at": "2026-07-02T08:56:09.962171Z",
+  "verified_basis": "2026-07-02 verification: real original-form content in original/manifest.json, 2 Internet-Archive snapshot(s) as independent custodian, off-platform custody receipt in the veriticide suite Drive."
 }

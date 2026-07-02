@@ -1,11 +1,19 @@
 # 05 — CUSTODY MANIFEST
 
+> **✅ Custody update (2026-07-02, two steps).** Reset from an overclaimed `VERIFIED` to
+> `HASHED-PENDING-BACKUP` in the audit, then verified against custody. **3 of 10 items are now true
+> `VERIFIED`** (`contestability`, `contract`, `medicaid-feed` — real content + a Wayback snapshot +
+> an off-platform Drive custody receipt). **6 remain `HASHED-PENDING-BACKUP`** — real captured content
+> in-repo but no independent off-platform custodian yet (no Wayback snapshot; Save Page Now needs an
+> archive.org login). `palantir-defense` stays `LOCATOR-VERIFIED` (Medium blocks capture). The
+> machine-derived `evidence/custody-index.md` governs; full audit: `docs/custody-status-2026-07-02.md`.
+
 *Post-capture state (2026-06-30, open-egress session). `evidence/custody-index.md` **governs**; this
 page is narrative. Honest limits stated, not papered.*
 
-## Current custody status: **VERIFIED (in-session) — 9/9 items**
+## Current custody status: **3 VERIFIED · 6 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED** (2026-07-02)
 
-Per `evidence/custody-index.md`: **9 VERIFIED · 0 LOCATOR-VERIFIED.** Each item holds a transcript
+Per `evidence/custody-index.md`: **3 VERIFIED · 6 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED.** Each item holds a transcript
 (hashed) + an original-form WARC + body, hashed into `original/manifest.json`. All checksums verified
 post-run.
 
@@ -46,12 +54,12 @@ post-run.
    confidence-score methodology, error/audit records, and the contest mechanism (or its absence).
 4. Off-platform backup of the WARC artifacts (authenticated SPN or manual copy).
 
-*Custody manifest v1, 2026-06-30. Status: VERIFIED in-session; `contract` locator-grade; off-platform
+*Custody manifest v1, 2026-06-30. Status: HASHED-PENDING-BACKUP (in-session hashes); `contract` locator-grade; off-platform
 backup PARTIAL. The index governs; this narrative does not inflate past it.*
 
 ---
 
-## Follow-up captures (2026-06-30, "tighten" pass) — items now 10 (9 VERIFIED · 1 LOCATOR)
+## Follow-up captures (2026-06-30, "tighten" pass) — items now 10 (9 HASHED-PENDING-BACKUP · 1 LOCATOR)
 
 - **`contract` upgraded to P1 structured record.** The USASpending **API/JSON** was captured (replacing
   the JS-shell as the held artifact): PIID 70CTD022FR0000170, Palantir ← DHS/ICE, **total obligation
@@ -67,5 +75,5 @@ backup PARTIAL. The index governs; this narrative does not inflate past it.*
 - **Wayback pass is best-effort:** the availability API rate-limited some queries this session; recorded
   snapshots vary by run and are committed as found. Not a precise durable count.
 
-*Custody manifest v2, 2026-06-30. 10 items · 9 VERIFIED · 1 LOCATOR-VERIFIED (`palantir-defense`).
+*Custody manifest v2, 2026-06-30. 10 items · 9 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED (`palantir-defense`).
 `contract` now P1 JSON. The index governs.*

@@ -1,5 +1,15 @@
 # 05 — CUSTODY MANIFEST
 
+> **✅ Custody update (2026-07-02, re-capture).** The prior overclaimed `VERIFIED` marks were reset
+> to `HASHED-PENDING-BACKUP` in the audit; the packet was then **re-captured in open egress**, which
+> **replaced the old blocked-egress error pages with real multi-MB content** (the doge.gov 0-byte
+> capture is gone; `named-deaths`, `musk-woodchipper-posts`, `rubio-waivers-nonfunctional` now hold
+> real WARCs). **No item reaches `VERIFIED`**, however: DOGE has **no Wayback snapshots** and Save
+> Page Now needs an archive.org login, so there is no independent off-platform custodian yet — the
+> 13 captured items are held `HASHED-PENDING-BACKUP`; `propublica-internal-memos` and `tamlyn-cable`
+> remain `LOCATOR-VERIFIED`. The machine-derived `evidence/custody-index.md` governs; full audit:
+> `docs/custody-status-2026-07-02.md`.
+
 *Convention Art. VI(6) and Documentation Protocol §6 (Track F). The least glamorous extract
 and the one that most determines whether the record survives contact with people who want it
 discredited. A record that cannot be shown to be unaltered can be dismissed no matter how true
@@ -20,7 +30,8 @@ it is.*
 | `IN-LEDGER` | Cited in `ledger/ledger.md` with source attribution. Believable, but the live URL is the only copy — vulnerable to link rot, edit, or takedown. |
 | `CAPTURE-REQUIRED` | Named primary source identified; artifact **not** preserved. The highest-value and least-protected items are here. |
 | `LOCATOR-VERIFIED` | Canonical source URL confirmed and key verbatim text confirmed via the one sanctioned egress channel (web search); stored in `evidence/<id>/` as a transcript with an integrity hash. Original-form bytes not yet preserved. **The six priority items reached this state on 2026-06-24.** |
-| `VERIFIED` | Artifact preserved in `evidence/<id>/` with original form (WARC/PDF/screenshot + headers) + capture metadata + cryptographic hash + timestamp, held by ≥2 custodians, backed up off-platform. **No item is yet VERIFIED** (blocked by this environment's egress policy — see §6). |
+| `HASHED-PENDING-BACKUP` | Original-form artifact captured + hashed into `evidence/<id>/original/manifest.json` (in-repo integrity record), but **no off-platform second custodian / backup yet**; pre-open-egress captures may hold interstitial bytes. Not tribunal-grade. |
+| `VERIFIED` | `HASHED-PENDING-BACKUP` **plus** an off-platform second custodian (e.g. the `the veriticide suite` Drive/GCP store) **and** confirmation the capture holds real content, not an interstitial. The only tribunal-grade state. |
 
 **Capture log — 2026-06-24.** A capture pass moved the six priority items from
 `CAPTURE-REQUIRED` to `LOCATOR-VERIFIED`. Artifacts and `capture.json`/`sha256.txt` are in
@@ -120,8 +131,8 @@ it does not have; that honesty is itself part of the chain.
 > by `build-custody-index.py`). The counts below are a narrative summary of that index; if they
 > ever diverge, the index governs. This resolves the prior cross-file status drift.
 
-- **VERIFIED:** 0 items. *(Original-form preservation blocked by this environment's egress
-  policy — see §6. Requires a permitted environment.)*
+- **HASHED-PENDING-BACKUP:** 13 items — original-form artifacts hashed into `original/manifest.json`; off-platform backup pending (see `docs/custody-status-2026-07-02.md`).
+- **VERIFIED:** 0 items — none yet has the off-platform second custodian that `VERIFIED` requires.
 - **LOCATOR-VERIFIED:** 14 items — in `evidence/` with canonical URLs, verbatim text, and
   integrity hashes. Pass 1 (priority six): `musk-woodchipper-posts`, `doge-savings-subset`,
   `tamlyn-cable`, `propublica-internal-memos`, `rubio-hfac-testimony`, `meeks-demands`. Pass 2:
@@ -150,7 +161,8 @@ dependent on a withdrawn system, heavily pediatric*, not "children only" (Pe Kha
 
 **The single most important next action for this entire packet is custody work, not more
 argument.** The capture pass advanced the six priority items from `CAPTURE-REQUIRED` to
-`LOCATOR-VERIFIED` (canonical locator + verbatim text + integrity hash), but **full original-form
-preservation (`VERIFIED`) remains blocked by this environment's egress policy** and must be done
-from a permitted environment. Begin there with `musk-woodchipper-posts` (X post + archive.org
-snapshot). Integrity of the current store: `sha256sum -c evidence/*/sha256.txt`.
+`LOCATOR-VERIFIED` (canonical locator + verbatim text + integrity hash), but reaching **tribunal-grade
+`VERIFIED` still requires the off-platform second custodian** that was never completed. (The egress
+block described above is historical — this repo now runs in an open-egress environment, so any
+interstitial/error-page captures can also be re-run to real content.) Begin with `musk-woodchipper-posts`
+(X post + archive.org snapshot). Integrity of the current store: `sha256sum -c evidence/*/sha256.txt`.

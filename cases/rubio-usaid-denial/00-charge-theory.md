@@ -94,6 +94,31 @@ packet's multi-actor structure — this case does not have a named-respondent pr
 - That honest political disagreement is criminal — it is **not**, and the protected-activity wall
   (Reflexivity Clause / Art. V) is what keeps this case from becoming the thing it opposes.
 
+
+## Forum-Now (per Protocol §7-bis) — ACTIVE-soft / DORMANT-hard
+
+*The venues where this record is actionable. Soft vehicles are live; hard vehicles are held OFF
+until their stated preconditions are met, at which point flipping is a dated, provenance-logged act.*
+
+**ACTIVE — soft vehicles (step one; live now).** A basis to demand, not a verdict:
+- **Preservation demand** to State/USAID for the internal mortality and program-impact records — the
+  closed documentary record generated *inside Rubio's own agency* that the denial contradicts.
+- **FOIA** to the State Department for the factual basis of the "no one has died" statement and the
+  underlying USAID impact data.
+- **Congressional oversight** — a request to **correct the record** / questions-for-the-record through
+  HFAC (the very forum of the charged testimony), building on the Meeks/Schatz record.
+- **State OIG / GAO** (the *State* IG and GAO remain, whatever happened to USAID's).
+- **Fact-check + journalism-with-custody** — the WaPo four-Pinocchios finding and the state.gov P1 capture.
+
+**DORMANT — hard vehicles (step two; OFF by default).** Recorded for foresight; **no assertion** until flipped:
+- **False-official-statement / congressional-testimony referral.** *Preconditions to flip:* a demonstrable
+  **knowing** falsity (the mental element this packet keeps OPEN) and a committee willing to act. *Register
+  shift:* from "demand correction" to "assert a knowing false official statement."
+- **This case is deliberately soft-heavy.** Its harm is discernment-defeat, not homicide, and the charged
+  statements sit near protected political speech — so the protected-activity wall (Reflexivity Clause /
+  Art. V) gates every hard vehicle: the target is the *official denial against a closed internal record*,
+  never political disagreement. No tribunal vehicle is asserted.
+
 ---
 
 *Cross-reference: `ledger/ledger.md` Cluster 4 → "Supplementary Entry — Rubio Congressional

@@ -10,9 +10,13 @@
   "custody_state": "VERIFIED",
   "sha256_transcript": "56de605d334927e3d49e9a3e8f2568ea4728ccc8da6b36a8d9fc89f73e7359bf",
   "custodians": [
-    "devinendorphin/veriticide-general-ledger (git)"
+    "devinendorphin/veriticide-general-ledger (git) \u2014 integrity records",
+    "Internet Archive / Wayback (Save Page Now) \u2014 5 snapshot(s), independent third party",
+    "Google Drive: the veriticide suite/case-evidence/x-bot-swarm (https://drive.google.com/drive/folders/1-znznciSoHZ2lKXjViic7eUhM-dJynZ8) \u2014 custody receipt; raw original/* via operator rclone sync (backup-to-drive.sh)"
   ],
   "original_form_capture": "CAPTURED: 30 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Addresses Gap Priority 27 item (b): documents the paid-lift node (operator/client/message/price) on X via three instances \u2014 Doppelganger/Social Design Agency (DOJ Sep 4 2024), Team Jorge/AIMS (Guardian Feb 15 2023, EUR6-15m), Meliorator/RT (DOJ Jul 2024, X-only, 968 accounts). Third-party/state actors; does NOT implicate Musk (the Musk-direct-authorship sub-question remains open/conceded). bears_date anchors to the DOJ Doppelganger action; span Feb 2023-Sep 2024.",
-  "verified_at": "2026-06-29T01:59:30.841315Z"
+  "promoted_at": "2026-06-29T01:59:30.841315Z",
+  "verified_at": "2026-07-02T08:46:03.913742Z",
+  "verified_basis": "2026-07-02 open-egress re-capture: real original-form content confirmed (WARC/HTML/PDF hashed in original/manifest.json), 5 Internet-Archive snapshot(s) as independent custodian, and off-platform custody receipt in the veriticide suite Drive. Any x.com/interstitial sub-URLs are documented in 05-custody-manifest.md and corroborated by fully-rendered outlet captures."
 }

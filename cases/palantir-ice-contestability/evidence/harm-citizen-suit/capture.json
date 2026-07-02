@@ -7,12 +7,13 @@
   "bears_date": "2025-00-00",
   "grade": "P1 (party press + court filing)",
   "track": "harm specimen \u2014 U.S. citizen wrongful arrest",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "1b64a92f8aa1c11b56843393fe36a718f766544b2b27d575bdda68470ad3a7cc",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "Named contestability-failure instance (citizen wrongly seized).",
-  "verified_at": "2026-06-30T21:23:32.388541Z"
+  "promoted_at": "2026-06-30T21:23:32.388541Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

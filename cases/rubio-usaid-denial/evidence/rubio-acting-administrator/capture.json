@@ -7,9 +7,12 @@
   "bears_date": "2025-02-03",
   "grade": "P1 (State Dept official) + S1",
   "track": "B / II(3)(d)",
-  "custody_state": "LOCATOR-VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "43347d81d0f5bd8d394d99a7e2688ffed14348590a2d0cb02d25b0544ecc8888",
-  "custodians": ["devinendorphin/veriticide-general-ledger (git)"],
-  "original_form_capture": "PENDING — requires environment with permitted egress (WARC/PDF/screenshot). See ../README.md and ../../doge-usaid-pepfar/evidence/CAPTURE-RUNBOOK.md.",
-  "notes": "Rubio-denial sibling case. Verbatim quoted text reproduced from sanctioned-search; confirm against source at original-form capture."
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 9 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "Rubio-denial sibling case. Verbatim quoted text reproduced from sanctioned-search; confirm against source at original-form capture.",
+  "promoted_at": "2026-07-02T08:55:54.140848Z"
 }

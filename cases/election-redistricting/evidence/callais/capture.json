@@ -7,12 +7,13 @@
   "bears_date": "2026-04-29",
   "grade": "P1 (Supreme Court opinion)",
   "track": "II(2)(d) \u2014 \u00a72 racial-vote-dilution enforcement narrowed/eviscerated",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "a663661b19663460ebc93236e2d677e3498da802061c31f55ad8e2cb6fb0e7d4",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 3 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "No. 24-109 (Apr 29, 2026), 6\u20133, Alito. The most recent removal of a measurement/remedy path.",
-  "verified_at": "2026-06-29T17:37:43.003597Z"
+  "promoted_at": "2026-06-29T17:37:43.003597Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

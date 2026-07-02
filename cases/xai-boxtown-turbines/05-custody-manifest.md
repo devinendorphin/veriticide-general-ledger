@@ -1,12 +1,19 @@
 # 05 — CUSTODY MANIFEST
 
+> **✅ Custody update (2026-07-02, two steps).** Reset from an overclaimed `VERIFIED` to
+> `HASHED-PENDING-BACKUP` in the audit, then verified against custody. **9 of 11 items are now true
+> `VERIFIED`** (real content + a Wayback snapshot + an off-platform Drive custody receipt).
+> **`selc-letter-2024-08` and `selc-letter-2025-04` remain `HASHED-PENDING-BACKUP`** — real captured
+> content in-repo but no Wayback snapshot yet. The machine-derived `evidence/custody-index.md`
+> governs; full audit: `docs/custody-status-2026-07-02.md`.
+
 *Post-capture state. On 2026-06-30 (open-egress session) the evidence items were promoted from
 URL-CITED to **original-form captured**. The canonical index `evidence/custody-index.md` **governs**;
 this page is narrative. Honest limits (blocked sources, off-platform backup) are stated, not papered.*
 
-## Current custody status: **VERIFIED (in-session) — 11/11 items**
+## Current custody status: **9 VERIFIED · 2 HASHED-PENDING-BACKUP** (2026-07-02)
 
-Per `evidence/custody-index.md` (mechanically derived): **11 VERIFIED · 0 LOCATOR-VERIFIED.** (6 original items + 5 P1/disposition items captured in the (b) run: `permit-appeal-p1`, `selc-letter-2024-08`, `selc-letter-2025-04`, `epa-action`, `board-mootness-denial`.)
+Per `evidence/custody-index.md` (mechanically derived): **9 VERIFIED · 2 HASHED-PENDING-BACKUP.** (6 original items + 5 P1/disposition items captured in the (b) run: `permit-appeal-p1`, `selc-letter-2024-08`, `selc-letter-2025-04`, `epa-action`, `board-mootness-denial`.)
 
 | Item | Held original-form artifact | Custody |
 |---|---|---|
@@ -52,7 +59,7 @@ Per `evidence/custody-index.md` (mechanically derived): **11 VERIFIED · 0 LOCAT
    via secondary coverage) and hash them in.
 3. Re-derive the air-toxics risk figure independently, or leave it PARTIAL on the record.
 
-*Custody manifest v2, 2026-06-30. Status: VERIFIED in-session (hashes committed); off-platform backup
+*Custody manifest v2, 2026-06-30. Status: HASHED-PENDING-BACKUP (in-session hashes committed); off-platform backup
 OPEN. The index governs; this narrative does not inflate past it.*
 
 ---

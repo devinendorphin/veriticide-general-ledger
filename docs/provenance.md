@@ -150,3 +150,25 @@ Reworked the README. Two components, plus one opportunistic correction:
 - **Opportunistic correction (self-sealing inference).** The Objection.ai bullet's "absence confirms INSTRUMENT classification" — a self-sealing inference flagged in the 2026-07-01 assessment §2.3 — was rewritten: the classification rests on the architecture and the realized chilling effect (the "first target" naming), and the shutdown is *consistent with* it rather than *confirming* it. The identical phrasing in `ledger/ledger.md` (lines ~5961, ~6840) is left for a separate ledger pass; this corrected only the README surface.
 
 Additive/relocational + two typed corrections; no case-file analytic content re-litigated.
+
+---
+
+## 2026-07-02 — Forum-Now rollout to all cases + reader's map (streamlining 4.6 completion)
+
+Completing the 2026-07-01 Forum-Now item, which had shipped the §7-bis standard + the Boxtown exemplar
+but was **not yet rolled out to the other seven case files**. A tailored **Forum-Now block** (ACTIVE-soft /
+DORMANT-hard, with per-case preconditions-to-flip) was added to each remaining `00-charge-theory.md`:
+`doge-usaid-pepfar`, `rubio-usaid-denial`, `palantir-ice-contestability`, `x-bot-swarm`,
+`epstein-survivor-unredaction`, `election-redistricting`, `ctf1-corpus`.
+
+**Not a stamp — each reflects its real forum landscape:** redistricting records the federal partisan
+forum as doctrinally **foreclosed** (*Rucho*) with state-court and VRA §2 vehicles live; DOGE routes
+around the documented **firing of the inspectors general** to GAO/Congress; Rubio is soft-heavy (its harm
+is discernment-defeat, near protected speech); Palantir and Epstein confine hard-vehicle standing to the
+actually-injured (a swept-in individual; a survivor-plaintiff) with the record-holder supporting, not
+asserting; x-bot keeps any Musk-direct-authorship vehicle OFF per its conceded attribution joint; and
+**CTF-1 is OFF by design** (permanently, not merely dormant), honoring its DECLINED account-level verdict.
+
+Also added `docs/readers-map.md` — a one-page navigation card (journalist / lawyer / community documenter /
+researcher / skeptic entry paths), linked from the README. Navigation only; no new analytic claim.
+Case-file additive change; no charge theory re-litigated.

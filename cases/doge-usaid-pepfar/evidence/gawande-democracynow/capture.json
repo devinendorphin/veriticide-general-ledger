@@ -6,7 +6,7 @@
   "captured_at": "2026-06-24T11:30:00Z",
   "bears_date": "2025-11-13",
   "grade": "P2 (named expert, former USAID global health head) via S1",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "667c45a25c2c4f4ae0b1fec45b194aba9b9a9cd62a8a1b662af6eea69b69ed82",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
@@ -14,5 +14,6 @@
   "original_form_capture": "CAPTURED: 5 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture.",
   "track": "C / IV(4)",
-  "verified_at": "2026-06-28T20:45:57.995111Z"
+  "promoted_at": "2026-07-02T08:58:52.068602Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

@@ -1,0 +1,43 @@
+{
+  "item": "./rubio-acting-administrator",
+  "captured_at": "2026-07-02T08:55:54.103483Z",
+  "artifact_count": 9,
+  "artifacts": {
+    "www.state.gov_secretary-marco-rubio-appointed-as-acting-administrator-for-the-un.html": {
+      "sha256": "38406336914a34e8725c9e694d01a558a3482c19394b1f61437881bb39a211fe",
+      "bytes": 904214
+    },
+    "www.aljazeera.com_news_2025_2_3_us-secretary-of-state-rubio-says-he-has-become-a.html": {
+      "sha256": "5973166f591a81bbf9e90ae8f00d02d80c0714d93b54e5da34064b4d65c53dbb",
+      "bytes": 3852821
+    },
+    "www.cnn.com_2025_02_03_politics_usaid-washington-workers.warc": {
+      "sha256": "e77acfc8736bdd52535306552b6d616dc926ee1c960feeb89e52efd4c12f9c14",
+      "bytes": 14689885
+    },
+    "www.state.gov_secretary-marco-rubio-appointed-as-acting-administrator-for-the-un.warc": {
+      "sha256": "4bfd6141d325629f792f75dbace9c57a97066bb998f19cd9daeccd88ee3c5b97",
+      "bytes": 915197
+    },
+    "www.npr.org_2025_02_03_nx-s1-5285308_secretary-of-state-marco-rubio-announces-he.warc": {
+      "sha256": "ca34699a9be65204b7efcbad6ff529d04b56939464d4e481e47dc4102f862e2e",
+      "bytes": 3599243
+    },
+    "www.npr.org_2025_02_03_nx-s1-5285308_secretary-of-state-marco-rubio-announces-he.html": {
+      "sha256": "a1ff065922a0ecd5b9839df169d84526c929a06531f26a65f0ac81bf8bcc4de3",
+      "bytes": 3463203
+    },
+    "www.aljazeera.com_news_2025_2_3_us-secretary-of-state-rubio-says-he-has-become-a.warc": {
+      "sha256": "eaa78af518de010c08e056be30e6090bc68cb6601ed8c97622c15aef5effed01",
+      "bytes": 4043159
+    },
+    "www.cnn.com_2025_02_03_politics_usaid-washington-workers.html": {
+      "sha256": "dcf96c7dd4726631b4b922ecaff8f007a5779ff5a4446e81550fd59d40c18221",
+      "bytes": 8832222
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

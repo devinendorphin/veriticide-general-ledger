@@ -7,12 +7,13 @@
   "bears_date": "2016",
   "grade": "P2 (named on-record statement) in P1 (legislative record)",
   "track": "II(3)(d) \u2014 admitted precise intended effect (operator)",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "39b90e583b2339d2e1d0267f07eb8ca0c6a322d450f204f6da84e0d906415cf7",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "The precise partisan target, admitted on the record by the map's own author.",
-  "verified_at": "2026-06-29T17:36:41.448997Z"
+  "promoted_at": "2026-06-29T17:36:41.448997Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }
