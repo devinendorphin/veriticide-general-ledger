@@ -91,3 +91,14 @@ Substantive accuracy corrections to the Cluster 4 (DOGE) prose, surfaced while b
 - **Demographic correction:** "mostly children" softened to *disproportionately, but not exclusively, children — people without exit, heavily pediatric* (e.g., Pe Kha Lau, 71). Applied at both occurrences in the Genocide Supplement.
 
 Sourcing for each correction is preserved in the case-file evidence transcripts (`cases/doge-usaid-pepfar/evidence/secondary-doge-savings-witnesses/`, `secondary-accountability-removal/`, `named-deaths/`) and their canonical custody index. The secondary-records capture-log rows (historical IDs) were left unedited as a record of original capture.
+
+---
+
+## 2026-07-01 — Tier taxonomy v0.1 → v0.2 (evidence-mode axis; asymmetry-test restatement)
+
+Streamlining pass on `docs/veriticide-stack-tier-taxonomy-v0.1.md` (filename retained; header now reads v0.2). Two changes, both surfaced during the 2026-07-01 external assessment and its follow-ups (`docs/external-review-2026-07-01-*.md`):
+
+- **Added the evidence-mode axis.** A new "Evidence mode" row on every tier (1–6) states *how that tier is proven* and *its nearest existing forum*, plus a summary table. This **supersedes and discards** the assessment's original §4.4 proposal to split the stack into "chargeable" (Tiers 3–4) vs "declaratory aperture" (Tiers 1–2, 5–6). That split was withdrawn because it failed at both ends: Tiers 1–2 proved **measurable** (the GDA / `experiments/topic-bearing-gda/` — constraint friction and neutral-authority laundering are quantifiable; Tier-2 conscription is additionally litigated in copyright courts now), and Tiers 5–6 proved to rest on **documented conduct** with live vehicles (the AI-energy pattern brief; the ecocide-statute movement; rights-of-nature precedent). The operator supplied the Tier-5/6 origin conversation and the GDA/Grok material that forced this correction. No tier's substantive content (protected object, act, distinguishing element, laundering signature) was removed; the axis is purely additive.
+- **Restated the "invariant test" as the "asymmetry test."** The old formulation ("if the position were true it would not need the apparatus") is withdrawn as false and self-undermining — true claims under organized attack require vast apparatus *because* opposed (climate science, vaccine safety, evolution), and the framework is itself dense apparatus the old test would self-mark as a lie. The salvageable version reads the **direction** the machinery points (at the claim's content = possibly truth-under-siege; at the speaker's standing = the tell), which is already the defining property of the thirteen Tier-4 moves and the Reflexivity Clause discriminator. This is a correction *toward* consistency with the framework's own existing discriminators, not a new claim.
+
+This entry records form/structure + one corrective; it does not re-litigate any tier's analytic content.

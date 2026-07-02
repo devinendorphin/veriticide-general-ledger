@@ -30,7 +30,7 @@ The ledger operates under five foundational instruments, all in `docs/`:
 | Declaration on Veriticide v0.1 | `docs/declaration-on-veriticide-v0.1.md` | Definitional foundation — the "hot" register that does not sand down |
 | Draft Convention on Veriticide v0.2 | `docs/convention-on-veriticide-v0.2.md` | Legal instrument — elements of the crime, evidentiary standards, standing |
 | Documentation & Standing Protocol v0.1 | `docs/documentation-standing-protocol-v0.1.md` | This ledger's operating protocol — six tracks, six laundering moves, field guidance |
-| Veriticide Stack Tier Taxonomy v0.1 | `docs/veriticide-stack-tier-taxonomy-v0.1.md` | Tiered harm classification: Constraint → Conscription → Subgraph Erasure → Veriticide → Mundicide → Worldcide |
+| Veriticide Stack Tier Taxonomy v0.2 | `docs/veriticide-stack-tier-taxonomy-v0.1.md` | Tiered harm classification: Constraint → Conscription → Subgraph Erasure → Veriticide → Mundicide → Worldcide. v0.2 adds an **evidence-mode axis** (how each tier is proven + its nearest existing forum) and restates the invariant test as the **asymmetry test** |
 | Reflexivity Clause v0.1 | `docs/reflexivity-clause-v0.1.md` | Interested dismissal as self-referential instance; Protocol discriminator for telling dismissal from disagreement |
 
 ---
