@@ -1,6 +1,6 @@
 {
-  "item": "./post-takeover-bot-persistence",
-  "captured_at": "2026-06-29T01:43:53.010422Z",
+  "item": "post-takeover-bot-persistence",
+  "captured_at": "2026-07-02T08:35:38.173816Z",
   "artifact_count": 9,
   "artifacts": {
     "www.sciencedirect.com_science_article_abs_pii_S2468696423000228.html": {
@@ -8,16 +8,16 @@
       "bytes": 0
     },
     "www.sciencedirect.com_science_article_abs_pii_S2468696423000228.pdf": {
-      "sha256": "6e32eb38e928c008617c6ebdbacc251d3ab8b66174b5f6a9e13593b0a07543bd",
-      "bytes": 52947
+      "sha256": "25efd5b658dbeb62119d6764a4fd2ded79f972b0ceab3c19b427bc327a8b923d",
+      "bytes": 53120
     },
     "cybernews.com_tech_twitter-bot-struggle_.warc": {
-      "sha256": "cda16c283f523a8fb15b4889090d60413fe54119ce5eb28281f0514320a295ad",
-      "bytes": 9055
+      "sha256": "c11d62ee868e373dff792db8e4d7c7582603afbd770e3fc46d4847d432ced9a5",
+      "bytes": 9049
     },
     "cybernews.com_tech_twitter-bot-struggle_.pdf": {
-      "sha256": "eafad40d180a369b4bd3a164e1bcbbb4e57a43c005f4fa4b9319a156b14403e8",
-      "bytes": 52729
+      "sha256": "14f73deca92ebfc02ba98fa4464f7433f606ded0b2fd8e474a7bbdfbb28332e0",
+      "bytes": 52928
     },
     "cybernews.com_tech_twitter-bot-struggle_.png": {
       "sha256": "3797fe2b971f180d11e70b3f769ea3c378a8a21063c05c6805520e21de7d1a28",
@@ -28,8 +28,8 @@
       "bytes": 37458
     },
     "www.sciencedirect.com_science_article_abs_pii_S2468696423000228.warc": {
-      "sha256": "b20b100d69727ca85a21463ca6eacc346493a046852742498bf55c3774b78468",
-      "bytes": 837622
+      "sha256": "d94cbcba35e65f60d5268449034a3797a2c9d87d3a58f8a926c5d7abb99aa785",
+      "bytes": 837615
     },
     "cybernews.com_tech_twitter-bot-struggle_.html": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
