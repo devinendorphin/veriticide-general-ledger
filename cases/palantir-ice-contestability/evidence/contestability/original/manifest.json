@@ -1,0 +1,15 @@
+{
+  "item": "contestability",
+  "captured_at": "2026-06-30T21:44:50.995843Z",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.biometricupdate.com_202601_ice-using-data-and-probability-to-decide-where-to-detain-an.warc": {
+      "sha256": "6d97a384eab34b423c3395fc6c3f6da4881503bc89eb016b8b5fcaefcd397bc2",
+      "bytes": 132893
+    },
+    "www.biometricupdate.com_202601_ice-using-data-and-probability-to-decide-where-to-detain-an.bin": {
+      "sha256": "2ef00d1d72dc9c7b53c5a8186f36036e0f7782b488a324464607229d16f15baf",
+      "bytes": 128114
+    }
+  }
+}

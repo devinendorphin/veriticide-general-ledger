@@ -1,0 +1,18 @@
+{
+  "item_id": "musk-defeat-spam-bots-2022",
+  "source_url": "https://x.com/elonmusk/status/1517215066550116354",
+  "capture_method": "Sanctioned web search + outlet pages via Claude Code agent proxy (this environment has full egress; source hosts return HTTP 200). Locator + verbatim text verified; original-form bytes captured by capture.sh (see custody_state).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-28T00:00:00Z",
+  "bears_date": "2022-04-21",
+  "grade": "P2 (named on-record statement) + S1",
+  "track": "II(2)(c) \u2014 the purge-claim origin (care-register frame)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "ff03863974411ae342226ca942d5d32bc017b15250b783b959e0b5f5b92fd8a6",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 14 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "The 2022 'defeat the spam bots or die trying' promise; standard against which the later self-declared victory and documented persistence are measured.",
+  "verified_at": "2026-06-28T23:54:07.539640Z"
+}

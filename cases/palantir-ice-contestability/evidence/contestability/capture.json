@@ -1,0 +1,18 @@
+{
+  "item_id": "contestability",
+  "source_url": "https://www.biometricupdate.com/202601/ice-using-data-and-probability-to-decide-where-to-detain-and-arrest-people",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "bears_date": "2026-01-00",
+  "grade": "S1 (journalism) + court testimony",
+  "track": "contestability failure \u2014 ELITE scores vs warrant standard",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "b5b524a32dfafbafed92650691ef94023c6d92300f322e00313fbd35f0082af0",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "The crux: probabilistic targeting used beyond what it can bear; agent testimony.",
+  "verified_at": "2026-06-30T21:23:32.388541Z"
+}

@@ -1,0 +1,18 @@
+{
+  "item_id": "survivors-lawsuit",
+  "source_url": "https://www.courthousenews.com/epstein-sexual-assault-survivors-file-class-action-to-stop-spread-of-personal-information/",
+  "capture_method": "Sanctioned web search + reporting pages via Claude Code agent proxy (full egress). Locator + structural text verified; original-form bytes captured by capture.sh. NO survivor identifying information is reproduced or captured beyond what the reporting itself contains (the reporting does not name survivors).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-02-01",
+  "grade": "S1 on P1 court filing",
+  "track": "realized harm (Tier 3) + inversion (Move 3 / DARVO)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "b64436df7c116612f9f2062d59e331f729eb870057287c893e7d4833754221f3",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 10 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "DOJ Epstein-files survivor re-exposure. No-reproduction discipline: documents the exposure without restating any survivor identity. Approximate bears_date (Feb 2026 reporting window); confirm at capture.",
+  "verified_at": "2026-06-29T08:34:08.797308Z"
+}

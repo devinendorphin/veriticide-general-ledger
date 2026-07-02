@@ -1,0 +1,24 @@
+{
+  "item": "mapmaking-instrument",
+  "captured_at": "2026-06-29T17:36:12.539161Z",
+  "capture_url": null,
+  "artifact_count": 4,
+  "artifacts": {
+    "www.commoncause.org_resources_the-hofeller-files_.png": {
+      "sha256": "cb3b95acee72c1b00ab9e1287db728647f7ecd7357aa8e0b3647a1dd62f8b60c",
+      "bytes": 37688
+    },
+    "www.commoncause.org_resources_the-hofeller-files_.pdf": {
+      "sha256": "0e8819e00811fe5065f52d5c7b2ee0bee87f5650995fa1c03b30fa6450fd0277",
+      "bytes": 53127
+    },
+    "www.commoncause.org_resources_the-hofeller-files_.html": {
+      "sha256": "4d9562c84d41640d9419a4594baf7d013c186a9927b8d6198ac4ec02f4a728ab",
+      "bytes": 133828
+    },
+    "www.commoncause.org_resources_the-hofeller-files_.warc": {
+      "sha256": "cb7422ee64b6fd3e7d83dd22056dd72852ae42d2ade7d2129a83da5b525c263d",
+      "bytes": 138292
+    }
+  }
+}

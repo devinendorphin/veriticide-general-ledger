@@ -1,0 +1,20 @@
+{
+  "item": "alexander",
+  "captured_at": "2026-06-29T17:36:44.538110Z",
+  "capture_url": null,
+  "artifact_count": 3,
+  "artifacts": {
+    "www.supremecourt.gov_opinions_23pdf_22-807_3e04.pdf.warc": {
+      "sha256": "d87c657badb7355c5361f3fd0f7831762cc74c2fe16c800da9f938692962931f",
+      "bytes": 1283475
+    },
+    "www.supremecourt.gov_opinions_23pdf_22-807_3e04.pdf.warc-body": {
+      "sha256": "ecdcf67a9e7d1b09a2b84cdf1a8ae79773bc6507a94b6e3ebfb94749c997c3e8",
+      "bytes": 1279410
+    },
+    "www.supremecourt.gov_opinions_23pdf_22-807_3e04.pdf.pdf": {
+      "sha256": "ecdcf67a9e7d1b09a2b84cdf1a8ae79773bc6507a94b6e3ebfb94749c997c3e8",
+      "bytes": 1279410
+    }
+  }
+}

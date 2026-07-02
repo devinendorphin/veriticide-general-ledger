@@ -1,0 +1,18 @@
+{
+  "item_id": "board-mootness-denial",
+  "source_url": "https://www.actionnews5.com/2025/12/16/shelby-co-air-pollution-control-board-denies-appeal-over-xais-turbine-use-citing-mootness/",
+  "capture_method": "Document/PDF WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T20:15:36.452644Z",
+  "bears_date": "2025-12-16",
+  "grade": "S1 (local broadcast, on-record ruling)",
+  "track": "disposition \u2014 board denied appeal on mootness (~2025-12-15)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "3e3f1288dc06092bc215a12571ba5057d3570205fe3d678e7bdc860fa78413f3",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Administrative appeal DENIED on mootness after a 7-hour hearing; xAI presented data of 'no high levels of pollution' near communities.",
+  "verified_at": "2026-06-30T20:15:36.452644Z"
+}

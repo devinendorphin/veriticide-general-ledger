@@ -1,0 +1,24 @@
+{
+  "item": "rucho-record",
+  "captured_at": "2026-06-29T17:36:41.448740Z",
+  "capture_url": null,
+  "artifact_count": 4,
+  "artifacts": {
+    "www.commoncause.org_articles_background-on-common-cause-v-rucho_.png": {
+      "sha256": "cb3b95acee72c1b00ab9e1287db728647f7ecd7357aa8e0b3647a1dd62f8b60c",
+      "bytes": 37688
+    },
+    "www.commoncause.org_articles_background-on-common-cause-v-rucho_.warc": {
+      "sha256": "1fe1c01e83d7c581684466359832cf6444b936184119d8f252d5f17d946f7221",
+      "bytes": 136420
+    },
+    "www.commoncause.org_articles_background-on-common-cause-v-rucho_.html": {
+      "sha256": "801b15f2044591483c2a8e26081ab4d994f4ca4a80bcbe6a18f45a9fb4e1e689",
+      "bytes": 131838
+    },
+    "www.commoncause.org_articles_background-on-common-cause-v-rucho_.pdf": {
+      "sha256": "2561fe6e19000b08c46f191f340167d995f66d8c441a682ceb56e3443ca7671b",
+      "bytes": 53349
+    }
+  }
+}

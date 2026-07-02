@@ -1,0 +1,18 @@
+{
+  "item_id": "rucho-record",
+  "source_url": "https://www.commoncause.org/articles/background-on-common-cause-v-rucho/",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). Canonical URL + verbatim text verified and hashed as transcript.md (LOCATOR-VERIFIED). Original-form WARC/PDF/PNG not yet captured in this environment \u2014 see ../CAPTURE-RUNBOOK.md for the promotion run.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2016",
+  "grade": "P2 (named on-record statement) in P1 (legislative record)",
+  "track": "II(3)(d) \u2014 admitted precise intended effect (operator)",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "39b90e583b2339d2e1d0267f07eb8ca0c6a322d450f204f6da84e0d906415cf7",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
+  "notes": "The precise partisan target, admitted on the record by the map's own author.",
+  "verified_at": "2026-06-29T17:36:41.448997Z"
+}

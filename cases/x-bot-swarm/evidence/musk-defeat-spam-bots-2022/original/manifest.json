@@ -1,0 +1,63 @@
+{
+  "item": "./musk-defeat-spam-bots-2022",
+  "captured_at": "2026-06-29T01:43:53.002943Z",
+  "artifact_count": 14,
+  "artifacts": {
+    "www.foxbusiness.com_technology_elon-musk-vows-to-defeat-the-spam-bots-or-die-try.pdf": {
+      "sha256": "ea1c4e630b8f77f5a849ce9090f8b9908c0b76349263d7d18f9ae05a597f2abb",
+      "bytes": 54457
+    },
+    "archive-org-snapshots.txt": {
+      "sha256": "6f2da1c0bbc8befb1fa1b1ed1946ae5e93008d8be00a4b1bcc0d7a18bbe10c49",
+      "bytes": 270
+    },
+    "x.com_elonmusk_status_1517215066550116354.pdf": {
+      "sha256": "fed50de00081a217ebce8d779d919c4086779207f3ebd66f8540e74fd6a702a6",
+      "bytes": 51273
+    },
+    "x.com_elonmusk_status_1517215066550116354.html": {
+      "sha256": "369feee470a64f0712ac350bf3d655ac81403264083c6890c478f21020488133",
+      "bytes": 758790
+    },
+    "www.foxbusiness.com_technology_elon-musk-vows-to-defeat-the-spam-bots-or-die-try.html": {
+      "sha256": "44d784c4c36facae999522aa40e74fb0dbb6e3bb4350f198b54392de63875fb4",
+      "bytes": 3518466
+    },
+    "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.pdf": {
+      "sha256": "fdc016def909bb39b4f3981400dec7ef293d97ea3f4a234fd1209089cb49bcbf",
+      "bytes": 51954
+    },
+    "www.foxbusiness.com_technology_elon-musk-vows-to-defeat-the-spam-bots-or-die-try.warc": {
+      "sha256": "6fcbc6abe8abdf9bdd5cedb804d68ecee6bab7f71ff44bf5f525eb3aab83cee5",
+      "bytes": 3666567
+    },
+    "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.png": {
+      "sha256": "63e738b4f5f2de5ef1d1320e6735b8bbaf9503071676cf15e99508a8c9d5ca29",
+      "bytes": 36665
+    },
+    "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.warc": {
+      "sha256": "8e15959e51d7468913028293839a86aa065f5923d2ee463a4acb64d0bdfac375",
+      "bytes": 6096885
+    },
+    "x.com_elonmusk_status_1517215066550116354.warc": {
+      "sha256": "c78e2c9b54d9c4229552cc26c49d3ca21515c94739dcc374f2945a8164036d5b",
+      "bytes": 804258
+    },
+    "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.html": {
+      "sha256": "c43eb58a74c74cde4e65e679269cd2af1ab6989ba18101b006cccaad795a8ecd",
+      "bytes": 5989334
+    },
+    "x.com_elonmusk_status_1517215066550116354.png": {
+      "sha256": "a7a7e06ff364f58f80f976eeed165bd48d49683fda662d845a6a614c73654e87",
+      "bytes": 35365
+    },
+    "www.foxbusiness.com_technology_elon-musk-vows-to-defeat-the-spam-bots-or-die-try.png": {
+      "sha256": "30e51c2043f4ab5e77941702d37ec62fb35274517f2c40e87c68590535682a1b",
+      "bytes": 37209
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

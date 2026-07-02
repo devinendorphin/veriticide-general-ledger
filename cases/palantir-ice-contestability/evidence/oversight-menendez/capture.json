@@ -1,0 +1,18 @@
+{
+  "item_id": "oversight-menendez",
+  "source_url": "https://menendez.house.gov/imo/media/doc/palantir_letter.pdf",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30, open egress).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:23:32.388541Z",
+  "bears_date": "2025-00-00",
+  "grade": "P1 (congressional letter)",
+  "track": "authorization/foreseeability \u2014 congressional oversight",
+  "custody_state": "VERIFIED",
+  "sha256_transcript": "ea43a123b5af7b1b4e419afc715e917c2fccfc26605d2c273afb3b73be0c950c",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
+  "notes": "Congressional letter PDF \u2014 P1.",
+  "verified_at": "2026-06-30T21:23:32.388541Z"
+}

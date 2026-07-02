@@ -1,0 +1,15 @@
+eca17a563901766553ce36e1c0e41235ac3d1c5d94f1182825ef7bcfdf1cb98a  ./www.propublica.org_article_trump-usaid-rubio-marocco-canceled-programs-gaza-syri.html
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./theintercept.com_2025_02_06_marco-rubio-usaid-humanitarian-waiver_____HRW__CGD__.html
+c26e5a760fbd8a5d30d386069fb62165bce4a5fa4b531a61d81ebb1e4a4ada21  ./thedispatch.com_article_pepfar-state-department-funds-waivers-rubio_.warc
+6c76cfb8ceba86221c33c420a7347fd68d9bb24f506a4152f310de0ce128c570  ./www.cgdev.org_blog_secretary-rubio-waivers-arent-working-please-fix-process.warc
+1befa4ee40243da189ec706d20e47fcf0f6d6d0159ca3c8b9cc5906efb828e7a  ./www.kff.org_global-health-policy_the-trump-administrations-foreign-aid-review-st.html
+2e701ccdcc2bf2967e78c8c169644e01daac835f83b132b6806d0cfc0ad21080  ./www.propublica.org_article_trump-usaid-rubio-marocco-canceled-programs-gaza-syri.warc
+c0f209a5b19302c64fdf96407de14d839fa56f53e7cb85229b06689350eee243  ./thedispatch.com_article_pepfar-state-department-funds-waivers-rubio_.html
+dd88859a21fd211c1129e5b593778975efd606e367a9b5e2d553986107bff92c  ./www.hrw.org_news_2025_02_10_us-lifesaving-programs-remain-suspended-despite-waiv.html
+16a07906010eaec4d06d76704c44108cb8ff031525a255ce18488835509ad463  ./theintercept.com_2025_02_06_marco-rubio-usaid-humanitarian-waiver_____HRW__CGD__.warc
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./www.cgdev.org_blog_secretary-rubio-waivers-arent-working-please-fix-process.html
+1001593288287816f4dedb2731902d664f0ab3120902962868bae1479549aedc  ./www.kff.org_global-health-policy_the-trump-administrations-foreign-aid-review-st.warc
+e0e303e9538a82a0c0ec3fd1a71ab91dee3099c141f6011f8dd3c807a2f452b5  ./www.hrw.org_news_2025_02_10_us-lifesaving-programs-remain-suspended-despite-waiv.warc
+6a6724358254b920ca834cb5574b90c1bd8d121453a94138d707088c507f0b0b  ./theintercept.com_2025_02_06_marco-rubio-usaid-humanitarian-waiver_.warc
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log
+ee642fbc835c555709ed7c77b81e93487b6b771b9be468f5fdf6b8462d6ce743  ./theintercept.com_2025_02_06_marco-rubio-usaid-humanitarian-waiver_.html

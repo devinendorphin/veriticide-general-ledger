@@ -1,0 +1,22 @@
+{
+  "item_id": "epidemic-homely-girls",
+  "source_url": null,
+  "capture_method": "Operator-supplied screenshot. No canonical tweet URL captured; no original-form web bytes held. Verbatim text preserved and hashed in transcript.md.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2025-10-02",
+  "classification": "SPECIMEN",
+  "register": "medical-pathologizing",
+  "reach": "12.8K views",
+  "screenshot": "/mnt/data/1000026306.jpg",
+  "grade": "P2 (named on-record statement, screenshot-held)",
+  "track": "II(2)(d) ambient/credentialed-figure form (register-as-conduct; account verdict DECLINED)",
+  "custody_state": "SCREENSHOT-HELD",
+  "account_level_verdict": "DECLINED (high-variance account)",
+  "sha256_transcript": "a94f73c0607e612dfa6cfc87c1d7398b99b0ba9826e67c6352e789c292e97802",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "NOT HELD \u2014 no canonical URL. Upgrade would require locating the canonical tweet URL, then capture.sh; deliberately not pursued (private individual; corpus deprioritized/not load-bearing).",
+  "notes": "CTF-1 high-variance corpus. Records the act, not the account. See ../00-charge-theory.md (verdict declined) and ../03-adversarial-check.md (protected-speech wall)."
+}

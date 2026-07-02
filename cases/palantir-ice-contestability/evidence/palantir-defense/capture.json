@@ -1,0 +1,17 @@
+{
+  "item_id": "palantir-defense",
+  "source_url": "https://blog.palantir.com/correcting-the-record-response-to-the-eff-january-15-2026-report-on-palantir-4b3a12536cd2",
+  "capture_method": "Document WARC via Claude Code agent proxy (2026-06-30).",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-30T21:39:38.786024Z",
+  "bears_date": "2026-01-00",
+  "grade": "P1 (company's own published statement)",
+  "track": "counter-register (first-party) \u2014 the neutral-tool defense",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "63e5ac4f9a1fecc7fa58d03d4fda0777ba9f223e0b533d3a41944a3e8c3532ac",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING \u2014 blocked.",
+  "notes": "Palantir's first-party verbatim defense."
+}

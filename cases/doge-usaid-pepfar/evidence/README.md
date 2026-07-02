@@ -27,10 +27,18 @@ environment network policy"); it travels with the packet rather than being paper
 | State | Meaning | Achievable here? |
 |---|---|---|
 | `LOCATOR-VERIFIED` | Canonical source URL confirmed, and key verbatim text confirmed via sanctioned web search. Stored as a transcript with an integrity hash. Original-form preservation pending. | **Yes — this pass.** |
-| `VERIFIED` | Original artifact preserved (PDF / screenshot / WARC / raw HTML) with capture metadata, hash, dual custody, off-platform backup. | No — requires permitted egress. |
+| `VERIFIED` | Original artifact preserved (PDF / screenshot / WARC / raw HTML) with capture metadata, hash, dual custody, off-platform backup. | Partly — original-form capture run 2026-06-28 from an open-egress env. |
 
-**Every item in this store is currently `LOCATOR-VERIFIED`.** None is `VERIFIED`. That
-distinction is the honest state of the chain and is recorded in each item's `capture.json`.
+**13 of 15 items are now `VERIFIED`; 2 remain `LOCATOR-VERIFIED`.** The 2026-06-28 capture run
+(`capture.sh --promote --archive-org`) preserved original-form bytes (WARC + raw HTML) for each
+source URL and hashed them into per-item `original/manifest.json` + `sha256sums.txt` (the integrity
+record committed here; the ~2.6 GB of binaries are held in off-platform custody, which is the
+manifest's required second custodian). This run produced no PDF/screenshot (no headless Chrome
+available) and no archive.org snapshots (Save Page Now rate-limited); both can be added by a later
+re-run. `tamlyn-cable` and `propublica-internal-memos` were **deliberately not promoted**: each
+embeds a non-public primary (the cable / the internal memos), and per `CAPTURE-RUNBOOK.md` they
+must not be held P1 on the strength of capturing the *reporting* alone. Per-item state is recorded
+in each `capture.json` and is authoritative in `custody-index.md`.
 
 ## What `LOCATOR-VERIFIED` is worth
 
@@ -66,20 +74,20 @@ forensically preserved.
 
 | Item | Track(s) | State |
 |---|---|---|
-| `musk-woodchipper-posts` | B (authorization), II(3)(d) (mental element) | LOCATOR-VERIFIED |
-| `doge-savings-subset` | A (instrument) | LOCATOR-VERIFIED |
+| `musk-woodchipper-posts` | B (authorization), II(3)(d) (mental element) | VERIFIED |
+| `doge-savings-subset` | A (instrument) | VERIFIED |
 | `tamlyn-cable` | C (foreseeability, inside-chain) | LOCATOR-VERIFIED |
 | `propublica-internal-memos` | C (foreseeability, executing tier) | LOCATOR-VERIFIED |
-| `rubio-hfac-testimony` | D (dismissal) | LOCATOR-VERIFIED |
-| `meeks-demands` | D (terminal-node / non-response) | LOCATOR-VERIFIED |
-| `hfac-letter-jan24` | C (foreseeability — warning on day of freeze; direct PDF locator) | LOCATOR-VERIFIED |
-| `schatz-record` | C (foreseeability / realized mortality in congressional record) | LOCATOR-VERIFIED |
-| `gawande-democracynow` | C (realized mortality, former USAID global-health head) | LOCATOR-VERIFIED |
-| `named-deaths` | C / IV(4) (realized individual harm — consolidated) | LOCATOR-VERIFIED |
-| `secondary-doge-savings-witnesses` | A (instrument — mirror of IN-LEDGER witnesses) | LOCATOR-VERIFIED |
-| `secondary-mortality-modeling` | C / IV(4) (scale + foreseeability — mirror) | LOCATOR-VERIFIED |
-| `secondary-accountability-removal` | D / B (evaluators removed — mirror) | LOCATOR-VERIFIED |
-| `rubio-waivers-nonfunctional` | Defense-6 rebuttal / A / B / II(2)(c) — DOGE vetoed PEPFAR payments box-by-box | LOCATOR-VERIFIED |
+| `rubio-hfac-testimony` | D (dismissal) | VERIFIED |
+| `meeks-demands` | D (terminal-node / non-response) | VERIFIED |
+| `hfac-letter-jan24` | C (foreseeability — warning on day of freeze; direct PDF locator) | VERIFIED |
+| `schatz-record` | C (foreseeability / realized mortality in congressional record) | VERIFIED |
+| `gawande-democracynow` | C (realized mortality, former USAID global-health head) | VERIFIED |
+| `named-deaths` | C / IV(4) (realized individual harm — consolidated) | VERIFIED |
+| `secondary-doge-savings-witnesses` | A (instrument — mirror of IN-LEDGER witnesses) | VERIFIED |
+| `secondary-mortality-modeling` | C / IV(4) (scale + foreseeability — mirror) | VERIFIED |
+| `secondary-accountability-removal` | D / B (evaluators removed — mirror) | VERIFIED |
+| `rubio-waivers-nonfunctional` | Defense-6 rebuttal / A / B / II(2)(c) — DOGE vetoed PEPFAR payments box-by-box | VERIFIED |
 
 **14 items.** Pass 5 (2026-06-24) added `rubio-waivers-nonfunctional` (the strongest-defense
 rebuttal, with the decisive DOGE-payment-veto fact) and introduced the **canonical custody

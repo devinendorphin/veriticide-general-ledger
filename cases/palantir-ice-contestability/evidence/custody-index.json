@@ -1,0 +1,91 @@
+{
+  "generated": "2026-06-30",
+  "generator": "evidence/build-custody-index.py",
+  "item_count": 10,
+  "custody_states": {
+    "VERIFIED": 9,
+    "LOCATOR-VERIFIED": 1
+  },
+  "items": [
+    {
+      "item_id": "contestability",
+      "grade": "S1 (journalism) + court testimony",
+      "custody_state": "VERIFIED",
+      "track": "contestability failure \u2014 ELITE scores vs warrant standard",
+      "source_url": "https://www.biometricupdate.com/202601/ice-using-data-and-probability-to-decide-where-to-detain-and-arrest-people",
+      "sha256_transcript": "b5b524a32dfafbafed92650691ef94023c6d92300f322e00313fbd35f0082af0"
+    },
+    {
+      "item_id": "contract",
+      "grade": "P1 (federal award record \u2014 structured JSON)",
+      "custody_state": "VERIFIED",
+      "track": "authorization/instrument \u2014 the ICE sole-source award",
+      "source_url": "https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730",
+      "sha256_transcript": "ab9fbaace817627be5625d90410ab581257c46c43184a40cad72f8091449274d"
+    },
+    {
+      "item_id": "counter-register",
+      "grade": "ADV (aggregator) + Palantir position as reported",
+      "custody_state": "VERIFIED",
+      "track": "counter-register + charge aggregator",
+      "source_url": "https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup",
+      "sha256_transcript": "da0be6fc7761ad3842e7253cea4b545edcb0ef9879e2307e41d3fb7d0ed7306b"
+    },
+    {
+      "item_id": "harm-citizen-suit",
+      "grade": "P1 (party press + court filing)",
+      "custody_state": "VERIFIED",
+      "track": "harm specimen \u2014 U.S. citizen wrongful arrest",
+      "source_url": "https://www.aclusocal.org/press-releases/us-citizen-unlawfully-arrested-handcuffed-and-jailed-ice-sues-government/",
+      "sha256_transcript": "1b64a92f8aa1c11b56843393fe36a718f766544b2b27d575bdda68470ad3a7cc"
+    },
+    {
+      "item_id": "harm-npr",
+      "grade": "S1 (journalism)",
+      "custody_state": "VERIFIED",
+      "track": "harm pathway \u2014 people caught in the surveillance web",
+      "source_url": "https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify",
+      "sha256_transcript": "849385241e31edf5c3cec0d738afc8d5f7b478dbfaea36993e8f47a53fce0c0d"
+    },
+    {
+      "item_id": "instrument-scope",
+      "grade": "S1 (policy journalism)",
+      "custody_state": "VERIFIED",
+      "track": "instrument scope \u2014 data fusion + functions",
+      "source_url": "https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/",
+      "sha256_transcript": "339a5f343e98b1fa8c2bd1836b9c78a986d1abcda10ac1c52b7484580735fd3b"
+    },
+    {
+      "item_id": "medicaid-feed",
+      "grade": "ADV/S1 (EFF report)",
+      "custody_state": "VERIFIED",
+      "track": "NULL/PARTIAL \u2014 Medicaid-data feed",
+      "source_url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+      "sha256_transcript": "377e22317b562e81d9ce1fdaacc7325343c493f4edd0b82c64e2655c674d069c"
+    },
+    {
+      "item_id": "oversight-goldman",
+      "grade": "P1 (congressional press)",
+      "custody_state": "VERIFIED",
+      "track": "recognition-live \u2014 Goldman/Wyden/Velazquez demand",
+      "source_url": "https://goldman.house.gov/media/press-releases/goldman-wyden-velazquez-demand-answers-ice-use-palantir-developed-technologies",
+      "sha256_transcript": "bc5eda4060c94b7dd8d30bf935707497879d3797e9304b9273f2978124ea3e52"
+    },
+    {
+      "item_id": "oversight-menendez",
+      "grade": "P1 (congressional letter)",
+      "custody_state": "VERIFIED",
+      "track": "authorization/foreseeability \u2014 congressional oversight",
+      "source_url": "https://menendez.house.gov/imo/media/doc/palantir_letter.pdf",
+      "sha256_transcript": "ea43a123b5af7b1b4e419afc715e917c2fccfc26605d2c273afb3b73be0c950c"
+    },
+    {
+      "item_id": "palantir-defense",
+      "grade": "P1 (company's own published statement)",
+      "custody_state": "LOCATOR-VERIFIED",
+      "track": "counter-register (first-party) \u2014 the neutral-tool defense",
+      "source_url": "https://blog.palantir.com/correcting-the-record-response-to-the-eff-january-15-2026-report-on-palantir-4b3a12536cd2",
+      "sha256_transcript": "63e5ac4f9a1fecc7fa58d03d4fda0777ba9f223e0b533d3a41944a3e8c3532ac"
+    }
+  ]
+}
