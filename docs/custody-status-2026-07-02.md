@@ -134,6 +134,6 @@ capture.*
 
 ## 5. Still open (from the 2026-07-01 assessment, not custody)
 
-- Roll the Forum-Now toggle into the remaining case files (only Boxtown is done).
-- Add a one-page reader's map (journalist / lawyer / community-documenter entry paths).
+- ~~Roll the Forum-Now toggle into the remaining case files (only Boxtown is done).~~ **DONE (2026-07-02)** — a tailored block is now in every case's `00-charge-theory.md`.
+- ~~Add a one-page reader's map (journalist / lawyer / community-documenter entry paths).~~ **DONE (2026-07-02)** — `docs/readers-map.md`, linked from the README.
 - Secure one human second custodian + one external legal/domain reviewer on the strongest case.
