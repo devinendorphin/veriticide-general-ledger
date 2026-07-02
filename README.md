@@ -23,15 +23,27 @@ The ledger applies the Documentation & Standing Protocol to a specific documente
 
 ## Framework documents
 
-The ledger operates under five foundational instruments, all in `docs/`:
+The framework operates in **three registers**, all in `docs/`. The load-bearing spine is **Convention Article II (definition) and Article IV (pattern evidence)**; everything else cites into the spine and carries no independent authority (see the Convention's "The spine, and what is annex to it").
+
+**Hot register — the naming that does not sand down**
 
 | Document | Path | Purpose |
 |---|---|---|
-| Declaration on Veriticide v0.1 | `docs/declaration-on-veriticide-v0.1.md` | Definitional foundation — the "hot" register that does not sand down |
-| Draft Convention on Veriticide v0.2 | `docs/convention-on-veriticide-v0.2.md` | Legal instrument — elements of the crime, evidentiary standards, standing |
-| Documentation & Standing Protocol v0.1 | `docs/documentation-standing-protocol-v0.1.md` | This ledger's operating protocol — six tracks, six laundering moves, field guidance |
+| Declaration on Veriticide v0.1 | `docs/declaration-on-veriticide-v0.1.md` | Definitional foundation — the register kept hot against capture; not a statute and defines no elements |
+
+**Legal register — the cold instrument (the spine)**
+
+| Document | Path | Purpose |
+|---|---|---|
+| Draft Convention on Veriticide v0.2 | `docs/convention-on-veriticide-v0.2.md` | Elements of the crime (Art. II), pattern evidence (Art. IV), **interested dismissal (Art. IV-bis)**, standing (Art. V). Art. II/IV is the spine of the whole framework |
+| ↳ Reflexivity Clause (annex) v0.1 | `docs/reflexivity-clause-v0.1.md` | Working-register **annex to Convention Art. IV-bis**: the field discriminator + the corpus-level-deference evidentiary account. The operative clause now lives in the Convention |
+
+**Working register — how to document in the field, and how to classify**
+
+| Document | Path | Purpose |
+|---|---|---|
+| Documentation & Standing Protocol v0.1 | `docs/documentation-standing-protocol-v0.1.md` | Operating protocol — six tracks, the six-move laundering taxonomy + crosswalk, field guidance, two-step standing |
 | Veriticide Stack Tier Taxonomy v0.2 | `docs/veriticide-stack-tier-taxonomy-v0.1.md` | Tiered harm classification: Constraint → Conscription → Subgraph Erasure → Veriticide → Mundicide → Worldcide. v0.2 adds an **evidence-mode axis** (how each tier is proven + its nearest existing forum) and restates the invariant test as the **asymmetry test** |
-| Reflexivity Clause v0.1 | `docs/reflexivity-clause-v0.1.md` | Interested dismissal as self-referential instance; Protocol discriminator for telling dismissal from disagreement |
 
 ---
 

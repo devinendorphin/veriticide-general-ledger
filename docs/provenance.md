@@ -110,3 +110,20 @@ This entry records form/structure + one corrective; it does not re-litigate any 
 Added a **crosswalk table** to `docs/documentation-standing-protocol-v0.1.md` §3, immediately after the existing "Relationship to the Ledger Analytical Taxonomy" paragraph. It maps the Protocol's six conduct-lens laundering moves (*what was done*) to the Ledger's six language-lens analytical moves (*how the language works*), and folds the thirteen Tier-4 moves into a single standing-attack lineage (Protocol row 6 / Ledger "disqualification of dissent" / the 13 refinements).
 
 **Correspondence, not merge — deliberately.** The Protocol's own text says the two schemas "should not be treated as alternative encodings of the same six slots." An earlier streamlining proposal to *merge* them was therefore withdrawn as contrary to the Protocol's stated design. The table is explicitly **many-to-many** (one conduct move is implemented by several language moves and vice versa), which preserves rather than collapses the distinction. Nothing was removed from either taxonomy; the crosswalk only makes the existing correspondence explicit and ties the standing-attack family to the v0.2 asymmetry test and the Reflexivity Clause discriminator (all three describe one lineage at different grains). Additive; no analytic content re-litigated.
+
+---
+
+## 2026-07-01 — Spine declaration + three-register consolidation (streamlining pass items 4.1, 4.2)
+
+**4.1 — Spine declaration (Convention).** Added a subsection "The spine, and what is annex to it" to the Convention's "Note on the Nature and Stage of This Instrument." It declares **Article II (definition) and Article IV (pattern evidence) the load-bearing spine**, and the tier taxonomy, six tracks, two move-taxonomies + crosswalk, five classifications, and structural marks all **commentary/instrumentation citing into Art. II/IV with no independent authority** (spine controls on conflict). Additive; no element text changed.
+
+**4.2 — Three-register consolidation.** The framework previously presented **five co-equal foundational instruments**. Reorganized into **three registers** (README table rebuilt accordingly):
+- **Hot** — Declaration (untouched).
+- **Legal (spine)** — Convention, which now **absorbs the Reflexivity Clause as Article IV-bis**. The operative clause (IV-bis (1)–(5) + Commentary) was inserted into the Convention between Article IV and Article V; this is now its **canonical home**. The Reflexivity Clause file's own text already drafted itself as "an addition to the Convention (Art. IV-bis)," so this is relocation to its self-declared home, not a new claim.
+- **Working** — the Documentation & Standing Protocol and the Tier Taxonomy, as companion references.
+
+**What was done to `reflexivity-clause-v0.1.md`:** re-scoped from a co-equal instrument to the **working-register annex** to Convention Art. IV-bis. The now-duplicated operative text (IV-bis 1–5) and the "Why the Wall Makes It Stronger" section were removed from the file (canonical copy lives in the Convention) and replaced with a status pointer + a summary; the **field discriminator table and the corpus-level-deference / cross-model-convergence evidentiary essays were retained** in the file. No content was lost across the two files; inbound cross-references to "the Reflexivity Clause" still resolve.
+
+**Judgment recorded — the Tier Taxonomy was NOT physically inlined into the Protocol.** 4.2 as originally proposed contemplated folding "operational tier material" into the field Protocol. On execution that was declined: a classification schema and a field manual are different document types, and inlining one into the other produces a longer, mode-mixed, worse document. The navigational goal (five co-equal instruments → three registers) is met by **register-grouping** the two working-register documents, not by a destructive physical merge. The operator may direct the full inline if desired.
+
+Additive/relocational only; no tier or element analytic content re-litigated.

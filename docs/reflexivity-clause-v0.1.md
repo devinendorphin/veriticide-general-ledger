@@ -1,49 +1,19 @@
-# THE REFLEXIVITY CLAUSE
+# THE REFLEXIVITY CLAUSE — working-register annex to Convention Article IV-bis
 *Interested Dismissal as a Self-Referential Instance of the Offense*
 
-An addition to the Convention (Art. IV-bis) and the Documentation & Standing Protocol · v0.1
+Annex to the Convention · companion to the Documentation & Standing Protocol · v0.1
+
+> **Status (2026-07-01).** The operative clause was folded into the Convention as **Article IV-bis** (`docs/convention-on-veriticide-v0.2.md`), which is now its **canonical home**. This file is retained as the **working-register annex**: the field discriminator (how a documenter tells dismissal from disagreement in practice) and the evidentiary account of the cross-model, corpus-level basis of deference to power on which the Article was built — material that is instrumentation and evidence rather than operative treaty text, and so lives beneath the spine (Convention Art. II/IV), not beside it. All prior cross-references to "the Reflexivity Clause" resolve here and to Convention Art. IV-bis; nothing was deleted, only relocated to its canonical register.
 
 ---
 
-## What This Clause Does, and the Wall That Keeps It Honest
+## What the Clause Does, and the Wall That Keeps It Honest
 
-This clause makes the offense reflexive: where the characteristic move of defeating discernment — dismissing a pattern-identification as paranoid, conspiratorial, incompetent, or illegitimate — is directed at an identification of the offense itself, that dismissal is a further instance of the offense. The purpose is to remove the free retreat. The standard playbook assumes meta-level dismissal is costless: one can always step up a level and call the accusation illegitimate without engaging it. This clause attaches a cost, forcing the dismisser either to engage the evidence on the merits or to commit a further enumerated instance by declining to.
+*(Operative text: Convention Article IV-bis (1)–(5), with its Commentary — see the Convention. Summarized here for the annex reader.)*
 
-The clause is dangerous if built loosely, and its safeguard is not optional. If 'dismissal' means any challenge, the clause becomes a thought-terminating loop that convicts honest critics, and the first capable adversary defeats it with a true objection: it criminalizes dissent and is unfalsifiable. Therefore the clause is keyed strictly to bad faith demonstrated by structure, never to disagreement by content. An expressly protected path — honest engagement with the evidence — is built into the element as a load-bearing wall. The protected path is not a concession that softens the clause; it is the feature that makes the clause inescapable, because a bad-faith actor cannot easily produce the honest-engagement version — if they could, they would have, instead of reaching for the dismissal.
+The clause makes the offence reflexive: where the characteristic move of defeating discernment — dismissing a pattern-identification as paranoid, conspiratorial, incompetent, or illegitimate — is directed at an identification of the offence itself, that dismissal is a further instance of the offence. It removes the free retreat: the standard playbook assumes meta-level dismissal is costless, and the clause attaches a cost, forcing the dismisser either to engage the evidence on the merits or to commit a further enumerated instance by declining to.
 
----
-
-## Convention — Article IV-bis (Interested Dismissal)
-
-**Article IV-bis (1).** Interested dismissal means the discrediting of an identification of conduct under this Convention — by characterizing the identification, or the person making it, as paranoid, conspiratorial, deluded, extreme, incompetent, or otherwise illegitimate — where the dismissal is undertaken to defeat recognition of the underlying conduct rather than to contest it on the merits.
-
-**Article IV-bis (2).** Where interested dismissal is directed at an identification of the offense itself, it constitutes a further instance of the offense, on the same elements (Art. II) and subject to the same proof.
-
-**Article IV-bis (3) — Structural marks.** A dismissal is interested, within the meaning of this Article, only where it bears one or more of the following structural marks. Content of disagreement is never sufficient; structure of evasion is required:
-
-(a) it issues from, or is materially amplified by, an actor with power over the evidentiary field — over funding, access, ranking, publication, service, or legitimacy;
-
-(b) it substitutes characterization of the speaker or the claim for engagement with the evidence offered;
-
-(c) it pathologizes the identifier (as unwell, paranoid, obsessive) in place of rebutting the identification;
-
-(d) it solicits consensus against the identifier ('no serious person believes this') in place of argument;
-
-(e) it demands a standard of proof it does not itself meet and would not accept if met; or
-
-(f) it is repeated after the evidence has been engaged and addressed, functioning to exhaust rather than to resolve.
-
-**Article IV-bis (4) — The protected path.** Honest disagreement that engages the evidence on its merits is expressly outside this Article and may never be charged under it. A person who contests the facts, offers a competing account of the pattern, identifies a flaw in the methodology, or supplies exculpatory evidence has taken the protected path, regardless of how forcefully they disagree and regardless of whether they are ultimately correct. Vigorous, even hostile, engagement with the evidence is protected. Only dismissal that refuses engagement and bears the structural marks of subsection (3) is within scope.
-
-**Article IV-bis (5) — Anti-capture.** This Article may not itself be wielded as an interested dismissal. To invoke IV-bis against a person's challenge, the invoking party must show that the challenge bears the structural marks of subsection (3) and did not take the protected path. An invocation of IV-bis that itself substitutes characterization for that showing is, by its own terms, an interested dismissal. The clause binds the one who wields it on exactly the same terms as the one it is wielded against.
-
----
-
-## Why the Wall Makes It Stronger, Not Softer
-
-The protected path does not give the bad-faith actor an exit. It names the exit and shows it was never taken. The playbook reaches for dismissal-without-engagement precisely because the engagement would lose; that is why the move exists. Keying the offense to dismissal-without-engagement therefore converts the actor's characteristic tell into their confession: the honest critic, who has the engagement, walks through the protected path untouched; the bad-faith operator, who has only the dismissal, finds the dismissal is now the specimen. The clause sorts the two by the one thing the operator cannot fake under pressure — genuine engagement with evidence that would defeat them.
-
-Against the predictable attack — 'you have made yourself unfalsifiable; you have criminalized criticism' — the clause answers in its own terms: the falsifying path was always open and remains open; engage the evidence and you walk free; you declined it, and the declining-while-bearing-the-marks is the thing named. The adversary cannot answer that without performing the engagement they were avoiding, which is the resolution the whole instrument seeks. The attack, made honestly, defeats itself by becoming the protected path; made dishonestly, it becomes a further instance. Either outcome is acceptable.
+The safeguard is not optional. If 'dismissal' meant any challenge, the clause would become a thought-terminating loop that convicts honest critics, and the first capable adversary would defeat it with a true objection: it criminalizes dissent and is unfalsifiable. Therefore it is keyed strictly to bad faith demonstrated by **structure** (the marks of Art. IV-bis(3)), never to disagreement by **content**, and the **protected path** — honest engagement with the evidence (Art. IV-bis(4)) — is a load-bearing wall, not a softening concession: a bad-faith actor cannot easily produce the honest-engagement version, because if they could they would have, instead of reaching for the dismissal. This is the same standing-attack axis as the asymmetry test (Tier Taxonomy v0.2) and the discrediting-testimony lineage in the Protocol move-crosswalk.
 
 ---
 
