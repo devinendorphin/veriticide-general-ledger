@@ -81,6 +81,14 @@ dual-custody" in the legend.
 
 **`VERIFIED` (tribunal-grade): 0 items** — honestly, until the off-platform backup below is done.
 
+## 2a. Phase-2 pilot — x-bot-swarm (2026-07-02, DONE)
+
+Ran the full remediation on x-bot-swarm as the proof case (operator direction: one clean case first, exclude Epstein). All 8 items were **re-captured in open egress** — real multi-MB WARC/HTML content this time, not interstitials. **7 of 8 were restored to true `VERIFIED`**, resting on three custodians: the git integrity records, **Internet-Archive Wayback snapshots** (independent third party; 7/8 items, 15 snapshots), and an **off-platform custody receipt** placed in Google Drive `the veriticide suite/case-evidence/x-bot-swarm/` (`custody-receipt-x-bot-swarm-2026-07-02.md`). The full per-artifact sha256 receipt is committed at `cases/x-bot-swarm/evidence/custody-receipt.md`.
+
+`post-takeover-bot-persistence` was **held at `HASHED-PENDING-BACKUP`**: Cybernews returned an interstitial and ScienceDirect a JS shell (only the Chromium PDF renders are real), and it has no Internet-Archive snapshot. This is the honesty check working as intended.
+
+**Practical note that shapes the rollout:** an agent cannot move the raw binaries (~130 MB for this one case) into Drive through the MCP tool — base64 through a chat tool would be millions of tokens. So the durable design is: **Internet Archive = the independent off-platform custodian** (already automated in `capture.sh --archive-org`), **Drive holds the human-readable custody receipt**, and the operator syncs the raw `original/*` bytes with **`evidence/backup-to-drive.sh` (rclone)** from a machine that has them. Corpus-wide `VERIFIED` count after the pilot: **7**.
+
 ## 3. Confirmations from the same pass
 
 - **The public ledger body is present and substantial.** `ledger/ledger.md` is **7,456 lines / 56

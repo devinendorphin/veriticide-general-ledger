@@ -15,5 +15,5 @@
   "original_form_capture": "CAPTURED: 9 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Persistence corpus: CHEQ invalid-traffic 2023; ScienceDirect 'agree to disagree about Twitter's bot problem'; Cybernews. Corpus-level, not a single platform-wide metric. Approximate bears_date.",
   "promoted_at": "2026-06-28T23:55:15.203978Z",
-  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
+  "custody_reconciled": "2026-07-02: re-captured open-egress but held at HASHED-PENDING-BACKUP \u2014 cybernews returned an interstitial and sciencedirect a shell (only the Chromium PDF renders are real), and there is no Internet-Archive snapshot yet. Not tribunal-grade."
 }

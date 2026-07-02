@@ -1,6 +1,6 @@
 {
   "item": "./cyabra-gzero-coordinated-clusters-2024",
-  "captured_at": "2026-06-29T01:43:51.174149Z",
+  "captured_at": "2026-07-02T08:26:08.958510Z",
   "artifact_count": 6,
   "artifacts": {
     "archive-org-snapshots.txt": {
@@ -8,16 +8,16 @@
       "bytes": 140
     },
     "www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.pdf": {
-      "sha256": "3c00b0472e89356b5992975fed6757a9992a684404480f43c9665c37ee796c2d",
-      "bytes": 54045
+      "sha256": "b6485e0edcceccdfecff62ebc9d6aa47b1ebc9957cc40dc9545e424dfa765a36",
+      "bytes": 54208
     },
     "www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.warc": {
-      "sha256": "aa8300d94a38ac4ba0b5be3232804dc92fcc28df8a41c31e61269eb1c50f0a6b",
-      "bytes": 9571134
+      "sha256": "6526c8a61c377a64b95624cb8ea84041637686ef810ceafca642ab0f5898aa3b",
+      "bytes": 9564681
     },
     "www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.html": {
-      "sha256": "9cb9c05f64fc6cacba11afa4942123904a87af637dabe51f72db698c1ec9d990",
-      "bytes": 6465659
+      "sha256": "35b7ba773bda7c3ab059bd19dfc80847feb679c411cfb06a501777436b78aec6",
+      "bytes": 6469301
     },
     "www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.png": {
       "sha256": "14ffa5105e74080e7f56e9a6370167fddb6bd3d34635dc5821b6f7fcbd683000",

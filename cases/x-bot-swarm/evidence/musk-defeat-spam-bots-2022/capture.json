@@ -7,13 +7,16 @@
   "bears_date": "2022-04-21",
   "grade": "P2 (named on-record statement) + S1",
   "track": "II(2)(c) \u2014 the purge-claim origin (care-register frame)",
-  "custody_state": "HASHED-PENDING-BACKUP",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "ff03863974411ae342226ca942d5d32bc017b15250b783b959e0b5f5b92fd8a6",
   "custodians": [
-    "devinendorphin/veriticide-general-ledger (git)"
+    "devinendorphin/veriticide-general-ledger (git) \u2014 integrity records",
+    "Internet Archive / Wayback (Save Page Now) \u2014 2 snapshot(s), independent third party",
+    "Google Drive: the veriticide suite/case-evidence/x-bot-swarm (https://drive.google.com/drive/folders/1-znznciSoHZ2lKXjViic7eUhM-dJynZ8) \u2014 custody receipt; raw original/* via operator rclone sync (backup-to-drive.sh)"
   ],
   "original_form_capture": "CAPTURED: 14 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "The 2022 'defeat the spam bots or die trying' promise; standard against which the later self-declared victory and documented persistence are measured.",
-  "promoted_at": "2026-06-28T23:54:07.539640Z",
-  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
+  "promoted_at": "2026-07-02T08:31:08.203894Z",
+  "verified_at": "2026-07-02T08:46:03.913355Z",
+  "verified_basis": "2026-07-02 open-egress re-capture: real original-form content confirmed (WARC/HTML/PDF hashed in original/manifest.json), 2 Internet-Archive snapshot(s) as independent custodian, and off-platform custody receipt in the veriticide suite Drive. Any x.com/interstitial sub-URLs are documented in 05-custody-manifest.md and corroborated by fully-rendered outlet captures."
 }

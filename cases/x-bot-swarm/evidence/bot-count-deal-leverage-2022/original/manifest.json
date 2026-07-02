@@ -1,6 +1,6 @@
 {
   "item": "./bot-count-deal-leverage-2022",
-  "captured_at": "2026-06-29T01:43:50.509150Z",
+  "captured_at": "2026-07-02T08:25:04.329618Z",
   "artifact_count": 6,
   "artifacts": {
     "archive-org-snapshots.txt": {
@@ -8,20 +8,20 @@
       "bytes": 111
     },
     "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.pdf": {
-      "sha256": "a4ecf83d9e81b35ac6dfb8b40379062d7fdabaeb7e8ba282d9204dd6fda290a1",
-      "bytes": 52066
+      "sha256": "10e25ae80b73a7a6be40c90505a89f387d09dabe1fad9f29c765a2f5d619daea",
+      "bytes": 52135
     },
     "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.png": {
       "sha256": "63e738b4f5f2de5ef1d1320e6735b8bbaf9503071676cf15e99508a8c9d5ca29",
       "bytes": 36665
     },
     "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.warc": {
-      "sha256": "61e047e8bd0362a5ccd809bc3af67cfa8d2e0b7c26171ac11ee4bccfbefcd15b",
-      "bytes": 6096836
+      "sha256": "56d604281028d458522b92b444cdb5b3e007164c472fdeeb49b1658d28f5a313",
+      "bytes": 4678584
     },
     "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.html": {
-      "sha256": "c43eb58a74c74cde4e65e679269cd2af1ab6989ba18101b006cccaad795a8ecd",
-      "bytes": 5989334
+      "sha256": "fdba23d2d9715fec3e67ac63150eb58e50ea136468be9b074b52ea76df4249ce",
+      "bytes": 4563926
     },
     "wget.log": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
