@@ -1,39 +1,39 @@
 {
   "item": "./meeks-demands",
-  "captured_at": "2026-06-28T20:58:55.395762Z",
+  "captured_at": "2026-07-02T09:14:27.001320Z",
   "artifact_count": 9,
   "artifacts": {
     "sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.warc": {
-      "sha256": "38d6f79a36bf55f8093cd71f043e0279b78356159bbcdc4a677954e0f9754cbd",
-      "bytes": 3407094
+      "sha256": "7a5b55aaa75d46992b4a080ab0184e5ca7b131a2e6bdbf51860b4811ecfd8c93",
+      "bytes": 3402783
     },
     "sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.html": {
-      "sha256": "8f94a5c72957221f0b19d179aa831d2ece37eb4a9d1187eb66fc692ae0baff60",
-      "bytes": 3304648
+      "sha256": "12a7902301ec790822e16dae96c9257049430261bb7249756504367010249d73",
+      "bytes": 3305029
     },
     "democrats-foreignaffairs.house.gov_2025_6_meeks-requests-answers-from-secretary-.warc": {
-      "sha256": "7704e7863db5cb74dc3defc828bf8048240c50d2dfbcbf8643019033402c9a17",
-      "bytes": 1056128
+      "sha256": "f97f4ee379b00dbb3ff1bf0d8989455a47ac23271949603431ae549b8c8281e9",
+      "bytes": 1061219
     },
     "democrats-foreignaffairs.house.gov_2025_8_meeks-demands-answers-on-reports-of-tr.html": {
-      "sha256": "a302cf8da88d6187ec27a456967e9b7db80f783aed3af6b3a379a2c4498bab4a",
-      "bytes": 998436
+      "sha256": "b4e1eeb33c5585fb2d99ec05b49003142b2ee54456afba9f5c15bb2f0fd01138",
+      "bytes": 1003513
     },
     "democrats-foreignaffairs.house.gov_2025_10_meeks-again-demands-answers-from-secr.html": {
-      "sha256": "e9bec085f1c27e93c1886462c2b64954ed1c9c0b0b0a36b34bf16a69df4ef6a3",
-      "bytes": 997617
+      "sha256": "89b31732f048148b9756fd6e078627234ebf802950f1e00d5ed6f3a81a4a6d4c",
+      "bytes": 1002690
     },
     "democrats-foreignaffairs.house.gov_2025_8_meeks-demands-answers-on-reports-of-tr.warc": {
-      "sha256": "6a2b0c077e263192f0cd860ab88ff998ecc626583dcca8b71c9d6938f8c2c6c8",
-      "bytes": 1056891
+      "sha256": "37021b7d6473ee0cc8a9157dc5f8a860ccb5f69451f1d3f8d28ed1b1e138ce39",
+      "bytes": 1061970
     },
     "democrats-foreignaffairs.house.gov_2025_10_meeks-again-demands-answers-from-secr.warc": {
-      "sha256": "77840a398a51445d0969cfd0eacbbb63169e01a1a4a7d3c794a86db49e79144a",
-      "bytes": 1055672
+      "sha256": "3a8bc2a115cf9c50375001d3a402addcc026d383aaf6a6b42ddc6730e911e02a",
+      "bytes": 1060757
     },
     "democrats-foreignaffairs.house.gov_2025_6_meeks-requests-answers-from-secretary-.html": {
-      "sha256": "548cf4baeaeacf8d72d6745dc030128cb559401469b56dec08919bc644f0e407",
-      "bytes": 998429
+      "sha256": "dc93d82ca1620cec47e8efdab7db98dd90185e16d4eb7d6aea83bb95f29023eb",
+      "bytes": 1003502
     },
     "wget.log": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

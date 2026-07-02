@@ -1,51 +1,51 @@
 {
   "item": "./musk-defeat-spam-bots-2022",
-  "captured_at": "2026-06-29T01:43:53.002943Z",
+  "captured_at": "2026-07-02T08:31:08.170733Z",
   "artifact_count": 14,
   "artifacts": {
     "www.foxbusiness.com_technology_elon-musk-vows-to-defeat-the-spam-bots-or-die-try.pdf": {
-      "sha256": "ea1c4e630b8f77f5a849ce9090f8b9908c0b76349263d7d18f9ae05a597f2abb",
-      "bytes": 54457
+      "sha256": "ea877f8eaf6b21ae61e9fff94c6defd3ba0f8e0da81555c07913030e349e099e",
+      "bytes": 54564
     },
     "archive-org-snapshots.txt": {
       "sha256": "6f2da1c0bbc8befb1fa1b1ed1946ae5e93008d8be00a4b1bcc0d7a18bbe10c49",
       "bytes": 270
     },
     "x.com_elonmusk_status_1517215066550116354.pdf": {
-      "sha256": "fed50de00081a217ebce8d779d919c4086779207f3ebd66f8540e74fd6a702a6",
-      "bytes": 51273
+      "sha256": "c2461d96620dd6b1c91d72489ea5828b6c46cdbbf77f12f8681be48f13027295",
+      "bytes": 51350
     },
     "x.com_elonmusk_status_1517215066550116354.html": {
-      "sha256": "369feee470a64f0712ac350bf3d655ac81403264083c6890c478f21020488133",
-      "bytes": 758790
+      "sha256": "21bf0d500c3ec1086d7ebf940bdf33cf7b320bcec4ee4d07720963b0ad6925c6",
+      "bytes": 764381
     },
     "www.foxbusiness.com_technology_elon-musk-vows-to-defeat-the-spam-bots-or-die-try.html": {
-      "sha256": "44d784c4c36facae999522aa40e74fb0dbb6e3bb4350f198b54392de63875fb4",
-      "bytes": 3518466
+      "sha256": "2eb42e75804773afb755ba8790889ff12025e06e455ccd6a8b9c84de9e22ac69",
+      "bytes": 3515007
     },
     "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.pdf": {
-      "sha256": "fdc016def909bb39b4f3981400dec7ef293d97ea3f4a234fd1209089cb49bcbf",
-      "bytes": 51954
+      "sha256": "f79cb3f86241b321d44ab05466a81f14f6db7f6568fd89915f8bcdc9710641cf",
+      "bytes": 52133
     },
     "www.foxbusiness.com_technology_elon-musk-vows-to-defeat-the-spam-bots-or-die-try.warc": {
-      "sha256": "6fcbc6abe8abdf9bdd5cedb804d68ecee6bab7f71ff44bf5f525eb3aab83cee5",
-      "bytes": 3666567
+      "sha256": "4cfd520fe794b4d0641b3162ceb0b8f9fab0ce2546e0aa14d41e505e037fc02c",
+      "bytes": 3662968
     },
     "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.png": {
       "sha256": "63e738b4f5f2de5ef1d1320e6735b8bbaf9503071676cf15e99508a8c9d5ca29",
       "bytes": 36665
     },
     "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.warc": {
-      "sha256": "8e15959e51d7468913028293839a86aa065f5923d2ee463a4acb64d0bdfac375",
-      "bytes": 6096885
+      "sha256": "f81ddcbcb32fd11b9eb416b76e9ae4c9a45614127c060b4922e113ed44a130b6",
+      "bytes": 4678581
     },
     "x.com_elonmusk_status_1517215066550116354.warc": {
-      "sha256": "c78e2c9b54d9c4229552cc26c49d3ca21515c94739dcc374f2945a8164036d5b",
-      "bytes": 804258
+      "sha256": "1e5cfb04d8f9ffc6b532425b79b956cfd9afb6283a6c390574fd1ce2e7208e5a",
+      "bytes": 809637
     },
     "www.cbsnews.com_news_elon-musk-twitter-bots-new-owner-2022_.html": {
-      "sha256": "c43eb58a74c74cde4e65e679269cd2af1ab6989ba18101b006cccaad795a8ecd",
-      "bytes": 5989334
+      "sha256": "fdba23d2d9715fec3e67ac63150eb58e50ea136468be9b074b52ea76df4249ce",
+      "bytes": 4563926
     },
     "x.com_elonmusk_status_1517215066550116354.png": {
       "sha256": "a7a7e06ff364f58f80f976eeed165bd48d49683fda662d845a6a614c73654e87",

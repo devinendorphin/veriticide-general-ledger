@@ -1,6 +1,6 @@
 9c5ced0562a81f7d865e9eb229e5b2dd62e7238d84487525e6e5a9385e322770  ./archive-org-snapshots.txt
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log
-9cb9c05f64fc6cacba11afa4942123904a87af637dabe51f72db698c1ec9d990  ./www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.html
-3c00b0472e89356b5992975fed6757a9992a684404480f43c9665c37ee796c2d  ./www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.pdf
+b6485e0edcceccdfecff62ebc9d6aa47b1ebc9957cc40dc9545e424dfa765a36  ./www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.pdf
+6526c8a61c377a64b95624cb8ea84041637686ef810ceafca642ab0f5898aa3b  ./www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.warc
+35b7ba773bda7c3ab059bd19dfc80847feb679c411cfb06a501777436b78aec6  ./www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.html
 14ffa5105e74080e7f56e9a6370167fddb6bd3d34635dc5821b6f7fcbd683000  ./www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.png
-aa8300d94a38ac4ba0b5be3232804dc92fcc28df8a41c31e61269eb1c50f0a6b  ./www.gzeromedia.com_news_analysis_musk-promised-to-rid-x-of-bots-but-they-love-hi.warc
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log

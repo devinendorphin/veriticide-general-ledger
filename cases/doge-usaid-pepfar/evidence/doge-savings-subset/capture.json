@@ -6,7 +6,7 @@
   "captured_at": "2026-06-24T11:10:00Z",
   "bears_date": "ongoing (multi-date)",
   "grade": "P1",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "1350f92b26d8fe6b30292b151ee7cc8990a88e4852621744e83a650675fd46b4",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
@@ -14,5 +14,6 @@
   "original_form_capture": "CAPTURED: 13 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture.",
   "track": "A",
-  "verified_at": "2026-06-28T20:44:43.618591Z"
+  "promoted_at": "2026-07-02T08:57:10.766567Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

@@ -33,8 +33,7 @@ auditor, reporter, or oversight body actually needs:
 | — | **Canonical custody index** | `evidence/custody-index.md` | single source of truth for custody + grade |
 
 The evidence artifacts are preserved in `evidence/`: as of the 2026-06-28 capture run,
-**13 of 15 items are `VERIFIED`** (original-form WARC + raw HTML, hashed; binaries in off-platform
-custody) and **2 remain `LOCATOR-VERIFIED`** — `tamlyn-cable` and `propublica-internal-memos`,
+**13 of 15 items are `HASHED-PENDING-BACKUP`** (original-form WARC + raw HTML, hashed; off-platform backup pending) and **2 remain `LOCATOR-VERIFIED`** — `tamlyn-cable` and `propublica-internal-memos`,
 which embed a non-public primary and so are not promoted on the strength of the reporting alone.
 **`evidence/custody-index.md` is the single authoritative record of each item's custody state and
 grade** — it is mechanically generated from the per-item `capture.json` files, so the status tables

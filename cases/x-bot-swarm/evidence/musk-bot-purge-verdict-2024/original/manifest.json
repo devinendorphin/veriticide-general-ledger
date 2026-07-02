@@ -1,6 +1,6 @@
 {
   "item": "./musk-bot-purge-verdict-2024",
-  "captured_at": "2026-06-29T01:43:51.495213Z",
+  "captured_at": "2026-07-02T08:29:17.785215Z",
   "artifact_count": 18,
   "artifacts": {
     "restofworld.org_2024_twitter-x-bots-elon-musk-elections_.png": {
@@ -12,64 +12,64 @@
       "bytes": 245
     },
     "restofworld.org_2024_twitter-x-bots-elon-musk-elections_.pdf": {
-      "sha256": "0baad06d52cd803faac213f4d2defacf8462fdffcd59f4fa2aac7bb5997c8fed",
-      "bytes": 52883
+      "sha256": "46d83b370463aea34380539ed413fd448e816475844ad8e9a56d4091cd55da49",
+      "bytes": 52998
     },
     "x.com_elonmusk_status_1775900800520262071.warc": {
-      "sha256": "5b2545ea9465feb18700f6f749c2a61a2b65ca9018eaff86442d5d800c194203",
-      "bytes": 806506
+      "sha256": "3a0f73cefa156dfe177010b576d52f181a5bf1f738de4a70ab6f7135748f44ea",
+      "bytes": 811856
     },
     "www.socialmediatoday.com_news_x-formerly-twitter-conducting-bot-purge-removal_81.pdf": {
-      "sha256": "62912819b1e3ae17b110039fcc4ee8ad0de02cbc386691e8431128630e732766",
-      "bytes": 54496
+      "sha256": "c32eed3c11f080e10e0c57d21f99fa031bfc5164cb9046709505a8f2c70ac3dd",
+      "bytes": 54171
     },
     "www.socialmediatoday.com_news_x-formerly-twitter-conducting-bot-purge-removal_81.png": {
       "sha256": "8715114135730bd89f1bb63fdae17d2ddc79d0ef3757aee9355d5229dc5c5bcc",
       "bytes": 37773
     },
     "x.com_elonmusk_status_1775900800520262071.html": {
-      "sha256": "ebf9065aad4e762b6b4be4c0d8ac5c981ecf2a9246391b2448b1e6f54deac3e1",
-      "bytes": 760987
+      "sha256": "f0ac9c6763ef7d33c520d32640c6b35a4d1c727f84684d462d065f366f5879ca",
+      "bytes": 766710
     },
     "x.com_nikitabier_status_2042121229998682517.warc": {
-      "sha256": "e73e4f90cf9e37acf4805a15373223f80ca3d4e08cfd13071e9ba69b5d65222b",
-      "bytes": 815162
+      "sha256": "eaeff8fdefa5d2d4af6e9872451d10b45b2458b0bd70bd4e87de14c8f646bae7",
+      "bytes": 820885
     },
     "restofworld.org_2024_twitter-x-bots-elon-musk-elections_.html": {
-      "sha256": "4f904abe00280a783581772fd0b358359f0c8f0170a93db5144b654d47ea7698",
-      "bytes": 5758617
+      "sha256": "1ea3127b674043d1299bce187a3463ce6a82363444b149cc97dd74ca55197909",
+      "bytes": 5613004
     },
     "www.socialmediatoday.com_news_x-formerly-twitter-conducting-bot-purge-removal_81.html": {
-      "sha256": "bf28dec004071fa064424da84dd14f774b2e2a6bff6d8fc8659af8c6faa87e9e",
-      "bytes": 12184748
+      "sha256": "0cc178d212bd8a0347f2bb5eb971cc04fae1602bee9161c1209f5de1f5aac411",
+      "bytes": 12144280
     },
     "x.com_nikitabier_status_2042121229998682517.pdf": {
-      "sha256": "aef67ba194ec8ff71ef11c721d8047609f0ef68c5ac769f7bda79c296c981d92",
-      "bytes": 51568
+      "sha256": "04f84973352e7564a8395495e376e3bd4bbdce7c11ef08ff4b30ea070ed6f3be",
+      "bytes": 51567
     },
     "restofworld.org_2024_twitter-x-bots-elon-musk-elections_.warc": {
-      "sha256": "82eddb9c8ab81c0605a6a06614d0c68af561200e9fc241a401e570a3628aff09",
-      "bytes": 5807057
+      "sha256": "10d97002ed7e4fa967781424c7d4efac784c25678e130abbd93349eb46c9b3d1",
+      "bytes": 5661453
     },
     "x.com_elonmusk_status_1775900800520262071.png": {
       "sha256": "a7a7e06ff364f58f80f976eeed165bd48d49683fda662d845a6a614c73654e87",
       "bytes": 35365
     },
     "x.com_nikitabier_status_2042121229998682517.html": {
-      "sha256": "7faad60ce407fdcc9aa775bee5c27a7d24ddf985e8c8345b0641163b0b7513ea",
-      "bytes": 769601
+      "sha256": "520b6245d79f1daaee7e53e44edfc59285506445b5e91c2f0dc0ca3708fec941",
+      "bytes": 775161
     },
     "www.socialmediatoday.com_news_x-formerly-twitter-conducting-bot-purge-removal_81.warc": {
-      "sha256": "27b399b67b911588fe3824d8ea150ce5ad674e10b0fce6c80d6fc28722e1ca1d",
-      "bytes": 12798619
+      "sha256": "c6c77ee54b5b68610131eef495d4ed527fba78d9d99a88440098ceb63766e685",
+      "bytes": 12758096
     },
     "x.com_nikitabier_status_2042121229998682517.png": {
       "sha256": "a7a7e06ff364f58f80f976eeed165bd48d49683fda662d845a6a614c73654e87",
       "bytes": 35365
     },
     "x.com_elonmusk_status_1775900800520262071.pdf": {
-      "sha256": "91acce46ca2d426f3eb051b36627e22b8e1851a5159bb842f56f28e540363f2d",
-      "bytes": 51337
+      "sha256": "63f6e964d1f5002a35b596a1971373a133f5b50333fc9cf9f76deb1d0fa3b851",
+      "bytes": 51191
     },
     "wget.log": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

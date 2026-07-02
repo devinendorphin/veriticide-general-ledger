@@ -1,9 +1,10 @@
 {
-  "generated": "2026-06-30",
+  "generated": "2026-07-02",
   "generator": "evidence/build-custody-index.py",
   "item_count": 10,
   "custody_states": {
-    "VERIFIED": 9,
+    "VERIFIED": 3,
+    "HASHED-PENDING-BACKUP": 6,
     "LOCATOR-VERIFIED": 1
   },
   "items": [
@@ -26,7 +27,7 @@
     {
       "item_id": "counter-register",
       "grade": "ADV (aggregator) + Palantir position as reported",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "counter-register + charge aggregator",
       "source_url": "https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup",
       "sha256_transcript": "da0be6fc7761ad3842e7253cea4b545edcb0ef9879e2307e41d3fb7d0ed7306b"
@@ -34,7 +35,7 @@
     {
       "item_id": "harm-citizen-suit",
       "grade": "P1 (party press + court filing)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "harm specimen \u2014 U.S. citizen wrongful arrest",
       "source_url": "https://www.aclusocal.org/press-releases/us-citizen-unlawfully-arrested-handcuffed-and-jailed-ice-sues-government/",
       "sha256_transcript": "1b64a92f8aa1c11b56843393fe36a718f766544b2b27d575bdda68470ad3a7cc"
@@ -42,7 +43,7 @@
     {
       "item_id": "harm-npr",
       "grade": "S1 (journalism)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "harm pathway \u2014 people caught in the surveillance web",
       "source_url": "https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify",
       "sha256_transcript": "849385241e31edf5c3cec0d738afc8d5f7b478dbfaea36993e8f47a53fce0c0d"
@@ -50,7 +51,7 @@
     {
       "item_id": "instrument-scope",
       "grade": "S1 (policy journalism)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "instrument scope \u2014 data fusion + functions",
       "source_url": "https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/",
       "sha256_transcript": "339a5f343e98b1fa8c2bd1836b9c78a986d1abcda10ac1c52b7484580735fd3b"
@@ -66,7 +67,7 @@
     {
       "item_id": "oversight-goldman",
       "grade": "P1 (congressional press)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "recognition-live \u2014 Goldman/Wyden/Velazquez demand",
       "source_url": "https://goldman.house.gov/media/press-releases/goldman-wyden-velazquez-demand-answers-ice-use-palantir-developed-technologies",
       "sha256_transcript": "bc5eda4060c94b7dd8d30bf935707497879d3797e9304b9273f2978124ea3e52"
@@ -74,7 +75,7 @@
     {
       "item_id": "oversight-menendez",
       "grade": "P1 (congressional letter)",
-      "custody_state": "VERIFIED",
+      "custody_state": "HASHED-PENDING-BACKUP",
       "track": "authorization/foreseeability \u2014 congressional oversight",
       "source_url": "https://menendez.house.gov/imo/media/doc/palantir_letter.pdf",
       "sha256_transcript": "ea43a123b5af7b1b4e419afc715e917c2fccfc26605d2c273afb3b73be0c950c"

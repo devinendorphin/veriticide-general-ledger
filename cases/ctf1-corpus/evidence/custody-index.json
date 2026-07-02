@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29",
+  "generated": "2026-07-02",
   "generator": "evidence/build-custody-index.py",
   "item_count": 6,
   "account_level_verdict": "DECLINED (high-variance account)",

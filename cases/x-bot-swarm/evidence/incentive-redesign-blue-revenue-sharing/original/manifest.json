@@ -1,6 +1,6 @@
 {
   "item": "./incentive-redesign-blue-revenue-sharing",
-  "captured_at": "2026-06-29T01:43:51.371264Z",
+  "captured_at": "2026-07-02T08:26:46.137961Z",
   "artifact_count": 6,
   "artifacts": {
     "theconversation.com_x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only.png": {
@@ -12,16 +12,16 @@
       "bytes": 173
     },
     "theconversation.com_x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only.warc": {
-      "sha256": "53addb1188b7a09dd560a5cd306746505f1caaa4c3bfd44c4cbcc5b1952f6938",
-      "bytes": 2310114
+      "sha256": "abdd5cfd85b7417288757fc47e105102df36a7e1adf962f9b2286c2763ad80b9",
+      "bytes": 2310702
     },
     "theconversation.com_x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only.html": {
-      "sha256": "a631fce6e6bf872d30f73b00456a6a23cd1b00710f800777e8301f07d6a06f7b",
-      "bytes": 2193773
+      "sha256": "5398abfd0aab05c19c7758f69a40fd0de3805d99a7e1b0f27e7d49c81208d69e",
+      "bytes": 2194270
     },
     "theconversation.com_x-twitter-imposing-a-us-1-bot-tax-on-new-customers-will-only.pdf": {
-      "sha256": "31e74182981c0324efa916650c7112d8054d505fe5fb40824e7eaae6c980fb39",
-      "bytes": 54209
+      "sha256": "5617970ea0c5c6f440409151db3b34e40609e0a1e80ff83ba407f51cf0538216",
+      "bytes": 54055
     },
     "wget.log": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

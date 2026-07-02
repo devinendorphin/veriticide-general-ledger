@@ -102,6 +102,32 @@ attribution: here the conduct is architectural and multi-decision, but still own
   protected-activity wall (Reflexivity Clause / Art. V) is load-bearing here (see
   `03-adversarial-check.md`, Defense 1).
 
+
+## Forum-Now (per Protocol §7-bis) — ACTIVE-soft / DORMANT-hard
+
+*The venues where this record is actionable. Soft vehicles are live; hard vehicles are held OFF
+until their stated preconditions are met, at which point flipping is a dated, provenance-logged act.*
+
+**ACTIVE — soft vehicles (step one; live now).** A basis to demand, not a verdict:
+- **Preservation demand** to X Corp for bot-prevalence metrics, enforcement data, and the API/research-
+  access decision records — the very measurement foreclosed in Step 5 of the charge.
+- **Regulatory comment/complaint** — FTC (the "bots defeated" claim as a deceptive representation to
+  users/advertisers) and the **EU DSA** systemic-risk/transparency track (X is a designated VLOP; the EC
+  already has an open DSA proceeding — a live docket).
+- **Researcher-access advocacy** — restoration of vetted data access under **DSA Art. 40** (the
+  `research-api-foreclosure-2023` item).
+- **Journalism-with-custody** — the 7/8 Internet-Archive-attested evidence set.
+
+**DORMANT — hard vehicles (step two; OFF by default).** Recorded for foresight; **no assertion** until flipped:
+- **FTC / EC enforcement escalation** (deceptive-practices or a DSA systemic-risk finding).
+  *Preconditions to flip:* a regulator taking it up (the EC's open DSA case is a real instance in another's
+  hands) and a materially-false public claim shown. *Register shift:* from "demand the metrics" to "assert
+  a deceptive claim / DSA breach."
+- **Any Musk-direct-authorship charge — OFF, and expected to stay OFF.** The packet **concedes** the
+  attribution joint (every documented operator is a third-party or foreign-state actor). *Precondition to
+  flip:* evidence of Musk-direct swarm authorship the packet explicitly does not have. Flipping without it
+  is the over-reach `03-adversarial-check.md` (Defense 1) forbids.
+
 ---
 
 *Cross-reference: `ledger/ledger.md` Pattern Registry Entry 15 (Manufactured Consensus as

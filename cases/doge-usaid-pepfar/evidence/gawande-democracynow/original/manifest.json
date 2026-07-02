@@ -1,23 +1,23 @@
 {
   "item": "./gawande-democracynow",
-  "captured_at": "2026-06-28T20:45:57.971324Z",
+  "captured_at": "2026-07-02T08:58:52.033413Z",
   "artifact_count": 5,
   "artifacts": {
     "hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.html": {
-      "sha256": "820bc3a9993059ce55dd3bd6e9ad56604a888e44aaee708a4b6ffcdbac7c74cd",
-      "bytes": 11014073
+      "sha256": "d9cddbb11eb6d89cb52b8c69ceeb1118003e77f64561ff194010f601ec9dcba0",
+      "bytes": 9173709
     },
     "www.democracynow.org_2025_11_13_usaid.warc": {
-      "sha256": "4132d278c8bc25400b09639cf0cbb1ba41af9c3efe5431c4562a60d0583627f6",
-      "bytes": 8426078
+      "sha256": "5243d319b2e42b4b6b1817c0d46265cd6d9d3166599f780a91ed78457bddb13f",
+      "bytes": 8426868
     },
     "hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.warc": {
-      "sha256": "a0880e1a367603918191fa1e742df41cc3280f5964f8a99982f0f097d0c6a6f2",
-      "bytes": 17054827
+      "sha256": "4eb91e77bfd465575b36cbd723d485103df6ae8b7ff3b3465359416abbd36d3d",
+      "bytes": 15210184
     },
     "www.democracynow.org_2025_11_13_usaid.html": {
-      "sha256": "76ca5b554a88bc77b464cadd86faeb9a20a8e131db95c475b3eab02fec667a4d",
-      "bytes": 8196396
+      "sha256": "e3a427f10f461a2c451cbcea23f98456245208a92e916deb28979457a79da1fd",
+      "bytes": 8197194
     },
     "wget.log": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

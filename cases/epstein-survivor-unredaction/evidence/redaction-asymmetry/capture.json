@@ -7,12 +7,13 @@
   "bears_date": "2026-02-05",
   "grade": "S1 (CNN) on P1 conduct",
   "track": "Redaction Inversion \u2014 load-bearing (II(2)(d))",
-  "custody_state": "VERIFIED",
+  "custody_state": "HASHED-PENDING-BACKUP",
   "sha256_transcript": "7c8bfa297d4fa93033e1a9e9e91079e2b6ce6ec256d3265b3f54278d04642707",
   "custodians": [
     "devinendorphin/veriticide-general-ledger (git)"
   ],
   "original_form_capture": "CAPTURED: 10 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "DOJ Epstein-files survivor re-exposure. No-reproduction discipline: documents the exposure without restating any survivor identity. Approximate bears_date (Feb 2026 reporting window); confirm at capture.",
-  "verified_at": "2026-06-29T08:30:13.375349Z"
+  "promoted_at": "2026-06-29T08:30:13.375349Z",
+  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

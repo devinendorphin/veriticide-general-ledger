@@ -140,6 +140,34 @@ is carried as a *further act of the same veriticide* (Art. IV(3)), not as Musk's
   thing to charge. It is the historical truth; it is archived in the cathedral; it is not
   the prosecutable wedge. Charge the **function** first.
 
+
+## Forum-Now (per Protocol §7-bis) — ACTIVE-soft / DORMANT-hard
+
+*The venues where this record is actionable. Soft vehicles are live; hard vehicles are held OFF
+until their stated preconditions are met, at which point flipping is a dated, provenance-logged act.*
+
+**ACTIVE — soft vehicles (step one; live now).** A basis to demand, not a verdict:
+- **Preservation/spoliation demand** to DOGE/OMB/USAID for the `doge.gov/savings` edit history, the
+  "wall of receipts" underlying data, and the contract-termination determinations — urgent, since the
+  record already shows ~40% of claimed savings erased or altered (an active spoliation risk).
+- **FOIA** to State/USAID/OMB for the savings methodology, the PEPFAR waiver records, and the USAID
+  OIG impact findings.
+- **GAO audit / oversight request** into the DOGE savings claims and the impoundment of appropriated
+  funds — routed to **GAO and Congress** precisely because the natural IG vehicle is compromised (the
+  packet's own `ig-firings-jan2025` item documents the removal of the inspectors general).
+- **Congressional oversight** — the Meeks/Schatz/HFAC record already on file (`evidence/`).
+- **Journalism-with-custody** — the HASHED-PENDING-BACKUP evidence set with its hash chain.
+
+**DORMANT — hard vehicles (step two; OFF by default).** Recorded for foresight; **no assertion** until flipped:
+- **APA / Impoundment Control Act challenge** to the terminations and the withholding of appropriated
+  PEPFAR/USAID funds. *Preconditions to flip:* a plaintiff with standing (a terminated grantee or a
+  beneficiary organization — not the record-holder), final agency action, unexpired limitations. *Register
+  shift:* from "demand the record" to "assert unlawful impoundment/termination." *Not hypothetical:*
+  courts have already halted related dismantlements (e.g. CFPB), so this vehicle is partly live in others' hands.
+- **Tier-4 / tribunal path (the Genocide Supplement) — OFF, and expected to stay OFF.** Consistent with
+  the packet's "charge the function first" line. *Precondition:* a forum in being **and** a Tier-4 showing
+  this packet deliberately does not make here.
+
 ---
 
 *Cross-reference: `ledger/ledger.md` Cluster 4 (DOGE INSTRUMENT entry + Genocide
