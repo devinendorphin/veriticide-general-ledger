@@ -1,29 +1,28 @@
 # 05 — CUSTODY MANIFEST
 
-> **⚠ Custody reconciliation (2026-07-02).** Counts and per-item marks on this page predate the
-> 2026-07-02 custody audit and are **historical narrative**. The authoritative, machine-derived
-> state is `evidence/custody-index.md`; where this page and the index disagree, **the index
-> governs.** Items formerly marked `VERIFIED` are now `HASHED-PENDING-BACKUP`: original-form
-> artifacts were hashed into `original/manifest.json` in-repo, but the off-platform second
-> custodian that `VERIFIED` requires is not yet in place, and some pre-open-egress captures may
-> hold interstitial/error-page bytes. Remediation plan: `docs/custody-status-2026-07-02.md`.
+> **✅ Custody update (2026-07-02, two steps).** Reset from an overclaimed `VERIFIED` to
+> `HASHED-PENDING-BACKUP` in the audit, then verified against custody. **9 of 11 items are now true
+> `VERIFIED`** (real content + a Wayback snapshot + an off-platform Drive custody receipt).
+> **`selc-letter-2024-08` and `selc-letter-2025-04` remain `HASHED-PENDING-BACKUP`** — real captured
+> content in-repo but no Wayback snapshot yet. The machine-derived `evidence/custody-index.md`
+> governs; full audit: `docs/custody-status-2026-07-02.md`.
 
 *Post-capture state. On 2026-06-30 (open-egress session) the evidence items were promoted from
 URL-CITED to **original-form captured**. The canonical index `evidence/custody-index.md` **governs**;
 this page is narrative. Honest limits (blocked sources, off-platform backup) are stated, not papered.*
 
-## Current custody status: **HASHED-PENDING-BACKUP — 11/11 items** (off-platform backup pending)
+## Current custody status: **9 VERIFIED · 2 HASHED-PENDING-BACKUP** (2026-07-02)
 
-Per `evidence/custody-index.md` (mechanically derived): **11 HASHED-PENDING-BACKUP · 0 LOCATOR-VERIFIED.** (6 original items + 5 P1/disposition items captured in the (b) run: `permit-appeal-p1`, `selc-letter-2024-08`, `selc-letter-2025-04`, `epa-action`, `board-mootness-denial`.)
+Per `evidence/custody-index.md` (mechanically derived): **9 VERIFIED · 2 HASHED-PENDING-BACKUP.** (6 original items + 5 P1/disposition items captured in the (b) run: `permit-appeal-p1`, `selc-letter-2024-08`, `selc-letter-2025-04`, `epa-action`, `board-mootness-denial`.)
 
 | Item | Held original-form artifact | Custody |
 |---|---|---|
-| `unpermitted-operation` | SELC page (WARC + body) — ICN URL blocked wget; SELC is the held primary | HASHED-PENDING-BACKUP |
-| `permit-grant` | CNBC (WARC + body) | HASHED-PENDING-BACKUP |
-| `turbine-survey` | CNN (WARC + body) | HASHED-PENDING-BACKUP |
-| `appeal-challenge` | CNBC (WARC + body) | HASHED-PENDING-BACKUP |
-| `ej-harm` | NBC News (WARC + body) | HASHED-PENDING-BACKUP |
-| `chamber-defense` | Greater Memphis Chamber (WARC + body) | HASHED-PENDING-BACKUP |
+| `unpermitted-operation` | SELC page (WARC + body) — ICN URL blocked wget; SELC is the held primary | VERIFIED |
+| `permit-grant` | CNBC (WARC + body) | VERIFIED |
+| `turbine-survey` | CNN (WARC + body) | VERIFIED |
+| `appeal-challenge` | CNBC (WARC + body) | VERIFIED |
+| `ej-harm` | NBC News (WARC + body) | VERIFIED |
+| `chamber-defense` | Greater Memphis Chamber (WARC + body) | VERIFIED |
 
 ## Capture method (recorded for audit)
 

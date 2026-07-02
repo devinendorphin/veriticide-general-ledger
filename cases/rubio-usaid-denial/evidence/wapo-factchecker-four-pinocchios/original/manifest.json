@@ -1,0 +1,19 @@
+{
+  "item": "./wapo-factchecker-four-pinocchios",
+  "captured_at": "2026-07-02T08:57:59.852660Z",
+  "artifact_count": 3,
+  "artifacts": {
+    "www.washingtonpost.com_politics_2025_05_28_rubio-aid-cuts-deaths-fact-checker_.warc": {
+      "sha256": "5278a5ae89d5e9f2c024efe8267838b054b73bd55338d73acf88302192b07c17",
+      "bytes": 4147
+    },
+    "www.washingtonpost.com_politics_2025_05_28_rubio-aid-cuts-deaths-fact-checker_.html": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "wget.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  }
+}

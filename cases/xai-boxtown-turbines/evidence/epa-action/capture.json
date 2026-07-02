@@ -7,13 +7,16 @@
   "bears_date": "2026-00-00",
   "grade": "P1 (party/counsel press) \u2014 EPA + court track",
   "track": "recognition continues in court (2026); EPA context",
-  "custody_state": "HASHED-PENDING-BACKUP",
+  "custody_state": "VERIFIED",
   "sha256_transcript": "bbb8410273f855fd39b6dcf95888f15108f86e0296c95364d0b660e1dfeb0d3f",
   "custodians": [
-    "devinendorphin/veriticide-general-ledger (git)"
+    "devinendorphin/veriticide-general-ledger (git) \u2014 integrity records",
+    "Internet Archive / Wayback (Save Page Now) \u2014 1 snapshot(s), independent third party",
+    "Google Drive: the veriticide suite/case-evidence/xai-boxtown-turbines (https://drive.google.com/drive/folders/1dEYYxVV5ijNEtyd16yNFm0vuggPryKj4) \u2014 custody receipt; raw original/* via operator rclone sync (backup-to-drive.sh)"
   ],
   "original_form_capture": "CAPTURED: 2 artifact(s); off-platform backup OPEN.",
   "notes": "Litigation moved to federal court (2026) after the administrative appeal was denied on mootness; EPA confirmed such turbines require permits and was investigating.",
   "promoted_at": "2026-06-30T20:15:36.452644Z",
-  "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
+  "verified_at": "2026-07-02T08:56:09.960611Z",
+  "verified_basis": "2026-07-02 verification: real original-form content in original/manifest.json, 1 Internet-Archive snapshot(s) as independent custodian, off-platform custody receipt in the veriticide suite Drive."
 }

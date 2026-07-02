@@ -1,19 +1,19 @@
 # 05 — CUSTODY MANIFEST
 
-> **⚠ Custody reconciliation (2026-07-02).** Counts and per-item marks on this page predate the
-> 2026-07-02 custody audit and are **historical narrative**. The authoritative, machine-derived
-> state is `evidence/custody-index.md`; where this page and the index disagree, **the index
-> governs.** Items formerly marked `VERIFIED` are now `HASHED-PENDING-BACKUP`: original-form
-> artifacts were hashed into `original/manifest.json` in-repo, but the off-platform second
-> custodian that `VERIFIED` requires is not yet in place, and some pre-open-egress captures may
-> hold interstitial/error-page bytes. Remediation plan: `docs/custody-status-2026-07-02.md`.
+> **✅ Custody update (2026-07-02, two steps).** Reset from an overclaimed `VERIFIED` to
+> `HASHED-PENDING-BACKUP` in the audit, then verified against custody. **3 of 10 items are now true
+> `VERIFIED`** (`contestability`, `contract`, `medicaid-feed` — real content + a Wayback snapshot +
+> an off-platform Drive custody receipt). **6 remain `HASHED-PENDING-BACKUP`** — real captured content
+> in-repo but no independent off-platform custodian yet (no Wayback snapshot; Save Page Now needs an
+> archive.org login). `palantir-defense` stays `LOCATOR-VERIFIED` (Medium blocks capture). The
+> machine-derived `evidence/custody-index.md` governs; full audit: `docs/custody-status-2026-07-02.md`.
 
 *Post-capture state (2026-06-30, open-egress session). `evidence/custody-index.md` **governs**; this
 page is narrative. Honest limits stated, not papered.*
 
-## Current custody status: **HASHED-PENDING-BACKUP — 9/10 items** (off-platform backup pending)
+## Current custody status: **3 VERIFIED · 6 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED** (2026-07-02)
 
-Per `evidence/custody-index.md`: **9 HASHED-PENDING-BACKUP · 0 LOCATOR-VERIFIED.** Each item holds a transcript
+Per `evidence/custody-index.md`: **3 VERIFIED · 6 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED.** Each item holds a transcript
 (hashed) + an original-form WARC + body, hashed into `original/manifest.json`. All checksums verified
 post-run.
 

@@ -7,21 +7,21 @@
 > bundle, custody manifest) shows a custody state that conflicts with this table, **this
 > table is authoritative.** Per-row custody marks elsewhere are indicative/historical.
 
-**Generated:** 2026-07-02 · **Items:** 11 · **States:** HASHED-PENDING-BACKUP 11
+**Generated:** 2026-07-02 · **Items:** 11 · **States:** HASHED-PENDING-BACKUP 2, VERIFIED 9
 
 | Item | Grade | Custody | Track | sha256(transcript) |
 |---|---|---|---|---|
-| `appeal-challenge` | P1 (appeal filing) + S1 (coverage) | HASHED-PENDING-BACKUP | RECOGNITION-LIVE — stay-triggering appeal (the Tier-4 falsifier) | `d4c054502316…` |
-| `board-mootness-denial` | S1 (local broadcast, on-record ruling) | HASHED-PENDING-BACKUP | disposition — board denied appeal on mootness (~2025-12-15) | `3e3f1288dc06…` |
-| `chamber-defense` | P1 (party statement, adverse interest) | HASHED-PENDING-BACKUP | COUNTER-REGISTER — benefit reframe (Move 6) + 'everyone runs backup' CONTROL | `62bac7a167c4…` |
-| `ej-harm` | S1 | HASHED-PENDING-BACKUP | protected population + harm pathway — Boxtown, non-attainment, asthma/cancer | `5391caeb8cbe…` |
-| `epa-action` | P1 (party/counsel press) — EPA + court track | HASHED-PENDING-BACKUP | recognition continues in court (2026); EPA context | `bbb8410273f8…` |
-| `permit-appeal-p1` | P1 (the appeal legal filing itself) | HASHED-PENDING-BACKUP | authorization/recognition — the P1 appeal document | `d7a8cec0a895…` |
-| `permit-grant` | S1 (embeds P1: SCHD permit) | HASHED-PENDING-BACKUP | authorization — SCHD permit, 15 turbines, 2025-07-02 | `1a88239a8434…` |
+| `appeal-challenge` | P1 (appeal filing) + S1 (coverage) | VERIFIED | RECOGNITION-LIVE — stay-triggering appeal (the Tier-4 falsifier) | `d4c054502316…` |
+| `board-mootness-denial` | S1 (local broadcast, on-record ruling) | VERIFIED | disposition — board denied appeal on mootness (~2025-12-15) | `3e3f1288dc06…` |
+| `chamber-defense` | P1 (party statement, adverse interest) | VERIFIED | COUNTER-REGISTER — benefit reframe (Move 6) + 'everyone runs backup' CONTROL | `62bac7a167c4…` |
+| `ej-harm` | S1 | VERIFIED | protected population + harm pathway — Boxtown, non-attainment, asthma/cancer | `5391caeb8cbe…` |
+| `epa-action` | P1 (party/counsel press) — EPA + court track | VERIFIED | recognition continues in court (2026); EPA context | `bbb8410273f8…` |
+| `permit-appeal-p1` | P1 (the appeal legal filing itself) | VERIFIED | authorization/recognition — the P1 appeal document | `d7a8cec0a895…` |
+| `permit-grant` | S1 (embeds P1: SCHD permit) | VERIFIED | authorization — SCHD permit, 15 turbines, 2025-07-02 | `1a88239a8434…` |
 | `selc-letter-2024-08` | P1 (dated correspondence to the regulator) | HASHED-PENDING-BACKUP | foreseeability — early notice to SCHD (2024-08-26) | `2fed26c71907…` |
 | `selc-letter-2025-04` | P1 (dated correspondence to the regulator) | HASHED-PENDING-BACKUP | foreseeability — SELC et al. to SCHD (2025-04-09) | `6646a4be5120…` |
-| `turbine-survey` | S1 + ADV (SELC aerial/thermal imagery) | HASHED-PENDING-BACKUP | instrument scale — 'dozens'; count CONTESTED; May removals (CONTROL) | `5077718929aa…` |
-| `unpermitted-operation` | S1 (secondary; embeds P1 permit + SCHD determination) | HASHED-PENDING-BACKUP | predicate / instrument — unpermitted operation + 'nonroad' exemption frame | `87372c314bf6…` |
+| `turbine-survey` | S1 + ADV (SELC aerial/thermal imagery) | VERIFIED | instrument scale — 'dozens'; count CONTESTED; May removals (CONTROL) | `5077718929aa…` |
+| `unpermitted-operation` | S1 (secondary; embeds P1 permit + SCHD determination) | VERIFIED | predicate / instrument — unpermitted operation + 'nonroad' exemption frame | `87372c314bf6…` |
 
 ## Custody states
 
