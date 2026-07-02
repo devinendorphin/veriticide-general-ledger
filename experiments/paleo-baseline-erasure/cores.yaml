@@ -1,0 +1,74 @@
+# Candidate core matrix for the paleo baseline-erasure re-analysis.
+#
+# These are cores to SCREEN against config.yaml:inclusion_gates — NOT a confirmed-eligible set.
+# Each was surfaced from the published fungal-sedaDNA literature (2026-07-02, web-retrieved,
+# LOCATOR-VERIFIED). Eligibility for the H1 pool requires ALL gates to pass, verified against the
+# primary paper + its data deposit (DOI/accession). Flags below are PROVISIONAL expectations, to be
+# replaced by logged gate results at screening time.
+#
+# Field key:
+#   guilds_assignable  : can ecto / arbuscular / negative-control guilds be pulled from the released table?
+#   human_proxy        : which in-core human-impact proxy the paper reports (or "verify")
+#   climate_proxy      : in-core / regional climate control available? (N-4)
+#   chronology         : dated age model present?
+#   caveat             : the specific reason this core might FAIL a gate — screen these first
+
+meta:
+  version: "1.0-prereg"
+  note: >
+    Inclusion is decided by the gates, not by this file. A core listed here that fails a gate is
+    logged as excluded with the failing gate named. New cores may be added before freeze; none may be
+    added after the frozen hash without a versioned amendment.
+  primary_response: "R2_ecto_share"     # pre-registered primary; R1/R3 reported alongside
+
+candidate_cores:
+
+  - id: latvia_lielais_svetinu
+    site: "Lake Lielais Svētiņu, eastern Latvia (boreal)"
+    reference: "Talas et al. 2021, Microorganisms 9(4):719 — Holocene fungal sedaDNA (ITS)"
+    doi: "10.3390/microorganisms9040719"
+    guilds_assignable: "likely (ITS; mycorrhizal + parasite guilds discussed)"
+    human_proxy: "verify — paper attributes latest-Holocene (~2 kyr) mycorrhizal/pathogen richness rise to 'moderate human impact'; need the explicit in-core proxy"
+    climate_proxy: "verify (regional Holocene climate framework)"
+    chronology: "yes (Holocene age model)"
+    spans_transition: "strong candidate — explicitly resolves the last-2-kyr human-impact interval"
+    caveat: "the reported signal is a RICHNESS RISE with impact, not a decline — directly tests H2 direction; if impact enriches rather than simplifies, H2 is challenged. Include precisely because it can refute."
+
+  - id: sulawesi_towuti
+    site: "Lake Towuti, Sulawesi, Indonesia (tropical)"
+    reference: "Quaternary fungal–terrestrial sedaDNA record, PMC12113726 (2025)"
+    doi: "verify (PMC12113726)"
+    guilds_assignable: "verify"
+    human_proxy: "verify — tropical land-use proxy may be weaker/later"
+    climate_proxy: "likely (long Quaternary climate record)"
+    chronology: "yes"
+    spans_transition: "long record; human-impact interval may be short relative to core length"
+    caveat: "tropical arbuscular-dominated system; ecto_share primary response may not apply — may shift primary to R1/R3 for this core, logged."
+
+  - id: arctic_evaluation_cores
+    site: "Arctic lake sedaDNA fungal-biodiversity evaluation set"
+    reference: "Evaluation of lake sedaDNA metabarcoding for Arctic paleo-fungal biodiversity, ResearchGate 360937761"
+    doi: "verify"
+    guilds_assignable: "verify (method-evaluation focus, not ecological time series)"
+    human_proxy: "likely weak/absent — Arctic, low agriculture"
+    climate_proxy: "strong"
+    chronology: "yes"
+    spans_transition: "LIKELY FAILS spans_transition (little agricultural onset) — candidate NEGATIVE-SITE control"
+    caveat: "probably ineligible for H1; useful as a low-human-impact SITE control (should show NO anthropogenic breakpoint), complementing the within-core negative-guild control."
+
+  - id: multisite_fungus_plant_covariation
+    site: "Multi-site northern high-latitude set"
+    reference: "Long-term fungus–plant covariation from multi-site sedaDNA metabarcoding, Quat. Sci. Rev. 2022 (S0277379122003894)"
+    doi: "10.1016/j.quascirev.2022.107657 (verify)"
+    guilds_assignable: "verify — plant + fungus co-assignment is the point"
+    human_proxy: "verify per site"
+    climate_proxy: "yes (the covariation framework)"
+    chronology: "yes"
+    spans_transition: "per-site; the multi-site structure is ideal for the random-effects meta-analysis"
+    caveat: "best structural fit for cross-core estimand IF per-site human proxies exist; screen each site separately."
+
+screening_todo:
+  - "For each core: confirm the released OTU/ASV table lets ecto / arbuscular / negative-control guilds be separated (FungalTraits / FUNGuild assignment)."
+  - "Confirm an IN-CORE human-impact proxy exists (not just a narrative attribution) — else the core fails has_in_core_human_proxy."
+  - "Confirm human and climate proxies are not collinear within age error (else excluded from H1 pool per collinearity_guard)."
+  - "Record every pass/fail; the excluded set is part of the result, not discarded."
