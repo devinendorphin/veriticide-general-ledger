@@ -108,6 +108,39 @@ proper forum. This packet does not name SCHD as a perpetrator.
 - **Not a verdict** — step one: a basis to demand the emissions data, the permit record, independent
   air monitoring, and EPA Region 4 review. Not a tribunal finding.
 
+## Forum-Now (per Protocol §7-bis) — ACTIVE-soft / DORMANT-hard
+
+*The venues where this record is actionable. Soft vehicles are live; hard vehicles are held OFF
+until their stated preconditions are met, at which point flipping is a dated, provenance-logged act.*
+
+**ACTIVE — soft vehicles (step one; live now).** Framed strictly as a basis to demand, not a verdict:
+- **Preservation demand** to xAI/Colossus operators and SCHD for turbine emissions telemetry, the
+  permit file, and the "nonroad/temporary" exemption determination — before the record is contested.
+- **Records requests** — Tennessee Public Records Act to SCHD; FOIA to **EPA Region 4** — for the
+  permit record, any monitoring data, and the exemption correspondence.
+- **The live permit-appeal / public-comment docket** (the P1 appeal already referenced) — the proper
+  forum for contesting the exemption "in the court of public review."
+- **Request for independent ambient air monitoring** in Boxtown / 38109, and for **EPA Region 4
+  review** of the permitting.
+- **Journalism-with-custody** — the 6/6 VERIFIED evidence set, released with its hash chain.
+
+**DORMANT — hard vehicles (step two; OFF by default).** Recorded for foresight; carry **no assertion**
+until flipped:
+- **Clean Air Act citizen suit (42 U.S.C. §7604).** *Preconditions to flip:* a plaintiff **with standing**
+  (a Boxtown resident or an accountable community organization — not the holder of this record acting as
+  such); **60-day notice** served on the operator, EPA, and the state; and a continuing violation or an
+  appeal outcome establishing the unpermitted operation. *Register shift:* from "demand the record" to
+  "assert unlawful operation; seek injunction and penalties." *Note — the DORMANT state here is not
+  hypothetical:* SELC's filed litigation is a real-world instance of this vehicle **already active in another
+  party's hands**, which is why this packet's own escalation stays OFF (the record supports that suit; it
+  does not itself assert it).
+- **Title V / permit challenge escalation.** *Precondition:* adverse permit issuance **plus** exhaustion of
+  the administrative appeal.
+- **Tier-4 / tribunal path — kept OFF and expected to stay OFF.** Consistent with this packet's anti-
+  over-reach line ("Not Tier-4 veriticide — recognition was live"), no veriticide-tribunal vehicle is
+  asserted; its precondition would be a forum that does not yet exist. Flipping it would require both that
+  forum's existence *and* a Tier-4 showing this case deliberately does not make.
+
 ---
 
 *Cross-reference: `docs/ai-energy-climate-pattern-2026-06-30.md` (S-2, the parent pattern entry);

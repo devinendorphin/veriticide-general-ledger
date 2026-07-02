@@ -175,6 +175,16 @@ This Protocol takes a two-step position on standing, deliberately. The two steps
 
 **The clause that does not narrow away.** No future narrowing of the associated Declaration or Convention, and no institution's preference for a tidier standard, shall be read to deny the competence of affected populations to name, document, and seek urgent review of patterns of reduction before those patterns have been recognized by states, courts, or expert bodies. If recognition must wait for the powerful to agree the harm is occurring, recognition has already failed.
 
+### 7-bis. The Forum-Now toggle — operationalizing the two steps per case
+
+A case record should say *where its record is actionable today* — but naming a forum is itself a register decision (a soft, petition-style ask hardens the step-one posture; a hard, responsibility-asserting filing spends it). So each case carries a **Forum-Now block** with two states that map the two-step doctrine onto concrete venues, and a toggle between them that is an **act, not a mood**:
+
+- **ACTIVE — soft vehicles (step one), live by default.** Venues that require no finding of guilt and are protected petition/documentation activity: preservation/spoliation demands, FOIA and state-record equivalents, Inspector-General complaints, public-comment and permit dockets, requests for independent audit or monitoring, and journalism-with-custody. Phrased strictly as *"a basis to demand [preservation / disclosure / review]"* — never as a verdict.
+- **DORMANT — hard vehicles (step two), held OFF by default.** Venues that assert responsibility and require proof, standing, and jurisdiction: citizen suits, APA challenges, other litigation, and tribunal/ICC communications. Each names two things: its **preconditions to flip** (the specific conditions that must first become true — standing established, the forum open or in existence, limitations unexpired, a surviving oversight body, a tribunal in being) and its **register shift** (from "demand review" to "assert responsibility").
+- **Flipping is a logged act.** Moving a hard vehicle DORMANT → ACTIVE is a dated, provenance- and custody-logged change, made only once its stated preconditions are met, and it changes the case's operative register. Until then the hard vehicle is recorded for foresight and carries **no assertion**. This keeps the record on the documentation side now while pre-building the escalation path, so that "when the time comes" is a defined switch rather than a scramble — and the preconditions double as the case's honest ripeness/justiciability check.
+
+The default posture of every case is **ACTIVE-soft / DORMANT-hard**. Anything can change the forum landscape; the toggle is how the record travels across that change without either over-reaching now or losing the escalation analysis later.
+
 ---
 
 ## 8. Quick Start (If You Only Read One Section)

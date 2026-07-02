@@ -127,3 +127,14 @@ Added a **crosswalk table** to `docs/documentation-standing-protocol-v0.1.md` §
 **Judgment recorded — the Tier Taxonomy was NOT physically inlined into the Protocol.** 4.2 as originally proposed contemplated folding "operational tier material" into the field Protocol. On execution that was declined: a classification schema and a field manual are different document types, and inlining one into the other produces a longer, mode-mixed, worse document. The navigational goal (five co-equal instruments → three registers) is met by **register-grouping** the two working-register documents, not by a destructive physical merge. The operator may direct the full inline if desired.
 
 Additive/relocational only; no tier or element analytic content re-litigated.
+
+---
+
+## 2026-07-01 — Forum-Now toggle: standard + Boxtown exemplar (streamlining pass item 4.6)
+
+Operator decision: soft vehicles now, with a **toggle** that can escalate a case to a hard vehicle "when the time comes." Implemented as a gated, provenance-logged escalation field rather than a live filing plan.
+
+- **Standard added to the Protocol** as §7-bis ("The Forum-Now toggle"), tying the two-step standing doctrine to concrete venues: **ACTIVE-soft** vehicles (preservation demands, FOIA, IG complaints, permit/comment dockets, audit/monitoring requests, journalism-with-custody — live by default, step-one/petition framing) and **DORMANT-hard** vehicles (citizen suits, APA challenges, litigation, tribunal/ICC — OFF by default, each naming its *preconditions to flip* and its *register shift*). Flipping DORMANT → ACTIVE is defined as a dated, logged act made only when preconditions are met; preconditions double as the case's ripeness/justiciability check.
+- **Exemplar applied to `cases/xai-boxtown-turbines/00-charge-theory.md`.** Chosen because its charge theory already ended in a pure step-one ask and its hard vehicle is not hypothetical — SELC's filed suit is a real-world instance of the DORMANT vehicle already active in another party's hands, so the packet's own escalation correctly stays OFF (it supports that suit; it does not assert it). The Tier-4/tribunal path is marked OFF and expected to stay OFF, consistent with the packet's existing anti-over-reach line.
+
+**Not yet rolled out to the other seven case files.** Each has a materially different forum situation (e.g., redistricting's federal forum is doctrinally foreclosed post-*Rucho*; DOGE's natural IG vehicle is complicated by the documented firing of IGs; Epstein's forum question is entangled with the no-reproduction rule), so the block is **not a stampable template** — each needs its own per-case precondition analysis before its toggle is written. Rollout pending operator direction. Register kept soft throughout; no step-two assertion made in any packet.
