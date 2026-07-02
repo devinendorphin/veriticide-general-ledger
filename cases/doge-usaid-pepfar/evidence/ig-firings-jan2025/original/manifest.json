@@ -1,103 +1,103 @@
 {
   "item": "./ig-firings-jan2025",
-  "captured_at": "2026-06-28T20:57:32.604573Z",
+  "captured_at": "2026-07-02T09:11:58.429677Z",
   "artifact_count": 25,
   "artifacts": {
     "lawandcrime.com_high-profile_federal-judge-says-its-obvious-trump-broke-the-law-.warc": {
-      "sha256": "7928b478de220b2cbd310f30a8d024967112b02f09161dbc99ed59159e827589",
-      "bytes": 3047513
+      "sha256": "3fecd14e077cb58407441ad4ab9089517553d1b34a9006e58686455e91bc6485",
+      "bytes": 3074667
     },
     "www.cbsnews.com_news_trump-fires-usaid-inspector-general_.warc": {
-      "sha256": "4d35f6e66944dd6b3f669c29c880167417b1699313e03c868669bb5800be0d3d",
-      "bytes": 4926413
+      "sha256": "f1ec7508f9786d8471f3123f2029784b6be1db9dc5098a9d7cd0258ba99f0f59",
+      "bytes": 4507906
     },
     "www.nbcnews.com_politics_politics-news_usaid-inspector-general-fired-releasing-r.warc": {
-      "sha256": "10a32418ec106d56279bb0063524e6f733b028b267b48c98c33e2347c5caf2f5",
-      "bytes": 6807716
+      "sha256": "b7105b56b84bc667248f9cd6d9b0f432763f7f369bb9e2b9ec3cad7e6b114bd0",
+      "bytes": 6819983
     },
     "www.npr.org_2025_01_25_g-s1-44771_trump-fires-inspectors-general.html": {
-      "sha256": "ee259c20b4ecffbc9e403a06127879d4fa3203e8d60611e7aae2e5537523b1bf",
-      "bytes": 3494884
+      "sha256": "2c38444f48c20ab534df8121013f913cfbfd08e33003ad536d1b725972a8131d",
+      "bytes": 3505510
     },
     "lawandcrime.com_high-profile_federal-judge-says-its-obvious-trump-broke-the-law-.html": {
-      "sha256": "61357b547891b245167ad33736cec7bba142f1badbeee6859f6cec3535a4c704",
-      "bytes": 2979142
+      "sha256": "73cc3b0bcff24ee9784333771e9b32601656ea4e07d89e3678227fa9cf8b48f9",
+      "bytes": 3008207
     },
     "www.govexec.com_oversight_2025_09_fired-watchdogs-cant-be-reinstated-despite-tru.warc": {
-      "sha256": "4850e5212db8362bb80d3911ee1f4af3ebeb3f828a653be7123167c091e8feb9",
-      "bytes": 3778140
+      "sha256": "bad4ca53dd2810be145b3ffd57a77c08e0572c4e76ab46b1a0d62954597dec02",
+      "bytes": 3785091
     },
     "www.washingtonpost.com_politics_2025_02_11_trump-fires-usaid-inspector-general_.html": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "bytes": 0
     },
     "federalnewsnetwork.com_agency-oversight_2025_09_trump-unlawfully-fired-17-agency.warc": {
-      "sha256": "f22a6ec51c1fcd15bb0bb6ae108d3294d22b9c4ecfe3d927648f463dd1342d74",
-      "bytes": 6984829
+      "sha256": "1088e57b08ac65c88624d7a5d3e85cae5057d8a9f0fa66812aeb114066ea5ab4",
+      "bytes": 7047281
     },
     "en.wikipedia.org_wiki_2025_dismissals_of_U.S._inspectors_general.warc": {
-      "sha256": "8710b95b065276b435d2b49b7f574f52617d8ffe3549b74ea1d04e4c0712e768",
-      "bytes": 1711291
+      "sha256": "24bc9577c860eb842d15b758d3e7ada1427218c06655f54ce6c21a1a5e19bde6",
+      "bytes": 1792673
     },
     "www.cnn.com_2025_02_11_politics_usaid-inspector-general-fired-trump_index.html.warc": {
-      "sha256": "1dbc9e066f360883e9c7777c8cce91d469d348959a0dc42de0926265a3a49da5",
-      "bytes": 13770869
+      "sha256": "2dac69ed5df137f95b1d361ab0db18dd1294f04a73a2bc71d00966c2bc3c0438",
+      "bytes": 13838528
     },
     "www.cnn.com_2025_01_25_politics_trump-fires-inspectors-general_index.html.warc": {
-      "sha256": "0b70239e648fd5a15540156c5056e6bd047f77046cdbd56376bf33864091959a",
-      "bytes": 15396226
+      "sha256": "b0b01f0d1254b2ec553b6b60e308fcc12810937bd77a27b20a6a6ae5ed520b9f",
+      "bytes": 14594673
     },
     "www.epi.org_policywatch_trump-fires-17-inspectors-general_.html": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "bytes": 0
     },
     "www.cbsnews.com_news_trump-fires-usaid-inspector-general_.html": {
-      "sha256": "55734a364676115aab13935a2dcfbc7a668017728e12f0791310db85df531849",
-      "bytes": 4820353
+      "sha256": "54c592e735d4166946e4c0206ad4fa217ced012b83fcfa5b506af87550508710",
+      "bytes": 4392401
     },
     "www.cnn.com_2025_02_11_politics_usaid-inspector-general-fired-trump_index.html.html": {
-      "sha256": "e9ef986e0ab8fda745677f88ee9965214eaa8d65d891f8fa3c4a371a13cea9c2",
-      "bytes": 7987786
+      "sha256": "bb715479cb4d0ae1ad070c57a97facffcf784a500e6568b94245962eb662cea4",
+      "bytes": 8035838
     },
     "federalnewsnetwork.com_agency-oversight_2025_09_trump-unlawfully-fired-17-agency.html": {
-      "sha256": "025353aeffd54cb6e3d56f6fb1a77dc29523519564fde3abe45e7e80db4a5d2b",
-      "bytes": 6530827
+      "sha256": "f4585a8afcacd7fbdb5e83000298325d5480894be20fbfb34f08367ea8a91839",
+      "bytes": 6593496
     },
     "www.npr.org_2025_01_25_g-s1-44771_trump-fires-inspectors-general.warc": {
-      "sha256": "e9857c14bf761426b384d87e5439eb013edff4c2649b43afd79aeb5d898225a2",
-      "bytes": 3628047
+      "sha256": "85062b34a78de16bbe82cbc53c06bc374fd8b52c3cd6b17a4c47628c09878ef4",
+      "bytes": 3639567
     },
     "clearinghouse.net_case_46107_.warc": {
-      "sha256": "52dc22186689a63c4da2f3c44856fb399d8096a71df73408e36fea91829bd7a3",
-      "bytes": 4935734
+      "sha256": "709d9dd8d9f705e1b4adec252fc6a50ae021e05539b57b31ca415040c50b983d",
+      "bytes": 4959568
     },
     "www.govexec.com_oversight_2025_09_fired-watchdogs-cant-be-reinstated-despite-tru.html": {
-      "sha256": "ba70b07c4b0489caba34df3670ba81918472511cb30942ec14c152633c49c811",
-      "bytes": 3636323
+      "sha256": "cf984f58cefac48c7dcf9e7fcea3833ece7e1ea94634d80ed2f681699384512b",
+      "bytes": 3643360
     },
     "www.nbcnews.com_politics_politics-news_usaid-inspector-general-fired-releasing-r.html": {
-      "sha256": "2e9803ebe2b1198003fa428caf3696115b741de6907f68cac80381accbc6f269",
-      "bytes": 6582809
+      "sha256": "786c81a6c9809f881b9f5c5caae55b38f396bb30f09028f004f144880c4c6dee",
+      "bytes": 6595347
     },
     "www.washingtonpost.com_politics_2025_02_11_trump-fires-usaid-inspector-general_.warc": {
-      "sha256": "47afb9736e0276047b7a51e9a86dd636a7cd87b3a7a45b7273131a266a180e09",
+      "sha256": "a4b988fc4233b0ed9f543d4a3749022fc88a04cf9b485d5754dd10372b793c6e",
       "bytes": 4102
     },
     "clearinghouse.net_case_46107_.html": {
-      "sha256": "db3b835d2a80ca984dbd99c6f23fe7ff54e16d4265b0cc45c07b449bdacc6340",
-      "bytes": 4838576
+      "sha256": "6b4396f94dce41557a701a2f24801b467f7932c677536001cad6c56aaca29255",
+      "bytes": 4817217
     },
     "www.epi.org_policywatch_trump-fires-17-inspectors-general_.warc": {
-      "sha256": "85fcf50e7df87b96208f90fca435e942f2a990963372af20afb7b939a9534e50",
-      "bytes": 9732
+      "sha256": "869b15e2a7a445630e761054e0f07d6c8aea1df6569081e4fb16a22487250222",
+      "bytes": 9731
     },
     "www.cnn.com_2025_01_25_politics_trump-fires-inspectors-general_index.html.html": {
-      "sha256": "d74acc89e5ade67026b2b197fb3c0a07d36d08adfe036af380a4bcc0c2b18a28",
-      "bytes": 9530173
+      "sha256": "dfed7ffd826dbd89b839eca0060de7fbd3818dbbf414d02adcf328ac19c488ae",
+      "bytes": 8734813
     },
     "en.wikipedia.org_wiki_2025_dismissals_of_U.S._inspectors_general.html": {
-      "sha256": "328bfbc3e418b22b544e2d40de34bc1076bef85a7faad7a9ca67a765ca5a61ad",
-      "bytes": 1150912
+      "sha256": "70526bd98a1ea395f8d167c6ba738446a8b0bae4a4785cd29ef1206eecec3956",
+      "bytes": 1216232
     },
     "wget.log": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

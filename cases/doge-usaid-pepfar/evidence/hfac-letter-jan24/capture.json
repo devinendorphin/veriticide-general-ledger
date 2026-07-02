@@ -14,6 +14,6 @@
   "original_form_capture": "CAPTURED: 9 artifact(s) in original/ (manifest.json). Complete VERIFIED by adding a 2nd custodian + off-platform backup.",
   "notes": "Verbatim quoted text in transcript.md is reproduced from sanctioned-search results and marked; figures synthesized from search must be confirmed against the source during original-form capture. [2026-06-24: transcript updated \u2014 Jan-24/Feb-10 reconciliation RESOLVED; ledger corrected.]",
   "track": "C",
-  "promoted_at": "2026-06-28T20:47:04.006237Z",
+  "promoted_at": "2026-07-02T09:00:44.529887Z",
   "custody_reconciled": "2026-07-02: reset VERIFIED->HASHED-PENDING-BACKUP. The off-platform second custodian / backup that VERIFIED requires was never completed; some captures predate open egress and may hold interstitial/error-page bytes. See docs/custody-status-2026-07-02.md."
 }

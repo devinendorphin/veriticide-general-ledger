@@ -1,12 +1,14 @@
 # 05 — CUSTODY MANIFEST
 
-> **⚠ Custody reconciliation (2026-07-02).** Counts and per-item marks on this page predate the
-> 2026-07-02 custody audit and are **historical narrative**. The authoritative, machine-derived
-> state is `evidence/custody-index.md`; where this page and the index disagree, **the index
-> governs.** Items formerly marked `VERIFIED` are now `HASHED-PENDING-BACKUP`: original-form
-> artifacts were hashed into `original/manifest.json` in-repo, but the off-platform second
-> custodian that `VERIFIED` requires is not yet in place, and some pre-open-egress captures may
-> hold interstitial/error-page bytes. Remediation plan: `docs/custody-status-2026-07-02.md`.
+> **✅ Custody update (2026-07-02, re-capture).** The prior overclaimed `VERIFIED` marks were reset
+> to `HASHED-PENDING-BACKUP` in the audit; the packet was then **re-captured in open egress**, which
+> **replaced the old blocked-egress error pages with real multi-MB content** (the doge.gov 0-byte
+> capture is gone; `named-deaths`, `musk-woodchipper-posts`, `rubio-waivers-nonfunctional` now hold
+> real WARCs). **No item reaches `VERIFIED`**, however: DOGE has **no Wayback snapshots** and Save
+> Page Now needs an archive.org login, so there is no independent off-platform custodian yet — the
+> 13 captured items are held `HASHED-PENDING-BACKUP`; `propublica-internal-memos` and `tamlyn-cable`
+> remain `LOCATOR-VERIFIED`. The machine-derived `evidence/custody-index.md` governs; full audit:
+> `docs/custody-status-2026-07-02.md`.
 
 *Convention Art. VI(6) and Documentation Protocol §6 (Track F). The least glamorous extract
 and the one that most determines whether the record survives contact with people who want it
