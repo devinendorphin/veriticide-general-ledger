@@ -212,3 +212,20 @@ Tiers 5–6 (the mundicide/worldcide construction session).
 
 Additive + one corrective (the Tier-6 evidence-mode phrasing tightened toward what the assembled body actually
 bears). No tier's protected object, act, distinguishing element, or laundering signature was changed.
+
+**Same-day follow-up (operator pushback on C-1).** The operator raised the shifting-baseline objection to the
+"wood-wide web" control: that CMN research may measure *degraded* forests, so weak-network findings could be
+late-stage decay rather than the native state. Two edits to `docs/tier6-worldcide-evidentiary-brief-2026-07-02.md`
+resulted, both boundary-forwarding rather than claim-expanding:
+- **C-1 caveated with its own bound.** The over-claim verdict is held to refute the *strong mechanism claims as
+  currently evidenced* only; it is noted that disturbance genuinely degrades mycorrhizal complexity (Wurzburger
+  2023) and that no true pre-industrial control forest survives, so the observable ceiling may itself be shifted —
+  but that this *relocates* the question (the flagship claims were made on relatively intact old-growth, and it is
+  their inference + citation bias, untouched by the baseline point, that Karst faults) rather than rehabilitating
+  the strong claim. Held as untestable-open per N-1/N-2, not as a rescue.
+- **New sub-mechanism added to the emptiness-declaration corpus: *temporal emptiness-declaration / baseline
+  erasure*** — shifting baseline syndrome (Pauly 1995) as the time-axis form of the Tier-6 laundering signature
+  (the same discernment-corruption as Tier 4, run across time not species), with its footing stated asymmetrically:
+  documented near-term degradation leg, explicitly-conceded untestable far leg. Added Pauly 1995, Wurzburger 2023,
+  and Beiler/Simard to the brief's sources. Additive; the far-leg claim is charged only as a named mechanism with
+  a conceded untestable component, not as a proven statement about any vanished past.
