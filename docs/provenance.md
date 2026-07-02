@@ -172,3 +172,43 @@ asserting; x-bot keeps any Musk-direct-authorship vehicle OFF per its conceded a
 Also added `docs/readers-map.md` — a one-page navigation card (journalist / lawyer / community documenter /
 researcher / skeptic entry paths), linked from the README. Navigation only; no new analytic claim.
 Case-file additive change; no charge theory re-litigated.
+
+---
+
+## 2026-07-02 — Apex-tier evidentiary bodies assembled (Tiers 5–6)
+
+The tier taxonomy's evidence-mode axis (v0.2) asserted an evidence mode for the two apex tiers but pointed
+at no **assembled** body a reader could open — unlike Tiers 1–2 (the GDA assay) or Tiers 3–4 (the case files
++ Convention). Tier 5's evidence existed but was **scattered** across two briefs, a case file, and two ledger
+entries; Tier 6's was **not built at all**. This session closed that gap on the designated branch
+`claude/evidentiary-body-tiers-5-6-c72koo`, prompted by the operator's upload of the origin conversation for
+Tiers 5–6 (the mundicide/worldcide construction session).
+
+- **Built `docs/tier6-worldcide-evidentiary-brief-2026-07-02.md`** — the previously-missing Tier-6 body, in the
+  same house discipline as the AI-energy pattern brief: a falsifiable pattern-claim, specimens (cephalopod
+  sentience → UK Animal Welfare (Sentience) Act 2022 on the Birch/LSE 300-study review; NY Declaration on Animal
+  Consciousness 2024; New Caledonian corvid future-planning, Boeckle et al. 2020; honeybee numerical cognition,
+  Howard et al. 2019), controls weighted to count (the "wood-wide web" over-claim correction, Karst/Jones/
+  Hoeksema 2023 *Nature Ecology & Evolution* — kept as the strongest control **because** it is the framework's
+  own instinct over-reaching; anthropomorphism/Clever Hans; "realistic possibility ≠ proven presence"), nulls
+  (the unsolved hard problem; citation-bias risk), the emptiness-declaration corpus (the *bête-machine* lineage →
+  the "biomass/throughput" register), and the rights-of-nature forum (Ecuador; Vilcabamba; Atrato; Te Urewera/
+  Te Awa Tupua; Mar Menor, upheld Nov 2024, first plaintiff May 2026). Custody LOCATOR-VERIFIED (web-retrieved
+  2026-07-02, URLs per item; not yet hashed/archived). The brief comes back **bounded**: it establishes a
+  *directional correction under a precautionary default*, not a census of consciousness.
+
+- **Built `docs/apex-tiers-5-6-evidentiary-index-2026-07-02.md`** — a one-page index gathering Tier 5's existing
+  body (the two AI-energy briefs + `cases/xai-boxtown-turbines/` + Ledger Cluster 9 / Entry 13) and pointing to
+  the new Tier-6 brief. Its load-bearing function is **boundary-forwarding**: it carries each body's own
+  falsification verdict verbatim so the apex tiers do not float free of the bounded evidence — Tier 5 survives as
+  the *directional reversal* (not a civilizational extraction-kill; the brief's own controls refute that), Tier 6
+  as the *directional correction* (not a proven-consciousness census). It also records that the Boxtown case is
+  charged Tier 1–3 and stays there — the nesting does not license inflation.
+
+- **Wired the taxonomy's Tier-5 and Tier-6 evidence-mode rows** to the assembled bodies (added "Assembled body"
+  pointers), so the axis now links a corpus that exists rather than asserting one that did not. Tier-6's row was
+  additionally corrected to state the finding in its bounded, defensible form (recognition expanding *late* toward
+  structure) rather than the looser "wherever we looked we found structure" phrasing, and to name its own control.
+
+Additive + one corrective (the Tier-6 evidence-mode phrasing tightened toward what the assembled body actually
+bears). No tier's protected object, act, distinguishing element, or laundering signature was changed.
