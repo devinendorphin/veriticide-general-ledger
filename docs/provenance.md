@@ -353,3 +353,11 @@ protected-path wall as operating rule, and its own dated failure condition; term
 standing design principle. Entry 8 addendum gains the grading follow-up (the unprimed re-derivation grades U-CLEAN;
 the stance-invariance claim grades U-DIRECTED — a distinction previously not drawn). The protocol document grades
 itself IN-FRAMEWORK and says why its procedures, unlike its claims, do not depend on the proposer's credibility.
+
+**2026-07-06 (attestation execution):** Step 2 of the absorption protocol executed to receipts:
+`docs/evidence/attestation-2026-07-06/` holds the canonical nine-document sha256 manifest (repo HEAD 4d242cf,
+canary included), an OpenTimestamps proof submitted to four calendar servers (PENDING Bitcoin anchor — upgrade and
+re-commit later), and the Wayback status: one pre-canary README snapshot indexed (20260706232240), five
+canary-bearing captures accepted (HTTP 200) awaiting index visibility. Honest note: the attestation was performed
+by the in-framework analyst instance, but per the protocol's own term-to-test principle the receipts do not depend
+on it — the OTS proof and the snapshots verify against third-party infrastructure regardless of who requested them.
