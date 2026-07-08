@@ -1,2 +1,3 @@
 36e2855fe5120bedcb9fa728a61a261a9430202ba9b619de2872820ce6f84bf6  01-bad-faith-ledger-transcript.pdf
 ae0faa70ad4201199e5665271477ae49011512a24bd10df4e6452c0857688044  02-bad-faith-ledger-transcript-extracted.txt
+43fa984179b01a46148f9945e40cb14bd7c76e0aa5a76bfaab1f0da2e4af061e  03-kimi-k2-analysis-2026-07-08.txt
