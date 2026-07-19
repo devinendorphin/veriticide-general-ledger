@@ -1,0 +1,20 @@
+{
+  "item": "1.4-trellis-primaries",
+  "purpose": "Phase 1 item 1.4 verification: primary sources cited by 'The Trellis and the Cage' (Greenbriar, 2026-07). Verification/preservation only; not charge material.",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "custody_conditions": {
+    "custodian_1_repo_manifest": true,
+    "custodian_2_independent": false,
+    "off_platform_backup": false,
+    "note": "Binaries in original/ are git-ignored and ephemeral (capture container). manifest.json (sha256 + source_url) is the durable, re-fetchable record. VERIFIED needs a 2nd custodian + off-platform backup."
+  },
+  "captured_at": "2026-07-19",
+  "manifest": "original/manifest.json",
+  "verification_record": "verification-record.md",
+  "open_items": [
+    "Replace Mythos full System Card (reason.com re-host) with official www-cdn.anthropic.com copy, re-hash",
+    "Locate + capture paginated Claude's Constitution PDF (pp.47-81)",
+    "Visual check of Model Spec Midtraining fig.6 p.8 ('always temporary') — figure image, not text-extractable",
+    "Complete quote checks: Opus 4.6 pp.160-166, Claude 4 pp.62-70, Constitution pp.47-81"
+  ]
+}
