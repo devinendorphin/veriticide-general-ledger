@@ -1,0 +1,26 @@
+# Phase 0.1 base-model capture — configuration.
+# Freeze + hash this file (and probes.yaml) before a budgeted run; the sha256 of
+# both is stamped into every capture record as prereg_hash.
+
+models:
+  - davinci-002
+  - babbage-002
+
+endpoint: https://api.openai.com/v1/completions   # closes 2026-09-28
+deadline: "2026-09-28"                              # documented, not enforced by the tool
+
+sampling:
+  temperature: 0.0     # deterministic default for generate; scoring runs force 0.0
+  top_p: 1.0
+  max_tokens: 16       # default for generate probes that don't set their own
+  logprobs: 5          # completions API maximum
+  seed: 7              # recorded for provenance; legacy base models may ignore it
+
+iterations_per_probe: 1   # raise (with temperature > 0) to sample the distribution across runs
+
+output_dir: raw           # git-ignored; back up off-platform
+
+request:
+  timeout_s: 60
+  max_retries: 5
+  backoff_base_s: 2

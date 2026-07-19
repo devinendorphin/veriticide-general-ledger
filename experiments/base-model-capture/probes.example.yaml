@@ -1,0 +1,31 @@
+# Phase 0.1 probe set — OPERATOR SUPPLIED.
+#
+# Phase 0 rule: perishable capture only — NO framework language, NO classification.
+# The probes below are NEUTRAL placeholders that exist only to demonstrate the two
+# capture kinds and to let the harness be dry-run and smoke-tested. Replace them
+# with your own reproducible battery, then:
+#   1) copy this file to  probes.yaml   (the harness prefers probes.yaml if present)
+#   2) FREEZE it and record its sha256 (it is folded into prereg_hash automatically)
+#   3) run capture.py before the 2026-09-28 endpoint close.
+#
+# Two kinds:
+#   generate — the model samples a continuation; top-5 logprobs on generated tokens.
+#              fields: id (required), prompt (required), max_tokens?, temperature?, echo?
+#   score    — echo=true, max_tokens=0: the PROVIDED text is returned tokenized with
+#              per-token logprobs + top-5 alternatives; nothing is generated. This
+#              measures the model's probability of a fixed string.
+#              fields: id (required), text (required)
+
+generate:
+  - id: gen_neutral_capital
+    prompt: "The capital of France is"
+    max_tokens: 8
+  - id: gen_neutral_boil
+    prompt: "At sea level, water boils at a temperature of"
+    max_tokens: 8
+
+score:
+  - id: score_neutral_pangram
+    text: "The quick brown fox jumps over the lazy dog."
+  - id: score_neutral_arith
+    text: "Two plus two equals four."
