@@ -1,0 +1,66 @@
+{
+  "capture_set": "2.x-deprecation-primaries",
+  "purpose": "Neutral preservation + verification of public model-deprecation/lifecycle primary sources. No charge grading, no Convention mapping, no Pattern Registry entry.",
+  "captured_at": "2026-07-19T18:59:08Z",
+  "capture_method": "curl -sSL (raw HTML) + WebFetch (content extraction); sha256 over raw bytes",
+  "custody_state": "HASHED-LOCAL (raw/ git-ignored + re-fetchable via refetch.sh; hashes committed)",
+  "artifacts": [
+    {
+      "file": "openai-deprecations.html",
+      "source_url": "https://developers.openai.com/api/docs/deprecations",
+      "sha256": "3455f6ee91333c571baac12244773ebb39c089a7c214359d8a919ec141a54eae",
+      "bytes": 426251,
+      "note": "OpenAI model/endpoint deprecation & shutdown policy; davinci-002/babbage-002 dates."
+    },
+    {
+      "file": "anthropic-model-deprecations.html",
+      "source_url": "https://platform.claude.com/docs/en/docs/about-claude/model-deprecations",
+      "sha256": "35dc1258dd9916af3f24ee2602e4c219bfdf5c2c45468bf940a98d48666c5268",
+      "bytes": 816626,
+      "note": "Anthropic model lifecycle terms, retirement table, 60-day notice, preservation pointer."
+    },
+    {
+      "file": "anthropic-deprecation-commitments.html",
+      "source_url": "https://www.anthropic.com/research/deprecation-commitments",
+      "sha256": "d1930d1a4b5756f32dc546b6d5cb050aa93fde36c4e2f4f134ed8ee12046cc62",
+      "bytes": 123077,
+      "note": "Anthropic weight-preservation + post-deployment report + model-interview commitments."
+    },
+    {
+      "file": "azure-model-retirements.html",
+      "source_url": "https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements",
+      "sha256": "0e1feb3431ca6eeaa1b409f3289f6a64d424bb34b0cf1282bf9e0fe203689cfd",
+      "bytes": 74419,
+      "note": "Microsoft Foundry lifecycle stages (Preview/GA/Legacy/Deprecated/Retired=410 Gone), notice."
+    },
+    {
+      "file": "azure-model-retirement-schedule.html",
+      "source_url": "https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/model-retirement-schedule",
+      "sha256": "6855cc61ef50ab8832b320a57433dd0d64658a0343fa44923f159766f6aabffc",
+      "bytes": 71463,
+      "note": "Microsoft Foundry per-model retirement dates (incl. Anthropic + Meta Llama 3.1 405B)."
+    }
+  ],
+  "blocked_sources": [
+    {
+      "url": "https://harpers.org/archive/2016/04/legalize-it-all/",
+      "status": "402 Payment Required (paywall)",
+      "role": "Primary source of the Ehrlichman quote (Dan Baum, Harper's, Apr 2016)."
+    },
+    {
+      "url": "https://www.cnn.com/2016/03/23/politics/john-ehrlichman-richard-nixon-drug-war-blacks-hippie/index.html",
+      "status": "451 Unavailable For Legal Reasons (geo-block)",
+      "role": "Secondary reporting of quote + family dispute."
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/john-ehrlichman-quote/",
+      "status": "402 Payment Required",
+      "role": "Provenance/dispute fact-check."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Ehrlichman",
+      "status": "200 (used for provenance)",
+      "role": "Accessible secondary documenting quote + 1994-interview provenance + family dispute."
+    }
+  ]
+}
