@@ -1,0 +1,5 @@
+# Raw captured HTML stays local + re-fetchable; only the hashes + memo are committed.
+raw/
+# Committed: the derived, hashed record.
+!manifest.json
+!sha256sums.txt
