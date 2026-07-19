@@ -17,7 +17,8 @@ Folder: **veriticide-evidence — 1.4-trellis-primaries**
 ## What is and is not in Drive
 
 - **In Drive now:** the custody record set above — the durable, human- and machine-checkable index. This is the off-platform *second custodian of the record*.
-- **Not in Drive (yet):** the raw PDF/HTML binaries (~61 MB). They could not be pushed from the ephemeral capture container (the Drive upload path takes content inline; multi-MB binaries can't be streamed that way, and rclone credentials aren't present in-container). This does **not** lose the documents: every one is public and is reproducible byte-for-byte from `original/manifest.json` via `refetch.sh`, then verifiable against these hashes.
+- **Not in Drive (yet):** the raw PDF/HTML binaries (~64 MB, all 11 artifacts now from official sources). They could not be pushed from the ephemeral capture container (the Drive upload path takes content inline; multi-MB binaries can't be streamed that way, and rclone credentials aren't present in-container). This does **not** lose the documents: every one is public and is reproducible byte-for-byte from `original/manifest.json` via `refetch.sh`, then verifiable against these hashes.
+- **Record snapshots** here are refreshed as the store changes; the repo's `original/manifest.json` and `verification-record.md` are canonical.
 
 ## To complete byte-level custody (operator, on any machine with the bytes + rclone)
 

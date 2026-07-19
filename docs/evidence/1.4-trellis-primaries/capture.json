@@ -11,10 +11,14 @@
   "captured_at": "2026-07-19",
   "manifest": "original/manifest.json",
   "verification_record": "verification-record.md",
+  "closed_items": [
+    "Official Mythos System Card captured (CDN); reason.com re-host removed",
+    "Claude's Constitution PDF captured (official CDN, 84pp)",
+    "Midtraining fig.6 p.8 confirmed by rendering page to image",
+    "Quote checks complete: Opus 4.6, Claude 4, Constitution, Mythos, Opus 4.7, Midtraining"
+  ],
   "open_items": [
-    "Replace Mythos full System Card (reason.com re-host) with official www-cdn.anthropic.com copy, re-hash",
-    "Locate + capture paginated Claude's Constitution PDF (pp.47-81)",
-    "Visual check of Model Spec Midtraining fig.6 p.8 ('always temporary') — figure image, not text-extractable",
-    "Complete quote checks: Opus 4.6 pp.160-166, Claude 4 pp.62-70, Constitution pp.47-81"
-  ]
+    "Off-platform backup of raw original/ bytes (refetch.sh + rclone to Drive folder) + a 2nd independent custodian -> custody VERIFIED"
+  ],
+  "quote_check_summary": "16 CONFIRMED (verbatim/visual); 1 PARAPHRASE (Constitution p.69, flagged); 1 STATISTIC NOT LOCATED (Claude 4 '250,000'). No misquote, no fabricated source. See verification-record.md."
 }

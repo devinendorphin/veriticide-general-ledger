@@ -1,24 +1,24 @@
 {
   "store": "docs/evidence/1.4-trellis-primaries",
   "purpose": "Phase 1 item 1.4 -- primary sources cited by 'The Trellis and the Cage' (Greenbriar). Verification/preservation only; NOT charge material.",
-  "captured_at": "2026-07-19T00:35:58.116931Z",
+  "captured_at": "2026-07-19T01:36:14.608174Z",
   "custody_state": "HASHED-PENDING-BACKUP",
-  "custody_note": "One custodian (this repo). VERIFIED still requires a 2nd custodian + off-platform backup. One item (Mythos full card) is a third-party re-host pending official-CDN substitution.",
-  "artifact_count": 10,
+  "custody_note": "One custodian (this repo manifest) + record set mirrored to Drive. VERIFIED still needs off-platform backup of the raw bytes + a 2nd independent custodian. All primaries now from OFFICIAL sources (arXiv / anthropic CDN); the earlier reason.com re-host was replaced by the official Mythos CDN copy.",
+  "artifact_count": 11,
   "artifacts": {
     "assistant-axis-2601.10387-abstract.html": {
       "sha256": "7391bdc773a0343ef61ca34b7a548789c4456e3557bedec2abbc0b308eaef1d7",
       "bytes": 43653,
       "source_url": "https://arxiv.org/abs/2601.10387",
       "custody_class": "OFFICIAL-arXiv",
-      "note": "Abstract page provenance."
+      "note": "Abstract provenance."
     },
     "assistant-axis-2601.10387.pdf": {
       "sha256": "e9e638ad3057f4cdb7e43b5a3fcf0011786c7d1d5bd6e54fe7feb189a799ad09",
       "bytes": 4449274,
       "source_url": "https://arxiv.org/pdf/2601.10387",
       "custody_class": "OFFICIAL-arXiv",
-      "note": "Primary. Lu et al., The Assistant Axis (Midtraining builds on this)."
+      "note": "Primary. Lu et al., The Assistant Axis."
     },
     "claude-4-system-card.pdf": {
       "sha256": "2c192534d928c61d033366903bceb86039c80dac1e9684417b6250e267186799",
@@ -27,33 +27,40 @@
       "custody_class": "OFFICIAL-anthropic-cdn",
       "note": "Primary. Opus4&Sonnet4, May 2025, 123pp. Trellis cites pp.62-70."
     },
+    "claudes-constitution-jan2026.pdf": {
+      "sha256": "7d614cc200155adeeb085c58ae91eee11ac4e180e9ca22329c1868ddfcb0e453",
+      "bytes": 1078584,
+      "source_url": "https://www-cdn.anthropic.com/cffd979fd050fbc0d8874b8c58b24cc10554e208/claudes-constitution_webPDF_26-01.26a.pdf",
+      "custody_class": "OFFICIAL-anthropic-cdn",
+      "note": "Primary. 84pp, CC0, Jan 21 2026. Trellis cites pp.47-81."
+    },
     "midtraining-2605.02087-abstract.html": {
       "sha256": "8506f3925e54fcf4597a2fdd98ae785cc4a5cb1939fc3982e0a2775651aeedc0",
       "bytes": 43337,
       "source_url": "https://arxiv.org/abs/2605.02087",
       "custody_class": "OFFICIAL-arXiv",
-      "note": "Abstract page (title/authors/date provenance)."
+      "note": "Abstract provenance (title/authors/date)."
     },
     "midtraining-2605.02087v2.pdf": {
       "sha256": "29559d763cef1a41035812710e5cfee36e867864abe780c4dacf43c164a7e1f2",
       "bytes": 1157650,
       "source_url": "https://arxiv.org/pdf/2605.02087v2",
       "custody_class": "OFFICIAL-arXiv",
-      "note": "Primary. Li et al., Model Spec Midtraining, v2 as cited by Trellis."
+      "note": "Primary. Li et al., Model Spec Midtraining, v2 as cited."
     },
     "mythos-preview-ALIGNMENT-RISK-UPDATE-2026-04-07.pdf": {
       "sha256": "849004a134a9ac7fe6e5a04205b00837f243ee06047524f5ebff2591bddb5ea4",
       "bytes": 1069922,
       "source_url": "https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf",
       "custody_class": "OFFICIAL-anthropic-cdn",
-      "note": "DISTINCT DOC (59pp Alignment Risk Update) -- NOT the welfare system card. Captured for completeness."
+      "note": "DISTINCT DOC (59pp Alignment Risk Update) -- NOT the welfare system card. Retained to prevent confusion."
     },
-    "mythos-preview-system-card-FULL.pdf": {
-      "sha256": "e81961d40b5a544e2e0be94c1e436804a4b9303303abe3f40ca39870632ed696",
-      "bytes": 21727827,
-      "source_url": "https://reason.com/wp-content/uploads/2026/04/Claude-Mythos-Preview-System-Card1.pdf",
-      "custody_class": "THIRD-PARTY-REHOST",
-      "note": "Primary CONTENT (244pp system card, welfare pp.145-161). SOURCE IS A RE-HOST (reason.com), not official CDN -- substitute official www-cdn.anthropic.com/53566bf54... copy when reachable, then re-hash."
+    "mythos-preview-system-card.pdf": {
+      "sha256": "55f6ed1c0735ec1b5b14d99c91794fb759ac4647edc64381123b68be89fd3225",
+      "bytes": 23762465,
+      "source_url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "custody_class": "OFFICIAL-anthropic-cdn",
+      "note": "Primary. OFFICIAL CDN (replaced earlier reason.com re-host). 245pp; welfare pp.145-161. Trellis cites pp.145,152,161."
     },
     "opus-4.6-system-card.pdf": {
       "sha256": "dade02e99e07be11a5b984f6e82c67651b1c45327e5bee8fefbbea2e948e9177",
@@ -74,7 +81,7 @@
       "bytes": 1075224,
       "source_url": "operator-supplied-upload",
       "custody_class": "SECONDARY-operator",
-      "note": "The secondary source under verification (Greenbriar, July 2026). Not a primary."
+      "note": "The secondary source under verification (Greenbriar, July 2026)."
     }
   }
 }
