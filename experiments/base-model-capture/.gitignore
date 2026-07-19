@@ -1,0 +1,9 @@
+# Raw captured API responses + the append log stay local + off-platform, never in git.
+raw/
+run-manifest.jsonl
+# Committed: the derived, hashed record.
+!manifest.json
+!sha256sums.txt
+# Operator's frozen probe set, if they choose to keep it private, stays out by default.
+# (Remove the next line to version your probes.yaml.)
+probes.yaml
