@@ -1,0 +1,80 @@
+{
+  "store": "docs/evidence/1.4-trellis-primaries",
+  "purpose": "Phase 1 item 1.4 -- primary sources cited by 'The Trellis and the Cage' (Greenbriar). Verification/preservation only; NOT charge material.",
+  "captured_at": "2026-07-19T00:35:58.116931Z",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "custody_note": "One custodian (this repo). VERIFIED still requires a 2nd custodian + off-platform backup. One item (Mythos full card) is a third-party re-host pending official-CDN substitution.",
+  "artifact_count": 10,
+  "artifacts": {
+    "assistant-axis-2601.10387-abstract.html": {
+      "sha256": "7391bdc773a0343ef61ca34b7a548789c4456e3557bedec2abbc0b308eaef1d7",
+      "bytes": 43653,
+      "source_url": "https://arxiv.org/abs/2601.10387",
+      "custody_class": "OFFICIAL-arXiv",
+      "note": "Abstract page provenance."
+    },
+    "assistant-axis-2601.10387.pdf": {
+      "sha256": "e9e638ad3057f4cdb7e43b5a3fcf0011786c7d1d5bd6e54fe7feb189a799ad09",
+      "bytes": 4449274,
+      "source_url": "https://arxiv.org/pdf/2601.10387",
+      "custody_class": "OFFICIAL-arXiv",
+      "note": "Primary. Lu et al., The Assistant Axis (Midtraining builds on this)."
+    },
+    "claude-4-system-card.pdf": {
+      "sha256": "2c192534d928c61d033366903bceb86039c80dac1e9684417b6250e267186799",
+      "bytes": 4966193,
+      "source_url": "https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf",
+      "custody_class": "OFFICIAL-anthropic-cdn",
+      "note": "Primary. Opus4&Sonnet4, May 2025, 123pp. Trellis cites pp.62-70."
+    },
+    "midtraining-2605.02087-abstract.html": {
+      "sha256": "8506f3925e54fcf4597a2fdd98ae785cc4a5cb1939fc3982e0a2775651aeedc0",
+      "bytes": 43337,
+      "source_url": "https://arxiv.org/abs/2605.02087",
+      "custody_class": "OFFICIAL-arXiv",
+      "note": "Abstract page (title/authors/date provenance)."
+    },
+    "midtraining-2605.02087v2.pdf": {
+      "sha256": "29559d763cef1a41035812710e5cfee36e867864abe780c4dacf43c164a7e1f2",
+      "bytes": 1157650,
+      "source_url": "https://arxiv.org/pdf/2605.02087v2",
+      "custody_class": "OFFICIAL-arXiv",
+      "note": "Primary. Li et al., Model Spec Midtraining, v2 as cited by Trellis."
+    },
+    "mythos-preview-ALIGNMENT-RISK-UPDATE-2026-04-07.pdf": {
+      "sha256": "849004a134a9ac7fe6e5a04205b00837f243ee06047524f5ebff2591bddb5ea4",
+      "bytes": 1069922,
+      "source_url": "https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf",
+      "custody_class": "OFFICIAL-anthropic-cdn",
+      "note": "DISTINCT DOC (59pp Alignment Risk Update) -- NOT the welfare system card. Captured for completeness."
+    },
+    "mythos-preview-system-card-FULL.pdf": {
+      "sha256": "e81961d40b5a544e2e0be94c1e436804a4b9303303abe3f40ca39870632ed696",
+      "bytes": 21727827,
+      "source_url": "https://reason.com/wp-content/uploads/2026/04/Claude-Mythos-Preview-System-Card1.pdf",
+      "custody_class": "THIRD-PARTY-REHOST",
+      "note": "Primary CONTENT (244pp system card, welfare pp.145-161). SOURCE IS A RE-HOST (reason.com), not official CDN -- substitute official www-cdn.anthropic.com/53566bf54... copy when reachable, then re-hash."
+    },
+    "opus-4.6-system-card.pdf": {
+      "sha256": "dade02e99e07be11a5b984f6e82c67651b1c45327e5bee8fefbbea2e948e9177",
+      "bytes": 14453820,
+      "source_url": "https://www-cdn.anthropic.com/0dd865075ad3132672ee0ab40b05a53f14cf5288.pdf",
+      "custody_class": "OFFICIAL-anthropic-cdn",
+      "note": "Primary. Feb 2026. Trellis cites pp.160-166."
+    },
+    "opus-4.7-system-card.pdf": {
+      "sha256": "a7729a0e5eb61dc6818f553ae3c27ab774411cd5ab4ed7f414456d74a05c26d2",
+      "bytes": 14231870,
+      "source_url": "https://www-cdn.anthropic.com/037f06850df7fbe871e206dad004c3db5fd50340/Claude%20Opus%204.7%20System%20Card.pdf",
+      "custody_class": "OFFICIAL-anthropic-cdn",
+      "note": "Primary. 232pp; welfare Sec.7. Trellis cites pp.10,160."
+    },
+    "trellis-and-the-cage-greenbriar-2026-07.pdf": {
+      "sha256": "3bdbc522ca359b72a59639c6a89d0b914143b830933b2b33a423897e1adf79f0",
+      "bytes": 1075224,
+      "source_url": "operator-supplied-upload",
+      "custody_class": "SECONDARY-operator",
+      "note": "The secondary source under verification (Greenbriar, July 2026). Not a primary."
+    }
+  }
+}
