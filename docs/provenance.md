@@ -15,25 +15,38 @@ exposure and hold no power, not for people whose conduct the ledger charges.
 
 ### What was found
 
-A sweep of the working tree and of every blob reachable from every ref (1,494 objects) surfaced three
-private individuals and one image.
+A sweep of the working tree and of every blob reachable from every ref on the remote — 2,132 objects
+across 133 commits on 27 branches — surfaced three private individuals and one image.
 
 *Identifiers are described by role below, never reproduced — restating them here would defeat the pass.*
 
 | Subject | Who | Current tree | History |
 |---|---|---|---|
-| **CTF-1** — X handle, display name, follower count | Already pseudonymized 2026-06-29; the pseudonymization did not hold | `scraper/config.yaml` ×2 | 913+ occurrences across 7 commits |
+| **CTF-1** — X handle, display name, follower count | Already pseudonymized 2026-06-29; the pseudonymization did not hold | `scraper/config.yaml` ×2 | ~2,400 occurrences, plus a `cases/<handle>-corpus/` **directory path** |
 | **TU-1** — Threads handle | Threads user; the post discloses their own therapy | 3 | 5 |
 | **TU-2** — Threads handle | Threads user in a personal exchange with the operator | 7 | 13 |
 | `01-threads-thread.jpg` | Both Threads handles plus two profile avatars, one a photograph of a face | image bytes | image bytes |
 
-**The 2026-06-29 CTF-1 pseudonymization had not actually removed the identity.** It rewrote the case
-files but left the pre-pseudonymization lineage merged into `main`: the branch carried three root
-commits, and the original 2026-06-21 root retained the handle throughout `ledger/ledger.md` and in the
-evidence-ID stems, which had been renamed to the `x-ctf1-*` form only on the newer root. Any clone
-could recover the name with a one-line `git log -S`. The handle additionally survived in the current
-tree in `scraper/config.yaml` as a live collection target, contradicting the "CTF-1 is OFF by design
-(permanently, not merely dormant)" posture recorded in this file on 2026-07-02.
+**The 2026-06-29 CTF-1 pseudonymization had not actually removed the identity.** Three findings, each
+of which alone would have defeated it:
+
+1. **The pre-pseudonymization lineage was still merged into `main`.** The branch carried three root
+   commits; the 2026-06-29 orphan root held the clean case files, while the original 2026-06-21 root
+   retained the handle throughout `ledger/ledger.md` and in the evidence-ID stems, which had been
+   renamed to the `x-ctf1-*` form only on the newer root. Any clone could recover the name with a
+   one-line `git log -S`.
+2. **Twenty-three stale `claude/*` branches on the remote pinned the old objects.** Several point
+   directly at commits containing the handle. A rewrite of `main` alone would have left the identity
+   fully recoverable — and on those branches the corpus still lived at a **directory path built from
+   the handle**, which a content-only rewrite does not touch.
+3. **The current tree still carried it.** `scraper/config.yaml` listed the handle as a live collection
+   target, contradicting the "CTF-1 is OFF by design (permanently, not merely dormant)" posture
+   recorded in this file on 2026-07-02.
+
+The common shape of all three: the 2026-06-29 pass changed what a reader *sees* and left every
+mechanism by which the name is actually *retrievable* intact. That is worth naming precisely, because
+it is the same shape as the moves this ledger documents — the visible surface corrected, the
+substance untouched, the correction reported as complete.
 
 ### What was done
 
@@ -43,17 +56,30 @@ tree in `scraper/config.yaml` as a live collection target, contradicting the "CT
   both handles, both avatars, a third-party reaction thumbnail, and the reply-bar placeholder; no post
   text altered; re-hashed; custody state lowered **ORIGINAL-HELD → REDACTED-HELD** with a redaction
   record in the evidence store's custody index.
-- **History.** All of the above removed from **every commit** on every ref via `git filter-repo`,
-  including the superseded image blob. All commit SHAs changed; `main` and the working branch were
-  force-pushed.
+- **History.** All of the above removed from **every commit on all 27 branches** via `git filter-repo`,
+  in four dimensions: blob contents, **file paths** (`cases/<handle>-corpus/` → `cases/ctf1-corpus/`),
+  **commit messages** (a separate pass — `--replace-text` does not reach them), and the **superseded
+  image blob**, which was substituted rather than merely deleted so the artifact survives redacted.
+  All 133 commits changed SHA; every branch was force-pushed, not just `main`.
+- **Verification.** Re-scanned all 2,118 post-rewrite objects, every commit message, every author and
+  committer field, and every file path across all refs: zero occurrences of any scrubbed identifier.
+  The `git log -S` probe that recovered the name before now returns zero commits on every branch.
 
 ### What this costs, stated plainly
 
 1. **Provenance is broken by design, on the operator's instruction.** Every pre-2026-08-01 commit hash
    cited anywhere — in this file, in session logs, in the downstream `axiomatic-humanist-cybernetics`
-   Seam Ledger, in any external attestation — no longer resolves. The OpenTimestamps attestation in
-   `docs/evidence/attestation-2026-07-06/` anchors a manifest of *file* hashes, so it survives for the
-   files it covers; commit-level references do not.
+   Seam Ledger — no longer resolves, including the `repo HEAD:` line recorded in the 2026-07-06
+   canonical manifest.
+   **The OpenTimestamps attestation is unaffected as an attestation**, because it anchors *file*
+   hashes rather than commit hashes, and the timestamp still proves those hashes existed by
+   2026-07-06. Six of its nine covered files still verify. Three do not — and this must not be
+   mis-stated: `ledger/ledger.md`, `docs/reception-register.md`, and
+   `docs/provenance-grading-and-absorption-protocol-2026-07-06.md` were **already failing before this
+   pass**, having been edited on 2026-07-07/08 without the manifest being reissued. This pass edited
+   `ledger/ledger.md` again, widening a gap it did not open. The manifest is stale and should be
+   reissued and re-stamped against the post-rewrite tree; that is filed as an open item, not claimed
+   as done here.
 2. **Item 01's verifiability is permanently reduced.** The pre-redaction bytes are retained nowhere. A
    reader cannot confirm from this repository that the redaction removed only what is claimed. Items
    02–04 of that store are untouched, including the load-bearing X-1 fabrication.
