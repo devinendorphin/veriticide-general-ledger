@@ -27,7 +27,9 @@ twitter:
     - HoldenKarnofsky     # Holden Karnofsky, Open Philanthropy
 
     # Cluster 3 — AI/tech culture accounts with documented entries
-    - CTF-1           # Cluster 3 — pattern closure PARTIAL; temporal persistence target
+    # CTF-1 (de-identified private individual) is deliberately NOT a target here.
+    # Collection against that account is OFF by design, permanently — not dormant —
+    # honoring the DECLINED account-level verdict (see cases/ctf1-corpus/, docs/provenance.md).
     - xlr8harder          # Cluster 3 — SINCERE-UNBOUNDED entry logged
     - repligate           # Cluster 3 — SINCERE-UNBOUNDED entry logged
     - roon                # Cluster 3 — NULL/Track C entry logged

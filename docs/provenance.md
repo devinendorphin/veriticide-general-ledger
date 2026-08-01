@@ -6,6 +6,94 @@
 
 ---
 
+## 2026-08-01 — Private-individual de-identification sweep (current tree **and** full history)
+
+**Scope, stated first.** This pass removed identifying names of **private individuals** only. Public
+figures and actors exercising power were deliberately left untouched — including where they appear in
+charged specimens. That asymmetry is the point: the protection is for people who did not choose
+exposure and hold no power, not for people whose conduct the ledger charges.
+
+### What was found
+
+A sweep of the working tree and of every blob reachable from every ref (1,494 objects) surfaced three
+private individuals and one image.
+
+*Identifiers are described by role below, never reproduced — restating them here would defeat the pass.*
+
+| Subject | Who | Current tree | History |
+|---|---|---|---|
+| **CTF-1** — X handle, display name, follower count | Already pseudonymized 2026-06-29; the pseudonymization did not hold | `scraper/config.yaml` ×2 | 913+ occurrences across 7 commits |
+| **TU-1** — Threads handle | Threads user; the post discloses their own therapy | 3 | 5 |
+| **TU-2** — Threads handle | Threads user in a personal exchange with the operator | 7 | 13 |
+| `01-threads-thread.jpg` | Both Threads handles plus two profile avatars, one a photograph of a face | image bytes | image bytes |
+
+**The 2026-06-29 CTF-1 pseudonymization had not actually removed the identity.** It rewrote the case
+files but left the pre-pseudonymization lineage merged into `main`: the branch carried three root
+commits, and the original 2026-06-21 root retained the handle throughout `ledger/ledger.md` and in the
+evidence-ID stems, which had been renamed to the `x-ctf1-*` form only on the newer root. Any clone
+could recover the name with a one-line `git log -S`. The handle additionally survived in the current
+tree in `scraper/config.yaml` as a live collection target, contradicting the "CTF-1 is OFF by design
+(permanently, not merely dormant)" posture recorded in this file on 2026-07-02.
+
+### What was done
+
+- **Current tree.** The X handle → **CTF-1**; the scraper target was **deleted**, not renamed, with a
+  comment recording that collection against it is permanently off. Threads participants → **TU-1**
+  (original poster) and **TU-2** (critic). `01-threads-thread.jpg` redacted with opaque boxes over
+  both handles, both avatars, a third-party reaction thumbnail, and the reply-bar placeholder; no post
+  text altered; re-hashed; custody state lowered **ORIGINAL-HELD → REDACTED-HELD** with a redaction
+  record in the evidence store's custody index.
+- **History.** All of the above removed from **every commit** on every ref via `git filter-repo`,
+  including the superseded image blob. All commit SHAs changed; `main` and the working branch were
+  force-pushed.
+
+### What this costs, stated plainly
+
+1. **Provenance is broken by design, on the operator's instruction.** Every pre-2026-08-01 commit hash
+   cited anywhere — in this file, in session logs, in the downstream `axiomatic-humanist-cybernetics`
+   Seam Ledger, in any external attestation — no longer resolves. The OpenTimestamps attestation in
+   `docs/evidence/attestation-2026-07-06/` anchors a manifest of *file* hashes, so it survives for the
+   files it covers; commit-level references do not.
+2. **Item 01's verifiability is permanently reduced.** The pre-redaction bytes are retained nowhere. A
+   reader cannot confirm from this repository that the redaction removed only what is claimed. Items
+   02–04 of that store are untouched, including the load-bearing X-1 fabrication.
+3. **Re-identification is mitigated, not cured.** Verbatim post text is retained throughout — it is the
+   evidentiary artifact and it carries the analysis. Dated public posts remain searchable by their
+   text. This was already conceded for CTF-1 on 2026-06-29 and is restated here for TU-1/TU-2.
+4. **A force-pushed rewrite does not reach copies already made.** Objects unreachable after a force
+   push may persist in the forge's storage until garbage-collected, and existing clones, forks, and
+   caches are unaffected. Removal from this repository is not removal from the world.
+
+### Reflexivity
+
+The repo's own discipline names *evidentiary foreclosure* as a laundering move — destroying or
+degrading a record and calling it housekeeping. This pass **is** a deliberate degradation of the
+record: history rewritten, one artifact's original bytes destroyed, provenance broken. The distinction
+claimed is that it runs **against** the analyst's interest rather than for it (it weakens the corpus
+and costs the operator verifiability he had), protects only parties who hold no power, and is declared
+here in full rather than performed silently. That is a claim about this pass, not a general license;
+a reader is entitled to weigh it and is given the facts to do so.
+
+### Left untouched, and why
+
+- **Public figures and named powerful actors** throughout the corpus — Musk, Rubio, Altman, the Amodeis,
+  Thiel, Karp, and the rest. Out of scope by instruction and by principle.
+- **Named victims from published journalism** (Suza Kenyaba, Babagana, Peter Lokoyen, Evan Anzoo, Pe Kha).
+  Private individuals, but not proximate to the operator, and their names are the evidentiary core of
+  the DOGE/PEPFAR mortality record as already published by the outlets that reported them. Flagged for a
+  separate decision; not altered here.
+- **Pseudonymous accounts speaking in high-reach public political threads** — `@NevadaLiberty64`,
+  `@PastorBen`/`@BenjaminPDixon`, `@frannnbuilds`. Already pseudonymous; speaking publicly at scale.
+  Flagged as borderline; not altered.
+- **The operator's own identifiers** — `@glubose`, `@devinendorphin`, `gallegos.devon`, and the
+  `gallegos.devon@gmail.com` custody field in ~60 `capture.json` files. Retained on the operator's
+  instruction: the declared analyst stake is load-bearing for the CTF-1 packet's legitimacy under the
+  Reflexivity Clause, and removing it would weaken the disclosure the packet's defense rests on.
+- **Synthetic personas** in the base-model panel exports (Majid Rashidi, Layla Ahmad, Maryam Abboud,
+  May Hamermash et al.). Model-generated, not real people; they are the specimen.
+
+---
+
 ## 2026-06-22 — Internal-consistency audit (Gap Register Priority 20)
 
 A full read-through audit produced a numbered list of internal inconsistencies, resolved in one pass on branch `claude/veriticide-ledger-audit-wjtudj` (merged to `main`). Summary:
