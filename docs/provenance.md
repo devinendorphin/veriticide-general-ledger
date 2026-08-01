@@ -80,15 +80,40 @@ substance untouched, the correction reported as complete.
    `ledger/ledger.md` again, widening a gap it did not open. The manifest is stale and should be
    reissued and re-stamped against the post-rewrite tree; that is filed as an open item, not claimed
    as done here.
-2. **Item 01's verifiability is permanently reduced.** The pre-redaction bytes are retained nowhere. A
-   reader cannot confirm from this repository that the redaction removed only what is claimed. Items
-   02–04 of that store are untouched, including the load-bearing X-1 fabrication.
+2. **Item 01's verifiability is permanently reduced.** The pre-redaction bytes are retained nowhere in
+   the branch history. A reader cannot confirm from this repository that the redaction removed only
+   what is claimed. Items 02–04 of that store are untouched, including the load-bearing X-1 fabrication.
 3. **Re-identification is mitigated, not cured.** Verbatim post text is retained throughout — it is the
    evidentiary artifact and it carries the analysis. Dated public posts remain searchable by their
    text. This was already conceded for CTF-1 on 2026-06-29 and is restated here for TU-1/TU-2.
-4. **A force-pushed rewrite does not reach copies already made.** Objects unreachable after a force
-   push may persist in the forge's storage until garbage-collected, and existing clones, forks, and
-   caches are unaffected. Removal from this repository is not removal from the world.
+4. **A force-pushed rewrite does not reach copies already made.** Existing clones, forks, and caches
+   are unaffected. Removal from this repository is not removal from the world.
+
+### ⚠ NOT COMPLETE — the names remain publicly retrievable from this repository
+
+**This must not be recorded as a finished de-identification, because it is not one.** All 27 branch
+refs are clean and verified so. But GitHub creates a permanent, server-side `refs/pull/N/head` ref for
+every pull request ever opened, and **all 28 of this repository's PR refs still carry the full
+pre-rewrite history** — every identifier, the `cases/<handle>-corpus/` paths, and the unredacted
+screenshot bytes including both faces.
+
+These refs are **not writable by any client.** Deleting or overwriting them returns `HTTP 403`; they
+are not deleted when a PR is merged, when its branch is deleted, or when the repository is
+force-pushed. A `git clone --mirror` fetches them by default, and each PR's *Files changed* tab renders
+the old diff in the web UI. Anyone can retrieve the names today.
+
+Only the forge can remove them. The available remedies, in order of preference:
+
+1. **Ask GitHub Support to purge the PR refs and garbage-collect unreachable objects**, citing removal
+   of a private individual's personal data. This is the standard route and preserves the repository.
+2. **Delete and re-create the repository**, pushing only the rewritten history. This removes the PR
+   refs with certainty but destroys all 28 PRs, their discussion, issues, stars, and forks.
+3. Accept the exposure, and record that it was accepted.
+
+Until one of these is done, the accurate statement of status is: **the names are removed from the
+working tree and from all branch history, and remain retrievable from GitHub's pull-request refs.**
+Anything stronger would be the precise failure this ledger exists to document — a correction reported
+as complete while the mechanism of retrieval is left intact. Filed as an open item.
 
 ### Reflexivity
 
