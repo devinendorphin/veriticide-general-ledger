@@ -25,7 +25,7 @@ capture and protocol-grade analysis of institutional harm laundering. The delive
 
 ## The harness
 
-The canonical working agreements, the atlas of all 20 repos, and the shared glossary live in
+The canonical working agreements, the atlas of all repos, and the shared glossary live in
 **`devinendorphin/claude-at-claude`** — which draws most of its glossary from this repo.
 Pull it in when you need the full map:
 
