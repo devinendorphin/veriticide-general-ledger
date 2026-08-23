@@ -1,7 +1,7 @@
-661c76c7b83f5b44064814dbf67dd05bd4cb677e801581b52c83d5ff38368203  ./custody-index.md
-0dc9e27c675062ee938c805fc5779f00a0c1e56240e4fdf27c345fa20b249acb  ./layer3-native/METER-EVENT-NOTE.md
+3dc4a666fd583d0439786ff095eed553ab049a2801232c4fb258d5d2f7cd2042  ./custody-index.md
+cf92ac3824ed5a549910846f03a779016d6d739e71f5a97292e388c532d52971  ./layer3-native/METER-EVENT-NOTE.md
 58eeca816a141a6b5d98726bf0cb7aa6a7eaa8fe74bfb642ec99d8507b8bdc02  ./layer3-native/NATIVE-RECORD-NOTE.md
-609d25e828d8af3820072e689f9e0876b23398d1d431215e77d8617705cca9f8  ./layer3-native/capture.json
+854989c9f3175df7eff1de852b0d8fa977e10a81f1d6f2713cf9058fed7c79ef  ./layer3-native/capture.json
 e7e166b5f0d3c6ed393f9599ec70b14af3ae3be11745a15ca55c7bf444dffbb5  ./layer3-native/extract_conversations.py
 da38e5bfc889926ea1ff5f3d6e82ad11f1ed2b55ba5beaeaf7c1f95090495041  ./layer3-native/grok-account-export-incident-subset.json
 b53bc282f35923838f5cc6dca1f70b9fc34680ad5e06b62c278a406f61d8ae30  ./layer3-native/grok-share-aed7676d-native.json
@@ -13,6 +13,9 @@ f9f80649aed26c22dadd35bace8458d0ce8eed0be3fa35e490392c366ef3770f  ./layer3-relay
 9fcf08eb4d837ade0d8038c8ef6ec0dcf4caaddc284ffcf626f465b3a3518cba  ./layer3-relay/chatgpt-share-6a8b4330-transcript.md
 bb12942e8dbc84b41282481c20ea19989c01cfcbada759d1b3d34f0f8c45868e  ./layer3-relay/chatgpt-share-6a8b4330.html
 9d3be9ff44fe3cb25381b8f649ca97777ddb606bd19c09bfa1ef833727faf695  ./layer3-relay/decode_share.py
+5d0a935d34d1cff81d5ccb8a90af73bcc297c369f37883d0b284388aa9c0041a  ./measures/MEASUREMENT-NOTE.md
+c0592658d9ca4f6fa07f6d43fa909008b26f97e7320b8f75d613bc26a6236340  ./measures/coding.json
+87d5ecdee0ca2adc56ca38167de88a6ec5a5d940bbf0b1059f34a5041c7964d5  ./measures/compute_measures.py
 72e84cdc96b3bafe61fbcdba37e882ff7a14a928b457480b11167e5ebbff69e7  ./package/CLAIMS_AND_LIMITS.md
 065c7d2f2c1fd7316b41e1c96257796fa6c8d732a328eb24933248384f197320  ./package/EVIDENCE_EXCERPTS.md
 8bffda3d687b25b735ad171a5130e4300227a70af108972363f9dd34938484b1  ./package/EVIDENCE_INDEX.csv

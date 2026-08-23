@@ -37,8 +37,8 @@
       "content_anchor": "The visible Grok text is verbatim the closing paragraphs of the terminal node of conversation aed7676d-...",
       "custody": "ORIGINAL-HELD (operator-supplied device capture, EXIF intact)",
       "limitations": [
-        "Occurs 4h53m after the last substantive response, not during the correction sequence.",
-        "The operator asserted exhaustion at 16:47:26Z, 4h10m before this capture, so this is not shown to be the event the package narrates.",
+        "Reproduces a limit already standing: the operator reports the initial notice stated a twelve-hour retry window, so this capture and the operator's 16:47:26Z statement describe one event.",
+        "The initial notice itself is not captured, so the moment the limit first fired is operator-reported.",
         "No third-party identifiers visible; no redaction required."
       ]
     },

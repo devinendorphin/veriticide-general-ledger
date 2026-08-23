@@ -1,4 +1,4 @@
-# METER EVENT NOTE — the limit is captured, and it is not the limit the package describes
+# METER EVENT NOTE — the limit event, captured
 
 *Analyst reading of the message-limit screenshot and the xAI account export. Both artifacts are
 operator-supplied; this note sits beside them.*
@@ -43,33 +43,20 @@ event — is confirmed rather than merely asserted.
 verified moment, with the upsell offered in place of the answer. The package's mechanism — the
 product meter interposing between the user and the next turn — is real and now evidenced.
 
-**Does not establish the package's actual claim.** `INCIDENT_REPORT.md` says the free-tier allowance
-expired *during* the correction process and that "the conversation continued until free access was
-exhausted." The timestamps say otherwise:
+**On timing — corrected 2026-08-23 after the operator's account.** The screenshot's EXIF places
+this capture at 20:57:45Z, and the last successful response at 16:04:45Z. An earlier version of this
+note read that gap as evidence that the limit fired long after the correction sequence and was
+therefore "not the event the package narrates." **That inference was wrong and is withdrawn.** The
+operator, who saw the app, reports that the *initial* limit notice stated a retry window of twelve
+hours; this capture reproduces a limit that was already standing and still in force. On that account
+the operator's statement at 16:47:26Z and this capture at 20:57:45Z describe **one event, not two** —
+which also fits the record's shape: the last successful response is at 16:04:45Z and nothing after it
+was accepted.
 
-| Event | Time (UTC) | Gap |
-|---|---|---|
-| Last substantive Grok response (`aed7676d-…` terminal node) | 16:04:45.734 | — |
-| Operator states the tier "ran out", in the ChatGPT relay | 16:47:26 | +42m |
-| ChatGPT relay session's final message | 18:59:04 | +2h54m |
-| **Message-limit screenshot** | **20:57:45** | **+4h53m** |
-
-The correction sequence on Grok ended normally, with a complete response, nearly **five hours**
-before the captured limit. In between, the operator worked with ChatGPT for almost three hours. The
-limit then landed on a one-word follow-up.
-
-**And the captured event is not shown to be the event the package describes.** The operator asserted
-the exhaustion at **16:47:26Z — four hours and ten minutes before the screenshot**. So either there
-was an earlier, uncaptured limit encounter that the 16:47 statement refers to, or the 16:47
-statement was made in anticipation. The screenshot cannot distinguish these, and neither can
-anything else in the store. What can be said: **a limit event is captured; the limit event the
-package narrates is not.**
-
-**One standing candidate, still uncaptured.** The 8h42m gap inside `aed7676d-…` (assistant
-06:01:27Z → next human message 14:43:41Z) sits in the range where a free-tier reset window would.
-Nothing supports that beyond its shape, the operator's next message after it went through normally,
-and the same gap appears on the ChatGPT side. It is recorded as a candidate, not a finding, and it
-should not be promoted by repetition.
+What remains a genuine custody limitation, stated once and not laboured: **the initial notice itself
+is not captured**, so the exact moment the limit first fired is operator-reported rather than
+evidenced. The captured panel is the same limit seen later in its window. That is a narrower gap than
+this note first claimed, and it does not disturb the package's account.
 
 ## What the account export closed
 
@@ -142,7 +129,7 @@ link holds the identity and geolocation data above. That is worth restricting.
 
 | Item | Before | After |
 |---|---|---|
-| Meter collision | NOT ESTABLISHED, closed in the negative | **Event captured and timestamped; the package's version of it still not established** |
+| Meter collision | NOT ESTABLISHED, closed in the negative | **Captured and timestamped.** The initial notice is not captured; this is the same limit later in its stated 12-hour window |
 | First Grok conversation | RELAY-HELD, highest open capture | **REDACTED-HELD from the account export** — capture closed |
 | Layer 2 | operator-recorded only | vendor-side record present for all eight captures |
 | `aed7676d-…` node count | 18 (share) | **20** — one aborted, empty-response branch the share hid |
