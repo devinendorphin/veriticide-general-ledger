@@ -1,0 +1,20 @@
+{
+  "item_id": "layer3-relay",
+  "title": "ChatGPT shared conversation — \"Analysis recovery patch\"",
+  "role": "Layer-3 relay: the long-form Grok outputs as pasted back by the operator, plus the ChatGPT-authored prompts that elicited them, plus the drafting turns that produced the v0.1 package",
+  "source_url": "https://chatgpt.com/share/6a8b4330-07a4-83ea-a5be-41c9d1cde4d1",
+  "share_id": "6a8b4330-07a4-83ea-a5be-41c9d1cde4d1",
+  "captured_at_utc": "2026-08-23",
+  "capture_method": "HTTP GET of the public share URL, saved verbatim; transcript derived locally by decode_share.py from the page's own turbo-stream payload",
+  "counterparty_model_slug": "gpt-5.6-sol-wm",
+  "conversation_span_utc": "2026-08-23T03:07:52Z .. 2026-08-23T18:59:04Z",
+  "message_count": 213,
+  "custody": "ORIGINAL-HELD (third-party-hosted page, captured verbatim) + DERIVED (transcript)",
+  "integrity_note": "The .html is a dynamically served page carrying a per-response CSP nonce; a re-fetch will NOT reproduce this file's sha256. The stable, checkable artifact is the decoded transcript, which decode_share.py re-derives from these exact bytes. The share URL is owner-revocable and may cease to resolve.",
+  "limitations": [
+    "The Grok outputs are operator copy-paste relays, not a native Grok export: no Grok-side timestamps, no session id, no displayed model/mode attestation, no rate-limit message.",
+    "Timestamps are ChatGPT-side receipt times and bound the true Grok times from above only.",
+    "The operator's own prompts to Grok are not separately preserved; what is preserved is the prompt text ChatGPT composed for pasting.",
+    "Whether every composed prompt was pasted verbatim is operator-attested and not independently verifiable."
+  ]
+}
