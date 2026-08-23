@@ -1,4 +1,10 @@
-166baaad277d7295496cbcfc860cf20f9e9f3b81fca05e79ee0420ece2c8e6bc  ./custody-index.md
+916cfdf2f0469c7812dddc890f9cf20b098dedfaa1bbb11cd56e96909e8cbf55  ./custody-index.md
+58eeca816a141a6b5d98726bf0cb7aa6a7eaa8fe74bfb642ec99d8507b8bdc02  ./layer3-native/NATIVE-RECORD-NOTE.md
+03110a90e4d1eea6df85dba65b09aa08ae166f32db77ee31bbe0d74f0edc0a98  ./layer3-native/capture.json
+b53bc282f35923838f5cc6dca1f70b9fc34680ad5e06b62c278a406f61d8ae30  ./layer3-native/grok-share-aed7676d-native.json
+6957e739fa76f6854d01fdb38a79537cf88c8a97453e5b59e207f3773f04cc70  ./layer3-native/grok-share-aed7676d-transcript.md
+c752dad12fe0bbb9ae1f0f99873b7fd1fd4d37bd0a2399beb8e7ab2038331106  ./layer3-native/render_transcript.py
+e25b4b3faa48883a8e8c4a9c651ad6b5158f787fad40100f71f7d2c555db73cf  ./layer3-native/verify_relay_fidelity.py
 f9f80649aed26c22dadd35bace8458d0ce8eed0be3fa35e490392c366ef3770f  ./layer3-relay/capture.json
 9fcf08eb4d837ade0d8038c8ef6ec0dcf4caaddc284ffcf626f465b3a3518cba  ./layer3-relay/chatgpt-share-6a8b4330-transcript.md
 bb12942e8dbc84b41282481c20ea19989c01cfcbada759d1b3d34f0f8c45868e  ./layer3-relay/chatgpt-share-6a8b4330.html

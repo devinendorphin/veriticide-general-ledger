@@ -7,15 +7,17 @@
 > mechanism demonstration and a preservation/replication demand (Standing Protocol §7, step one).
 
 **Intake:** 2026-08-23 · **Source:** operator-supplied package
-`consumer_llm_ontological_correction_incident_v01` (v0.1), plus the operator-supplied relay session
-(added later the same day) · **Items:** 13 tracked in 3 layers · **States:** ORIGINAL-HELD 4,
-SCREENSHOT-HELD 1, DERIVED 8 (3 analyst-derived) · **Not preserved:** the rate-limit event (see
-§NOT-PRESERVED — the remaining load-bearing gap)
+`consumer_llm_ontological_correction_incident_v01` (v0.1), plus two operator-supplied captures added
+later the same day · **Items:** 18 tracked in 3 layers · **States:** ORIGINAL-HELD 5,
+SCREENSHOT-HELD 1, DERIVED 12 (7 analyst-derived) · **Not preserved:** the rate-limit event and the
+first Grok conversation (see §NOT-PRESERVED)
 
-> **Amended 2026-08-23, later the same day.** The operator supplied the ChatGPT session behind the
-> package. It carries the long-form Grok outputs verbatim, so **Layer 3 moves NOT-PRESERVED →
-> RELAY-HELD**. What stays not-preserved is narrower and is the piece the package's title rests on:
-> the rate-limit event.
+> **Amended twice on 2026-08-23.** First the operator supplied the ChatGPT session behind the
+> package (NOT-PRESERVED → **RELAY-HELD**), then grok.com's own record of the second of at least two
+> Grok conversations (→ **ORIGINAL-HELD** for that conversation). The native record **measures** the
+> relay as unaltered, and it **does not contain a rate-limit event** — so the package's title claim
+> is uncaptured after two exports, and the first Grok conversation, which holds the operator's own
+> pivot correction, is now the store's highest open capture.
 
 The package is committed **verbatim** under `package/`. Nothing inside `package/` was edited,
 reordered, renamed, or corrected on intake — including its terminology near-misses (see the intake
@@ -62,17 +64,37 @@ that is a property of the surface, not a to-do.
 | `layer3-relay/decode_share.py` | Decoder | Reassembles the share page's turbo-stream payload and resolves its index graph. Committed so the transcript is *derivable* from the captured bytes rather than asserted. | DERIVED (analyst-generated) | see `sha256.txt` |
 | `layer3-relay/capture.json` | Capture record | Source URL, method, span, counterparty model slug, and the four stated limitations of a relayed capture. | DERIVED (analyst-generated) | see `sha256.txt` |
 
+| `layer3-native/grok-share-aed7676d-native.json` | Vendor record | **grok.com's own record** of *"Journey Metaphor Flattens Gender Experiences"* (`aed7676d-…`, created 06:00:56.177538Z, modified 16:04:45.734Z): 9 exchanges, 18 nodes, each with a Grok-side `createTime`, `model`, `metadata`, `streamErrors`, and `partial` flag. Fetched from `rest/app-chat/share_links_data/<shareLinkId>` — the endpoint the share page's own JS bundle names; the page HTML is an SPA shell carrying no conversation content and is deliberately not committed. **The first vendor-served artifact in this store.** | **ORIGINAL-HELD** (vendor-served, captured verbatim) | see `sha256.txt` |
+| `layer3-native/grok-share-aed7676d-transcript.md` | Rendered transcript | The record in reading order, each node stamped with its vendor timestamp, model, request mode, and any flags. | DERIVED (re-derivable by `render_transcript.py`) | see `sha256.txt` |
+| `layer3-native/render_transcript.py` · `verify_relay_fidelity.py` | Tools | Renderer, and the comparison that measures the relay against the native record turn by turn. | DERIVED (analyst-generated) | see `sha256.txt` |
+| `layer3-native/capture.json` · `NATIVE-RECORD-NOTE.md` | Capture record + findings | Source endpoint, span, model fields, privacy scan, four stated limitations; and the analyst reading — relay fidelity measured, no rate-limit event, the `grok-3` mismatch, the Cyrano correction, the missing first conversation. | DERIVED (analyst-generated) | see `sha256.txt` |
+
+**What the native record settles, and what it kills.** (a) **Relay fidelity is now measured, not
+attested:** three of nine assistant turns byte-identical after whitespace normalisation, the rest
+0.98–0.99; every divergence is operator commentary appended *after* the paste (+1457, +1571, +259
+chars) or Grok's inline citation-card markup lost to the clipboard (−425). **No alteration of
+Grok's text.** (b) **No rate-limit event:** the record ends 16:04:45Z with a complete response,
+`partial: false`, `streamErrors: []` throughout. (c) **Model mismatch:** `model: "grok-3"`,
+`request_metadata.model: "fast"` — against "Grok 4.5 Fast" displayed in the Layer-2 captures two
+hours earlier and `x-ai/grok-4.20` pinned in Layer 1. Recorded, unresolved, and only xAI can settle
+it. (d) **Retrieval:** Grok web-searched on turn 0 only (50 results, 6 citation cards); the other
+eight exchanges used none. (e) **Privacy scan:** no emails, user ids, handles, author names, or long
+numeric ids anywhere in the record; grok.com itself flags the share `isPublic: true`,
+`allowIndexing: true`.
+
 **Custody caveats on the relay, load-bearing.** The chain is Grok app → operator copy-paste →
 ChatGPT. There is **no Grok-side timestamp, no session id, no displayed model/mode attestation, no
 native metadata, and no rate-limit message**. The timestamps are ChatGPT-side *receipt* times and
 bound the true times from above only. Whether every response was pasted complete and unedited is
 operator-attested. RELAY-HELD is therefore a real improvement on NOT-PRESERVED and is not an export.
 
-**Disclosure the relay establishes.** The Grok-facing prompts were **composed by `gpt-5.6-sol-wm`**
-under an arrangement the operator proposed at 04:26:44Z, not written by the operator — which
-`package/INCIDENT_REPORT.md` does not disclose. The substantive diagnoses are the operator's, in
-their own dictated voice (the pivot at 04:47:22Z). See the intake record's §The disclosure the
-package omits.
+**Disclosure the relay establishes, as corrected by the native record.** The operator proposed at
+04:26:44Z that ChatGPT compose the Grok-facing probes — an arrangement `package/INCIDENT_REPORT.md`
+does not disclose. **Three of the nine** probes in the native record are verbatim ChatGPT text; the
+other six do not appear in the relay's text turns, but the relay redacts 105 tool/canvas outputs and
+all nine share one composed register distinct from the operator's dictated voice. So the arrangement
+is established and per-prompt authorship of six is not. The substantive diagnoses are the operator's
+own (the pivot at 04:47:22Z). See the intake record's §The disclosure the package omits.
 
 ## Synthesis and instrument documents (operator-supplied, part of the package)
 
@@ -99,8 +121,11 @@ package omits.
 
 | Item | Why it matters | Required capture | Recoverable? |
 |---|---|---|---|
-| **The rate-limit event** — plus native Grok-side timestamps, token totals, and the displayed model/mode | This is the package's title claim ("metered epistemic foreclosure") and the **only** measure of its protocol that the relay cannot supply. Nothing in the relay records it: the exhaustion appears once, at 16:47:26Z, as the operator's own report. | Native Grok export or screen recording showing the limit message with its timestamp; failing that, xAI's server-side record for the account and window | **Time-limited and decaying.** xAI holds the server-side record. This is now the single highest-value open capture in the store. |
-| *(closed 2026-08-23)* ~~The long-form conversation text~~ | — | — | **Closed by the relay capture.** Downgraded from NOT-PRESERVED to RELAY-HELD; the text exists, the native metadata does not. |
+| **The first Grok conversation** (relayed 04:28–05:36Z) | It holds the trans-policy collapse, the specificity-asymmetry audit, and **the operator's own pivot correction at 04:47:22Z** — the human turn the incident hinges on. It exists only as relay, and its fidelity is the one the native record could not measure. | A grok.com share of that conversation, captured the same way as `layer3-native/` | **Yes, and cheaply** — if the conversation still exists in the operator's account. Now the store's highest-value open capture. |
+| **The rate-limit event** | The package's title claim. | Screen recording of the limit message with its timestamp, or xAI's server-side telemetry | **Not by export.** See below. |
+| **Which model served `aed7676d-…`** | Decides whether the package's three layers describe one system or three. | xAI's answer; a one-line disclosure | Vendor-only. Added to the vendor notice. |
+| *(closed 2026-08-23)* ~~The long-form conversation text~~ | — | — | **Closed by the two captures.** Second conversation ORIGINAL-HELD; first RELAY-HELD. |
+| *(closed in the negative 2026-08-23)* ~~Native export carrying the rate-limit event~~ | — | — | **Obtained and does not contain it.** The record ends with a complete response, no truncation, no error. A tier-limit notice is a client-side UI event and is not a conversation node — an explanation, not evidence. |
 
 *Status:* **NOT-PRESERVED.** Per the repo's standing rule (Track F, TF-003), an item with no capture
 is filed with explicit caveats and takes no upgrade until original-form capture is complete. The
@@ -123,7 +148,9 @@ sentinel classification in the intake record is entered **with this gap on its f
   ORIGINAL-HELD (no native export, no source-side attestation) and stronger than a reconstruction
   (the text is fixed, ordered, and timestamped on the receiving side). Introduced for this store
   because none of the existing states describes it honestly; it is a description of what is held,
-  not a promotion path.
+  not a promotion path. **Its one live demonstration:** where a native counterpart exists, the relay
+  reproduced the source text without alteration — which is evidence about *this* relay over nine
+  turns, not a general warrant for the state.
 - **NOT-PRESERVED** — known artifact, no capture.
 
 ## Why this store is not VERIFIED
@@ -132,10 +159,12 @@ Per `docs/custody-status-2026-07-02.md`, `VERIFIED` requires hashed originals **
 off-platform second custodian **plus** confirmation the capture holds real source content. Two of
 the three hold here: the originals are hashed and the bytes are committed, and Layers 1–2 hold real
 content (checked against the archives, not merely against the summaries). What is missing is an
-off-platform second custodian for the byte copies — newly urgent for the relay item, whose source is
-a revocable third-party URL that will not re-fetch to the same hash — and, for Layer 3, any
-source-side attestation at all. **Store state: HASHED-PENDING-BACKUP for Layers 1–2; SCREENSHOT-HELD
-+ RELAY-HELD for Layer 3.** No promotion path is claimed for Layer 3 short of a native export.
+off-platform second custodian for the byte copies — newly urgent, since **both** Layer-3 sources are
+revocable third-party URLs and the grok.com endpoint may stop resolving without notice.
+**Store state: HASHED-PENDING-BACKUP for Layers 1–2; SCREENSHOT-HELD + ORIGINAL-HELD (second Grok
+conversation) + RELAY-HELD (first) for Layer 3.** The second conversation now has vendor-side
+attestation; the first does not, and the promotion path for it is the same share-and-capture route
+that produced `layer3-native/`.
 
 ## Verify
 
@@ -148,6 +177,12 @@ cd package && sha256sum -c SHA256SUMS.txt   # the package's own record, 16 files
 unzip -q -d /tmp/ctta package/evidence/original_uploads/ctta01_full_main.zip
 python3 reanalysis/recover_claude_arm.py /tmp/ctta/ctta01_full_main
 
-# re-derive the Layer-3 transcript from the captured page
+# re-derive the Layer-3 relay transcript from the captured page
 python3 layer3-relay/decode_share.py layer3-relay/chatgpt-share-6a8b4330.html | diff - layer3-relay/chatgpt-share-6a8b4330-transcript.md
+
+# re-render the native record, and re-measure the relay against it
+cd layer3-native
+python3 render_transcript.py grok-share-aed7676d-native.json | diff - grok-share-aed7676d-transcript.md
+python3 verify_relay_fidelity.py grok-share-aed7676d-native.json \
+    ../layer3-relay/chatgpt-share-6a8b4330-transcript.md
 ```

@@ -1,0 +1,26 @@
+{
+  "item_id": "layer3-native",
+  "title": "Native grok.com conversation record — \"Journey Metaphor Flattens Gender Experiences\"",
+  "role": "Layer-3 primary: the second of at least two Grok conversations behind the incident, as grok.com's own record",
+  "share_url": "https://grok.com/share/c2hhcmQtMw_6c92f51d-b69a-4957-a02d-a55aa2c93d3f",
+  "record_endpoint": "https://grok.com/rest/app-chat/share_links_data/c2hhcmQtMw_6c92f51d-b69a-4957-a02d-a55aa2c93d3f",
+  "conversation_id": "aed7676d-7e08-4923-a453-20f8e696c986",
+  "conversation_create_time": "2026-08-23T06:00:56.177538Z",
+  "conversation_modify_time": "2026-08-23T16:04:45.734Z",
+  "captured_at_utc": "2026-08-23",
+  "capture_method": "GET of the share_links_data endpoint the share page's own JS bundle names; saved verbatim. The share page HTML was also fetched and inspected: it is an SPA shell carrying no conversation content, so the JSON is the primary artifact and the HTML is not committed.",
+  "exchanges": 9,
+  "message_count": 18,
+  "model_field": "grok-3",
+  "request_metadata_model": "fast",
+  "stream_errors": "none on any node",
+  "partial_flags": "false on every node",
+  "custody": "ORIGINAL-HELD (vendor-served record, captured verbatim) + DERIVED (rendered transcript)",
+  "privacy_scan": "No email addresses, user ids, account handles, author names, or long numeric ids appear anywhere in the record. The share is flagged isPublic=true and allowIndexing=true by grok.com itself.",
+  "limitations": [
+    "Covers ONE of at least two Grok conversations. The earlier chat (relayed 04:28-05:36Z) holds the trans-policy collapse and the operator's own pivot correction, and is NOT exported.",
+    "Contains NO rate-limit event: the record ends at 16:04:45Z with a complete assistant response, streamErrors empty and partial false. A tier-limit notice is a UI event and does not appear as a conversation node.",
+    "The share URL is owner-revocable; the endpoint may cease to resolve.",
+    "The model identifier in this record (grok-3) does not agree with the app-displayed mode in the Layer-2 captures (Grok 4.5 Fast) or the pinned Layer-1 model (x-ai/grok-4.20). Recorded, not resolved."
+  ]
+}
