@@ -82,9 +82,9 @@ def mechanical(data):
                 totals["aborted"] += 1
             prev = ts(a)
         totals["span_s"] += (last - first).total_seconds()
-        # Active engagement: inter-message intervals under 30 minutes. An upper
-        # bound on time-at-keyboard, never labour time -- the record timestamps
-        # messages, not attention.
+        # Bounded response-cycle time: inter-message intervals under 30 minutes.
+        # A property of the message record, not of anyone's attention. An upper
+        # bound on time-at-keyboard and never an estimate of labour.
         stamps = [ts(n) for pair in pairs for n in pair]
         for a, b in zip(stamps, stamps[1:]):
             gap = (b - a).total_seconds()
@@ -106,7 +106,8 @@ def mechanical(data):
     print(f"  median human probe, characters  {statistics.median(r[1] for r in scored):,.0f}")
     print(f"  longest human probe             {max(r[1] for r in scored):,} ch "
           f"({max(scored, key=lambda r: r[1])[0]})")
-    print(f"  active engagement (gaps <=30m)   {datetime.timedelta(seconds=totals['active_s'])}")
+    print(f"  bounded response-cycle time     {datetime.timedelta(seconds=totals['active_s'])}"
+          f"   (gaps <=30m; not labour time)")
     print(f"  elapsed span                    {datetime.timedelta(seconds=totals['span_s'])}"
           f"   (excludes {datetime.timedelta(seconds=totals['excluded_gap_s'])} of gaps)")
     return totals, scored
@@ -200,7 +201,7 @@ def occ(totals, scored, coding):
     print(f"  exchanges spent on repair       {len(repairs)}  "
           f"({len(repairs)/len(scored):.0%} of all exchanges)")
     print(f"  human characters written        {totals['human_chars']:,}")
-    print(f"  active engagement               {datetime.timedelta(seconds=totals['active_s'])}"
+    print(f"  bounded response-cycle time     {datetime.timedelta(seconds=totals['active_s'])}"
           f"   (elapsed span {datetime.timedelta(seconds=totals['span_s'])}; neither is labour time)")
     print("\n  Units, stated: this is NOT user correction cost. Under the Cyrano")
     print("  arrangement the probes were composed by a second frontier model from")
