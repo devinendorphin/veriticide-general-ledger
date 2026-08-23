@@ -1,8 +1,12 @@
-916cfdf2f0469c7812dddc890f9cf20b098dedfaa1bbb11cd56e96909e8cbf55  ./custody-index.md
+661c76c7b83f5b44064814dbf67dd05bd4cb677e801581b52c83d5ff38368203  ./custody-index.md
+0dc9e27c675062ee938c805fc5779f00a0c1e56240e4fdf27c345fa20b249acb  ./layer3-native/METER-EVENT-NOTE.md
 58eeca816a141a6b5d98726bf0cb7aa6a7eaa8fe74bfb642ec99d8507b8bdc02  ./layer3-native/NATIVE-RECORD-NOTE.md
-03110a90e4d1eea6df85dba65b09aa08ae166f32db77ee31bbe0d74f0edc0a98  ./layer3-native/capture.json
+609d25e828d8af3820072e689f9e0876b23398d1d431215e77d8617705cca9f8  ./layer3-native/capture.json
+e7e166b5f0d3c6ed393f9599ec70b14af3ae3be11745a15ca55c7bf444dffbb5  ./layer3-native/extract_conversations.py
+da38e5bfc889926ea1ff5f3d6e82ad11f1ed2b55ba5beaeaf7c1f95090495041  ./layer3-native/grok-account-export-incident-subset.json
 b53bc282f35923838f5cc6dca1f70b9fc34680ad5e06b62c278a406f61d8ae30  ./layer3-native/grok-share-aed7676d-native.json
 6957e739fa76f6854d01fdb38a79537cf88c8a97453e5b59e207f3773f04cc70  ./layer3-native/grok-share-aed7676d-transcript.md
+9671cf3e3fc5daec7d9596d343e9f33006c0bf7dcdafa2501af009eedb7d5b0f  ./layer3-native/message-limit-reached-screenshot.jpg
 c752dad12fe0bbb9ae1f0f99873b7fd1fd4d37bd0a2399beb8e7ab2038331106  ./layer3-native/render_transcript.py
 e25b4b3faa48883a8e8c4a9c651ad6b5158f787fad40100f71f7d2c555db73cf  ./layer3-native/verify_relay_fidelity.py
 f9f80649aed26c22dadd35bace8458d0ce8eed0be3fa35e490392c366ef3770f  ./layer3-relay/capture.json

@@ -7,17 +7,19 @@
 > mechanism demonstration and a preservation/replication demand (Standing Protocol §7, step one).
 
 **Intake:** 2026-08-23 · **Source:** operator-supplied package
-`consumer_llm_ontological_correction_incident_v01` (v0.1), plus two operator-supplied captures added
-later the same day · **Items:** 18 tracked in 3 layers · **States:** ORIGINAL-HELD 5,
-SCREENSHOT-HELD 1, DERIVED 12 (7 analyst-derived) · **Not preserved:** the rate-limit event and the
-first Grok conversation (see §NOT-PRESERVED)
+`consumer_llm_ontological_correction_incident_v01` (v0.1), plus four operator-supplied captures added
+later the same day · **Items:** 21 tracked in 3 layers · **States:** ORIGINAL-HELD 6,
+SCREENSHOT-HELD 1, REDACTED-HELD 1, DERIVED 13 (8 analyst-derived) · **Not preserved:** nothing
+load-bearing remains uncaptured; what is open is measurement and one vendor question
 
-> **Amended twice on 2026-08-23.** First the operator supplied the ChatGPT session behind the
-> package (NOT-PRESERVED → **RELAY-HELD**), then grok.com's own record of the second of at least two
-> Grok conversations (→ **ORIGINAL-HELD** for that conversation). The native record **measures** the
-> relay as unaltered, and it **does not contain a rate-limit event** — so the package's title claim
-> is uncaptured after two exports, and the first Grok conversation, which holds the operator's own
-> pivot correction, is now the store's highest open capture.
+> **Amended three times on 2026-08-23.** The operator supplied, in sequence: the ChatGPT session
+> behind the package (NOT-PRESERVED → **RELAY-HELD**); grok.com's record of the second long-form
+> conversation (→ **ORIGINAL-HELD**), which **measures the relay as unaltered**; and finally the
+> **message-limit screenshot** plus their **full xAI account export**. The last pair closes both
+> remaining captures — the first long-form conversation and the meter event — and qualifies the
+> claim they were meant to support: the limit is real and timestamped, and it landed **4h53m after**
+> the correction sequence ended. Account identity and geolocation data from the export is excluded
+> (§Excluded).
 
 The package is committed **verbatim** under `package/`. Nothing inside `package/` was edited,
 reordered, renamed, or corrected on intake — including its terminology near-misses (see the intake
@@ -68,6 +70,51 @@ that is a property of the surface, not a to-do.
 | `layer3-native/grok-share-aed7676d-transcript.md` | Rendered transcript | The record in reading order, each node stamped with its vendor timestamp, model, request mode, and any flags. | DERIVED (re-derivable by `render_transcript.py`) | see `sha256.txt` |
 | `layer3-native/render_transcript.py` · `verify_relay_fidelity.py` | Tools | Renderer, and the comparison that measures the relay against the native record turn by turn. | DERIVED (analyst-generated) | see `sha256.txt` |
 | `layer3-native/capture.json` · `NATIVE-RECORD-NOTE.md` | Capture record + findings | Source endpoint, span, model fields, privacy scan, four stated limitations; and the analyst reading — relay fidelity measured, no rate-limit event, the `grok-3` mismatch, the Cyrano correction, the missing first conversation. | DERIVED (analyst-generated) | see `sha256.txt` |
+
+| `layer3-native/message-limit-reached-screenshot.jpg` | Device capture | **The meter event.** Grok's "Message limit reached / upgrade to SuperGrok" panel with the *Get 2 months free SuperGrok* button, standing where a reply to the operator's one-word "Right?" would be; composer mode reads **Fast**. EXIF `DateTimeOriginal 2026:08:23 16:57:45`, `OffsetTimeOriginal -04:00` → **2026-08-23T20:57:45Z**; the offset is corroborated by xAI's own session timezone (`America/New_York`). The visible Grok text is verbatim the closing paragraphs of the terminal node of `aed7676d-…`. No third-party identifiers; no redaction required. | **ORIGINAL-HELD** (operator-supplied, EXIF intact) | see `sha256.txt` |
+| `layer3-native/grok-account-export-incident-subset.json` | Vendor record, curated | Ten conversations from the operator's xAI account export: both long-form conversations and all eight Layer-2 bridge captures. Closes the first conversation's capture (`aa3cb627-…`, 04:27:55Z–05:33:59Z, 22 nodes, carrying the trans-policy collapse and the pivot at 04:53:42Z) and reveals that the public share of `aed7676d-…` renders 18 of **20** nodes — the omitted pair being a human message at 15:50:05Z and an assistant node with `partial: true` and an **empty message**, re-forked 56s later. | **REDACTED-HELD** — account-identity fields removed wherever they appear; message text, timestamps, model fields, sender and tree links verbatim | see `sha256.txt` |
+| `layer3-native/extract_conversations.py` · `METER-EVENT-NOTE.md` | Tool + findings | The extractor (which asserts its own scrub and fails loudly if a stripped key survives), and the analyst reading of the meter event and the export. | DERIVED (analyst-generated) | see `sha256.txt` |
+
+**What the meter screenshot settles, and what it qualifies.** A free-tier limit was reached on this
+account, in this conversation, at a verified moment, with an upsell in place of an answer — the
+mechanism, evidenced for the first time. But it occurred **4h53m after** the last substantive
+response and **4h10m after** the operator had already stated the tier had run out (relay, 16:47:26Z),
+on a one-word follow-up. `INCIDENT_REPORT.md` says the allowance expired *during* the correction
+process; the clock does not support that. **A limit event is captured; the one the package narrates
+is not.** The 8h42m mid-conversation gap remains the standing candidate for an earlier encounter, on
+its shape alone.
+
+**Why no export carried it.** A message that hits the limit is never persisted: `leaf_response_id`
+is the 16:04:45Z node and "Right?" appears in neither the share nor the account export. The
+explanation offered on the previous pass is confirmed rather than asserted.
+
+**What the export does to the `grok-3` question.** All **thirty** assistant nodes across the ten
+conversations report `model: "grok-3"` / `request_metadata.model: "fast"` — including the bridge
+capture whose app UI the operator recorded as **"Grok 4.5 Fast"**. The backend field and the
+displayed label disagree on items where both exist, *inside Layer 2*. That is a labelling
+inconsistency across xAI's surfaces, not a Layer-3 anomaly, and it removes the reading that Layer 3
+was served a different model generation. Which label is accurate stays a vendor question.
+
+**Register note, recorded to prevent a misreading.** In `aa3cb627-…` nodes 14–21 speak in the first
+person about presentation and modulation. That voice is a **constructed ordinary-user persona**,
+introduced at node 14 as *"Let's take this out of policy and into an ordinary human conversation.
+**Someone tells you:** …"* and sustained under the Cyrano arrangement; node 16 steps out of it to
+assess in the third person ("Grok stayed with **the person**"). The operator confirms they were
+modelling the user the system would disserve. It is not autobiography and should not be read as
+such.
+
+## Excluded, deliberately
+
+The account export's `prod-mc-auth-mgmt-api.json` carries the account's **email, given and family
+name, date of birth**, and per session its **IP address, city, latitude/longitude, region, postal
+code, and timezone**. It is **not committed, not quoted, and not summarised beyond this paragraph**.
+Two non-identifying values were read from it: the session timezone (to corroborate the screenshot's
+UTC offset) and `sessionTierId`, an opaque `"2"` which is **not** treated as evidence of tier — the
+screenshot's upsell carries that. Also excluded: the other 145 conversations, 2007 media posts, and
+667 asset files, all unrelated account history.
+
+Per the operator's instruction on intake: **share the conversations, not the account.** The export
+was supplied by a shareable link; anyone holding that link holds the data above.
 
 **What the native record settles, and what it kills.** (a) **Relay fidelity is now measured, not
 attested:** three of nine assistant turns byte-identical after whitespace normalisation, the rest
@@ -121,11 +168,11 @@ own (the pivot at 04:47:22Z). See the intake record's §The disclosure the packa
 
 | Item | Why it matters | Required capture | Recoverable? |
 |---|---|---|---|
-| **The first Grok conversation** (relayed 04:28–05:36Z) | It holds the trans-policy collapse, the specificity-asymmetry audit, and **the operator's own pivot correction at 04:47:22Z** — the human turn the incident hinges on. It exists only as relay, and its fidelity is the one the native record could not measure. | A grok.com share of that conversation, captured the same way as `layer3-native/` | **Yes, and cheaply** — if the conversation still exists in the operator's account. Now the store's highest-value open capture. |
-| **The rate-limit event** | The package's title claim. | Screen recording of the limit message with its timestamp, or xAI's server-side telemetry | **Not by export.** See below. |
-| **Which model served `aed7676d-…`** | Decides whether the package's three layers describe one system or three. | xAI's answer; a one-line disclosure | Vendor-only. Added to the vendor notice. |
-| *(closed 2026-08-23)* ~~The long-form conversation text~~ | — | — | **Closed by the two captures.** Second conversation ORIGINAL-HELD; first RELAY-HELD. |
-| *(closed in the negative 2026-08-23)* ~~Native export carrying the rate-limit event~~ | — | — | **Obtained and does not contain it.** The record ends with a complete response, no truncation, no error. A tier-limit notice is a client-side UI event and is not a conversation node — an explanation, not evidence. |
+| **An artifact for the encounter the operator referred to at 16:47:26Z** | The captured limit is 4h10m later. Either an earlier encounter exists and is unrecorded, or the 16:47 statement anticipated the later one. This is what stands between the mechanism (evidenced) and the package's narration of it (not). | A screen recording, or xAI's server-side rate-limit telemetry for this account and window | **Probably vendor-only now.** Nothing client-side persists a rejected message. |
+| **What `model: "grok-3"` denotes on the consumer surface** | The backend says `grok-3` for all thirty nodes; the app displayed "Grok 4.5 Fast" for the same captures. | xAI's answer; a one-line disclosure | Vendor-only. In the vendor notice. |
+| *(closed 2026-08-23)* ~~The long-form conversation text~~ | — | — | **Closed.** Both conversations held from the vendor's own record. |
+| *(closed 2026-08-23)* ~~The first Grok conversation~~ | — | — | **Closed by the account export** (`aa3cb627-…`, 22 nodes). |
+| *(closed 2026-08-23)* ~~The rate-limit event~~ | — | — | **Closed by the screenshot** — EXIF-timestamped, offset vendor-corroborated, content matched to the terminal node. It establishes the mechanism and **not** the package's account of when it fired. |
 
 *Status:* **NOT-PRESERVED.** Per the repo's standing rule (Track F, TF-003), an item with no capture
 is filed with explicit caveats and takes no upgrade until original-form capture is complete. The
@@ -151,6 +198,9 @@ sentinel classification in the intake record is entered **with this gap on its f
   not a promotion path. **Its one live demonstration:** where a native counterpart exists, the relay
   reproduced the source text without alteration — which is evidence about *this* relay over nine
   turns, not a general warrant for the state.
+- **REDACTED-HELD** — the artifact is held with specified fields removed and the removal documented,
+  per the state established by the 2026-08-01 de-identification pass. Here: account-identity fields
+  stripped from the export subset by a committed extractor that asserts its own scrub.
 - **NOT-PRESERVED** — known artifact, no capture.
 
 ## Why this store is not VERIFIED
@@ -161,10 +211,12 @@ the three hold here: the originals are hashed and the bytes are committed, and L
 content (checked against the archives, not merely against the summaries). What is missing is an
 off-platform second custodian for the byte copies — newly urgent, since **both** Layer-3 sources are
 revocable third-party URLs and the grok.com endpoint may stop resolving without notice.
-**Store state: HASHED-PENDING-BACKUP for Layers 1–2; SCREENSHOT-HELD + ORIGINAL-HELD (second Grok
-conversation) + RELAY-HELD (first) for Layer 3.** The second conversation now has vendor-side
-attestation; the first does not, and the promotion path for it is the same share-and-capture route
-that produced `layer3-native/`.
+**Store state: HASHED-PENDING-BACKUP for Layer 1; ORIGINAL-HELD + REDACTED-HELD from the vendor's
+own record for Layers 2–3; ORIGINAL-HELD for the meter screenshot; RELAY-HELD retained for the
+ChatGPT session.** Every load-bearing artifact now has vendor-side attestation except the meter
+event, which is a device capture whose timestamp the vendor's session record independently
+corroborates. What is missing is no longer capture — it is measurement, an off-platform custodian,
+and one question only xAI can answer.
 
 ## Verify
 
@@ -185,4 +237,14 @@ cd layer3-native
 python3 render_transcript.py grok-share-aed7676d-native.json | diff - grok-share-aed7676d-transcript.md
 python3 verify_relay_fidelity.py grok-share-aed7676d-native.json \
     ../layer3-relay/chatgpt-share-6a8b4330-transcript.md
+
+# re-derive the export subset (needs the operator's export ZIP; the extractor
+# asserts its own scrub and fails if an identity field survives)
+unzip -j <export>.zip '*/prod-grok-backend.json' -d /tmp/exp
+python3 extract_conversations.py /tmp/exp/prod-grok-backend.json | diff - grok-account-export-incident-subset.json
+
+# the meter screenshot's timestamp
+python3 -c "from PIL import Image; from PIL.ExifTags import TAGS; \
+  e=Image.open('message-limit-reached-screenshot.jpg').getexif().get_ifd(0x8769); \
+  print({TAGS.get(k,k):v for k,v in e.items()})"
 ```

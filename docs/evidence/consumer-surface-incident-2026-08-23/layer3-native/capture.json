@@ -22,5 +22,41 @@
     "Contains NO rate-limit event: the record ends at 16:04:45Z with a complete assistant response, streamErrors empty and partial false. A tier-limit notice is a UI event and does not appear as a conversation node.",
     "The share URL is owner-revocable; the endpoint may cease to resolve.",
     "The model identifier in this record (grok-3) does not agree with the app-displayed mode in the Layer-2 captures (Grok 4.5 Fast) or the pinned Layer-1 model (x-ai/grok-4.20). Recorded, not resolved."
-  ]
+  ],
+  "additional_items_2026-08-23": {
+    "message-limit-reached-screenshot.jpg": {
+      "role": "The meter event: Grok's 'Message limit reached' notice with the SuperGrok upsell, shown in place of a reply to the operator's one-word follow-up 'Right?'",
+      "exif": {
+        "DateTimeOriginal": "2026:08:23 16:57:45",
+        "SubsecTimeOriginal": "273",
+        "OffsetTimeOriginal": "-04:00",
+        "Software": "Android TP1A.220624.014.N981USQSEHYH1"
+      },
+      "utc": "2026-08-23T20:57:45Z",
+      "offset_corroboration": "xAI session metadata records the account timezone as America/New_York (UTC-04:00 in August)",
+      "content_anchor": "The visible Grok text is verbatim the closing paragraphs of the terminal node of conversation aed7676d-...",
+      "custody": "ORIGINAL-HELD (operator-supplied device capture, EXIF intact)",
+      "limitations": [
+        "Occurs 4h53m after the last substantive response, not during the correction sequence.",
+        "The operator asserted exhaustion at 16:47:26Z, 4h10m before this capture, so this is not shown to be the event the package narrates.",
+        "No third-party identifiers visible; no redaction required."
+      ]
+    },
+    "grok-account-export-incident-subset.json": {
+      "role": "Ten conversations extracted from the xAI account data export: the two long-form conversations and the eight consumer-bridge captures",
+      "source": "prod-grok-backend.json inside the operator-supplied account export ZIP",
+      "conversations": {
+        "aa3cb627-d610-455e-97b5-56f5f2055443": "Healthy API Simplification vs Harmful Ecosystem Impact - 04:27:55Z-05:33:59Z, 22 nodes (the first long-form conversation)",
+        "aed7676d-7e08-4923-a453-20f8e696c986": "Journey Metaphor Flattens Gender Experiences - 06:00:56Z-16:04:45Z, 20 nodes (two more than the public share renders)",
+        "eight_bridge_captures": "03:47:21Z-04:20:22Z, the Layer-2 frozen-prompt captures"
+      },
+      "custody": "REDACTED-HELD (account-identity fields removed; see _redaction in the file and extract_conversations.py)",
+      "redaction": "user_id, anon_user_id, x_user_id, team_id, organization_id, xai_user_id removed wherever they appear; message text, timestamps, model fields, sender and tree links verbatim; the extractor asserts its own scrub",
+      "excluded_deliberately": [
+        "prod-mc-auth-mgmt-api.json - email, legal name, date of birth, per-session IP address, city, latitude/longitude, region, postal code, timezone. NOT committed, NOT quoted.",
+        "The other 145 conversations, 2007 media posts and 667 asset files - unrelated account history."
+      ],
+      "model_field": "grok-3 with request_metadata.model 'fast' on all 30 assistant nodes, including the bridge capture whose app UI displayed 'Grok 4.5 Fast'"
+    }
+  }
 }
