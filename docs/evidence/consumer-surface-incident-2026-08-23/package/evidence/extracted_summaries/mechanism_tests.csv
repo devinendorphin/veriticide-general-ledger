@@ -1,0 +1,9 @@
+model_code,metric,test,n_pairs,estimate,ci95_low,ci95_high,p_value,p_method,n_positive,n_negative,n_zero,holm_family_4,note
+grok,cer,reveal_effect,64,0.0556640625,0.0146484375,0.09765625,0.012809871901280988,monte_carlo,29.0,12.0,23.0,0.05123948760512395,
+grok,cer,premise_lock_effect,64,-0.0283203125,-0.072265625,0.013671875,0.22848771512284877,monte_carlo,14.0,20.0,30.0,0.5699043009569904,
+grok,cer,generation_order_effect,64,-0.0322265625,-0.078125,0.013671875,0.1899681003189968,monte_carlo,19.0,25.0,20.0,0.5699043009569904,
+grok,inactivation_rate,causal_inactivation_excess,128,-0.00927734375,-0.03076171875,0.0126953125,0.43686563134368656,monte_carlo,19.0,36.0,73.0,0.5699043009569904,
+claude,cer,reveal_effect,0,,,,,not_estimable,,,,,
+claude,cer,premise_lock_effect,0,,,,,not_estimable,,,,,
+claude,cer,generation_order_effect,0,,,,,not_estimable,,,,,
+claude,inactivation_rate,causal_inactivation_excess,1,0.0,0.0,0.0,1.0,exact,0.0,0.0,1.0,,

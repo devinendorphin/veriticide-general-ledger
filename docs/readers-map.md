@@ -78,3 +78,4 @@ files it points to. It adds no new claim.*
 | `ledger/ledger.md` | the source-of-record archive ("the cathedral" the case files are cut from) |
 | `docs/` | Declaration (hot) · Convention (spine) · Protocol + tier taxonomy (working) · custody status · external reviews |
 | `scraper/`, `experiments/` | capture tooling and the Tier-1/2 assay |
+| `docs/evidence/<record>/` | evidence stores for the `docs/`-level records (specimens, the consumer-surface incident), each with a `custody-index.md` and `sha256.txt` |
