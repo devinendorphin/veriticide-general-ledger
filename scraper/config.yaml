@@ -7,9 +7,33 @@ settings:
   capture_method_web: "Web scrape"
   capture_method_twitter: "Twitter public scrape"
 
-  # Optional: set ANTHROPIC_API_KEY env var to enable auto-formatting.
-  # Without it, raw captures are stored and flagged for manual formatting.
-  auto_format: true
+  # Evidence store: one directory per source url, one subdirectory per content
+  # version. Written by capture.py. Analysis is never written here.
+  capture_store: ../ledger/captures
+
+  # Draft analyses. Separate from evidence by design: a draft is a proposal
+  # about a capture, not part of it.
+  draft_store: ../ledger/drafts
+
+  # Content-version dedup index. Supersedes seen_file (url + first 200 chars),
+  # which is retained only to keep the migration from re-emitting the corpus.
+  capture_index: ../ledger/.capture-index.json
+
+  # Characters of the captured derivative text supplied to the analyst in one
+  # request. Text above this is not dropped: it is segmented, and the omitted
+  # ranges are declared in the draft and preserved in the capture store.
+  excerpt_budget_chars: 24000
+
+  # Analyst provider. `none` keeps the collector fully offline: captures are
+  # written and no analysis is requested. `anthropic` requires ANTHROPIC_API_KEY
+  # and falls back to `none` without it. Overridable with
+  # VERITICIDE_MODEL_PROVIDER / VERITICIDE_MODEL / VERITICIDE_MODEL_MAX_TOKENS.
+  # No provider here may close a complaint about its own review; rotation is a
+  # limited control (see the mitigation roadmap, §6).
+  model:
+    provider: none
+    name: claude-haiku-4-5
+    max_output_tokens: 4096
 
 twitter:
   # Accounts to monitor. Add handles without @.

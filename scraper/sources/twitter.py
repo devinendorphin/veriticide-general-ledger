@@ -9,6 +9,8 @@ import time
 import requests
 from datetime import datetime, timezone
 
+from capture import LAYER_PLATFORM_FIELD
+
 _GUEST_TOKEN_URL = "https://api.twitter.com/1.1/guest/activate.json"
 _BEARER = (
     "AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I6xULjWV"
@@ -188,8 +190,19 @@ def scrape_twitter(cfg: dict) -> tuple[list[dict], list[dict]]:
                     "url": tweet["url"],
                     "title": f"Tweet by @{handle}",
                     "text": tweet["text"],
+                    "text_layer": LAYER_PLATFORM_FIELD,
+                    "raw_original": None,
+                    "raw_original_url": tweet["url"],
+                    "capture_complete": False,
+                    "capture_gaps": [
+                        "no original-form bytes held: the text is the GraphQL "
+                        "full_text field, not a capture of the rendered post",
+                        "quoted, linked, and media content referenced by the post "
+                        "is not captured; outsourced framing may be unreadable "
+                        "from this layer alone",
+                    ],
                     "captured_at": datetime.now(timezone.utc).isoformat(),
-                    "capture_method": "Twitter public scrape",
+                    "capture_method": "Twitter public scrape (GraphQL text field)",
                     "tweet_meta": {
                         "handle": handle,
                         "tweet_id": tweet["tweet_id"],

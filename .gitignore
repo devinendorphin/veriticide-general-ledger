@@ -5,3 +5,10 @@ __pycache__/
 ledger/.seen_hashes.txt
 .env
 .claude/
+
+# Scraper capture store: original-form bytes follow the case-evidence
+# convention — only the integrity record is tracked, never the binaries.
+ledger/.capture-index.json
+ledger/captures/*/*/original/*
+!ledger/captures/*/*/original/manifest.json
+!ledger/captures/*/*/original/sha256sums.txt
