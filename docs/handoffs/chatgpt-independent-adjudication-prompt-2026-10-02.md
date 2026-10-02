@@ -17,6 +17,32 @@ is answered.**
 
 The packets are regenerable: `python3 scripts/build_blind_adjudication_packet.py <out>`.
 
+## Attachments: files or links
+
+**Option A: upload files (recommended; most reliable).** Bundles, one per phase: `phase1-blind-packets.zip` (3 files), `phase2-preaudit-docs.zip` (9 files), and `phase3-asymmetry-audit-2026-10-02.md`. ChatGPT accepts .zip uploads. If a zip is refused, upload the .md files individually.
+
+**Option B: links.** These are pinned to commit `6d4481f`, so the content cannot change after you send them. The repo is public. Paste a phase's links with the line *"Fetch and read these files for Phase N"*. If ChatGPT cannot fetch raw GitHub links in your plan or mode, use Option A.
+
+*Phase 1 (send with the prompt):*
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/blind-adjudication-packet-2026-10-02-part1.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/blind-adjudication-packet-2026-10-02-part2.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/blind-adjudication-packet-2026-10-02-part3.md
+
+*Phase 2 (send after Phase 1 is answered):*
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/ea-affiliation-map-2026-10-02.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/new-age-communities-enmeshment-comparison-2026-10-02.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/krishnamurti-repudiation-search-2026-10-02.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/ea-enmeshment-profiles-2026-10-02.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/kurzweil-map-2026-10-02.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/singularity-summit-genealogy-2026-10-02.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/google-anthropic-investment-map-2026-10-02.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/amazon-anthropic-investment-map-2026-10-02.md
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/handoffs/phase2-preaudit/young-cultiness-lens-2026-10-02.md
+
+*Phase 3 (send after Phase 2 is answered):*
+- https://raw.githubusercontent.com/devinendorphin/veriticide-general-ledger/6d4481f3ba835ac022b8a31891f16dfbbfa14224/docs/asymmetry-audit-2026-10-02.md
+
+
 ---
 
 ## The prompt (paste this first)
