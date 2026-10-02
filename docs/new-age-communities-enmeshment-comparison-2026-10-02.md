@@ -229,6 +229,9 @@ broken from inside, by the very person the structure was built to elevate. The E
 would be a central node *publicly repudiating the frame*, not just criticizing members within
 it. Whether any such instance exists has not been researched. It should be, before 4.2
 hardens.
+*Update 2026-10-02: searched. See `krishnamurti-repudiation-search-2026-10-02.md`. No full
+match was found. The closest partial match (Yudkowsky/MIRI, 2023–24) moves jurisdiction to an
+external check. Central nodes otherwise mainly shed the label and kept the institution.*
 
 ---
 
