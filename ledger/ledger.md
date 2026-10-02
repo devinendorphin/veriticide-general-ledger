@@ -6249,6 +6249,8 @@ Filed as `docs/provenance-grading-and-absorption-protocol-2026-07-06.md` with co
 
 *This is a conflict-of-interest chain, not a direct-funding chain. It is documentable and structurally significant — the non-independence is real — but the form of the chain is different from TB-001 through TB-003.*
 
+*Persons-layer extension (2026-10-02): `docs/ea-affiliation-map-2026-10-02.md` — decision-node affiliation map (E1–E19), exclusion register, and a Track F custody finding: OP's 2017 OpenAI grant writeup (the primary for this chain's relational documentation) no longer resolves at its original URL post-rebrand; re-capture owed.*
+
 ---
 
 **TB-008: Palantir Technologies — Authorization Chain (Three Threads)**
