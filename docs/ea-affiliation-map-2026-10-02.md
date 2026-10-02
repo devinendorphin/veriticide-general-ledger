@@ -90,6 +90,8 @@ Elsewhere it is someone's private life. The repo's 2026-08-01 de-identification 
 | **E19** | Tasha McCauley: OpenAI board + Effective Ventures board | Governance | On the OpenAI board (listed on the 2020 Form 990) while on the board of Effective Ventures, CEA's parent. | S1 (Loeber); EV seat via aggregator: UNVERIFIED |
 | **E20** | Demis Hassabis → Anthropic (angel); → Inflection | Funding | *Added 2026-10-02.* The Financial Times reported on 19 May 2026, citing unnamed sources, that Hassabis, co-founder and CEO of Google DeepMind, was an **early angel investor in Anthropic** and that the position was **previously undisclosed**. The same reporting says he invested in startups founded by former colleagues, **including Inflection AI** (Suleyman; now Microsoft AI). **Not established:** the round, the amount, whether he still holds it, and whether or how Google handled the conflict. No statement from Hassabis, Google, or Anthropic appears in the reports read. | S1 (FT via Sherwood and Macau Business relays; the FT original was not fetched) |
 | **E21** | Google → Anthropic | Funding (corporate) | *Added 2026-10-02.* About $300M (Feb 2023) → up to $2B (Oct 2023) → about $1B (Jan 2025) → **$10B at a $350B valuation, plus up to $30B contingent (Apr 2026)**. About 14% equity, capped at 15%, with **no votes, board seats, or observer rights** (court filings). Reverse flow: Anthropic's TPU commitments run to tens of billions. Full map, regulatory record, and open questions in `google-anthropic-investment-map-2026-10-02.md`. | S1 throughout; S-1 pending |
+| **E22** | Amazon → Anthropic | Funding (corporate) | *Added 2026-10-02.* $1.25B (Sept 2023) + $2.75B (Mar 2024) + $4B (Nov 2024) + **$5B (Apr 2026), with up to $20B more**. Held as convertible notes and **nonvoting preferred stock**; percentage undisclosed. Reverse flow: Anthropic commits **more than $100B to AWS over ten years** (P1). Amazon's Q1 and Q2 2026 results include $16.8B and $53.4B of Anthropic-driven gains. Full map in `amazon-anthropic-investment-map-2026-10-02.md`. | P1 (Anthropic; CMA); S1 elsewhere |
+| **E23** | Microsoft (about $5B) and Nvidia (about $10B) → Anthropic | Funding (corporate) | *Added 2026-10-02.* Nov 2025. Anthropic commits $30B to Azure. Microsoft is also OpenAI's largest investor, and Microsoft AI is led by Suleyman (E20 context). | S1 |
 
 ### Graph
 
@@ -138,6 +140,9 @@ graph LR
   GOOG[Google / Alphabet] -- "~14% equity, no votes (E21)" --> ANT
   ANT -- "TPU compute spend" --> GOOG
   GOOG -- parent --> GDM
+  AMZN[Amazon] -- "notes + nonvoting preferred (E22)" --> ANT
+  ANT -- ">$100B AWS commitment" --> AMZN
+  MSFT[Microsoft / Nvidia] -- "E23" --> ANT
 ```
 
 Solid lines are funding, governance, or role edges. The dotted line is the one admitted

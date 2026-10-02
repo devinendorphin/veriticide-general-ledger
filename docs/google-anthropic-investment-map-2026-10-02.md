@@ -32,6 +32,11 @@ carries its source grade, and §4 is written as a demand for disclosure, not as 
 convertible notes with **undisclosed conversion terms**, and comes with an additional $5B and
 up to about $100B of Anthropic compute spending on Amazon (S1, Fortune and TechCrunch).
 **Two hyperscalers each hold mid-teens stakes, and both are Anthropic's compute suppliers.**
+*Correction (same day): this omitted **Microsoft (about $5B) and Nvidia (about $10B)**, who invested
+in Nov 2025 alongside a $30B Azure commitment. Every major compute vendor is an Anthropic
+investor. See `amazon-anthropic-investment-map-2026-10-02.md` (E23). Alphabet's Q1 2026 results
+reportedly include about $28.7B of Anthropic-driven gains (aggregator, UNVERIFIED); see that
+map's §3.2.*
 
 ---
 
