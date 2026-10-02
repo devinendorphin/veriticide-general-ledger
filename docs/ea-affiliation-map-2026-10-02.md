@@ -88,6 +88,7 @@ Elsewhere it is someone's private life. The repo's 2026-08-01 de-identification 
 | **E17** | Peter Thiel → SIAI | Funding | An early major funder of SIAI and the Singularity Summit. This links Cluster 6 to the Palantir cluster (TB-008) at the funding layer. | S1 |
 | **E18** | OP; Tallinn/SFF → MIRI | Funding | Both are documented MIRI funders. Amounts were not re-verified this session, so none are asserted. | P1 locator / amounts open |
 | **E19** | Tasha McCauley: OpenAI board + Effective Ventures board | Governance | On the OpenAI board (listed on the 2020 Form 990) while on the board of Effective Ventures, CEA's parent. | S1 (Loeber); EV seat via aggregator: UNVERIFIED |
+| **E20** | Demis Hassabis → Anthropic (angel); → Inflection | Funding | *Added 2026-10-02.* The Financial Times reported on 19 May 2026, citing unnamed sources, that Hassabis, co-founder and CEO of Google DeepMind, was an **early angel investor in Anthropic** and that the position was **previously undisclosed**. The same reporting says he invested in startups founded by former colleagues, **including Inflection AI** (Suleyman; now Microsoft AI). **Not established:** the round, the amount, whether he still holds it, and whether or how Google handled the conflict. No statement from Hassabis, Google, or Anthropic appears in the reports read. | S1 (FT via Sherwood and Macau Business relays; the FT original was not fetched) |
 
 ### Graph
 
@@ -131,10 +132,14 @@ graph LR
   AB -- CoS to D. Amodei --> ANT
   NB((Beckstead)) -- ex-program officer --> OP
   NB -- CEO --> FF
+  DH((Hassabis)) -- CEO --> GDM[Google DeepMind]
+  DH -. "angel, undisclosed until 2026 (E20)" .-> ANT
 ```
 
 Solid lines are funding, governance, or role edges. The dotted line is the one admitted
-relational edge in the AI-governance core (E1). E13 sits off-graph at the FTX node.
+relational edge in the AI-governance core (E1). The dotted Hassabis → Anthropic line (E20) is
+dotted because the round, amount, and current holding are unestablished, not because the tie is
+relational. E13 sits off-graph at the FTX node.
 
 ---
 
@@ -192,6 +197,19 @@ It is not a finding.
    Fund's staff then entered both labs (E10, E11).
 4. **Cross-cluster funding links.** Thiel funded SIAI/MIRI (E17) and also originated
    Palantir (TB-008). That is a shared funder, not a shared move-set (see §5).
+5. **Cross-holding between competing labs (E20, added 2026-10-02).** The head of one frontier
+   lab held an undisclosed early stake in a rival lab (Anthropic) and in a third founder's
+   company (Inflection, whose leadership became Microsoft AI). The Summit genealogy
+   (`singularity-summit-genealogy-2026-10-02.md` §4.2) describes these labs as a chain of
+   *rival* foundings, each a fear-driven reaction to the last. E20 shows that the person at
+   the root of that chain has a **financial stake in at least one later lab in it.** That
+   qualifies the rivalry reading: the labs compete, but at least one founder's money is spread
+   across both sides. **Bounded:** angel stakes among founders who know each other are common
+   in technology. Nothing here establishes that the holding affected any decision at either
+   company. The material gap is **disclosure**: the stake is described as previously
+   undisclosed, which is the same shape as OP's 2017 disclosure change (TB-007). Step one: a
+   basis to ask Google about its conflict policy for executives holding equity in competitors,
+   and to ask Anthropic about its disclosure of angel investors.
 
 ---
 
@@ -283,4 +301,5 @@ Cluster 2 (Anthropic); TB-008 (Palantir — Thiel funding link, E17); Pattern Re
 - Dealroom, "Anthropic's $124M Series A came almost entirely from tech founders" (E7)
 - TechTimes, 2026-09-17, on Soares / Aella (X1); Aella's own Substack (X1)
 - Liron Shapira profile (yespress.io); NonZero / Robert Wright episode "Why Liron became a Yudkowskian" (X2)
+- Sherwood News, "Demis Hassabis, Google DeepMind's CEO and founder, was also an early Anthropic investor" (2026-05-19); Macau Business, "Nobel-winning AI giant Demis Hassabis was early Anthropic investor: FT" (2026-05-19). Both relay the Financial Times; the FT original was not fetched (E20)
 - Aggregators used as locators only: Longterm Wiki, EA Forum topic wikis, LittleSis
