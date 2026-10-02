@@ -43,6 +43,17 @@ dissolves and the company carries on.
 | **K8** | **Émile P. Torres** | Former longtermist author, now a leading critic. Co-coined "TESCREAL" with Timnit Gebru. | ○ | ● | n/a (held no power) | ● | **Apostasy** | S1 |
 | **K9** | **Cremer & Kemp**, *Democratising Risk* (2021) | Insiders' critique: the "techno-utopian approach" to existential risk is unrepresentative and undemocratic. A reported discomfort among others about publishing was **not verified** this session. | ○ researchers, not decision nodes | ● | ○ stayed in the field | ● | Internal frame critique | P1 (paper); the pressure claim is UNVERIFIED |
 
+**Second pass (same day), covering the people listed as unsearched in the first pass:**
+
+| # | Candidate | What happened | C1 | C2 | C3 | C4 | Shape | Grade |
+|---|---|---|---|---|---|---|---|---|
+| **K10** | **Toby Ord**, 80,000 Hours ep. 163 (recorded June 2023) | Maximizing is perilous, because pushing toward the extreme steepens trade-offs against everything else. Remedy: moral uncertainty ("I don't know which theory is right. No one does") and personal integrity as a multiplier on impact. On FTX he stresses uncertainty about motive, pointing to Bankman-Fried's upbringing and temperament. **No external check proposed.** | ● GWWC/CEA co-founder | ◐ moderation within the frame | ○ | ● | Moderation from inside the frame (same shape as K2). Remedy is **internal**: character | P2 (podcast transcript) |
+| **K11** | **Paul Christiano** | No repudiation found. Left the Anthropic LTBT (Apr 2024) to become Head of AI Safety at the U.S. AI Safety Institute. | ● | ○ | ◐ gave up a trustee seat | ● | Not a repudiation. A **person moving into the external check**: from insider governance to a state oversight role | S1 (LTBT departure, as in the affiliation map E8) |
+| **K12** | **Jaan Tallinn**, Semafor (Reed Albergotti, 28 Apr 2023) | His strategy of investing in labs to "displace money that doesn't care" was, in his words, doomed: "Plan A failed. There is a dissonance between privately being concerned and then publicly trying to avoid any steps that would address the issue." On Anthropic: "way more safety conscious than any of the labs that I've seen. But that doesn't change the fact that they're dealing with dangerous stuff and I'm not sure if they should be." | ● Series A lead; MIRI and SFF funder | ◐ repudiates his own **insider-investment** strategy | ○ **no divestment reported.** The stake is reportedly held (aggregator estimate, UNVERIFIED) | ● | **Strategy repudiated, stake kept.** The mirror of K1: Yudkowsky renounced the insider path and redeployed the institution; Tallinn renounced the insider path and kept the asset | P2 (Semafor interview) |
+| **K13** | **Dario Amodei / Anthropic** | Dario is reported to have said in press interviews that he is not an EA member, but **no direct quote was verified** this session. Amanda Askell (Wired, Mar 2025): "I definitely have met people here who are effective altruists, but it's not a theme of the organization or anything." An EA Forum post, "Anthropic is not being consistently candid about their connection to EA," lists counter-ties: Dario as the 43rd GWWC signatory, the shared house with Karnofsky and Christiano, and the LTBT composition. | ● | ○ | ○ | ◐ | **Label-shedding** at company level (same shape as K4) | S1 (Askell, via Wired); Dario: UNVERIFIED; counter-ties: forum post, S1-pending |
+| **K14** | **Geoff Anders / Leverage Research** | Leverage ran the first EA Summits (2013, 2014), later handed to CEA as EA Global. Leverage 1.0 was dissolved in mid-2019. Replying to Zoe Curzi's 2021 testimony, Anders wrote: "I'm so, so sorry … something really bad happened to you, and it is in some way my fault." He named "arrogance, especially my arrogance," and said Leverage "dismissed a lot of the actually useful advice … from more typical sources, and it seems that **blocking out society made room for extreme and harmful narratives**." | ◐ an EA-adjacent origin node (it ran the founding conference) | ◐ repudiates **closure itself**: the cutting-off from outside sources | ◐ dissolved Leverage 1.0, but continued as Leverage 2.0 under his leadership | ● | **The most explicit statement of the enmeshment mechanism by a leader** found in this search | P2 (own LessWrong comments); dissolution: S1 |
+| **K15** | **Anna Salamon / CFAR**, "What's going on at CFAR?" (30 Dec 2025) | On the 2012–2020 workshops: "I would not be able to run them now … there's too much I was eventually unable to stomach for myself." Admits selecting participants for their likely AI-safety contribution, which made the community "narrower," and "doing something 'to' our guests." Mainline workshops were dormant for about five years and are now resuming under revised principles. | ● CFAR co-founder and president | ◐ repudiates the **instrumentalizing method** (rationality training as AI-safety recruitment) | ◐ a multi-year pause, then resumption | ● | Method repudiation plus a pause. Partial | P1 (own post) |
+
 ---
 
 ## 3. Result
@@ -59,6 +70,30 @@ frame and the power the frame conferred.
   Krishnamurti, who kept the spirituality and gave up the organization. Label-shedding keeps
   the organization and gives up the name. This supports the Oneida-exit parallel in the
   comparison doc's §4.3. It does not establish that the exit is laundering.
+
+**Second-pass result (K10–K15): still no full match. The wings respond in different
+shapes:**
+
+| Wing | Nodes | Characteristic response | Remedy located |
+|---|---|---|---|
+| **Rationalist / community** | Yudkowsky (K1), Anders (K14), Salamon (K15) | Repudiates a **method**: the insider research path, closure from society, recruiting through workshops. Partial relinquishment (redeploy, dissolve-and-restructure, pause) | Outside: governments (K1), "more typical sources" (K14), participants' autonomy (K15) |
+| **EA institutional core** | Karnofsky (K2), Ord (K10), MacAskill (K6) | **Moderation inside the frame**, or a recusal exit | Inside: moral uncertainty, personal integrity, character |
+| **Labs** | D. Amodei (K4), Askell and Dario (K13) | **Label-shedding** | n/a |
+| **Funders** | Tallinn (K12), Moskovitz/OP (K5) | **Strategy repudiated or portfolio narrowed. Assets kept** | n/a |
+
+Two observations (A1):
+1. **No central node relinquishes the economic layer in full.** Across fifteen candidates,
+   the epistemic and governance positions get revised: methods disowned, labels dropped, seats
+   vacated. Money and institutions are kept. The one candidate who fully gave up a role (K7)
+   was peripheral. Krishnamurti's distinguishing act was giving back the property. *Bounded:
+   keeping assets can be fiduciary duty. Tallinn's stake and MIRI's endowment are not
+   evidence of bad faith.*
+2. **The wing that most resembles a planned community produced the closest matches.** The
+   residential, workshop-based, house-based rationalist scene produced the method-level
+   repudiations, including the only one (K14) that names closure itself as the cause of harm.
+   The professionalized EA core produced moderation with internal remedies. That is the
+   Theosophy pattern again: the break came where the closure had been tightest. *This is
+   speculative. Three cases do not make a pattern.*
 
 **The one close match (K1) points toward an external check, which is what the lens
 predicts.** The comparison doc's §4.1 holds that harm tracks the *absence of an outside
@@ -121,10 +156,13 @@ first place. Daniela Amodei's statement may simply be accurate.
 institution continues and the name does not. Shape is a structural observation, and a single
 instance does not make a pattern.
 
-**Search limits.** English-language web search only, run in one session. Not searched: Toby
-Ord, Paul Christiano, Jaan Tallinn, Dario Amodei's "not an EA company" statements, Leverage
-Research (Geoff Anders) and the 2021 Zoe Curzi testimony, CFAR leadership retrospectives.
-**Absence in this search is not absence in the record.**
+**Search limits.** English-language web search only. The first pass's unsearched list (Ord,
+Christiano, Tallinn, the Amodeis, Leverage, CFAR) was covered in the second pass. Still open:
+a verified direct quote from Dario Amodei; Ord's 2024 "Precipice Revisited" talk (not read);
+the full Curzi testimony and Anders's complete reply (read only in excerpt). Also not searched:
+Nick Beckstead, Nick Bostrom (the FHI closure in 2024), Rob Wiblin and 80,000 Hours
+leadership, and Zach Robinson / CEA. **Absence in this search is not absence in the
+record.**
 
 ---
 
@@ -157,3 +195,11 @@ note appended); Entry 6.2; TB-007; Reflexivity Clause v0.1.
 - Bob Jacobs, EA Forum profile and Substack
 - Wikipedia, "Émile P. Torres"; MIT event listing
 - Cremer & Kemp, *Democratising Risk*; Critiques of EA podcast, 2023-02-02
+
+**Second-pass sources (locators; none captured):**
+- 80,000 Hours podcast ep. 163, "Toby Ord on the perils of maximising good" (recorded June 2023)
+- Semafor (Reed Albergotti), "The co-founder of Skype invested in some of AI's hottest startups — but he thinks he failed," 2023-04-28
+- EA Forum, "Anthropic is not being consistently candid about their connection to EA" (quoting Wired, Mar 2025)
+- Geoff Anders, LessWrong comments (2021); LessWrong, "Common knowledge about Leverage Research 1.0"; EA Forum, "Did Peter Thiel give the keynote address at an EA conference?" (Leverage and the EA Summits)
+- Anna Salamon, "What's going on at CFAR? (Updates and Fundraiser)," 2025-12-30
+- EA Forum, "Paul Christiano on Dwarkesh Podcast" (no repudiation found)
