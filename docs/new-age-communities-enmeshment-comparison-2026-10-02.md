@@ -467,6 +467,11 @@ reconsidered on other grounds.
 scoreable in 2029–2030. The scoring protocol is in `kurzweil-map-2026-10-02.md` §3. It records
 whether the success criterion matches the one he stated in 1999 and 2005.
 
+**Case 11 (added 2026-10-02): Children of God (1968–).** Kohoutek doom by Jan 1974 and the
+Second Coming in 1993 both passed, and the movement **persisted**: a fifth response,
+**persistence**, outside the four-way typology. Coded in full, as the anchor case for Young's
+cultiness spectrum, in `young-cultiness-lens-2026-10-02.md` §B.2.
+
 ### 7.4 Adversarial check on the second set
 
 **Strongest reading against including these cases at all.** Comparing a philanthropic movement
