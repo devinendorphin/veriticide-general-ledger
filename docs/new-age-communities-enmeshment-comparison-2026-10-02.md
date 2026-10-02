@@ -285,6 +285,200 @@ Until (a) is done, §4 is a hypothesis drawn from five famous cases.
 
 ---
 
+## 7. Second set: five millenarian movements *(added 2026-10-02 at the operator's request)*
+
+Operator's list as dictated, with guessed corrections marked: "Jan Leiden and the Imminent
+Kingdom" `[?Jan Leiden→Jan van Leiden, Anabaptist Münster]`; "Zosha Cattle Killing"
+`[?Zosha→Xhosa]`; "Heavenly Kingdom of Taipei" `[?Taipei→Taiping]`; the Bolshevik Revolution;
+the Millerites.
+
+**The selection bias gets worse, and this is stated first.** Four of these five involve mass
+violence or mass death. Placing EA beside them carries the highest guilt-by-analogy risk in
+this document. Three rules guard against it:
+- a **scale-of-harm row** is added to the matrix so that the comparison cannot imply
+  equivalence;
+- **no person is compared to any person**;
+- the cases are used for **structural shapes**: timing, intermediaries, rules for followers
+  versus leaders, and the external check.
+
+Two of the five are **not planned communities.** The Millerites had no settlement. The Bolshevik
+case is a state revolution. They are included as *millenarian movements*, and the matrix
+codes them on the same dimensions.
+
+### Case 6 — Anabaptist Münster (1534–1535)
+- **Expectation:** Jan Matthys named Münster the New Jerusalem and **prophesied deliverance on
+  Easter Sunday 1534**. He sallied out with about thirty men and was killed. ✓
+- **Fusion:** Jan van Leiden succeeded him and took royal regalia and absolute power as "the
+  successor of David." Prophetic, royal, and judicial authority sat in one person. ✓ Property
+  was communalized.
+- **Intimate:** **polygamy was decreed** over heavy public resistance, and Jan took sixteen
+  wives. ✓ The rule bound the city and its greatest exercise went to the king.
+- **External check:** the prince-bishop's siege army. The city fell in summer 1535. The three
+  leaders were executed, and their bodies were displayed in iron cages that **still hang from
+  St. Lamberti**. ✓
+- *Source caution:* the main narratives (Kerssenbrock, Gresbeck) come from hostile witnesses.
+  *Sources:* executedtoday.com ✓; Brewminate ✓; Bundesbank data paper ✓; Cohn, *The Pursuit of
+  the Millennium* (1957).
+
+### Case 7 — The Xhosa cattle-killing (1856–1857)
+- **Context first:** the movement arose under real catastrophe, after decades of colonial war
+  and a lungsickness epidemic killing cattle. The leading historian, J. B. Peires (*The Dead
+  Will Arise*, 1989), and later work that centers the religious experience (UCT ✓) both read
+  it as a response to colonial devastation. **Treating it as "a cult" would repeat the colonial
+  framing, and this record does not do so.**
+- **Expectation:** the fifteen-year-old prophet Nongqawuse said the ancestors would rise and the
+  invaders would be swept away if cattle were killed and crops destroyed. Dated fulfillments
+  passed unfulfilled.
+- **Intermediary:** her uncle Mhlakaza interpreted and relayed the visions, and the paramount
+  chief Sarhili endorsed them. Prophetic and political authority fused through a kinship
+  channel.
+- **Scale:** about 85% of adult men complied ✓. Estimates run from 60,000 to 400,000 cattle
+  killed ✓. About 40,000 died of starvation and at least another 40,000 left their homes ✓.
+- **External check as predator:** the Cape government under Governor George Grey used the
+  famine to take land. Almost all remaining Xhosa land went to settlers or to the
+  government's clients ✓, and survivors were drawn into colonial labor.
+- *Sources:* Wikipedia "Nongqawuse" ✓; UCT, "Nongqawuse's Prophecies Revisited" ✓; Peires
+  (1989).
+
+### Case 8 — The Taiping Heavenly Kingdom (1851–1864)
+- **Expectation:** Hong Xiuquan, the self-declared younger brother of Jesus, would establish the
+  Heavenly Kingdom on earth. Its capital was Tianjing (Nanjing).
+- **Intermediary capture:** **Yang Xiuqing spoke as the voice of God the Father in trance** ✓.
+  The channel of revelation became a rival seat of power. In the **Tianjing Incident
+  (Sept–Oct 1856)**, Yang, Wei Changhui, and Qin Rigang were killed, along with more than
+  **27,000** others ✓.
+- **Rules for followers, exemptions for leaders:** the general population was segregated by sex
+  while the kings kept consorts. Property went into a communal sacred treasury. *(Segregation
+  and treasury: S1-pending from Spence, not re-verified this session.)*
+- **End:** Qing reconquest (1864), with Western-officered forces. The war's death toll is
+  usually given in the tens of millions, but **estimates vary widely and none is asserted
+  here.**
+- *Sources:* Wikipedia, "Tianjing Incident," "Yang Xiuqing," "Taiping Heavenly Kingdom" ✓;
+  Spence, *God's Chinese Son* (1996).
+
+### Case 9 — The Bolshevik Revolution (1917–)
+- **Expectation:** an imminent world revolution, the withering away of the state, and a "new
+  man" (Trotsky, *Literature and Revolution*, 1924 ✓).
+- **Disconfirmation response:** when the world revolution did not come, Stalin formulated
+  **"socialism in one country"** (late 1924; party policy 1925). Contemporaries read it as
+  registering that its authors "had lost faith in the world revolution" ✓. The eschatology was
+  **deferred**. It was not dropped.
+- **Criticism ritual:** politically enforced **"criticism and self-criticism" (samokritika)**,
+  introduced by Stalin in *The Foundations of Leninism* (1924) ✓. A direct structural relative
+  of Oneida's mutual criticism, at the scale of a state.
+- **Fusion:** the vanguard party held epistemic authority (the correct line), economic control
+  (the state economy), and governance at once. There was no external check inside the system.
+- *Scale disanalogy:* this is a state, not a community. It is included for its
+  disconfirmation and criticism-ritual shapes only.
+- *Sources:* Wikipedia, "Criticism and self-criticism," "New Soviet man" ✓; marxists.org
+  archives ✓.
+
+### Case 10 — The Millerites (1831–1844)
+- **Expectation:** William Miller's reckoning of Christ's return "about 1843," narrowed to
+  **22 October 1844** ✓.
+- **Media fusion, not community fusion:** there was no settlement. The movement ran on a
+  **print and publicity network** built by Joshua Himes, Miller's publicist, and drew at least
+  50,000 followers by some estimates ✓.
+- **Disconfirmation response:** the "Great Disappointment" ✓. One branch **reinterpreted** the
+  date: the event *did* occur, but in a heavenly sanctuary, not on earth ✓. That branch became
+  the Seventh-day Adventist Church. *Reports that believers sold property or left crops
+  unharvested are not re-verified here.*
+- *Sources:* Wikipedia, "Great Disappointment" ✓; WGBH (2015) ✓; Religion Dispatches ✓.
+
+### 7.1 Extended matrix
+
+Codings are **A1**. ● strong · ◐ partial or contested · ○ absent.
+
+| Dimension | Münster | Xhosa | Taiping | Bolshevik | Millerites | **EA / rationalist** |
+|---|---|---|---|---|---|---|
+| **Dated expectation** | ● Easter 1534 | ● dated fulfillments | ◐ | ● world revolution | ● 22 Oct 1844 | ◐ ¹⁰ |
+| **Response to disconfirmation** | escalation (new king) | continued killing, then collapse | internal purge | **deferral** ("socialism in one country") | **reinterpretation** (heavenly sanctuary) | **not yet tested** ¹⁰ |
+| Intermediary channel holds authority | ◐ | ● Mhlakaza | ● Yang Xiuqing | ● the Party | ◐ Himes (publicity) | ○ ¹¹ |
+| Rules for followers, exemptions for leaders | ● polygamy and the king | ○ | ● segregation and the kings' consorts | ● | ○ | ◐ ¹² |
+| Intimate, economic, and epistemic roles fused | ● | ◐ (kinship and chiefship) | ● | ● | ○ | ● (profiles doc) |
+| Internal criticism ritual | ○ (dissent punished) | ○ | ○ | ● samokritika | ○ | ● (note 6) |
+| Independent external check | ○ only the besieging army | ○ **the external power was predatory** | ○ the Qing and foreign forces | ○ | ● (an ordinary civil society around it) | ◐ (note 8) |
+| **Scale of harm** | thousands (siege, executions) | about 40,000 starved; land lost | tens of millions in the wider war (estimates vary) | millions | trauma; property losses (unverified) | **FTX customer losses; misconduct allegations. No mass death.** |
+| End state | military suppression | colonial dispossession | purge, then reconquest | **institutionalization, eschatology deferred** | **reinterpretation into a church** | rebrand and restructure (note 9) |
+
+**EA notes for the new dimensions:**
+
+10. **Dated expectation.** EA and AI-safety timelines are *probabilistic forecasts*, not
+    revelations. 80,000 Hours (2025): frontier companies will "plausibly" develop AGI by 2030.
+    Specific dated scenarios also circulate. This is ◐, not ●, because forecasting with
+    explicit updating is the community's stated norm. **The response to disconfirmation has
+    not been tested yet.** That makes it the most decisive *prospective* test in this
+    document (§7.3).
+11. **No single intermediary channel.** EA has no prophet, so it has no Yang or Mhlakaza. Its
+    authority is spread across institutions, which is a real disanalogy.
+12. **Rules for followers, exemptions for leaders.** The movement preached frugality and
+    earning to give. Its central institutions bought Wytham Abbey for £14.9M (2022). That
+    purchase drew exactly this criticism. EV's stated rationale was cost-effective convening.
+    Contested, so ◐.
+
+### 7.2 What the second set adds (A1)
+
+**(a) The external check can be a predator.** The Xhosa case qualifies §4.1 sharply. The
+outside power did not check the movement's harm. It *harvested* it. The siege armies at Münster
+and the Qing reconquest were checks only in the sense of violence. Auroville (§2) showed a
+milder version: a state check captured by its own appointees. **§4.1 is refined:** harm tracks
+the absence of an *independent and non-predatory* check. The mere presence of an outside power
+is not enough. On this refinement, EA's surrounding institutions (courts, press, universities)
+are what make its position categorically unlike these cases. They checked FTX without
+dispossessing the movement's beneficiaries.
+
+**(b) Authority that passes through an interpreter becomes the interpreter's power.** Yang
+Xiuqing, Mhlakaza, Sheela (Case 4), and Leadbeater (Case 3) each controlled the channel through
+which the founding authority spoke. EA has no such channel (note 11). This is the clearest
+**disanalogy** the second set produces.
+
+**(c) Rules for followers, exemptions for leaders.** This is the ledger's Move 6 asymmetry
+tell, inside a community: Münster's king took sixteen wives under his own decree, and the
+Taiping kings kept consorts while the population was segregated. EA's nearest instance (note
+12) is contested and incomparable in kind.
+
+### 7.3 The prospective test, pre-registered
+
+Every dated movement here faced disconfirmation and took one of four paths:
+- **Escalation:** Münster.
+- **Collapse:** the Xhosa movement.
+- **Deferral:** the frame survives and the date moves outward while the frame's demands stay in
+  force. The Bolshevik "socialism in one country."
+- **Reinterpretation:** the event is declared to have happened, invisibly. The Millerites'
+  heavenly sanctuary. This is the ledger's **Move 4 (unfalsifiable overlay)** in its purest
+  historical form.
+
+**Pre-registered (2026-10-02):** if widely cited AGI-by-2030 forecasts are not met, record
+which response the EA and AI-safety institutions show in 2030–2032:
+1. **Updating:** forecasts are lowered *and* the urgency-based claims on money and talent are
+   reduced in proportion. This is the community's stated norm, and it would count as
+   **disconfirming** the millenarian comparison.
+2. **Deferral:** the dates move outward and the urgency claims stay unchanged.
+3. **Reinterpretation:** the claim becomes that transformative AI "already arrived" in a form
+   that was not recognized, with the original claims kept.
+
+Outcome 1 is the one evidence-based forecasters should show. Outcomes 2 and 3 are the
+Bolshevik and Millerite shapes. **Nobody can score this test today, and that is why it is
+written down now**, before the result is known, so the scoring cannot be fitted to the
+outcome. If the forecasts *are* met, the test does not apply, and the comparison has to be
+reconsidered on other grounds.
+
+### 7.4 Adversarial check on the second set
+
+**Strongest reading against including these cases at all.** Comparing a philanthropic movement
+to a siege-state that executed dissenters, a famine under colonial conquest, a civil war, and a
+totalitarian revolution is not analysis. It is association. The disanalogies are enormous:
+EA's members are not besieged, starving, or conscripted; it has no prophet and no army; its
+worst documented harm is financial fraud by a donor.
+
+**It holds** for anything beyond the three structural shapes in §7.2 and the test in §7.3. The
+scale row exists so that no reader can draw equivalence from the matrix. **What survives:** the
+response-to-disconfirmation typology (§7.3) is a tool. It is not an accusation. It applies to
+any group making dated high-stakes forecasts, and its value is that it can be scored. The
+"predatory check" refinement (§7.2a) mostly *favors* EA's position relative to these cases.
+
+---
+
 ## BOUNDARY
 
 **This document establishes:** a set of comparison dimensions. It codes five documented
@@ -292,6 +486,7 @@ new-age planned communities and one control on them, and places EA on the same d
 with the evidence for each EA coding cited.
 
 **It does NOT establish:**
+- any equivalence between EA and Cases 6–10 in conduct or harm. See the scale-of-harm row in §7.1. The second set supplies structural shapes and one pre-registered test (§7.3), nothing more;
 - that EA is a cult, a commune, or a new religious movement;
 - that any EA person did what Noyes, Leadbeater, Sheela, or Rajneesh did. **No individual is
   compared to any individual**, and the case cards are about structures;
@@ -320,3 +515,10 @@ candidate); Pattern Registry Entry 2 ("architecture, not conspiracy"); Reflexivi
 - Britannica, "Rajneesh movement" ✓; *Willamette Week*, 2018-04-03, Share-a-Home ✓; Osho News on 1984 AIDS precautions ✓ (movement-side)
 - TIME (C. Alter), "Effective Altruism Promises to Do Good Better. These Women Say It Has a Toxic Culture of Sexual Harassment and Abuse," Feb 2023 ✓ (via EA Forum discussion); Bloomberg (E. Huet), March 2023 ✓ (via LessWrong discussion)
 - Standard scholarship relied on but not re-fetched: Klaw (1993); Foster (1981); Bestor (1950); Pitzer (1997); Lutyens (1975); Washington (1993); Török et al., JAMA 1997; Rhodes (1986)
+
+**Second set (§7) sources (locators; none captured):**
+- executedtoday.com, "1535: Elisabeth Wandscherer, wife of Jan van Leiden" ✓; Brewminate, "New Jerusalem Prophets" ✓; Bundesbank, "The Anabaptists of Münster 1534–1535" data paper ✓; Cohn, *The Pursuit of the Millennium* (1957)
+- Wikipedia, "Nongqawuse" ✓; University of Cape Town, "Nongqawuse's Prophecies Revisited: Centring the Religious Experience" ✓; Peires, *The Dead Will Arise* (1989)
+- Wikipedia, "Tianjing Incident," "Yang Xiuqing," "Taiping Heavenly Kingdom," "Hong Xiuquan" ✓; Spence, *God's Chinese Son* (1996)
+- Wikipedia, "Criticism and self-criticism," "New Soviet man" ✓; marxists.org (1928 Comintern pamphlet; Miasnikov 1930) ✓
+- Wikipedia, "Great Disappointment" ✓; WGBH, 2015-10-23 ✓; Religion Dispatches ✓
