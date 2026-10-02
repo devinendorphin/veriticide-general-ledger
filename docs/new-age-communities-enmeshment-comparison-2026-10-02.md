@@ -463,6 +463,10 @@ written down now**, before the result is known, so the scoring cannot be fitted 
 outcome. If the forecasts *are* met, the test does not apply, and the comparison has to be
 reconsidered on other grounds.
 
+**Companion test (added 2026-10-02):** Kurzweil's fixed 2029 human-level-AI prediction is
+scoreable in 2029–2030. The scoring protocol is in `kurzweil-map-2026-10-02.md` §3. It records
+whether the success criterion matches the one he stated in 1999 and 2005.
+
 ### 7.4 Adversarial check on the second set
 
 **Strongest reading against including these cases at all.** Comparing a philanthropic movement
