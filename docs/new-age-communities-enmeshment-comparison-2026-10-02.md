@@ -251,6 +251,8 @@ should be rare where an outside institution holds jurisdiction. Two predictions 
 harm unrelated to the presence or absence of an external check, 4.1 fails, and 4.2–4.3 fall
 back to "a resemblance, nothing more."
 
+*[Asymmetry audit 2026-10-02: **Upgrade condition:** if the random sample shows harm concentrated where fused roles meet an absent or predatory external check, 4.1 moves from hypothesis drawn from famous cases to a pattern across a sample.]*
+
 ---
 
 ## 6. ADVERSARIAL CHECK *(mandatory)*

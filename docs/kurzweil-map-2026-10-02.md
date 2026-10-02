@@ -159,6 +159,15 @@ function (making AI inevitability the starting premise) runs regardless of inten
 does **not** fit on this record: no document shows the frame being deployed to obtain a
 specific material benefit.
 
+*[Asymmetry audit 2026-10-02: **the INSTRUMENT exclusion is withdrawn as stated**. This same
+map documents co-authorship and co-marketing of a longevity regimen under the life-extension
+frame (§4, S1). It also documents fourteen years of employment by an AI developer while
+forecasting AI's arrival on schedule. Both are candidate material benefits tied to the frame.
+"No document shows" overlooked evidence in the map itself. Corrected status: **INSTRUMENT
+UNDETERMINED.** It upgrades if the branded supplement company exists and sells under the
+frame (currently UNVERIFIED). It downgrades if the regimen proves non-commercial. See
+`asymmetry-audit-2026-10-02.md`.]*
+
 ---
 
 ## BOUNDARY

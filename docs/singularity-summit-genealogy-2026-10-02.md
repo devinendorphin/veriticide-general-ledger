@@ -353,6 +353,8 @@ and a founder who is himself a target (Thiel). **The Summit's distinctiveness re
 well-documented introduction.** If that anecdote were removed, the Summit would score like TED:
 dense co-presence and no documented causation.
 
+*[Asymmetry audit 2026-10-02: this paragraph led with fragility after the claim **passed** its pre-set test. Restated symmetrically: the junction hypothesis (H8) passed; its support is one documented edge. **Undocumented introductions at any venue (Summit included) are undetermined, not absent.** The "none found" cells above record the documented record only. Enmeshment predicts non-documentation, so those cells are "undetermined" for the underlying history.]*
+
 **The venues sort by position in time (A1):**
 
 | Venue | Position | Function |

@@ -187,6 +187,8 @@ That split is the strongest disconfirming evidence so far against reading EA as 
 enclosed body. Two central nodes under the same umbrella moved in opposite directions on the
 frame in 2024–2025, in public.
 
+*[Asymmetry audit 2026-10-02: "EA is a single enclosed body" is a universal-form claim nobody made. One divergence refutes that universal and leaves the tendency claims (H1–H9) untouched. The split is one instance. It moves scores; it does not settle the pattern.]*
+
 ---
 
 ## BOUNDARY

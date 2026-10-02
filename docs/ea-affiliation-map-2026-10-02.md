@@ -252,6 +252,8 @@ with no shared ideology, for example a single biomedical-philanthropy subfield. 
 funder–grantee–board rotation is comparably dense, finding 4.1 reduces to "small fields are
 small," and §4 must be withdrawn down to finding 4.2 alone.
 
+*[Asymmetry audit 2026-10-02: this test was written downgrade-only. **Upgrade condition:** if the comparison field's rotation is markedly *less* dense, finding 4.1 is strengthened from A1 observation to a measured excess. The "cartel" reading rebutted above was never the operator's claim; it was a universal-form strawman. The live claim is H1, in tendency form. See `asymmetry-audit-2026-10-02.md`.]*
+
 ---
 
 ## 6. Custody finding — the 2017 disclosure no longer resolves at its URL

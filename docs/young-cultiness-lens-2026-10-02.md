@@ -141,7 +141,7 @@ against it.
 
 ## B.3 Scorecard
 
-**Scoring:** 2 = strong documented match · 1 = partial or contested · 0 = absent in the record.
+**Scoring:** 2 = strong documented match · 1 = partial or contested · 0 = **evidenced absent** · **U = not examined in this record (undetermined)**. *(Corrected 2026-10-02 by the asymmetry audit: v0.1 scored unexamined cells as 0, which is the very asymmetry Part A conceded. See `asymmetry-audit-2026-10-02.md`.)*
 Cells cite the series. All scores are **A1 and IN-FRAMEWORK**. Under the Part A correction,
 **a contrary instance lowers a cell. It does not zero the column.**
 
@@ -150,27 +150,44 @@ Cells cite the series. All scores are **A1 and IN-FRAMEWORK**. Under the Part A 
 | 1 Charisma | 1 (diffuse) | 1 | 2 (Yudkowsky, founder) | 2 (Anders: "my arrogance," K14) | 1 (not assessed beyond founder roles) | 2 | 2 | 2 |
 | 2 Sacred assumption | **2** ("saving lives" is the founding pitch) | 2 (AI's centrality, H3) | 2 | 2 | 2 ("if we don't, someone less safety-conscious will," Entry 6.4) | 2 (the curve) | 2 (the Antichrist is the safety-promiser) | 2 |
 | 3 Transcendent mission | 1 | **2** ("trillions of years," Beckstead) | 2 | 2 | 1 | 2 (merger 2045) | 2 | 2 |
-| 4 Self-sacrifice | 2 (10% pledge, earning to give) | 2 (careers redirected, 80k) | 1 | 2 (Curzi: rest and funding "compromised") | 1 | 1 (regimen) | 0 | 2 |
-| 5 Isolation | 0 (ordinary jobs, cities) | 1 | 1 (group houses) | **2** ("blocking out society") | 0 | 0 | 0 | 2 |
+| 4 Self-sacrifice | 2 (10% pledge, earning to give) | 2 (careers redirected, 80k) | 1 | 2 (Curzi: rest and funding "compromised") | 1 | 1 (regimen) | U | 2 |
+| 5 Isolation | 0 (ordinary jobs, cities) | 1 | 1 (group houses) | **2** ("blocking out society") | U | U | U | 2 |
 | 6 Vernacular | 2 (cause area, EV, ETG) | 2 (p(doom), x-risk) | 2 ("updating"; "ratbait," Bloomberg) | 2 | 1 | 1 | 1 | 2 |
-| 7 Us vs them | 1 | 1 | 2 (competence exclusion, Entry 6.4) | 2 | 0 | 0 | **2** ("legionnaires of the Antichrist") | 2 |
-| 8 Labor exploitation | 1 | 1 (CFAR instructors' "very hard times," K15) | 1 | 2 | 0 (not in the record) | 0 | 0 | 2 |
-| 9 Ends justify means | 1 (the frame produced SBF; the core disavowed it) | 1 | 1 | 1 | 0 (not in the record) | 0 | 1 | 2 |
-| 10 Entry/exit costs | 0 (Jacobs left cheaply, K7) | 1 (niche careers) | 1 | 2 | 0 | 0 | 0 | 2 |
-| **Total / 20** | **11** | **14** | **15** | **19** | **6** | **8** | **10** | **20** |
+| 7 Us vs them | 1 | 1 | 2 (competence exclusion, Entry 6.4) | 2 | U | U | **2** ("legionnaires of the Antichrist") | 2 |
+| 8 Labor exploitation | 1 | 1 (CFAR instructors' "very hard times," K15) | 1 | 2 | U | U | U | 2 |
+| 9 Ends justify means | 1 (the frame produced SBF; the core disavowed it) | 1 | 1 | 1 | U | U | 1 | 2 |
+| 10 Entry/exit costs | 0–1 (one documented cheap exit, K7; one instance does not set the cell) | 1 (niche careers) | 1 | 2 | U | U | U | 2 |
+| **Score / 20 (range over U cells)** | **11–12** | **14** | **15** | **19** | **6–16** | **8–18** | **10–18** | **20** |
+| **Elements present (≥1) / 10** | 9 (isolation 0) | **10** | **10** | **10** | 5 known + 5 U | 5 known + 5 U | 6 known + 4 U | 10 |
 
 ## B.4 What the lens shows (A1)
 
-**B.4.1 On Young's own threshold, no unit in the record is a cult, and several are high on the
-spectrum.**
-- Leverage 1.0 (19/20) is the only unit near the anchor. Its own leader named its central
-  mechanism.
-- The **rationalist community (15)** and the **longtermist wing (14)** score above the **EA core
-  (11)**.
+**B.4.1 Whether any unit meets Young's threshold depends on an undefined reading, and v0.1
+chose the exculpatory reading without saying so.** *(Corrected 2026-10-02 by the asymmetry
+audit.)*
 
-This matches what the Krishnamurti search found independently: the method-level repudiations
-came from the rationalist and community side, which is where the spectrum runs highest. The
-people who saw it from inside were the people inside the most of it.
+Young's threshold is that a group "qualifies as a cult when meeting all ten." The sources read
+do not say whether an element counts as met when it is **present** (scored 1 or more) or only
+when it is **strong** (scored 2).
+- **Strict reading (all ten strong):** only the Children of God meets it.
+- **Lenient reading (all ten present):** the **longtermist / AI-safety wing, the rationalist
+  community, and Leverage 1.0 all meet it** on this scorecard. The EA core does not (isolation
+  is evidenced at 0). Anthropic, Kurzweil, and Thiel are **undetermined** (U cells).
+
+**Young's own usage leans lenient.** The military, she says, "meet[s] every model definition of
+a cult" in deployment, which presumes that elements count when present, not only when extreme.
+v0.1 asserted "no unit in the record is a cult." That holds only under the strict reading, and
+v0.1 adopted that reading silently. **Withdrawn.** What stands:
+- Under the strict reading, no unit in the record other than the anchor case qualifies.
+- Under the lenient reading, which better matches Young's stated use, three units qualify on
+  this analyst's A1, IN-FRAMEWORK scores.
+- Which reading Young intends is answerable from the book, which was not read.
+- **Neither reading converts a score into a finding.** These are hypotheses at H-register
+  status.
+
+The ordering survives either reading: Leverage (19) > rationalist (15) > longtermist (14) > EA
+core (11–12). It still matches the Krishnamurti result: the method-level repudiations came from
+the wing where the spectrum runs highest.
 
 **B.4.2 "But we are saving lives" is not an analogy here. It is EA's founding sentence.** Young
 names the sacred assumption with a phrase EA uses as its literal pitch: the cost to save a
@@ -208,8 +225,8 @@ highest, as in the "hard times" Salamon describes (K15). The same people in ordi
 would score lower. This is testable (H7 conditions). It is also **kinder to individuals and
 harder on the framing**, which is where this repo puts its weight.
 
-**B.4.6 Anthropic scores 6/20 on this record, and that number is a measure of the record, not
-a clearance.** The column's zeros are mostly "not in the record." This series never examined
+**B.4.6 Anthropic scores 6–16/20 on this record (corrected from a v0.1 point score of 6). The
+width of that range measures how little of Anthropic this series examined.** The column's zeros are mostly "not in the record." This series never examined
 Anthropic's internal labor conditions, exit costs, or internal vernacular. By the Part A
 correction, those cells are **undetermined**, not exculpatory. The analyst cannot audit this
 column independently. Its maker is the subject.
@@ -249,7 +266,8 @@ with symmetric conditions (H1–H9); Young's framework as reconstructed from pub
 Children of God coded as an anchor case; and a scorecard of the record's units on her spectrum.
 
 **Does NOT establish:**
-- that any unit is a cult. None meets her threshold on this record;
+- that any unit is a cult. Under the strict reading none but the anchor meets her threshold;
+  under the lenient reading three do, on A1 scores (§B.4.1, corrected);
 - any individual's culpability. The deployment hypothesis locates the pressure in framing, not
   persons;
 - Young's endorsement of any reading here. Her framework is applied, not her opinion of EA,
