@@ -274,10 +274,116 @@ DeepMind, then Google, then OpenAI, then Anthropic and xAI. One venue *did* host
 funder introduction, the founding prize to a co-founder, and all three founders of the rival
 eschatologies. That is a documented concentration, whether or not it was necessary.
 
-**Disconfirming test owed.** Run the same edge-typed genealogy on a comparison conference of
+**Disconfirming test: run 2026-10-02. See §7.** Run the same edge-typed genealogy on a comparison conference of
 the same era: the Foresight Institute conferences, or early TED. If an equal share of today's
 AI-power nodes trace to it by *documented causal* edges, "source event" reduces to "the
 milieu's meeting place."
+
+---
+
+## 7. The comparison venues: Foresight, TED, Esalen *(the owed test, run 2026-10-02)*
+
+**Method, fixed before searching:** the same nine target nodes (Google DeepMind, OpenAI,
+Anthropic, xAI, Microsoft AI, MIRI, FLI, Open Philanthropy's AI funding, Thiel), the same three
+edge types, and the strongest documented edge recorded per venue per node. **Pass/fail rule:**
+if any comparison venue matches the Summit on *documented causal* edges, §4's "source event"
+framing reduces to "the milieu's meeting place."
+
+### 7.1 Venue cards
+
+**Foresight Institute (1986–; Drexler, Christine Peterson, James Bennett)** ✓
+- Nanotechnology first, now "secure AI," longevity, and an "existential hope" program. AI-safety
+  grantmaking of about $1.5M (2024).
+- **Upstream of the Summit:** Drexler and Peterson both spoke at the 2006 Summit ✓, and Foresight
+  promoted the 2006 Summit's registration ✓. Foresight is the Summit's **predecessor milieu**.
+- **Reverse flow today:** Foresight is now a *grantee* of a target-adjacent funder. SFF/Tallinn
+  grants are reported (about $51K in 2024; $175K in 2025: aggregator, UNVERIFIED). Money flows
+  from the AI-safety lineage *into* Foresight, not out of it.
+- Drexler later worked at FHI (the "CAIS" model). S1-pending.
+- **Documented causal edges to the nine targets: none found.**
+
+**TED (1984–)**
+- **Co-presence with nearly every target:** Yudkowsky ("Will superintelligent AI end the
+  world?", 2023) ✓; Suleyman (TED2024, AI as "a new digital species") ✓; Tegmark ✓; **Altman,
+  interviewed by Chris Anderson at TED2025** ✓; Bostrom (2015); Musk (Anderson interviews).
+  Axios (2024) reported that "AI optimists crowd out doubters at TED" ✓.
+- **Temporal direction: downstream.** TED hosts these people *after* they are already nodes. It
+  amplifies. No founding introduction is documented.
+- **Documented causal edges to the nine targets: none found.**
+
+**Esalen Institute (1962–; Michael Murphy, Dick Price)** ✓
+- **A root shared with the comparison doc's Auroville case:** Murphy lived at the **Sri
+  Aurobindo Ashram in Pondicherry (1956–57)** and modeled Esalen on it ✓. Esalen and Auroville
+  are **siblings from Aurobindo's evolution-of-consciousness eschatology**. *The comparison
+  doc's planned-community series and this genealogy meet here.*
+- **Cybernetics:** Gregory Bateson was scholar in residence (1978–80) ✓. *(Relevant to the
+  downstream consumer: `axiomatic-humanist-cybernetics` imports this framework's machinery.)*
+- **Documented causal reach, but into geopolitics:** Esalen's Soviet–American exchange arranged
+  **Yeltsin's 1989 US tour**, including his meetings with Bush and Reagan ✓.
+- **Tech:** Esalen relaunched in 2017 as "a home for technologists to reckon with what they have
+  built" (NYT, Bowles, Dec 2017) ✓. In March 2026 it ran an AI workshop, "The Future We Choose"
+  ✓. These are generic tech-executive co-presence. No target node is named.
+- **Documented causal edges to the nine targets: none found.**
+
+### 7.2 Scorecard
+
+Edge strengths: **C** = documented causal, one hop from the venue · **I** = institutional descent ·
+**F** = venue founder or funder · **c** = co-presence · **R** = reverse flow (target funds venue) ·
+— = none found.
+
+| Target | Summit | Foresight | TED | Esalen |
+|---|---|---|---|---|
+| Google DeepMind | **C** (Hassabis → Thiel, 2010) | — | c | — |
+| OpenAI | multi-hop C (via DeepMind → Google) | — | c (Altman 2025) | — |
+| Anthropic | multi-hop C (via OpenAI) | — | — | — |
+| xAI | multi-hop C (via OpenAI) | — | c (Musk) | — |
+| Microsoft AI | I (DeepMind → Inflection) | — | c (Suleyman 2024) | — |
+| MIRI | **I** (SIAI was the host) | c (2006 stage) | c (Yudkowsky 2023) | — |
+| FLI | c (Tegmark 2011, Bostrom 2006) | — | c (Tegmark) | — |
+| Open Phil AI | c (Karnofsky 2012 critique) | R (SFF, not OP) | — | — |
+| Thiel | **F** | — | — | — |
+| **One-hop documented causal** | **1** | **0** | **0** | **0** |
+
+### 7.3 Result
+
+**The test does not reduce the Summit to "the milieu's meeting place," but the margin is
+one edge.** Of the four venues, only the Summit has a *documented one-hop causal* edge to a
+target node: the 2010 Hassabis–Thiel introduction. It also has institutional descent (MIRI)
+and a founder who is himself a target (Thiel). **The Summit's distinctiveness rests on a single
+well-documented introduction.** If that anecdote were removed, the Summit would score like TED:
+dense co-presence and no documented causation.
+
+**The venues sort by position in time (A1):**
+
+| Venue | Position | Function |
+|---|---|---|
+| **Foresight** (1986) | **Ancestor** | The milieu the Summit was drawn from. Now fed *by* the lineage |
+| **Singularity Summit** (2006–12) | **Junction** | The one documented point where milieu money met a founding lab |
+| **TED** (1984–) | **Amplifier** | Hosts the nodes after they form. Broadcast, not genesis |
+| **Esalen** (1962–) | **Parallel lineage** | The consciousness-evolution eschatology (the Aurobindo root it shares with Auroville). Its causal reach went into geopolitics, not AI. It now receives the tech lineage as visitors |
+
+This is a sharper claim than "source event." The Summit was the **junction** where a
+nanotech-era futurist milieu (Foresight) and its funder (Thiel) met the founder of the first
+modern frontier lab. Everything after that was broadcast (TED). A separate lineage (Esalen)
+carried the older consciousness eschatology alongside and touches the AI lineage only now,
+as a place to reflect.
+
+### 7.4 Adversarial check on the test
+
+**"Documented causal" favors venues with famous anecdotes.** The Hassabis–Thiel story is
+documented because DeepMind succeeded and Hassabis retold it, which is survivorship bias in
+the *evidence*, not only in the outcomes. Introductions at TED or Foresight could have been
+equally consequential and simply never retold. The scorecard measures **documented**
+causation, and documentation is itself selected.
+
+**Search limits.** Web search, one session. Foresight's full speaker archives, TED's
+invitation-only side events, and Esalen's Center for Theory and Research participant lists were
+not examined. A documented introduction at any of them would erase the Summit's one-edge
+margin. **Absence here is absence in the documented record, not in the history.**
+
+**What survives:** the temporal sorting (ancestor, junction, amplifier, parallel) rests on dates,
+not anecdotes, and holds regardless of the margin. The Esalen–Auroville common root through
+Aurobindo is documented and stands independently.
 
 ---
 
@@ -316,3 +422,9 @@ Ledger Entry 6.4; Cluster 2 (Anthropic).
 - Microsoft blog, Suleyman joins Microsoft (2024-03-19) ✓; Royal Society and Google blog, Hassabis Nobel ✓
 - Entrepreneur / NBC (Aug 2014), Musk tweet ✓; CS Monitor (2015-01-16), FLI $10M ✓; Wikipedia, "Future of Life Institute" ✓
 - CP24 / CTV (2025-10-10), "Thiel says Greta Thunberg servant of Antichrist" (citing Washington Post recordings) ✓; Fortune (2026-02-04) ✓; The Week ✓
+
+**§7 sources (locators; none captured):**
+- Wikipedia, "Foresight Institute" ✓; Foresight, "Reserve now for Summit with Drexler, Kurzweil, Hofstadter, Thiel…" (2006) ✓; LessWrong, "Foresight Institute: 2023 progress and 2024 plans for funding" ✓; Foresight, Vision Weekend and Existential Hope pages ✓; Alignment Forum, "Updating Drexler's CAIS model" ✓; Longterm Wiki grant records (aggregator, UNVERIFIED)
+- TED, Yudkowsky transcript (2023) ✓; TED, "OpenAI's Sam Altman … live at TED2025" ✓; Axios, "AI optimists crowd out doubters at TED" (2024-04-18) ✓
+- Wikipedia, "Michael Murphy (author)" ✓; World Religions and Spirituality Project, Esalen timeline ✓; Esalen, "Bateson and Watts conversations" ✓; Atlas Obscura, "How a famed New Age retreat center helped end the Cold War" ✓; Wikipedia, "1989 visit by Boris Yeltsin to the United States" ✓; NYT (N. Bowles, Dec 2017) via archived copy ✓; Esalen, "The Future We Choose: Human Empowerment in the AI Age" (Mar 2026) ✓
+- FT via Sherwood / Macau Business (May 2026): Hassabis was an early Anthropic investor. **Noted, not yet entered** into the affiliation map
