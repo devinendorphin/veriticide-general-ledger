@@ -6,7 +6,7 @@ narrow, over the night or across venues, to a power core plus recruited young ou
 sex and power meet.*
 
 **Naming rule for this tier:**
-- **Named:** cases with a conviction, a plea, or an organizational outcome.
+- **Named:** cases with a conviction, a plea, or an organizational outcome, and long-deceased historical figures with a settled public record (Cohn, Bernstein). *Health detail stays in the private tier. This extension is flagged for the operator.*
 - **Anonymized:** unadjudicated individual allegations.
 - **Minors:** never described sexually. Adult conduct only.
 
@@ -17,6 +17,9 @@ sex and power meet.*
 | **Presidents Club dinner** (London, 2018) | **Gradient, a single night** | A men-only gala for 360 elite guests, with 130 young women hired as hostesses under NDAs. The night moved from dinner to bars to an after-party, with "repeated requests to join diners in bedrooms" | Charity closed; donations returned. S1 (FT undercover) |
 | **"Brotopia" dinners** (Silicon Valley, 2018 reporting) | Gradient | Investors and founders at mansion parties, "two women for every man," drugs. **Deals were made there, and declining cost women founders deal flow** | None. S1 |
 | **Epstein / Edge** (science salon) | Partition | An elite thinkers' salon he largely funded. An AI-pioneers' symposium on his island (2002). One pioneer was named in a later deposition (allegation; deceased). A university lab director resigned over concealed donations | Convictions: Epstein 2008, Maxwell 2021. S1 / P1 |
+| **Roy Cohn** (d. 1986) | **Double life as an instrument** (no party tier) | A closeted broker who helped purge gay federal employees (the Lavender Scare). He pressured the Army over a favored aide ("wreck the Army"), and later used influence to obtain scarce treatment. Mentor and lawyer to Donald Trump from 1973 | Censure of McCarthy (1954); disbarred 1986. S1 |
+| **Leonard Bernstein** (d. 1990) | **Career-gradient access** plus a status salon | Reported sexual encounters with young men in music once he could advance their careers (no coercion allegation established). The "Radical Chic" fundraiser salon (1970), satirized by Tom Wolfe | None. S1 |
+| ***Lusty Loft parties*** (DUMBA collective, DUMBO, 2000–02), the **CONTROL** | Sex-party form, **without power-gating** | A queer, all-genders, collectively hosted party series ("pure queer erotic utopia," per Tristan Taormino in the Village Voice); partly the basis for *Shortbus*. No patron core, no capital gate, no recruitment across power | n/a. S1 |
 
 ## What the comparators do and do not do for H12
 
@@ -35,6 +38,16 @@ sex and power meet.*
   - *Upgrades if* two or more independent same-event accounts appear.
   - *Downgrades if* Thiel's business and social events prove to be separate, with separate
     guests.
+
+**The discriminator, sharpened by the CONTROL.** The Lusty Loft series shares the *form* and
+scores absent on every power column. So **H12 is not a claim about sex parties, queer sexual
+culture, or group sex.** It is a claim about **power-gating**:
+- **(1)** a power core inside the sexual tier;
+- **(2)** access that converts into capital, careers, deals, or patronage;
+- **(3)** recruitment across a power differential.
+
+Analysis that treats sexuality itself as discrediting commits Move 3. This control exists to
+prevent that.
 
 **Typology** for future entries: **gradient** (one event that narrows) versus **partition** (a
 public event and a separate private event). The operator's H12 is the gradient model.
