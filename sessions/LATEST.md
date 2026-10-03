@@ -1,4 +1,4 @@
-# LATEST: continuity seed (regenerated 2026-10-02)
+# LATEST: continuity seed (regenerated 2026-10-02; updated 2026-10-03)
 
 Last log: `sessions/2026-10-02-ea-enmeshment-and-asymmetry.md`. Branch `ccr-2008c543-s3epju`
 (not merged; no PR opened).
@@ -28,7 +28,9 @@ Last log: `sessions/2026-10-02-ea-enmeshment-and-asymmetry.md`. Branch `ccr-2008
    not rewrite them. *Why:* this is the only non-proposer check on both the asymmetry audit
    and Priority 32. Everything this session produced is IN-FRAMEWORK until it lands.
 2. **Get operator rulings on the three open classifications:** Entry 6.4 "democratic"; a
-   Kurzweil entry; the Thiel lectures (and the household-layer scope question). *Why:* these
+   Kurzweil entry; the Thiel lectures. *(Household scope ruled 2026-10-03, and P32 ruled:
+   see the standing notes. Household search under the new rule is not yet run, and the
+   analyst's bounds (a)–(e) await operator confirmation.)* *Why:* these
    are decisions Claude was told not to make, and they block the ledger.
 3. **Primary capture for the load-bearing rows:**
    - OP 2017 OpenAI grant writeup (archive);
@@ -60,3 +62,14 @@ instruction.)*
   text, not multi-phase bundles with link lists.
 - **Dictation hygiene.** Stray phrases may come from other audio ("public opinion" was).
   Mark guesses as `[?original→guess]` and ask before building on a fragment.
+- **Household layer (ruling 2026-10-03).** Decision-node figures in the AI / longtermist field
+  count as public figures for household and intimate ties. Publicly *reported* ties are
+  admitted, not only disclosed ones. Operator: people who feel "up to the task of guiding the
+  species to a long future" without the buy-in of the billions affected are public figures.
+  Analyst bounds pending confirmation: public sources only; de-identify non-public
+  counterparties; no minors; record the fact, dates, and role-overlap, not sexual or health
+  detail; graded S1.
+- **Priority 32 (ruling 2026-10-03).** The 64/68 fail rate reflects selection ("picked
+  because they are specimens"). **The operator does not trust Claude's epistemic asymmetry
+  and has called it out many times.** Treat any Claude self-assessment of balance as
+  unverified, and route checks to a non-proposer.

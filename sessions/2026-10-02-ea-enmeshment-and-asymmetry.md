@@ -121,3 +121,21 @@ session; the hub repo was not added. Candidate glossary additions:
 - "author–allocator fusion";
 - "persistence" (fifth disconfirmation response);
 - "U cell" (undetermined vs evidenced-absent).
+
+## Addendum 2026-10-03: operator rulings
+
+- **P32:** "the answers are picked because they are specimens and I do not trust currently
+  your epistemic asymmetry I've had to call out many a Time." Selection reading adopted.
+  Claude conceded flat.
+- **Household:** "considering we are dealing with potential cohorts of people that find
+  themselves to be the chosen and entitled to make great decisions upon the world without the
+  buy-in of the rest of the world the other billions of people … I think we can make an
+  exemption regarding extending info about the household past public info. These are people
+  who are feeling they are up to the task of guiding the species to a long future I think
+  that counts as public figures."
+  - *Applied:* the rule was written into the affiliation map and the profiles doc, and X1
+    (Aella–Soares) was re-admitted as E24.
+  - *Tension, both sides recorded:* the operator's phrase "past public info." Claude can only
+    use publicly available sources. Claude read the ruling as "past *disclosed* info, to
+    publicly *reported* info," and retained bounds (a)–(e).
+  - The operator has not yet confirmed or overruled those bounds.

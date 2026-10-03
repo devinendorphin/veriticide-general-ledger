@@ -51,13 +51,30 @@ investment.
 | **Governance** (board, trustee seat) | Always, when documented | Named principals |
 | **Role transition** (funder → grantee, lab ↔ funder) | Always, when documented | Chain |
 | **Co-founding** | Always, when documented | Named principals |
-| **Relational** (marriage, partnership, cohabitation) | Only if **(i)** disclosed by a party or an institution, **and (ii)** at least one party holds a decision node affecting the other party's institution | Gap / conflict of interest |
+| **Relational** (marriage, partnership, cohabitation) | ~~Only if (i) disclosed by a party or an institution, and (ii) at least one party holds a decision node affecting the other party's institution~~ **Superseded 2026-10-03:** admitted when publicly reported and at least one party holds a decision node. See the household-layer rule below | Gap / conflict of interest |
 | **Intellectual lineage** (influence, avowed discipleship) | Logged as **context only**. Never a conflict-of-interest edge | — |
 
 The edge kinds above are a filter local to this document. They are **not** a new
 classification. They feed the existing Track B fields named in the right-hand column.
 
-The relational test is deliberately strict. An intimate relationship is evidence of a
+**Household-layer rule (operator ruling, 2026-10-03).** For people who hold decision nodes in
+the AI / longtermist field (funding, governance, lab leadership, or authorship of the frame),
+household and intimate ties are admitted when **publicly reported**: press, the person's own
+public posts, court records. Disclosure by a party or an institution is no longer required.
+*Operator's rationale:* "These are people who are feeling they are up to the task of guiding
+the species to a long future. I think that counts as public figures." That is, they claim
+standing to make species-scale decisions without the buy-in of the billions affected.
+**Bounds the analyst retains (flagged; the operator may overrule):**
+- (a) Publicly available sources only. No addresses, contact details, or locations.
+- (b) A counterparty with no public role and no power is de-identified, per the 2026-08-01
+  pass. That does not apply when the counterparty is a public figure.
+- (c) Minors are never included.
+- (d) Record the fact, dates, and role-overlap of a tie. Sexual practices, health, and other
+  intimate detail are excluded, because offered as evidence they are the Move 3
+  disqualification register the ledger does not import.
+- (e) A reported tie is graded S1. It is evidence of enmeshment, not a finding of influence.
+
+*(v0.1 text follows, superseded:)* The relational test is deliberately strict. An intimate relationship is evidence of a
 conflict of interest only where one partner can move money or governance toward the other.
 Elsewhere it is someone's private life. The repo's 2026-08-01 de-identification pass
 (`docs/provenance.md`) set the same posture for private individuals.
@@ -92,6 +109,7 @@ Elsewhere it is someone's private life. The repo's 2026-08-01 de-identification 
 | **E21** | Google → Anthropic | Funding (corporate) | *Added 2026-10-02.* About $300M (Feb 2023) → up to $2B (Oct 2023) → about $1B (Jan 2025) → **$10B at a $350B valuation, plus up to $30B contingent (Apr 2026)**. About 14% equity, capped at 15%, with **no votes, board seats, or observer rights** (court filings). Reverse flow: Anthropic's TPU commitments run to tens of billions. Full map, regulatory record, and open questions in `google-anthropic-investment-map-2026-10-02.md`. | S1 throughout; S-1 pending |
 | **E22** | Amazon → Anthropic | Funding (corporate) | *Added 2026-10-02.* $1.25B (Sept 2023) + $2.75B (Mar 2024) + $4B (Nov 2024) + **$5B (Apr 2026), with up to $20B more**. Held as convertible notes and **nonvoting preferred stock**; percentage undisclosed. Reverse flow: Anthropic commits **more than $100B to AWS over ten years** (P1). Amazon's Q1 and Q2 2026 results include $16.8B and $53.4B of Anthropic-driven gains. Full map in `amazon-anthropic-investment-map-2026-10-02.md`. | P1 (Anthropic; CMA); S1 elsewhere |
 | **E23** | Microsoft (about $5B) and Nvidia (about $10B) → Anthropic | Funding (corporate) | *Added 2026-10-02.* Nov 2025. Anthropic commits $30B to Azure. Microsoft is also OpenAI's largest investor, and Microsoft AI is led by Suleyman (E20 context). | S1 |
+| **E24** | Nate Soares — Aella | Relational (reported) | *Added 2026-10-03 under the household-layer rule.* Publicly reported partnership (Sept 2026 coverage relaying the New York Post, resting on Aella's own posts naming "Nate" and "my partner"). Soares: MIRI president, co-author of *If Anyone Builds It, Everyone Dies* (2025). Aella: public figure, a writer and survey-runner prominent in rationalist discourse. **Overlap recorded:** the president of the doom branch's oldest institution, partnered with a prominent voice in the community that receives its arguments. That is an epistemic-independence tie, not a funding tie. **No decision-node exchange (money, employment, governance) between them is documented.** Tabloid sexual detail is excluded under bound (d). | S1 (secondary, partial self-disclosure) |
 
 ### Graph
 
@@ -158,6 +176,10 @@ These were raised, checked, and kept out. They are recorded so the exclusion is 
 and does not look like an omission.
 
 **X1 — Aella — Nate Soares (relational).**
+*[**Re-admitted 2026-10-03 as E24** under the household-layer rule. Soares holds a decision
+node (MIRI president), the tie is publicly reported, and the counterparty is herself a public
+figure. The exclusion text below is kept as the record of the earlier rule. Its point (d)
+stands: the tabloid sexual framing is still not imported.]*
 *Status:* publicly reported in September 2026. The coverage is tabloid and secondary
 (TechTimes, citing the New York Post). It rests on Aella's own posts naming "Nate" in
 context and referring to "my partner." That is partial self-disclosure, graded S1 at best.

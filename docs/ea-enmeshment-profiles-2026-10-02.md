@@ -29,7 +29,25 @@ A person who holds several layers is a point where the frame is **written, funde
 governed by the same hands.** Nobody outside that person evaluates whether the frame merits the
 money it attracts. That is closure without coordination, and it needs no intent.
 
-**The Hh layer was not searched for anyone.** It holds only ties already disclosed in sources
+**Household-layer rule (operator ruling, 2026-10-03).** For people who hold decision nodes in
+the AI / longtermist field (funding, governance, lab leadership, or authorship of the frame),
+household and intimate ties are admitted when **publicly reported**: press, the person's own
+public posts, court records. Disclosure by a party or an institution is no longer required.
+*Operator's rationale:* "These are people who are feeling they are up to the task of guiding
+the species to a long future. I think that counts as public figures." That is, they claim
+standing to make species-scale decisions without the buy-in of the billions affected.
+**Bounds the analyst retains (flagged; the operator may overrule):**
+- (a) Publicly available sources only. No addresses, contact details, or locations.
+- (b) A counterparty with no public role and no power is de-identified, per the 2026-08-01
+  pass. That does not apply when the counterparty is a public figure.
+- (c) Minors are never included.
+- (d) Record the fact, dates, and role-overlap of a tie. Sexual practices, health, and other
+  intimate detail are excluded, because offered as evidence they are the Move 3
+  disqualification register the ledger does not import.
+- (e) A reported tie is graded S1. It is evidence of enmeshment, not a finding of influence.
+
+*(v0.1 text follows; the search scope is superseded by the rule above. Search under the new rule
+has not yet been run.)* **The Hh layer was not searched for anyone.** It holds only ties already disclosed in sources
 read for other purposes. Searching people's private lives is outside this record's posture,
 set by the 2026-08-01 de-identification pass.
 
