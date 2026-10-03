@@ -1,0 +1,125 @@
+{
+  "item": "astra-cot-primaries-2026-10-03",
+  "captured_at": "2026-10-03",
+  "artifacts": {
+    "deploymentsafety.openai.com_gpt-6-astra_gpt-6-astra.pdf": {
+      "source_url": "https://deploymentsafety.openai.com/gpt-6-astra/gpt-6-astra.pdf",
+      "description": "GPT-6 Astra System Card (OpenAI), dated 2026-09-03, 175 pp; hub notes a 2026-09-22 update",
+      "grade": "primary",
+      "sha256": "77ff1e8aaf7018c7d7bbe347c374cd74188387ceca91f1ef637ccc59ea930895",
+      "bytes": 15779035
+    },
+    "deploymentsafety.openai.com_gpt-6-astra.html": {
+      "source_url": "https://deploymentsafety.openai.com/gpt-6-astra",
+      "description": "GPT-6 Astra System Card, Deployment Safety Hub HTML",
+      "grade": "primary",
+      "sha256": "fffad70926b2c2c50d4ca54a5983c676d7adbef7c6f5daebacecda9facc17f52",
+      "bytes": 1710728
+    },
+    "deploymentsafety.openai.com_gpt-6-astra_safety-overview-gpt-6-astra.html": {
+      "source_url": "https://deploymentsafety.openai.com/gpt-6-astra/safety-overview-gpt-6-astra",
+      "description": "GPT-6 Astra safety overview, Deployment Safety Hub HTML",
+      "grade": "primary",
+      "sha256": "a2091b1ec2310f7367996f3d399e9f16fd349529487111e852caaf90d7d0789a",
+      "bytes": 1710804
+    },
+    "deploymentsafety.openai.com_gpt-6-1-sol_gpt-6-1-sol.pdf": {
+      "source_url": "https://deploymentsafety.openai.com/gpt-6-1-sol/gpt-6-1-sol.pdf",
+      "description": "Addendum to GPT-6 Astra System Card: GPT-6.1 Sol, dated 2026-09-29, 48 pp (hub rendering)",
+      "grade": "primary",
+      "sha256": "1ae4ad6f0e2425a0f85623d3ccfc2a747c13611432a504ef0a7b5f4228789884",
+      "bytes": 8020508
+    },
+    "cdn.openai.com_pdf_38e3efcf-545e-44cd-99ec-2b7eb395f4cc_oai_GPT_6_1_Sol.pdf": {
+      "source_url": "https://cdn.openai.com/pdf/38e3efcf-545e-44cd-99ec-2b7eb395f4cc/oai_GPT_6_1_Sol.pdf",
+      "description": "Addendum: GPT-6.1 Sol System Card, dated 2026-09-29, 45 pp (CDN rendering; text matches hub version except two table headers)",
+      "grade": "primary",
+      "sha256": "2287b79276b521b68c8d4bc7195039586c0f30fa596db77231a58570c62a3cc9",
+      "bytes": 8607153
+    },
+    "www.theinformation.com_articles_secret-technique-behind-openais-astra-model-sparks-security-concerns.html": {
+      "source_url": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns",
+      "description": "The Information, 'OpenAI Technique in \u2018Astra\u2019 Model Sparks Security Concerns', Efrati/Palazzolo/Drew, datePublished 2026-09-02T00:40:46Z. PAYWALLED: headline, byline, timestamp and dek only; body NOT captured",
+      "grade": "secondary-partial",
+      "sha256": "ef0165c08f09c2a62d3e3c7cb1b47bfa1ebc846058f3b1836ff2f1904eedd546",
+      "bytes": 208748
+    },
+    "arxiv_1603.08983v6.pdf": {
+      "source_url": "https://arxiv.org/pdf/1603.08983v6",
+      "description": "Graves 2016, Adaptive Computation Time for Recurrent Neural Networks",
+      "grade": "primary",
+      "sha256": "34e793f2e1908c510b4fbe24afcf418978fa87d11396d0e24e132da0f7042e82",
+      "bytes": 6582868
+    },
+    "arxiv_1807.03819v3.pdf": {
+      "source_url": "https://arxiv.org/pdf/1807.03819v3",
+      "description": "Dehghani et al. 2018, Universal Transformers",
+      "grade": "primary",
+      "sha256": "d4b8c752b7ad28b6df67bab764ba6744c575ffe8e2f09879c750b05c7daf3e90",
+      "bytes": 2371799
+    },
+    "arxiv_2301.13196v1.pdf": {
+      "source_url": "https://arxiv.org/pdf/2301.13196v1",
+      "description": "Giannou et al. 2023, Looped Transformers as Programmable Computers",
+      "grade": "primary",
+      "sha256": "e3f11f6989757a0924d574a2c11d1a6afd21394111449ae27654dbd0c313b3ab",
+      "bytes": 2075697
+    },
+    "arxiv_2412.06769v4.pdf": {
+      "source_url": "https://arxiv.org/pdf/2412.06769v4",
+      "description": "Hao et al. 2024, Training Large Language Models to Reason in a Continuous Latent Space (Coconut)",
+      "grade": "primary",
+      "sha256": "27db5069d4361a607f02133ab4da4d9dae601bfbff0677191b3ba7febe2f987c",
+      "bytes": 3211318
+    },
+    "arxiv_2502.05171v2.pdf": {
+      "source_url": "https://arxiv.org/pdf/2502.05171v2",
+      "description": "Geiping et al. 2025, Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
+      "grade": "primary",
+      "sha256": "96f4543683a06a470ccb0b6b0db27a98f283fde9467d175e838f03a629a76c7b",
+      "bytes": 11557797
+    },
+    "arxiv_2502.17416v1.pdf": {
+      "source_url": "https://arxiv.org/pdf/2502.17416v1",
+      "description": "Saunshi et al. 2025, Reasoning with Latent Thoughts: On the Power of Looped Transformers",
+      "grade": "primary",
+      "sha256": "a3aed7457446fa4c11c5f6cac89c38725ca42d0a66c44cc1935e2f8b6376882e",
+      "bytes": 2149490
+    },
+    "arxiv_2507.02199v2.pdf": {
+      "source_url": "https://arxiv.org/pdf/2507.02199v2",
+      "description": "Lu et al. 2025, Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer",
+      "grade": "primary",
+      "sha256": "3006d559ddc96a96a226f529ab0460c3029523def27c858c771d6b743a105783",
+      "bytes": 962439
+    },
+    "arxiv_2507.06203v2.pdf": {
+      "source_url": "https://arxiv.org/pdf/2507.06203v2",
+      "description": "Zhu et al. 2025, A Survey on Latent Reasoning",
+      "grade": "primary",
+      "sha256": "e8d22c10d7fd50f77765313f385bb56eb129ceb5839cf26e3127983445e5ebdf",
+      "bytes": 3557154
+    },
+    "arxiv_2510.25741v5.pdf": {
+      "source_url": "https://arxiv.org/pdf/2510.25741v5",
+      "description": "Zhu et al. 2025, Scaling Latent Reasoning via Looped Language Models",
+      "grade": "primary",
+      "sha256": "553faaccf0cfc8ce7be6a4171c3a8b33d8c512ab1346a9b5017d2e020d24480d",
+      "bytes": 10528164
+    },
+    "arxiv_2507.11473v2.pdf": {
+      "source_url": "https://arxiv.org/pdf/2507.11473v2",
+      "description": "Korbak, Balesni et al. 2025, Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety (41 authors incl. OpenAI's Pachocki, Chen, Zaremba, Baker, Madry, Farhi)",
+      "grade": "primary",
+      "sha256": "420d2c12a787b6903242b4369d3b6c5c7949e27fdfa62dd4c2dc5b4e2f399307",
+      "bytes": 416330
+    },
+    "arxiv_2503.11926v1.pdf": {
+      "source_url": "https://arxiv.org/pdf/2503.11926v1",
+      "description": "Baker et al. 2025 (OpenAI), Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation",
+      "grade": "primary",
+      "sha256": "2547162c549d70e02beca2687903a8fce75fd950269a3ee479d5b8ebbb53ff38",
+      "bytes": 5643216
+    }
+  }
+}
