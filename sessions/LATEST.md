@@ -206,3 +206,8 @@ instruction.)*
   edits dated docs. It fails if a doc names a powerful actor without a developer-symmetry
   (Anthropic) section. It replaces the honour-system note above: notes did not hold, and on
   first run it found 10 of 10 docs missing the check.
+- **Survivor's public record: settled by operator ruling** (2026-10-03): "whatever she has put
+  herself in public can stay in the public repo." **Do not re-open this, and do not propose
+  asking the survivor.** Re-asking is a re-traumatization cost (operator). Keep classification
+  vocabulary aimed at the moves, never at the person (see
+  `docs/survivor-narrative-exploitation-2026-10-03.md`).
