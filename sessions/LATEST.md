@@ -23,3 +23,4 @@
 ## Standing notes
 - (none recorded before this session; section opened 2026-10-03)
 - Endorphin's preference: when conceding, concede flat, with no remainder.
+- **Tendencies, not single counter-items (2026-10-03).** "Do not let the thing that goes the opposite direction dismantle any structure … you are going by tendencies not the single thing that will dismantle a pattern." Opposite-direction evidence is logged at the item level and weighed as a rate against the record. It never silently overturns an account-level pattern. It is never dropped either. State what *run* of such items would shift the tendency.
