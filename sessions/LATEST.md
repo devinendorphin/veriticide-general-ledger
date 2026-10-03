@@ -1,44 +1,44 @@
-# LATEST: continuity seed (regenerated 2026-10-02; updated 2026-10-03)
+# LATEST: continuity seed (regenerated 2026-10-03)
 
-Last log: `sessions/2026-10-02-ea-enmeshment-and-asymmetry.md`. Branch `ccr-2008c543-s3epju`
-(not merged; no PR opened).
+Last logs: `sessions/2026-10-03-thiel-salons-private-tier.md` and `sessions/2026-10-02-ea-enmeshment-and-asymmetry.md`.
+Branch `ccr-2008c543-s3epju` in **both** this repo (public) and `veriticide-after-hours`
+(PRIVATE). Neither is merged, and no PRs are open.
 
 ## Project state
 
-- **Cases (`cases/`):** stable. Not touched this session.
-- **`ledger/ledger.md`:** active.
-  - Entry 6.4 carries a disconfirmation note; reclassification is pending the operator.
-  - TB-007 is cross-referenced to the affiliation map.
-  - **Gap Register Priority 32 (adjudication symmetry) is OPEN.**
-- **EA/AI series (`docs/*-2026-10-02.md`, 10 documents):** active, all at hypothesis status.
-  - The affiliation map runs to E23.
-  - H1–H9 are LIVE in `young-cultiness-lens` §A.4.
-- **Asymmetry correction:** partial.
-  - Session docs are annotated inline; the original text is preserved.
-  - Earlier sessions' claims have not been converted to tendency form.
-- **Independent adjudication:** handoff ready in `docs/handoffs/` as a single file. **Results
-  not yet received.**
-- **Custody:** everything this session is LOCATOR-ONLY. The OP 2017 grant writeup needs
-  archival re-capture.
+- **Cases:**
+  - `epstein-survivor-unredaction` is active: annex 07 adds Thiel/Valar as a counter-instance
+    to leg B.
+  - The other cases are stable.
+- **`ledger/ledger.md`:** active. Entry 6.4 carries a note; reclassification is pending.
+  Priority 32 has an operator ruling, and its adjudication is handed off.
+- **EA/AI series (2026-10-02):** active, at hypothesis status. H1–H9 in the Young lens; the
+  affiliation map runs to E24.
+- **Thiel map, salon comparators, public household tier (2026-10-03):** active. H10, H11, and
+  H12 are LIVE.
+- **Private tier:** active. HP-01–HP-12, the comparator study, and operator T1 testimony.
+- **Independent adjudication:** the one-file handoff is ready. **No results yet.** It covers
+  material only up to 2026-10-02.
+- **Custody:** everything is LOCATOR-ONLY. Owed captures: the OP 2017 grant page, the
+  Anthropic S-1, Amazon 10-Qs.
 
 ## Top 3 priorities next session
 
-1. **Ingest the ChatGPT adjudication results.** Save them verbatim as
-   `docs/handoffs/chatgpt-adjudication-results-<date>.md` and respond in a separate file. Do
-   not rewrite them. *Why:* this is the only non-proposer check on both the asymmetry audit
-   and Priority 32. Everything this session produced is IN-FRAMEWORK until it lands.
-2. **Get operator rulings on the three open classifications:** Entry 6.4 "democratic"; a
-   Kurzweil entry; the Thiel lectures. *(Household scope ruled 2026-10-03, and P32 ruled:
-   see the standing notes. Household first pass done 2026-10-03 (HP-01–HP-09, H10); the Altman item is flagged for a minors ruling, and the
-   analyst's bounds (a)–(e) await operator confirmation.)* *Why:* these
-   are decisions Claude was told not to make, and they block the ledger.
-3. **Primary capture for the load-bearing rows:**
-   - OP 2017 OpenAI grant writeup (archive);
-   - Anthropic's public S-1 when filed (it reconciles E20–E23, the Google cap question, and
-     Amazon's stake);
-   - Amazon 10-Qs.
+1. **Ingest the ChatGPT adjudication results** verbatim, and respond in a separate file. *Why:*
+   it is the only non-proposer check, and the operator distrusts Claude's self-assessment.
+   Consider a second handoff covering the 2026-10-03 material.
+2. **Operator rulings still open:**
+   - Entry 6.4 "democratic";
+   - a Kurzweil entry;
+   - the Thiel lectures as a Move 3 specimen;
+   - the Altman minors item;
+   - the public-naming extension.
 
-   *Why:* the investment maps rest on S1 relays, and the S-1 resolves H4, H5, and H6.
+   *Why:* each blocks a ledger decision that Claude was told not to make.
+3. **Test H12's load-bearing joint, and capture primaries.** Look for independent same-event
+   accounts of Thiel gatherings, and for the inner-circle layer (fellows, staff, portfolio).
+   Capture the Anthropic S-1 when it is public. *Why:* H12 is the most-developed live
+   hypothesis, its joint is the only undetermined cell, and the S-1 resolves H4–H6.
 
 ## Standing notes
 
@@ -68,7 +68,7 @@ instruction.)*
   species to a long future" without the buy-in of the billions affected are public figures.
   Analyst bounds pending confirmation: public sources only; de-identify non-public
   counterparties; no minors; record the fact, dates, and role-overlap, not sexual or health
-  detail; graded S1.
+  detail; graded S1. *[Superseded in part by revision 2 below. Kept for the record.]*
 - **Priority 32 (ruling 2026-10-03).** The 64/68 fail rate reflects selection ("picked
   because they are specimens"). **The operator does not trust Claude's epistemic asymmetry
   and has called it out many times.** Treat any Claude self-assessment of balance as
@@ -83,8 +83,19 @@ instruction.)*
     Claude's earlier exclusion was conceded as bias.
   - **Two tiers:** identifiable internal tier, anonymized public tier. **This repo is public**,
     so it carries only the public tier until the operator designates a private store.
-    *Open: where the private tier lives.*
+    *Open: where the private tier lives.* *[Resolved 2026-10-03: `veriticide-after-hours`.]*
 - **Private tier lives in `devinendorphin/veriticide-after-hours`** (PRIVATE, verified
   2026-10-03), on branch `ccr-2008c543-s3epju`. Identifiable household and sexual-power
   entries (HP-xx) go **only** there. The public repo gets anonymized presence entries (P-x)
   only. Never copy identifiable content across.
+- **Operator testimony is private by instruction.** Never name, research, or infer the
+  organization or people in operator testimony
+  (`veriticide-after-hours/operator-testimony-*`). Nothing from it goes public without a new
+  instruction.
+- **H12 tests two locations:** the event floor *and* the organizing inner circle (staff,
+  fellows, portfolio). Its discriminator is **power-gating**, not sex or queerness. Lusty Loft
+  is the CONTROL.
+- **Secrecy has a direction.** Record whether secrecy protects the vulnerable or protects the
+  powerful.
+- **Public-naming extension** (long-deceased historical figures named, health detail private)
+  is *pending operator confirmation*.
