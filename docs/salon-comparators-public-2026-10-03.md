@@ -39,8 +39,10 @@ sex and power meet.*
   - *Downgrades if* Thiel's business and social events prove to be separate, with separate
     guests.
 
-**The discriminator, sharpened by the CONTROL.** The Lusty Loft series shares the *form* and
-scores absent on every power column. So **H12 is not a claim about sex parties, queer sexual
+**The discriminator, sharpened by the CONTROL.** The Lusty Loft series shares the *form*, and **no
+power-gating is reported** in the sources read. Unreported hierarchy is **U, not absent**
+*(corrected per independent review: "scores absent on every power column" overstated the
+record)*. So **H12 is not a claim about sex parties, queer sexual
 culture, or group sex.** It is a claim about **power-gating**:
 - **(1)** a power core inside the sexual tier;
 - **(2)** access that converts into capital, careers, deals, or patronage;
@@ -51,6 +53,14 @@ prevent that.
 
 **Typology** for future entries: **gradient** (one event that narrows) versus **partition** (a
 public event and a separate private event). The operator's H12 is the gradient model.
+
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Ties to the salons or comparators named (Epstein/Edge, Thiel gatherings) | Thiel: **direct** (Founders Fund co-led Anthropic's Feb 2026 round) and via the Palantir integration. Epstein/Edge–Anthropic: **none found** (round 8; **single general query**, shallower than the searches run on other actors; general search only). |
 
 ## BOUNDARY
 

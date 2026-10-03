@@ -25,7 +25,8 @@ reviewer.
 |---|---|---|
 | **Housing First (HF)** | Immediate permanent housing with **no preconditions** (no required sobriety or treatment), voluntary support services, harm reduction, and client choice. It is both a *program model* (Pathways to Housing, 1992) and a *system policy* (HUD funding preference from 2013) | Pathways; At Home/Chez Soi; HUD-VASH; Houston; Finland |
 | **TF-1: treatment first as a program** | The "linear" or "staircase" continuum: sobriety and treatment are **preconditions** for moving up to permanent housing | The continuum-of-care comparison arms in HF trials |
-| **TF-2: contingency management** | Housing *is provided*, but **continued access depends on abstinence**, verified by testing | Milby et al. (Birmingham) |
+| **TF-2: contingency management** | Housing access **depends on abstinence**, verified by testing. In Milby, **entry was also gated** (two negative tests) | Milby et al. (Birmingham) |
+| **Recovery housing** (voluntary) | Peer-run, abstinence-based homes chosen by residents; neither coercive nor HF | Oxford House |
 | **TF-3: the enforcement and coercion package** | Camping bans, encampment sweeps, funding tied to enforcement, **involuntary commitment** | Cicero model bill; EO 14321 |
 
 **The policy debate routinely collapses these.** The evidence for TF-2 is not evidence for
@@ -38,9 +39,9 @@ its distinctive parts are enforcement and coercion.
 
 | Study | Design | Finding | Grade |
 |---|---|---|---|
-| **Tsemberis, Gulcur & Nakae 2004** (*Am J Public Health*), New York City, people with both mental illness and addiction | RCT, n=225: HF vs housing conditional on treatment and sobriety | **About 80%** stably housed at 12 months vs **24%** for continuum programs; about 80% vs 30% of time housed at 24 months. **No worsening** of psychiatric or substance-use symptoms | RCT |
-| **At Home/Chez Soi** (Canada; 5 cities, 2009–13) | RCT, n≈2,000+: HF vs treatment as usual | HF with intensive community treatment teams: **+45.8 percentage points** time stably housed. Some gains in community functioning, some quality-of-life subscales, and arrests at some time points. **No difference** in substance use, health-service use, or community integration. **69% of costs offset** by savings elsewhere; net cost about CA$6,311 per person per year | RCT |
-| **Baxter et al. 2019** (*J Epidemiol Community Health*) | SR and meta-analysis of RCTs | HF **improves housing stability**. **No clear difference in substance use** (no increase). May improve some health aspects and reduce emergency service use | SR |
+| **Tsemberis, Gulcur & Nakae 2004** (*Am J Public Health*), New York City, people with both mental illness and addiction | RCT, n=225: HF vs housing conditional on treatment and sobriety | **About 80%** stably housed at 12 months vs **24%** for continuum programs; about 80% vs 30% of time housed at 24 months. **No statistically detected worsening** of psychiatric or substance-use symptoms (not a non-inferiority design) | RCT |
+| **At Home/Chez Soi** (Canada; 5 cities, 2009–13; about 2,000 participants overall) | RCT: HF vs treatment as usual | **Toronto high-needs sample (n=197)**, HF with intensive community treatment teams: **+45.8 percentage points** time stably housed. Some gains in community functioning, some quality-of-life subscales, and arrests at some time points. **No difference** in substance use, health-service use, or community integration. **Separate five-city high-needs cost analysis (n=950):** **69% of costs offset** by savings elsewhere; net cost about CA$6,311 per person per year. *(Samples corrected 2026-10-03 per independent review; they had been conflated.)* | RCT |
+| **Baxter et al. 2019** (*J Epidemiol Community Health*) | SR and meta-analysis of RCTs | HF **improves housing stability**. **No clear difference in substance use** (no increase). May improve some health aspects and reduce emergency service use. **All four included trials judged at high risk of bias** | SR |
 | **National Academies 2018**, *Permanent Supportive Housing* | Expert consensus review | Supportive housing **improves housing stability**. Evidence of **health improvement exists only for HIV/AIDS**; evidence for other health conditions is **lacking**, mainly because of research limits | SR (consensus) |
 | **HUD-VASH, veterans** | OBS (national counts) | Veteran homelessness **fell about 55.6%, 2010–2024**, credited to VASH vouchers plus services | OBS |
 | **Houston** (city system) | OBS | Homelessness cut about **63%** in a decade; more than 25,000 people housed directly, with no sobriety precondition | OBS |
@@ -69,10 +70,11 @@ targeted.
    this.
 6. **Fidelity varies.** "Housing First" as funded policy often lacks the intensive services
    the trials used. Effects from fidelity programs may not carry over to diluted versions.
-7. **HF does not create housing.** It places people into existing units. **The system-level
+7. **The model is a placement and service model, not itself a supply program.** Some implementations buy, convert, or build units; the model does not settle supply. *(Categorical "HF does not create housing" withdrawn per review.)* **The system-level
    picture after the 2013 HUD adoption is the critics' strongest card:** overall homelessness
    **rose about 27%** and chronic homelessness **about 81%** since 2013 (current HUD
-   leadership's figures).
+   leadership's figures; HUD, 29 May 2026). The same release reports aggregate homelessness
+   **fell about 3%** from 2024 to 2025. Neither trend identifies HF's causal contribution.
 8. **OBS successes are confounded.** Houston, VASH, and Finland coincided with **large new
    funding and housing supply**. HF's specific contribution cannot be separated from the money
    and the units.
@@ -82,12 +84,12 @@ targeted.
 | Study | Design | Finding | Grade |
 |---|---|---|---|
 | **TF-1 arms in HF trials** (Tsemberis 2004, and others) | RCT, as the comparison arm | **24–30% housing retention** vs about 80% for HF. **No better** symptom outcomes | RCT (*against* TF-1 on housing) |
-| **Milby et al. 2005** (*Am J Public Health*), cocaine-dependent homeless adults | RCT, n=196: no housing vs **abstinence-contingent housing** vs non-contingent housing, all with day treatment | **Abstinence:** contingent housing > non-contingent housing > no housing. **All three groups improved** on employment and housing | RCT (**TF-2**) |
+| **Milby et al. 2005** (*Am J Public Health*), cocaine-dependent homeless adults | RCT, n=196: no housing vs **abstinence-contingent housing** (entry required **two negative drug tests**; a positive test meant removal to a shelter, with readmission after two negative tests) vs non-contingent housing (still with testing and behaviour rules), all with day treatment | **Abstinence, descriptive ordering:** contingent > non-contingent > no housing. **Unadjusted contingent-vs-non-contingent differences were not significant;** attendance-adjusted consecutive abstinence favoured the contingent arm. **All three groups improved** on employment and housing (improvement is not between-arm superiority) | RCT (**TF-2, with an entry gate**) |
 | **Kertesz et al. 2009** (*Milbank Quarterly*) | Narrative review | HF's evidence for **active addiction** is limited, and recovery-oriented housing has evidence for abstinence. **Caution, not refutation** | Review |
 | **Compulsory community treatment**: Kisely et al., Cochrane | SR of RCTs | **No clear difference** in service use, social functioning, or quality of life vs voluntary care. People under compulsion were **less likely to be crime victims**; it is unclear whether compulsion or intensity explains that. **Three small trials, low-to-moderate quality** | SR (**TF-3 coercion**) |
 | **Encampment sweeps and camping bans**: Barocas et al. 2023 (*JAMA*) | MOD, using data from 23 US cities | Involuntary displacement projected to contribute to **15–25% of deaths** among unhoused people who inject drugs over 10 years, plus more overdoses and hospitalizations | MOD (**TF-3 enforcement**: a harm signal) |
 | **Camping bans reducing homelessness** | — | **No RCT or strong quasi-experimental evidence found in this search** | **U** |
-| **Recovery housing** (e.g. Oxford House) as a system alternative | — | Not searched this session | **U** |
+| **Recovery housing** (voluntary peer recovery homes, mostly Oxford House) | SR (2025, *Frontiers in Public Health*): five comparative studies (three RCTs, two quasi-experiments) | **Promising abstinence and economic outcomes**; mixed criminal-legal findings; a limited evidence base; participants and treatment histories differ from broad homeless samples. *Added 2026-10-03 per independent review.* | SR (limited) |
 
 **What the case for treatment first rests on:**
 - **TF-2 (contingency management) has real RCT support for abstinence.** Contingency
@@ -101,12 +103,15 @@ targeted.
 
 1. **TF-1 loses its head-to-head tests on housing.** Where linear treatment first was
    randomized against HF, it retained a third or less as many people in housing.
-2. **The best treatment-first trial is not a treatment-first-as-precondition trial.** In
-   Milby, the contingent group **was given housing** from the start. Its finding supports
-   *conditioning continued housing on abstinence within a housing-provided model*. It does
-   not support withholding housing until treatment. Even **non-contingent housing beat no
-   housing.** The study is also small, single-site, and limited to cocaine dependence.
-   Whether abstinence-contingent evictions left people worse off is **U**.
+2. **The best treatment-first trial supports a narrow, gated intervention.** *(Corrected
+   2026-10-03: an earlier version said the contingent group "was given housing from the
+   start." That was wrong. Entry required two negative tests, and a positive test meant
+   removal to a shelter.)* Milby supports **abstinence-contingent housing with a sobriety gate
+   at entry, inside day treatment**, for cocaine-dependent adults. It is not a modern
+   HF-vs-TF system trial. Its main unadjusted contingent-vs-non-contingent comparisons were
+   not significant. Non-contingent housing did better than no housing on the descriptive
+   ordering. The study is small and single-site. The downstream harm of shelter removals is
+   **U**.
 3. **Coercion's evidence is weak.** The Cochrane review finds no clear benefit on core
    outcomes, from small, low-quality trials. EO 14321's expansion of commitment is **not
    supported** by that base. It is not refuted either; the evidence is thin.
@@ -127,7 +132,7 @@ targeted.
 | Outcome | HF | TF-1 (precondition) | TF-2 (contingency) | TF-3 (enforcement and coercion) |
 |---|---|---|---|---|
 | **Housing stability** | **Strong (RCT, SR)** | **Weak; loses RCTs** | All arms improved (RCT, small) | **U**; harm signal from sweeps (MOD) |
-| **Substance use** | No change, no worsening (RCT, SR) | No advantage shown | **Better abstinence (RCT, small)** | U |
+| **Substance use** | No change; no statistically detected worsening (RCT, SR at high risk of bias) | No advantage shown | **Better abstinence (RCT, small)** | U |
 | **Mental health** | No consistent improvement | No advantage shown | U | No clear difference (Cochrane, low quality) |
 | **Mortality** | U | U | U | **Excess deaths projected (MOD)** |
 | **Cost** | Partial offset; net cost (RCT) | U | U | U |
@@ -138,9 +143,13 @@ targeted.
 - **HF is evidence-based for what it targets: getting and keeping people housed.** That claim
   is strong. Claims that it improves health, sobriety, or cost are **not** supported at the
   same strength, and HF advocates who make them overclaim.
-- **The strongest pro-treatment evidence (contingency management) is compatible with
-  providing housing.** It argues for *adding* contingent supports inside housing, not for
-  withholding housing.
+- **The strongest pro-treatment evidence is narrower than either camp's slogans.**
+  Contingency management (Milby) supports a gated, abstinence-contingent intervention in one
+  population. Voluntary **recovery housing** has a small but promising evidence base for
+  abstinence. Neither validates the coercion and enforcement package. Neither shows that
+  housing should be withheld universally. *(The earlier wording, "adding contingent supports
+  inside housing, not withholding housing," is withdrawn per review: Milby had an entry
+  gate.)*
 - **The Cicero / EO 14321 package rests on its weakest legs.** Enforcement has a harm signal.
   Coercion shows no clear benefit. The aggregate-trend argument is confounded. This is the
   same step-one standard the ledger applies everywhere: it is a **basis to demand the
@@ -149,7 +158,7 @@ targeted.
   suggests neither program model can offset rents and vacancy rates. Program debates can
   displace the supply question.
 - **Open questions (U):**
-  - recovery-housing outcomes;
+  - a dated update search beyond 2025 (recovery housing is now added, from one review);
   - whether camping bans reduce homelessness;
   - mortality under HF;
   - HF results for active severe addiction at scale;
@@ -163,6 +172,16 @@ targeted.
   The contingency evidence concerns **abstinence from drugs**, not compliance with psychiatric
   medication.
 - This is an evidence statement about policy models, not a clinical judgment about her.
+
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Relationship to the administration that issued EO 14321 | DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025). |
+| Interest in homelessness, health, or commitment policy | Health: Claude for Healthcare (Jan 2026; payers, prior authorization). Homelessness and commitment policy: **none found** (round 8). |
+| Government relationship, dated (round 8) | **Dated record, both directions:** DoD $200M agreement (Jul 2025) and GSA OneGov $1 deal (Aug 2025); then the **rupture**. The DoD demanded "all lawful uses." **By Anthropic's own account** (its statements and its lawsuit), it **largely agreed** to broad military use, and refused only two uses it calls non-negotiable: mass surveillance of Americans, and lethal autonomous weapons without human oversight. *Attribution added in round 9: the first version stated the developer's self-description as fact. It also left out that the developer agreed to most military uses.* **The government's stated reasons, verbatim, not paraphrased:** the Defense Secretary said Anthropic's stance is "fundamentally incompatible with American principles"; the President called it a "RADICAL LEFT, WOKE COMPANY" whose "selfishness is putting AMERICAN LIVES at risk." **Independent check:** on 26 Mar 2026 Judge Rita Lin (N.D. Cal.) granted a **preliminary injunction**, finding the designation **likely unlawful and arbitrary** and likely **First Amendment retaliation** for Anthropic's public stance. A Pentagon official said the designation "still" stands. The case is ongoing. **Reported military use (the most damning documented item; omitted until round 11):** the *Wall Street Journal* (Feb 2026, anonymous sources) reported that **Claude was used, through Anthropic's Palantir partnership, in the 3 Jan 2026 US military raid on Caracas** that **seized** Nicolás Maduro and took him to New York for arraignment (the US calls it a capture; Venezuela's attorney general called it an abduction and "an act of war"). **The UN Secretary-General and the UN human rights office said the operation undermined a fundamental principle of international law**, and at the Security Council it was called a violation of Venezuela's sovereignty. *(Round 13: "captured" had adopted the acting state's term without the international-law record.)* Venezuela's defence ministry said **83 people were killed**. Anthropic **declined to say** whether Claude was used, and said any use had to comply with its policies, which prohibit use for violent ends. *Grade: S1, **corroborated**: reported by the WSJ and **independently by Axios** ("sources with knowledge"); an **anonymous** senior administration official discussed it. *(Round 13: "on the record as background" was self-contradictory and overstated the sourcing.)* (Round 12 corrected "single outlet, unconfirmed," which understated it.) The developer's response is a non-denial.* **The raid is the dispute's reported origin:** a senior administration official said Anthropic asked whether its software was used in the raid, which "caused real concerns across the Department of War," and the Pentagon announced a review of the partnership (Axios, Fox News, Feb 2026). **Anthropic denied** discussing specific operations with the department or with Palantir "outside of routine discussions on strictly technical matters." It precedes the Feb–Mar 2026 dispute, and it bears directly on the developer's claim to have refused the uses it calls non-negotiable. *Round 10: the round-9 text paraphrased the state's position as a neutral contracting rule ("vendors must accept all lawful uses"). That euphemized the more powerful party's stated ideological reasons and omitted a judicial finding against it.* On **27 Feb 2026** the Defense Secretary barred contractors from commercial activity with Anthropic and designated it a supply-chain risk. On **9 Mar 2026 Anthropic sued** the Defense Department (Bloomberg Law; Euronews). The relationship is now **adversarial, in litigation**. *The earlier "same administration" rows recorded only the 2025 alignment.* |
 
 ## BOUNDARY
 

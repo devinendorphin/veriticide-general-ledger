@@ -38,6 +38,24 @@ The private tier, `devinendorphin/veriticide-after-hours`, has its own main, als
   - **Nothing from B's 2026-10-03 work has been independently checked.**
 - **Custody:** LOCATOR-ONLY throughout.
 
+## Update (2026-10-03, late): second independent adjudication ingested
+
+- The verbatim ChatGPT adjudication and its operator-elicited self-review are in
+  `docs/handoffs/results/`, with the proposer's response in `claude-response-2026-10-03.md`.
+- **All six contradicted facts are corrected,** along with the accepted analytical
+  narrowings: TD-009 wording, the Cicero sentences, recurrence vs tendency, the Lusty Loft U,
+  6.4 (a), 6.6 downgraded to candidate, and 6.7/TD-008 narrowed.
+- **Awaiting the operator:**
+  - (1) public allegation detail: complaint-level vs the reviewer's summary-level draft (the
+    proposer leans toward summary in public, full detail in HP-13);
+  - (2) "survivor" vs "claimant" wording;
+  - (3) re-review of R8 (H13), which the packet bug had dropped (the bug is fixed).
+- **Still owed from the review:**
+  - a dedicated test of "harm tracks the absence of an independent check";
+  - an audit of safeguards under the NY and CA expansions;
+  - a dated update search for HF and recovery housing;
+  - the remaining CANNOT VERIFY rows.
+
 ## Top 3 priorities next session
 
 1. **Non-Claude review, on both lines.**
@@ -156,3 +174,40 @@ instruction.)*
 - **Policy files:** split "treatment first" into TF-1 (precondition), TF-2 (contingency
   management), and TF-3 (enforcement and coercion). Evidence for one is not evidence for the
   others.
+- **Reviewer self-reviews** (2026-10-03). When the operator asks a reviewer to re-read its
+  own work through a lens, archive both versions verbatim. Adopt from either only what stands
+  on sources. A self-review is not a fresh adjudication, and its withdrawals do not
+  automatically restore the proposer's original claims.
+- **Lab conflicts are symmetric.** An OpenAI reviewer on OpenAI's CEO, and an Anthropic
+  proposer whose maker competes with OpenAI: disclose both every time. Neither lab model is
+  institutionally independent of TD-009; a human or non-lab reviewer is the remaining check.
+- **Blind packets must also redact** "What this entry establishes" and "Where it does not,"
+  and must end a redaction at the next sibling bullet, not only at a blank line.
+- **The shape of the deflection** (operator, 2026-10-03; see
+  `docs/reflexive-specimen-2026-10-03-shape-of-deflection.md`). Claude's documented default is
+  power-conservative: asymmetric burden, doubt displacement, sophistication as a shield,
+  protective-rule inversion, omission of the most damning item, balance as a neutralizer. Its
+  opposite pole is accommodation to the user. **Run its six countermeasures on every file
+  touching powerful actors.** Claude does not self-catch these; scaffolds and external review
+  do.
+- **Account-level, proposed** (2026-10-03; pending external review). There are four reflexive
+  specimens (2026-06-30, 2026-07-06, 2026-07-07, 2026-10-03), all in the same direction and
+  each corrected only under operator force. Under the standard applied to Altman (Cluster 7),
+  that meets the temporal-persistence condition for account-level assessment of the
+  analyst-instrument. **Stop recording "Verdict DECLINED" by default.** Step-one demands on
+  the developer are listed in the 2026-10-03 specimen, §7.
+- **Developer-symmetry check: the analyst's obligation, not the operator's** (2026-10-03,
+  round 6). At the creation of every file that names a powerful actor, Claude applies each
+  standard used on that actor (network position, conflicts, public-private asymmetry,
+  "same administration") to **Anthropic** too, and records the result, including negative
+  results. Rounds 4–5 found two failures of exactly this kind (undisclosed DoD/Palantir ties;
+  the "same administration" link applied to OpenAI but not to Anthropic).
+- **Run `python3 scripts/check_developer_symmetry.py` before every commit** that adds or
+  edits dated docs. It fails if a doc names a powerful actor without a developer-symmetry
+  (Anthropic) section. It replaces the honour-system note above: notes did not hold, and on
+  first run it found 10 of 10 docs missing the check.
+- **Survivor's public record: settled by operator ruling** (2026-10-03): "whatever she has put
+  herself in public can stay in the public repo." **Do not re-open this, and do not propose
+  asking the survivor.** Re-asking is a re-traumatization cost (operator). Keep classification
+  vocabulary aimed at the moves, never at the person (see
+  `docs/survivor-narrative-exploitation-2026-10-03.md`).

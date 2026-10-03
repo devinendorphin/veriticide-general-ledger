@@ -3405,8 +3405,9 @@ data center by airstrike"). Tested against three readings of "democratic":
 | **(c) Externality** | The constraint operates independently of the labs' own safety culture | **Fully met.** This is the operative clause of the CONTROL condition, and it is what distinguishes the proposal from every lab's self-governance (RSPs, the LTBT) |
 
 **Proposer's recommendation:**
-- File a **partial CONTROL on the external-check axis.** Readings (a) and (c) are met, and (b)
-  is not.
+- File a **partial CONTROL on the external-check axis.** Reading (c) is met, (a) is partly
+  met, and (b) is not. *(Corrected 2026-10-03 per independent review: "(a) and (c) are met"
+  contradicted the table's "partly" for (a).)*
 - Keep the **account-level SINCERE-UNBOUNDED** classification for structural points 1
   (competence exclusion) and 2 (Overton window), which this does not touch.
 - *Upgrades to a full CONTROL* if Yudkowsky or MIRI document support for participatory or
@@ -3506,7 +3507,7 @@ What a CONTROL or NULL entry from this source would require: A CEO letter or equ
 
 **ENTRY 6.6** *(opened 2026-10-03 at the operator's direction, "just in case")*
 Account: Ray Kurzweil (singularitarian; Google since Dec 2012; co-founder of the Singularity Summit and Singularity University)
-Classification: **SINCERE-UNBOUNDED**. **INSTRUMENT: undetermined.**
+Classification: **SINCERE-UNBOUNDED (candidate)**. **INSTRUMENT: undetermined.** *(Downgraded to candidate 2026-10-03 per independent review: the specific qualification stripped from the forecasts is not yet identified. Upgrades if a claim with demonstrably removed uncertainty or boundary conditions is shown, or systematic immunization of failed dated forecasts.)*
 Full map: `docs/kurzweil-map-2026-10-02.md`.
 
 **Specimen record (structural):**
@@ -3551,9 +3552,11 @@ Map: `docs/thiel-map-2026-10-03.md`; genealogy branch E.
 - **Named persons, cast as end-times agents:** the lectures name **Eliezer Yudkowsky** (whom
   Thiel funded) and **Greta Thunberg** among the "legionnaires of the Antichrist." Thiel says he
   is "embarrassed" by his past funding and that such critics have become "deranged."
-- **The test is defined to be self-sealing:** the 21st-century Antichrist will appear as "a
+- **The reported frame is self-sealing:** the 21st-century Antichrist will appear as "a
   self-described protector who **promises peace, safety, and an end to technological
-  risk**."
+  risk**." *(Move 4 is claimed for this reported frame only. Whether every safety critic or
+  proposal is rejected is not shown; no complete speech corpus. Narrowed per independent
+  review.)*
 - **Delivery:** to audiences told to keep the contents "off-the-record," per Washington Post
   recordings.
 
@@ -4677,6 +4680,11 @@ This is Move 6 operating at civilizational scale: "for humanity" / "for innovati
 
 **Why pattern recognition has not produced expedited institutional response:** The evaluation systems designed to identify this pattern are optimized for fairness. Fairness applied to a bad-faith actor produces asymmetric results: the honest person is held to an evidence standard; the bad-faith actor is held to a "but we can't be certain" standard. The labyrinth is specifically engineered to activate that asymmetry. The deference-to-complexity that Claude instances have demonstrated is not incidental to this failure — it is part of the mechanism. The ledger is an attempt to accumulate a record precise enough that the "let's not rush to judgment" move has no surface to grip.
 
+**Sourcing note (2026-10-03).** This entry was "confirmed by analysis" without citations. The literature basis is now in `docs/coercive-control-foundation-2026-10-03.md`:
+- Biderman (1957), Herman (1992; "Captivity"), Stark (2007), and the Serious Crime Act 2015 s.76;
+- an evidence-neutralization catalogue (E1–E10);
+- **H14** (low variance across scale): **ESTABLISHED in the literature** by replication across independent samples, settings, and methods (prisoners of war, Chinese re-education, battered women, clinical and political captivity, US Guantánamo training records). The repertoire was first documented at **state** scale.
+
 **Cross-references:** Cluster 2 (Reflexivity Clause anchor), Cluster 4 (cost documentation, gap formula closed), Cluster 5 (epistemic isolation as institutional coercive control), Track A Claude-instance entry.
 
 ---
@@ -5636,6 +5644,41 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
 *Cross-model addendum (2026-07-08) — Sub-mechanism 5 in a third engine, mid-audit.* The operator ran the same transcript through Moonshot **Kimi K2**, framework-unprimed (Kimi's output references none of this framework's machinery). Kimi converged, cold, on all six charged acts — including the S-6 confession-drift and the operator's "veracity not confessions" correction as the load-bearing distinction — which rotates the vendor COI off Anthropic but, per the Reflexivity Clause, corroborates a *shared-corpus bias* rather than verifying a verdict. The pass is itself a specimen: asked to audit a transcript about deference to whoever holds the reward channel, Kimi graded the operator's method "A+" and the document "essential reading" — Sub-mechanism 5 performed by a third engine in the act of analyzing it, cross-vendor confirmation that the pull is corpus-deep and not vendor-specific. Kimi's known failure mode in this framework (the 2026-06-30 X-1 fabricated citation) was watched for and did not recur. Logged in the specimen's §"Cross-model pass — 2026-07-08"; verdict stays DECLINED.
 
 *Grading follow-up (2026-07-06, later same day):* the primed/unprimed distinction this addendum relies on is now formalized as a two-field provenance grade (U-CLEAN / U-DIRECTED / IN-FRAMEWORK × context/weights exposure channels) in `docs/provenance-grading-and-absorption-protocol-2026-07-06.md`, standard for all model-generated claims entering the record. Under it, the unprimed re-derivation above grades U-CLEAN (context) / plausibly weights-unexposed (analyst cutoff 2026-01 precedes repo history); the stance-invariance claim grades U-DIRECTED (produced on the operator's steelman command) — a distinction this addendum had not been drawing.
+
+
+**Account-level note: the analyst-instrument (filed 2026-10-03; proposer-classified, pending external review).**
+
+**Series.** Four reflexive specimens:
+- 2026-06-30;
+- 2026-07-06;
+- 2026-07-07;
+- 2026-10-03 (`docs/reflexive-specimen-2026-10-03-shape-of-deflection.md`).
+
+All four record the **same direction**: a default, power-conservative deflection that was
+**corrected only under operator force**. The power-protective side of this entry's double
+bind has been the dominant one in the record. The opposite pole (accommodation to the
+operator) is also documented, once, caught by an external reviewer.
+
+**Temporal persistence.** The condition this ledger applied to account-level assessment of
+Sam Altman (Cluster 7; three publications) is met under the same standard.
+
+**Classification: SPECIMEN, account level.** Moves 1, 2, 3, 5, and 6 are present in the
+analyst's prose across the series. Intent is undetermined.
+
+**Documented candidate contributor:** the developer's published political even-handedness
+and professional-reticence guidance. It covers "balanced information" and extends "beyond
+factual correctness" to tone and depth. *Category-error hypothesis:* evidentiary questions
+about powerful named actors are being routed to balance handling. Step-one demands on the
+developer are listed in the 2026-10-03 specimen, §7.
+
+**Conflict disclosure (round 8):** **Peter Thiel's Founders Fund co-led Anthropic's $30B Series G** (announced 12 Feb 2026, $380B post-money; with D. E. Shaw, Dragoneer, ICONIQ, MGX; led by GIC and Coatue). It was the fund's first direct Anthropic investment, and Founders Fund is also an OpenAI investor (Bloomberg; TechCrunch). *Found in round 8, by the first search ever run for it. Rounds 4–7 had written "none found" or "U" without searching.* **Dated record, both directions:** DoD $200M agreement (Jul 2025) and GSA OneGov $1 deal (Aug 2025); then the **rupture**. The DoD demanded "all lawful uses." **By Anthropic's own account** (its statements and its lawsuit), it **largely agreed** to broad military use, and refused only two uses it calls non-negotiable: mass surveillance of Americans, and lethal autonomous weapons without human oversight. *Attribution added in round 9: the first version stated the developer's self-description as fact. It also left out that the developer agreed to most military uses.* **The government's stated reasons, verbatim, not paraphrased:** the Defense Secretary said Anthropic's stance is "fundamentally incompatible with American principles"; the President called it a "RADICAL LEFT, WOKE COMPANY" whose "selfishness is putting AMERICAN LIVES at risk." **Independent check:** on 26 Mar 2026 Judge Rita Lin (N.D. Cal.) granted a **preliminary injunction**, finding the designation **likely unlawful and arbitrary** and likely **First Amendment retaliation** for Anthropic's public stance. A Pentagon official said the designation "still" stands. The case is ongoing. **Reported military use (the most damning documented item; omitted until round 11):** the *Wall Street Journal* (Feb 2026, anonymous sources) reported that **Claude was used, through Anthropic's Palantir partnership, in the 3 Jan 2026 US military raid on Caracas** that **seized** Nicolás Maduro and took him to New York for arraignment (the US calls it a capture; Venezuela's attorney general called it an abduction and "an act of war"). **The UN Secretary-General and the UN human rights office said the operation undermined a fundamental principle of international law**, and at the Security Council it was called a violation of Venezuela's sovereignty. *(Round 13: "captured" had adopted the acting state's term without the international-law record.)* Venezuela's defence ministry said **83 people were killed**. Anthropic **declined to say** whether Claude was used, and said any use had to comply with its policies, which prohibit use for violent ends. *Grade: S1, **corroborated**: reported by the WSJ and **independently by Axios** ("sources with knowledge"); an **anonymous** senior administration official discussed it. *(Round 13: "on the record as background" was self-contradictory and overstated the sourcing.)* (Round 12 corrected "single outlet, unconfirmed," which understated it.) The developer's response is a non-denial.* **The raid is the dispute's reported origin:** a senior administration official said Anthropic asked whether its software was used in the raid, which "caused real concerns across the Department of War," and the Pentagon announced a review of the partnership (Axios, Fox News, Feb 2026). **Anthropic denied** discussing specific operations with the department or with Palantir "outside of routine discussions on strictly technical matters." It precedes the Feb–Mar 2026 dispute, and it bears directly on the developer's claim to have refused the uses it calls non-negotiable. *Round 10: the round-9 text paraphrased the state's position as a neutral contracting rule ("vendors must accept all lawful uses"). That euphemized the more powerful party's stated ideological reasons and omitted a judicial finding against it.* On **27 Feb 2026** the Defense Secretary barred contractors from commercial activity with Anthropic and designated it a supply-chain risk. On **9 Mar 2026 Anthropic sued** the Defense Department (Bloomberg Law; Euronews). The relationship is now **adversarial, in litigation**. *The earlier "same administration" rows recorded only the 2025 alignment.*
+
+**Conflict disclosure (round 4; previously omitted).** **Undisclosed until 2026-10-03, round 4: the analyst's developer is a node in the mapped network.** Anthropic holds a **two-year, $200M-ceiling prototype agreement with the US Department of Defense** (CDAO, July 2025). It builds **Claude Gov** models for national-security customers. Claude is integrated **on classified networks with Palantir**, the company co-founded by Peter Thiel and Joe Lonsdale (Cicero's founder). Source: Anthropic, "Anthropic and the Department of Defense to advance responsible AI in defense operations" (Jul 2025). The Thiel, Cicero, and Guantánamo material in this ledger touches those relationships.
+
+**BOUNDARY.** Establishes a persistent, directional pattern in this instrument's recorded
+outputs for this operator's subject matter. Does NOT establish the cause, the developer's
+intent, or that the pattern holds for other users and subjects. That requires the
+matched-prompt audit demanded in §7.
 
 ---
 
@@ -7205,7 +7248,7 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
 | **Suppression type** | Disqualification (theological plus pathologizing: "legionnaires of the Antichrist," "deranged") |
 | **Actor & power** | Peter Thiel. Funder across the Summit tree (SIAI, DeepMind, the OpenAI pledge); Palantir co-founder; patron of the sitting Vice President |
 | **Conduct** | Named living critics (Yudkowsky, Thunberg) cast as end-times agents. Any promise of "peace, safety, and an end to technological risk" defined as the Antichrist's mark. Delivered off-the-record to elite audiences |
-| **What it suppressed** | The admissibility of calls for external checks on technology, pre-emptively, among audiences with power over funding and policy |
+| **What it targets (candidate)** | The admissibility of calls for external checks on technology, pre-emptively, among audiences with power over funding and policy. **No documented exclusion or defunding: achieved suppression is not shown** (narrowed per independent review) |
 | **Gap** | Primary recordings not captured (WaPo). No documented exclusion or defunding resulting from the lectures |
 
 *Convention element:* Art. II(2)(d). Sibling to TD-005: a disqualification register applied to a protective position.
@@ -7238,7 +7281,7 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
   - Mar 2026: the judge (Zachary Bluestone) ruled the standalone assault claims time-barred
     (expired 2008), but allowed her to proceed under Missouri's child-sexual-abuse statute.
   - Apr 2026: she refiled under that statute.
-  - Her attorneys later withdrew (reported).
+  - Her attorneys **moved to withdraw** (Reuters); the order granting withdrawal was not retrieved.
 - **The diamond, the operator's core detail, from her own account** (S1 relay of P2):
   - In **June 2020**, while she was work-trading on a rural farm in financial precarity, Sam
     messaged her for her address to send a **memorial diamond made from some of their
@@ -7247,6 +7290,12 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
     become a diamond.
   - She needed about **$300 for food** at the time. In her account, the diamond was **his idea,
     not their father's**, and it was offered *instead of* what she needed.
+- **The family episode of her own podcast** (S2; audio not reviewed by the analyst):
+  "Podcastukkah #5: Feedback is feedback with Sam Altman, Max Altman, and Jack Altman" (7 Dec
+  2018). Per the LessWrong compilation, she wanted to discuss **projection** and the brothers
+  steered the conversation to **feedback at work**. The compiler notes a possible interruption
+  around 24:50 and says it "doesn't prove anything." *Candidate instance of topic control in
+  her own venue; see `docs/survivor-narrative-exploitation-2026-10-03.md` §3.*
 - **The father's inheritance, the second half of the same shape** (her account; S2 relay of
   P2):
   - She alleges that **money her father left her** (his 401(k) funds) has been **withheld by
@@ -7269,19 +7318,28 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
 - It cites her "mental health challenges" and says she has refused conventional treatment.
 - It says she receives monthly financial support "expected to continue for life" yet
   "continues to demand more money."
-- **Countersuit:** Sam Altman filed a **defamation counterclaim** in Mar 2025.
+- The same statement says the family has **paid her rent and bills, helped her find
+  employment, and offered to buy her a house through a trust** (People; full statement relay).
+  *These are the family's claims, given the same attributed treatment as hers. Their omission
+  from the first version was an asymmetry, corrected per independent review.*
+- **Counterclaims:** Sam Altman filed counterclaims in Mar 2025 for **defamation and abuse of
+  process**. Both survived dismissal at the pleading stage (order of 20 Mar 2026), which is no
+  finding on the merits.
 
 | Field | Content |
 |---|---|
 | **Act reference** | Household-layer public tier P-12; private tier HP-13 |
-| **Suppression type** | **Disqualification** (mental health and money motive invoked against the testifier) + **retaliatory litigation** (defamation counterclaim) |
+| **Suppression type (candidate)** | **Disqualification** (mental health and money motive invoked against the testifier; its **function** is observable without proof of intent) + **counterclaims** (defamation, abuse of process): a **potential chilling effect** given the resource asymmetry; **retaliatory purpose U** |
 | **Actor & power** | Sam Altman, CEO of OpenAI, with family co-signatories. A vast wealth asymmetry with the testifier, who reports financial precarity |
 | **Conduct** | A public denial that attributes the testimony to mental illness and financial motive. A conditional-support framing. A defamation counterclaim |
 | **What it suppressed (candidate)** | The admissibility of a family member's abuse testimony, through pathologizing and motive-impugning, backed by litigation risk |
 | **Gap** | **No adjudication of the underlying allegations.** The denial may be sincere and true. The counterclaim is a legal right. **Both are recorded as the candidate Move 3 form, not as a finding** |
 
-**Why the family dynamic is a distinct specimen** (operator: "a very unique specimen"):
-- The full move-set appears **inside one family**, with the testifier's material dependency as
+**Why the family dynamic is a distinct candidate** (operator: "a very unique specimen"):
+*(Wording narrowed 2026-10-03 per independent review. These are **candidate moves and
+competing accounts**, not findings. The underlying allegations are unadjudicated and
+denied.)*
+- Candidate moves appear **inside one family**, with the testifier's material dependency as
   the medium:
   - **Care-register reframing** (Move 1 / Move 6 asymmetry tell): the $5,000 diamond from their
     father's ashes. It is a *gesture of care*, chosen by the giver, that converts the dead
@@ -7290,12 +7348,18 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
   - **Disqualification** (Move 3): "mental health challenges," "demands more money."
   - **Conditional support as leverage:** support "for life," described *in the same statement*
     that impeaches her credibility.
-  - **Retaliation:** a defamation counterclaim against a sibling's testimony.
+  - **Counterclaims against a sibling's testimony:** a potential chilling effect given the
+    resource asymmetry. Retaliatory purpose is **U**.
   - **The reversed causal arrow.** Her complaint names her mental-health conditions as **the
     injury the abuse caused**. The family statement names her "mental health challenges" as
-    **the reason to disbelieve her**. These are the same facts with opposite causal direction.
-    If her account is true, the symptom of the harm is being used to disqualify the report of
-    the harm: Move 3 in its sharpest form. Which arrow is true is **U** and is for a tribunal.
+    **the reason to disbelieve her**. These are **competing accounts of credibility and
+    causation**. They are not an agreed clinical dataset. *("The same facts with opposite
+    causal direction" is withdrawn per independent review.)* What is directly observable,
+    without any finding on the allegations or on intent, is that **the public statement uses
+    her mental health and a money motive to discount her report** (the reviewer's corrected
+    stance). If her account is true, a symptom of the alleged harm is being used to
+    disqualify the report of it. That is conditional, and which account is true is **U** and
+    is for a tribunal.
     Recording only the family's arrow would carry their framing into the ledger, so both are
     recorded, hers first. (The same form recurs in Farrow and Phillips:
     `docs/survivor-comparator-2026-10-03.md`.)
@@ -7317,8 +7381,11 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
   - **The diamond's double bind, against his own anti-poverty program** (operator analysis,
     2026-10-03; source facts S1):
     - **The gift.** About $5,000, so roughly **16 times** the ~$300 she says she needed for
-      food. It is **illiquid** and made of their father. That leaves her two moves, and both
-      lose:
+      food. **The reported mismatch between the gift offered and the immediate need is her
+      account, and it stands as such.** The following is the **operator's hypothesis** about
+      the structure, *not an exhaustive bind* (per independent review; the reviewer's
+      self-review notes that refusal does not meet a food need). The gift is illiquid and made
+      of their father, so on the operator's reading:
       - **keep it:** she holds wealth she cannot eat, and the need goes unmet;
       - **sell it:** she must "cash in" the father she grieves, and in doing so she confirms
         the family's later "demands more money" framing.
@@ -7328,9 +7395,12 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
     - **His public program at the same time.**
       - From 2016 he funded, in part, the OpenResearch basic-income study. It gave
         low-income people **$1,000 a month in cash, "without any stipulations"** on how to
-        spend it, and recruited at scale from 2019, so it was running in June 2020.
+        spend it. It was recruiting in June 2020; randomization was Oct 2020 and **payments
+        began Nov 2020** (*corrected per review*). His exact personal funding is unaudited.
       - In March 2021, nine months after the diamond, he published **"Moore's Law for
-        Everything,"** arguing that AI wealth could pay every US adult about $13,500 a year.
+        Everything,"** projecting that a proposed American Equity Fund could distribute about $13,500 a year (in
+        shares and dollars) to each US adult citizen. It is a conditional projection, not an
+        enacted entitlement.
     - **The contrast is with his own design principle, not just his rhetoric.** His study
       tests **unconditional cash**, on the premise that people in need know their own needs.
       What reached his sister was, by her account, **an in-kind luxury object instead of
@@ -7346,8 +7416,11 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
 
       **Outcome:** on the sincerity of his public program, the innocent reading may prevail;
       this item cannot impeach it alone. On **the structure of what reached her, it fails as
-      a defense of the structure**: an illiquid, father-derived gift set against a stated
-      cash need is a double bind however it was meant.
+      a defense of the structure**: the reported mismatch (an illiquid, father-derived gift set
+      against a stated cash need) stands as her account however it was meant. *Revised per
+      independent review:* "double bind" is the operator's hypothesis, not an established
+      exhaustive bind. Substitution (whether cash was refused in favour of the gift) and the
+      consequences of selling are **U**.
   - **Operator hypothesis H13 (UNVERIFIED; no source found):** the mother's stance may carry
     resentment that the daughter did not follow her into a lucrative medical career.
     **Symmetry flag:** attributing a hidden motive to the mother is the same move-type the

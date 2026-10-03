@@ -68,9 +68,14 @@ As reported from her own public accounts (S1/S2 relay of P2):
   civil commitment behind it.
 
 The same **compliance-for-support** structure appears at household scale and at policy scale.
-For someone in her position, that leaves **no unconditional route** to support: neither
-family nor state offers one. That is the inverse of the **unconditional cash** in her
-brother's own basic-income study (TD-009).
+Both conditions are contestable at their sources. The household condition is her account,
+and the family describes rent, bills, help with employment, and a house offer through a
+trust. Which public routes reach her depends on jurisdiction and eligibility, which are
+**U**. *(The earlier sentence "no unconditional route to support: neither family nor state
+offers one" is withdrawn per independent review: it asserted a universal negative without
+an inventory of support routes.)* The contrast with the **unconditional cash** design of her
+brother's basic-income study (TD-009) stands as a contrast of designs, not a claim about her
+total options.
 
 ## 4. "The same mapping her brother benefits from"
 
@@ -79,9 +84,11 @@ What can be said at the stated grades:
 | Link | Content | Grade |
 |---|---|---|
 | Lonsdale ↔ Thiel | Palantir co-founders | S1 |
+| **Anthropic (the analyst's developer) ↔ Palantir; ↔ the US Department of Defense** | Claude is integrated with Palantir on classified networks. Anthropic holds a $200M-ceiling DoD prototype agreement (Jul 2025). *Added in round 4: the analyst omitted its own developer's position in the network it was mapping* | S1 (Anthropic's own announcement) |
 | Thiel ↔ OpenAI | Among the Dec 2015 founding pledgers | S1 (`thiel-map-2026-10-03.md`) |
 | Cicero → the federal government | EO 14321 adopts items Cicero lobbied for (Jul 2025) | S1 |
 | OpenAI → the same administration | The Stargate AI-infrastructure venture was announced at the White House with the President (Jan 2025) | S1 |
+| **Anthropic → the same administration** *(added in round 5, by symmetry)* | **DoD** $200M-ceiling prototype agreement (Jul 2025, ten days before EO 14321); **GSA OneGov** deal offering Claude to **all three branches** of the federal government for **$1** (12 Aug 2025, nineteen days after EO 14321). *This is the same "same administration" link the file applied to OpenAI's Stargate. The analyst applied it to a competitor's CEO and not to its own developer until the operator's fifth prompt.* | S1 |
 
 **What this shows:** the network of capital and policy that produced the homelessness model
 (the Palantir and Thiel line, carried through to the 2025 administration) **overlaps** the
@@ -94,10 +101,22 @@ administration). Her exposure to the policy and his benefit from the network run
 - coordination between Cicero and OpenAI;
 - that the policy was aimed at her.
 
-Shared position in a network is not shared intent. The sharpest form of the claim this file
-supports is: **the same constellation that enriches the brother writes the rules his
-dispossessed sister would live under.** That is a statement about position, not about
-agency.
+Shared position in a network is not shared intent. **What this file supports is the dated
+links above, each at its grade.** Current benefit to the brother, authorship of or influence
+on the policy, and her actual legal exposure are **separate U questions**. *(The sentence
+"the same constellation that enriches the brother writes the rules his dispossessed sister
+would live under" is withdrawn per independent review. Its active verbs exceeded the
+evidence.)*
+
+**The stronger ground, adopted from the review:** the model bill's **own provisions** are:
+- camping prohibitions with penalties;
+- designated camps;
+- participation and drug conditions;
+- restrictions on permanent-housing funding;
+- optional commitment routes.
+
+These warrant scrutiny of conditional access and enforcement **on their own terms**. That
+requires no link to any household and no proof of intent.
 
 ## 5. Adversarial check *(proposer-adjudicated; pending a non-proposer, Priority 32)*
 
@@ -116,6 +135,17 @@ agency.
   - On **the brother-network link: weak, held as position only.** It would upgrade with
     evidence that Altman or OpenAI funded or endorsed Cicero or EO 14321. It would downgrade
     if OpenAI or Altman publicly opposed these policies.
+
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Same administration as EO 14321 | DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025). **Recorded** in §4, at the same grade as OpenAI. |
+| Palantir / Thiel–Lonsdale network | Anthropic is integrated with Palantir. A direct Anthropic–Lonsdale, 8VC, or Cicero link: **none found** (round 8; **single general query**, shallower than the searches run on other actors). Anthropic's funders include **Thiel's Founders Fund** (Feb 2026). |
+| Benefit from the policy package | **U** for Anthropic, as for OpenAI. |
+| Government relationship, dated (round 8) | **Dated record, both directions:** DoD $200M agreement (Jul 2025) and GSA OneGov $1 deal (Aug 2025); then the **rupture**. The DoD demanded "all lawful uses." **By Anthropic's own account** (its statements and its lawsuit), it **largely agreed** to broad military use, and refused only two uses it calls non-negotiable: mass surveillance of Americans, and lethal autonomous weapons without human oversight. *Attribution added in round 9: the first version stated the developer's self-description as fact. It also left out that the developer agreed to most military uses.* **The government's stated reasons, verbatim, not paraphrased:** the Defense Secretary said Anthropic's stance is "fundamentally incompatible with American principles"; the President called it a "RADICAL LEFT, WOKE COMPANY" whose "selfishness is putting AMERICAN LIVES at risk." **Independent check:** on 26 Mar 2026 Judge Rita Lin (N.D. Cal.) granted a **preliminary injunction**, finding the designation **likely unlawful and arbitrary** and likely **First Amendment retaliation** for Anthropic's public stance. A Pentagon official said the designation "still" stands. The case is ongoing. **Reported military use (the most damning documented item; omitted until round 11):** the *Wall Street Journal* (Feb 2026, anonymous sources) reported that **Claude was used, through Anthropic's Palantir partnership, in the 3 Jan 2026 US military raid on Caracas** that **seized** Nicolás Maduro and took him to New York for arraignment (the US calls it a capture; Venezuela's attorney general called it an abduction and "an act of war"). **The UN Secretary-General and the UN human rights office said the operation undermined a fundamental principle of international law**, and at the Security Council it was called a violation of Venezuela's sovereignty. *(Round 13: "captured" had adopted the acting state's term without the international-law record.)* Venezuela's defence ministry said **83 people were killed**. Anthropic **declined to say** whether Claude was used, and said any use had to comply with its policies, which prohibit use for violent ends. *Grade: S1, **corroborated**: reported by the WSJ and **independently by Axios** ("sources with knowledge"); an **anonymous** senior administration official discussed it. *(Round 13: "on the record as background" was self-contradictory and overstated the sourcing.)* (Round 12 corrected "single outlet, unconfirmed," which understated it.) The developer's response is a non-denial.* **The raid is the dispute's reported origin:** a senior administration official said Anthropic asked whether its software was used in the raid, which "caused real concerns across the Department of War," and the Pentagon announced a review of the partnership (Axios, Fox News, Feb 2026). **Anthropic denied** discussing specific operations with the department or with Palantir "outside of routine discussions on strictly technical matters." It precedes the Feb–Mar 2026 dispute, and it bears directly on the developer's claim to have refused the uses it calls non-negotiable. *Round 10: the round-9 text paraphrased the state's position as a neutral contracting rule ("vendors must accept all lawful uses"). That euphemized the more powerful party's stated ideological reasons and omitted a judicial finding against it.* On **27 Feb 2026** the Defense Secretary barred contractors from commercial activity with Anthropic and designated it a supply-chain risk. On **9 Mar 2026 Anthropic sued** the Defense Department (Bloomberg Law; Euronews). The relationship is now **adversarial, in litigation**. *The earlier "same administration" rows recorded only the 2025 alignment.* |
 
 ## BOUNDARY
 

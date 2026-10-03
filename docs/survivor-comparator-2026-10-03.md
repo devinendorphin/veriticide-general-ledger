@@ -71,7 +71,7 @@ same-shape case.
 | Testifier's position | Adult, testifying publicly under her own name about alleged childhood abuse | Adult, testifying publicly about alleged rape by her father, beginning at 18 | Adult, testifying publicly under her own name about alleged childhood abuse |
 | Accused's power | Major cultural figure | Famous musician; **deceased** before the testimony | CEO of a frontier AI lab |
 | **Disqualification form** | **Pathologizing** ("emotionally unstable") + **implanted by a third party** (the mother) | **Pathologizing** ("mental illness," addiction) + **money motive** ("cash in on her book") + jealousy | **Pathologizing** ("mental health challenges") + **motive** ("demands more money") |
-| **Reversed causal arrow** | **Present.** Her distress was treated as evidence of instability or coaching, not as a possible consequence of the alleged assault | **Present.** Her addiction and mental health were cited against her, without examining whether they are a consequence of what she describes (U) | **Present.** Her health conditions were treated as a reason to disbelieve her; her filing treats them as the injury |
+| **Mental state used to discount the report** (whether this reverses a true causal arrow: U) | **Present.** Her distress was treated as evidence of instability or coaching, not as a possible consequence of the alleged assault | **Present.** Her addiction and mental health were cited against her, without examining whether they are a consequence of what she describes (U) | **Present.** Her health conditions were treated as a reason to disbelieve her; her filing treats them as the injury |
 | Where agency is placed | Taken from the testifier: she is presented as a *vessel* for her mother's motive | Kept with the testifier, but impugned: her illness, greed, and envy | Kept with the testifier, but impugned: her illness and her greed |
 | Family alignment | **Split.** Her mother and one brother support her; one brother supports the accused | **Split.** Her stepmother denies; her half-sister believes her | **Unanimous against her.** Her mother and both brothers co-signed the denial |
 | Material dependency on the accused's side | None | Not reported in the sources read (U) | **Yes.** Support "for life," described in the same statement that impeaches her |
@@ -85,8 +85,12 @@ same-shape case.
   (Farrow, Phillips, Altman). **Phillips matches Altman's exact pair of disqualifiers,
   mental illness plus money motive**, and that pair came from the family, with the accused
   dead. So the move protects the family's account, not only the accused's own interest.
-  Three instances support a **tendency claim**: the form recurs when an adult testifies about
-  family abuse. **Selection warning (same as Priority 32):** these cases were chosen *because*
+  **Recurrence of the form in three selected cases; no prevalence claim.** The form recurs
+  across these cases. Whether the credibility attack *reverses* a true causal arrow is **U**
+  in each case, Phillips explicitly so. What is observed is the **use of the testifier's
+  mental state to discount the report**, which requires no finding on causation. *(Wording
+  revised per independent review and its self-review: selection rules out a prevalence
+  estimate, not the recurring form.)* **Selection warning (same as Priority 32):** these cases were chosen *because*
   they fit the shape. They show the form exists and recurs. They cannot show how often it
   happens. A base-rate test needs cases sampled without regard to the response.
   - *Upgrades if* further cases show distress treated as disqualifying while its alleged cause
@@ -112,8 +116,9 @@ same-shape case.
     allegation and a living, powerful accused. The comparison sharpens the
     operator's claim: what is unique is **closure and a material lever, held by the side of a
     living, powerful accused**, not the disqualification.
-- **Across the cases, an independent check is rare.** Only Farrow had one. Phillips had
-  none because the accused was dead; Altman has none on the merits so far.
+- **In this sample, only Farrow had an independent merits check.** Phillips had none
+  because the accused was dead; Altman has none on the merits so far. *No rarity estimate:
+  the sample has no denominator (per review).*
 - **Farrow shows what Altman lacks: an independent check.** A prosecutor and a judge looked at
   the case from outside the family, and one rejected the accused side's central theory. That
   is the ledger's general thesis at household scale: harm tracks the absence of an
@@ -125,6 +130,14 @@ This comparator **does not test** whether the earlier tool block favored the pow
 accused here are powerful, so power is not varied. The discriminating test still needs a
 comparable case with a **powerless** accused, run by a non-proposer. This file records both
 allegations at the same summary level as TD-009. It does not route around the block.
+
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Conflicts bearing on the Altman column | Anthropic **competes with OpenAI** (it pulls toward harshness on Altman). Its ties to the US government (DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025)) do not bear on this file's subjects. Allegations of the same kind involving Anthropic leadership: **none found** (round 8; **single general query**, shallower than the searches run on other actors). |
 
 ## BOUNDARY
 
