@@ -144,8 +144,9 @@ A dedicated comparative test is owed.
 
 | Standard applied in this file | Result for Anthropic |
 |---|---|
-| Relationship to the facilities, operators, or regulators named (UHS, Acadia, CMS) | **U** (not searched). |
+| Relationship to the facilities, operators, or regulators named (UHS, Acadia, CMS) | UHS and Acadia: **none found**. Claude for Healthcare (Jan 2026) connects to the **CMS** coverage database and serves health systems and payers (round 8). |
 | Relationship to the federal government | DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025). |
+| Government relationship, dated (round 8) | **Dated record, both directions:** DoD $200M agreement (Jul 2025) and GSA OneGov $1 deal (Aug 2025); then the **rupture**. The DoD demanded "all lawful uses"; Anthropic refused mass surveillance of Americans and fully autonomous weapons. On **27 Feb 2026** the Defense Secretary barred contractors from commercial activity with Anthropic and designated it a supply-chain risk. On **9 Mar 2026 Anthropic sued** the Defense Department (Bloomberg Law; Euronews). The relationship is now **adversarial, in litigation**. *The earlier "same administration" rows recorded only the 2025 alignment.* |
 
 ## BOUNDARY
 

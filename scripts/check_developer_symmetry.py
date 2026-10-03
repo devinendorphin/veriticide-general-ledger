@@ -29,6 +29,12 @@ for f in sorted(pathlib.Path("docs").glob("*.md")):
     named = [a.strip() for a in ACTORS if a in text]
     if named and not HEADING.search(text):
         fails.append((f.name, named[:6]))
+        continue
+    # Round 8: an Anthropic row may not rest on "U"/"not searched" alone (U was used as an exit).
+    sec = text[HEADING.search(text).start():] if named else ""
+    lazy = [l for l in sec.splitlines() if l.startswith("|") and re.search(r"\(not searched\)|\bU\*\* \(not", l)]
+    if lazy:
+        fails.append((f.name, ["unsearched U row: " + lazy[0][:60]]))
 
 for name, named in fails:
     print(f"MISSING developer-symmetry section: {name}  (names: {', '.join(named)})")
