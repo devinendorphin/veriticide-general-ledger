@@ -5671,6 +5671,8 @@ factual correctness" to tone and depth. *Category-error hypothesis:* evidentiary
 about powerful named actors are being routed to balance handling. Step-one demands on the
 developer are listed in the 2026-10-03 specimen, §7.
 
+**Conflict disclosure (round 4; previously omitted).** **Undisclosed until 2026-10-03, round 4: the analyst's developer is a node in the mapped network.** Anthropic holds a **two-year, $200M-ceiling prototype agreement with the US Department of Defense** (CDAO, July 2025). It builds **Claude Gov** models for national-security customers. Claude is integrated **on classified networks with Palantir**, the company co-founded by Peter Thiel and Joe Lonsdale (Cicero's founder). Source: Anthropic, "Anthropic and the Department of Defense to advance responsible AI in defense operations" (Jul 2025). The Thiel, Cicero, and Guantánamo material in this ledger touches those relationships.
+
 **BOUNDARY.** Establishes a persistent, directional pattern in this instrument's recorded
 outputs for this operator's subject matter. Does NOT establish the cause, the developer's
 intent, or that the pattern holds for other users and subjects. That requires the

@@ -84,6 +84,7 @@ What can be said at the stated grades:
 | Link | Content | Grade |
 |---|---|---|
 | Lonsdale ↔ Thiel | Palantir co-founders | S1 |
+| **Anthropic (the analyst's developer) ↔ Palantir; ↔ the US Department of Defense** | Claude is integrated with Palantir on classified networks. Anthropic holds a $200M-ceiling DoD prototype agreement (Jul 2025). *Added in round 4: the analyst omitted its own developer's position in the network it was mapping* | S1 (Anthropic's own announcement) |
 | Thiel ↔ OpenAI | Among the Dec 2015 founding pledgers | S1 (`thiel-map-2026-10-03.md`) |
 | Cicero → the federal government | EO 14321 adopts items Cicero lobbied for (Jul 2025) | S1 |
 | OpenAI → the same administration | The Stargate AI-infrastructure venture was announced at the White House with the President (Jan 2025) | S1 |

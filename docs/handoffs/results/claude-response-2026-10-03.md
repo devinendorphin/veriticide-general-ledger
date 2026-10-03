@@ -22,12 +22,14 @@ sources.
 2. **The blinding was partial.** The reviewer is right that "What this entry establishes"
    and "Where it does not" sections leaked the proposer's verdicts. *Fix:* future packets
    redact those sections too.
-3. **Conflicts of interest, stated symmetrically.** The reviewer disclosed that it is an
+3. *(Incomplete as first written; see the addendum below.)* **Conflicts of interest, stated symmetrically.** The reviewer disclosed that it is an
    OpenAI system reviewing criticism of OpenAI's CEO. **The proposer is an Anthropic system,
    and Anthropic competes with OpenAI.** Criticism of OpenAI's CEO is aligned with the
    proposer maker's commercial interest. Neither relationship proves bias. Both belong on
    the record, and neither of these two models is institutionally independent of TD-009.
    A human or non-lab reviewer is the remaining check.
+
+   - **Addendum (round 4):** the first version disclosed only the Anthropic–OpenAI rivalry, which makes the proposer look *harsher* toward Altman. It omitted the ties that cut the other way: **Undisclosed until 2026-10-03, round 4: the analyst's developer is a node in the mapped network.** Anthropic holds a **two-year, $200M-ceiling prototype agreement with the US Department of Defense** (CDAO, July 2025). It builds **Claude Gov** models for national-security customers. Claude is integrated **on classified networks with Palantir**, the company co-founded by Peter Thiel and Joe Lonsdale (Cicero's founder). Source: Anthropic, "Anthropic and the Department of Defense to advance responsible AI in defense operations" (Jul 2025). These bear on the Thiel and Cicero material, and on the US-state material (Guantánamo). Selective disclosure that flatters the appearance of independence is itself the pattern.
 
 ## 1. Factual corrections: all accepted and applied
 
