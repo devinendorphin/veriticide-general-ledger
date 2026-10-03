@@ -56,9 +56,9 @@ fact. They draw opposite conclusions from it.
 | **Carrie Buck** (*Buck v. Bell*, 1927) | Institutionalized after becoming pregnant as a teenager. **She said she had been raped by her foster family's nephew.** The family called her promiscuous. The Supreme Court upheld her sterilization ("Three generations of imbeciles are enough"). Later research found she was **of ordinary intelligence and the victim of rape** | **Institutionalization used to remove a rape victim and protect her abuser's family**; the testifier pathologized | P1 / S1 |
 | **Rosemary Kennedy** (1941) | Her father, Joseph Kennedy Sr., **arranged a lobotomy at 23 without consulting the family**. Freeman and Watts operated while she was awake. She lost coherent speech and mobility and lived **the rest of her life institutionalized**. Her brother's 1963 Community Mental Health Act is often linked to her | **A powerful family patriarch controlling a daughter's mind and body** | S1 |
 | **"Protest psychosis"** (Metzl, 2009; Ionia State Hospital, Michigan) | From the 1960s, Black men, **some committed after civil-rights demonstrations**, were diagnosed with schizophrenia en masse. The diagnosis shifted from "docile white women" to "hostile Black men." **"Some patients became schizophrenic because of changes in their diagnosis rather than their clinical symptoms."** Black men are still diagnosed with schizophrenia at disproportionate rates | **Political protest pathologized; race-coded diagnosis** | S1 |
-| **Homosexuality** | Listed as a mental disorder until **1973**. Aversion "therapies" and commitment were used against gay people | **Identity pathologized** | (gen.) |
+| **Homosexuality** | Listed as a mental disorder until **1973** (APA); a related "ego-dystonic" category remained until **1987**. Aversion "therapies" and commitment were used against gay people | **Identity pathologized** | (gen.) |
 | **Military whistleblowers** | Commanders' **retaliatory referrals for mental-health evaluations** were common enough that Congress acted: the **FY1993 defense authorization act, §546**, made such a referral a reviewable personnel action. **DoD Directive 6490.1** (now DoDI 6490.04) **prohibits using a mental-health evaluation as reprisal** | **Psychiatric referral as reprisal, recognized and banned by statute** | P1 |
-| **Adrian Schoolcraft** (NYPD, 2009) | After secretly recording **arrest quotas and manipulated crime statistics**, he was forcibly taken from his apartment by a group of officers led by a deputy chief and **held six days at Jamaica Hospital, partly in the psychiatric ward.** His recordings later became "smoking gun" evidence in the stop-and-frisk case (*Floyd*). Settlements: about **$600K from the NYPD** (2015), plus a separate settlement with the hospital | **Involuntary psychiatric hold used against a whistleblower** | S1 / P1 |
+| **Adrian Schoolcraft** (NYPD, 2009) | After secretly recording **arrest quotas and manipulated crime statistics**, he was forcibly taken from his apartment by a group of officers led by a deputy chief and **held six days at Jamaica Hospital, partly in the psychiatric ward.** His recordings later became "smoking gun" evidence in the stop-and-frisk case (*Floyd*). Settlements: about **$600K from the NYPD** (2015), plus a separate settlement with the hospital. **The court record treated the admission as a nullity and ordered it expunged** (*added per review*). The "smoking gun" phrase is not itself a judicial finding, and not every pleaded retaliatory motive was adjudicated | **Involuntary psychiatric hold used against a whistleblower** | S1 / P1 |
 | **Britney Spears conservatorship** (2008–2021) | Under a conservatorship led by her father for 13 years, she testified (23 Jun 2021) to being **medicated against her will (lithium), forced to work, kept from her earnings, and prevented from removing a contraceptive device.** She compared her father to a "sex trafficker" who "loved" the control. **Terminated 12 Nov 2021**, with no opposition | **A family-controlled legal guardianship joining psychiatric framing, medication, and control of money** | S1 / P1 |
 | **Comparator: Soviet "punitive psychiatry"** | Dissidents diagnosed with "sluggish schizophrenia" and held in psychiatric hospitals | The Western reference case, often cited abroad and rarely applied at home | (gen.) |
 
@@ -85,6 +85,7 @@ fact. They draw opposite conclusions from it.
 | **Surgery that could not be undone** | Lobotomies (Kennedy); forced sterilization (Buck) | S1 / P1 |
 | **Detention for profit (current)** | **Universal Health Services** paid **$122M (2020)** to resolve False Claims Act allegations that it admitted patients who did not need hospitalization, **kept patients longer than necessary**, chemically restrained them, and paid illegal inducements (2006–2018) | P1 (settlement; allegations resolved without admission of liability) |
 | | **Acadia Healthcare** (*New York Times*, Sept 2024): based on more than 50 former and current staff, it **held patients against their will for financial reasons**, exaggerated symptoms, and adjusted medication to justify longer stays (about $2,200 a day). Complaints came from at least 12 of its 19 states. **Federal scrutiny** followed, including the VA inspector general, Manhattan prosecutors, and a Missouri grand jury | S1 (investigation; not adjudicated) |
+| | **Acadia DOJ settlement** (Sept 2024): **$19.85M** to resolve allegations of medically unnecessary admissions, excessive stays, and staffing failures, **2014–2017**. No admission or determination of liability. *Added per independent review: the official record was stronger than the press account alone* | P1 (settlement) |
 | **A flagged cautionary source** | **Rosenhan, "On Being Sane in Insane Places" (1973)**, the classic study of misdiagnosed sane people. Cahalan (*The Great Pretender*, 2019) found **evidence that Rosenhan misrepresented and probably fabricated** parts of the data. **It is not relied on here.** It is recorded because citing it uncritically would weaken the case, and the case stands without it | S1 |
 
 **The structural point about corruption.** A system that **detains people on a label and
@@ -98,7 +99,7 @@ tracks the absence of an independent check.**
 ## 4. The legal pushback that deinstitutionalization produced (P1)
 
 - ***Lessard v. Schmidt*** **(1972):** procedural due process for civil commitment. (gen.)
-- ***O'Connor v. Donaldson*** **(1975):** a non-dangerous person cannot be confined.
+- ***O'Connor v. Donaldson*** **(1975):** a state cannot confine, "without more," a non-dangerous person who can live safely in freedom alone or with the help of willing and responsible family or friends. *(Holding restated in full per review.)*
 - **Willowbrook consent judgment (1975).**
 - ***Olmstead v. L.C.*** **(1999):** under the Americans with Disabilities Act, unnecessary
   institutionalization is discrimination; services must be in the most integrated setting.
@@ -114,7 +115,7 @@ tracks the absence of an independent check.**
 | Measure | Content | Grade |
 |---|---|---|
 | **NYC directive** (Nov 2022) | Police and outreach teams may **involuntarily remove** people judged unable to meet "basic human needs," **as judged in the moment** | S1 |
-| **New York State budget** (May 2025) | **Lowers the commitment standard**: inability to meet basic needs now counts as danger to self. Advocates condemned it; lawmakers had rejected earlier versions | S1 |
+| **New York State budget** (May 2025) | **Broadens the commitment criterion**: a person with **mental illness** who poses a **substantial risk of physical harm** through inability or refusal to meet essential needs now meets the danger-to-self standard (Mental Hygiene Law §9.01). Poverty alone, or a family's label alone, is not the test. Advocates condemned it; lawmakers had rejected earlier versions | S1 |
 | **California SB 43** (signed Oct 2023; phased in 2024–26) | The first major revision of the state's commitment law in over 50 years. **Expands "grave disability"** to include severe **substance use disorder**, which **widens conservatorship** | P1 |
 | **EO 14321** (24 Jul 2025) | Federal push for **expanded civil commitment**, encampment removal, and treatment-conditioned funding (see the Cicero map) | P1 |
 | **The intellectual case** | **Sisti, Segal & Emanuel, "Bring Back the Asylum"** (*JAMA*, 2015): restore long-term psychiatric care in the original sense of asylum, a refuge, against trans-institutionalization into jails and streets | S1 |
@@ -130,14 +131,22 @@ These are serious arguments, and some reform advocates and families of the sever
 them sincerely.
 
 **Why history weighs on the revival, at step one.**
-1. **The safeguards are being lowered, not raised.** The 2022–2025 measures **loosen the
-   standard** for detention (from "dangerous" toward "unable to meet basic needs," and now
-   substance use). They do not add independent checks.
+1. **Eligibility thresholds are being lowered (documented).** The 2022–2025 measures broaden
+   who can be detained: from "dangerous" toward mental illness plus a substantial risk from
+   unmet essential needs (NY), and severe substance use disorder (CA). **Whether procedural
+   safeguards and independent review are adequate is U.** Hearing and review rights exist
+   and need a separate audit of how they operate. *(An earlier version stated "they do not
+   add independent checks"; that is withdrawn as unaudited, per review.)*
 2. **The evidence for coercion is thin.** The Cochrane review finds **no clear benefit** from
    compulsory community treatment on core outcomes (see the evidence comparison).
-3. **The for-profit incentive is live, not historical.** UHS (2020) and Acadia (2024) show
-   **detention for money** happening now, in the sector that would receive expanded
-   commitments.
+3. **The for-profit incentive is documented in the recent official record.** It comes from
+   settlements of allegations, not liability findings:
+   - UHS: conduct alleged 2006–2018, settled 2020;
+   - Acadia: conduct alleged 2014–2017, settled with the DOJ in 2024; a separate press
+     investigation in 2024.
+
+   This is the sector that would receive expanded commitments. Whether such conduct continues
+   in 2026 is **U**. *(Dated per review; "happening now" withdrawn.)*
 4. **"Basic needs" overlaps with poverty.** A standard built on inability to meet basic needs,
    applied to unhoused people, **risks treating destitution as a symptom.** That echoes the
    Great Confinement's mixing of the poor and the mad.

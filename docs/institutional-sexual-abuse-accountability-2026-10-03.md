@@ -35,23 +35,23 @@ freedom-of-information data) · (gen.) (general knowledge, not re-verified this 
 | **Care Quality Commission, England (2018 report on 2017 data)** | **1,120** sexual incidents in about three months of national safety reports, including **29 rape allegations and 273 alleged sexual assaults** | P1 (regulator) |
 | **A single UK psychiatric hospital** (reported by Ian Birrell) | **24 reported rapes and 18 sexual assaults** investigated by police over three years, with **no prosecutions**. One agency nurse was suspended | S1 |
 | **New York group homes** (*New York Times*, Hakim & Buettner, 2011) | About **13,000** abuse allegations in 2009; **fewer than 5% referred to law enforcement** despite a legal duty to report. Employees who **sexually abused**, beat, or taunted residents were **rarely fired, and were often transferred** to other homes. **More than 1,200 unexplained deaths** over a decade | S1 (Pulitzer finalist) |
-| **New York's Justice Center** (created 2013 in response) | AP analysis (2015): **2.5%** of more than 7,000 **substantiated** abuse or neglect cases led to criminal charges | S1 |
+| **New York's Justice Center** (created 2013 in response) | AP analysis (2015): **under 2.5%** (169) of about 7,000 **substantiated** administrative cases led to criminal charges. **The base is mostly neglect (61%); sexual abuse was about 1%.** Administrative and criminal proof standards differ, and non-criminal sanctions were used. A charge rate is not a referral rate | S1 |
 | **California developmental centers** ("Broken Shield", CIR / California Watch, 2012) | At Sonoma Developmental Center, **at least 12 sexual-assault reports were not investigated**, and the in-house police (Office of Protective Services) **did not order a single hospital rape examination**. Investigations of rape, torture, and beatings by staff were botched. The state later threatened closure; Sonoma closed in 2018 | S1 |
 | **Illinois group homes** (*Chicago Tribune*, "Suffering in Secret", 2016) | **1,311 cases of documented harm** since 2011 and 42 deaths. The state **undercounted abuse for five years**. The industry was **exempted by statute** from public accountability; even residents and families could not learn outcomes | S1 |
 | **Oregon State Hospital** (CMS, 2024) | A federal inspection found safety lapses contributed to assaults, **including sexual assaults** | P1 (regulator) |
 | **Universal Health Services** (*BuzzFeed News*, 2016; Senate inquiry) | Staff at 10 or more hospitals described pressure to fill beds. At individual facilities: staff beating youth (on video), **reports of sexual misconduct**, and severe understaffing. Followed by the $122M False Claims Act settlement in 2020 (see the history file) | S1 / P1 |
-| **The "troubled teen" industry** | Decades of abuse allegations in youth residential programs. The **Stop Institutional Child Abuse Act**, signed **24 Dec 2024** with unanimous passage, adds federal study and oversight | P1 |
+| **The "troubled teen" industry** | Decades of abuse allegations in youth residential programs. The **Stop Institutional Child Abuse Act** (Public Law 118-194), approved **23 Dec 2024** (House 373–33; Senate by unanimous consent), adds federal study, reporting, and recommendations | P1 |
 
 ### 1b. Children in institutional care (full record)
 
 | Source | Finding | Accountability outcome | Grade |
 |---|---|---|---|
 | **Senate Finance Committee, *Warehouses of Neglect*** (12 Jun 2024; a two-year investigation with the HELP Committee, covering **UHS, Acadia, Devereux, and Vivant**) | A 136-page report: harm to children is **"endemic to the operating model"** of these taxpayer-funded youth residential treatment facilities. Restraint and seclusion; untrained staff; children who died, including by suicide | Congressional findings; follow-up letters to federal agencies. **No criminal outcome attached to the report** | P1 |
-| **Devereux Advanced Behavioral Health** (*Philadelphia Inquirer*, Aug 2020) | Staff **raped or sexually assaulted at least 41 children** with intellectual disabilities over about 25 years, some as young as 12. After publication, **13 more former students came forward**, some as young as 8 at the time. The organization **identified risk factors and fixes, then abandoned them for years**. Persistent understaffing | **Four staff charged since 2018** (11 children). A class action was filed in 2021. **For most of the 41-plus children, no charge is reported** | S1 / P1 |
-| **Chicago Lakeshore Hospital** (2017–18) | Children in state custody, **some as young as 7**, involuntarily admitted, **allegedly sexually abused**, injected with sedatives for control, and attacked | **The state child-welfare agency allegedly helped cover it up** (federal lawsuit). It stopped placing children there (Nov 2018) but **declined an independent investigation**. **CMS terminated federal funding** (Dec 2018). Cook County's public guardian sued for seven children. The hospital later closed, **citing COVID-19** | S1 / P1 |
+| **Devereux Advanced Behavioral Health** (*Philadelphia Inquirer*, Aug 2020) | Staff **raped or sexually assaulted at least 41 children** with intellectual disabilities over about 25 years, some as young as 12. After publication, **13 more former students came forward**, some as young as 8 at the time. The organization **identified risk factors and fixes, then abandoned them for years**. Persistent understaffing | **Four staff charged since 2018** (11 children). A proposed class action was filed in **Oct 2020** (*date corrected per review*). **For most of the 41-plus children, no charge is reported** | S1 / P1 |
+| **Chicago Lakeshore Hospital** (2017–18) | Children in state custody, **some as young as 7**, involuntarily admitted, **allegedly sexually abused**, injected with sedatives for control, and attacked | **The state child-welfare agency allegedly helped cover it up** (federal lawsuit). It stopped placing children there (Nov 2018) but **declined an independent investigation**. **CMS announced termination of federal funding** in Dec 2018; it was **enjoined**, and termination took effect in **Dec 2019** (*chronology corrected per review*). Cook County's public guardian sued for seven children. The hospital later closed, **citing COVID-19** | S1 / P1 |
 | **Brynn Marr Hospital** (North Carolina, youth psychiatric) | **117 police calls reporting sexual assault or rape**, Apr 2019 to Sep 2022. Regulators inspected after an 11-year-old's parents filed eight allegations, including the sexual assault of their daughter | Regulators **substantiated** compromised patient safety and other failures, and placed the hospital in "immediate jeopardy" after a patient escaped. They **did not substantiate** the sexual-assault claim. **The outcomes of the 117 police calls are U.** Recorded both ways | S1 / P1 |
 | **UHS youth facilities** (*BuzzFeed News*, 2016–17) | Surveillance video of staff **beating and dragging young patients** (Hill Crest, Alabama). Medication used as control. Instructions to falsify records. Reports of sexual misconduct at another facility | Senate inquiry; referrals to the HHS inspector general | S1 |
-| **The troubled-teen industry** | Decades of allegations of abuse, including sexual abuse, in youth residential programs | **Stop Institutional Child Abuse Act** (signed 24 Dec 2024, unanimous): federal study and oversight. **No federal criminal-accountability mechanism** | P1 |
+| **The troubled-teen industry** | Decades of allegations of abuse, including sexual abuse, in youth residential programs | **Stop Institutional Child Abuse Act** (approved 23 Dec 2024; House 373–33): federal study, reporting, and recommendations. **No new dedicated federal criminal-accountability mechanism** | P1 |
 
 **What the children's record adds:**
 - **The accountability gap is worse for children.** They are less able to report, less
@@ -65,8 +65,11 @@ freedom-of-information data) · (gen.) (general knowledge, not re-verified this 
 
 **What the scale data shows:**
 - Sexual harm in these settings is **routine, not exceptional**.
-- **Referral to police is in the low single digits** wherever it has been measured: under 5%
-  in New York (2009), under 5% in the NHS (2019–23), and 2.5% charged in New York (2015).
+- **Police referral is under 5%** in the two places measured (NY 2009, broad abuse
+  allegations; NHS 2019–23, sexual incidents). Separately, **under 2.5% of substantiated
+  administrative cases were charged** in NY (2015), mostly neglect. *These are different
+  denominators (allegations referred; substantiated cases charged) and are not one "rate."*
+  None is a conviction rate. *(Denominators separated 2026-10-03 per independent review.)*
 
 ---
 
@@ -88,8 +91,15 @@ freedom-of-information data) · (gen.) (general knowledge, not re-verified this 
 **Synthesis.** Each mechanism separates **the person harmed** from **an independent check**.
 Self-investigation, non-referral, secrecy statutes, and custody all keep the complaint inside
 the institution that is accused. Where an external check existed (journalism, federal
-inspectors, litigation), the harm became visible. That is the ledger's general thesis: **harm
-tracks the absence of an independent check.**
+inspectors, litigation), the harm became visible. This is consistent with the ledger's working hypothesis that **harm tracks the absence of an
+independent check.** *It is held as a hypothesis, not a measured finding here (per
+independent review).* No covariance was measured, and checks can also follow harm. Its
+support in this file is **specific documented process failures**:
+- forensic evidence not collected and outside referral not sought (Broken Shield);
+- an alleged agency cover-up (Lakeshore, alleged);
+- transfers instead of firing (NY 2011).
+
+A dedicated comparative test is owed.
 
 ---
 

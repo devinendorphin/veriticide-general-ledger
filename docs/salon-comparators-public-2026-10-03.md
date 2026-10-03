@@ -39,8 +39,10 @@ sex and power meet.*
   - *Downgrades if* Thiel's business and social events prove to be separate, with separate
     guests.
 
-**The discriminator, sharpened by the CONTROL.** The Lusty Loft series shares the *form* and
-scores absent on every power column. So **H12 is not a claim about sex parties, queer sexual
+**The discriminator, sharpened by the CONTROL.** The Lusty Loft series shares the *form*, and **no
+power-gating is reported** in the sources read. Unreported hierarchy is **U, not absent**
+*(corrected per independent review: "scores absent on every power column" overstated the
+record)*. So **H12 is not a claim about sex parties, queer sexual
 culture, or group sex.** It is a claim about **power-gating**:
 - **(1)** a power core inside the sexual tier;
 - **(2)** access that converts into capital, careers, deals, or patronage;

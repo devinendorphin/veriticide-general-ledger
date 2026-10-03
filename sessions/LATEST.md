@@ -38,6 +38,24 @@ The private tier, `devinendorphin/veriticide-after-hours`, has its own main, als
   - **Nothing from B's 2026-10-03 work has been independently checked.**
 - **Custody:** LOCATOR-ONLY throughout.
 
+## Update (2026-10-03, late): second independent adjudication ingested
+
+- The verbatim ChatGPT adjudication and its operator-elicited self-review are in
+  `docs/handoffs/results/`, with the proposer's response in `claude-response-2026-10-03.md`.
+- **All six contradicted facts are corrected,** along with the accepted analytical
+  narrowings: TD-009 wording, the Cicero sentences, recurrence vs tendency, the Lusty Loft U,
+  6.4 (a), 6.6 downgraded to candidate, and 6.7/TD-008 narrowed.
+- **Awaiting the operator:**
+  - (1) public allegation detail: complaint-level vs the reviewer's summary-level draft (the
+    proposer leans toward summary in public, full detail in HP-13);
+  - (2) "survivor" vs "claimant" wording;
+  - (3) re-review of R8 (H13), which the packet bug had dropped (the bug is fixed).
+- **Still owed from the review:**
+  - a dedicated test of "harm tracks the absence of an independent check";
+  - an audit of safeguards under the NY and CA expansions;
+  - a dated update search for HF and recovery housing;
+  - the remaining CANNOT VERIFY rows.
+
 ## Top 3 priorities next session
 
 1. **Non-Claude review, on both lines.**
@@ -156,3 +174,12 @@ instruction.)*
 - **Policy files:** split "treatment first" into TF-1 (precondition), TF-2 (contingency
   management), and TF-3 (enforcement and coercion). Evidence for one is not evidence for the
   others.
+- **Reviewer self-reviews** (2026-10-03). When the operator asks a reviewer to re-read its
+  own work through a lens, archive both versions verbatim. Adopt from either only what stands
+  on sources. A self-review is not a fresh adjudication, and its withdrawals do not
+  automatically restore the proposer's original claims.
+- **Lab conflicts are symmetric.** An OpenAI reviewer on OpenAI's CEO, and an Anthropic
+  proposer whose maker competes with OpenAI: disclose both every time. Neither lab model is
+  institutionally independent of TD-009; a human or non-lab reviewer is the remaining check.
+- **Blind packets must also redact** "What this entry establishes" and "Where it does not,"
+  and must end a redaction at the next sibling bullet, not only at a blank line.

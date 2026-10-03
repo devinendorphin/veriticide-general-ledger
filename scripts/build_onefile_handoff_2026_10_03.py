@@ -22,9 +22,14 @@ def redact(text):
             skipping = True
             continue
         if skipping:
-            if line.strip() == "":
+            # Stop at a blank line OR at a sibling/parent bullet (indent <= the Outcome line's).
+            # Fix 2026-10-03: the blank-line-only rule swallowed H13, which followed an Outcome
+            # block with no blank line (the reviewer correctly reported H13 missing).
+            ind = len(re.match(r"^\s*", line).group(0))
+            if line.strip() == "" or (re.match(r"^\s*- ", line) and ind <= len(indent)):
                 skipping = False
                 out.append(line)
+                continue
             continue
         out.append(line)
     return "\n".join(out)

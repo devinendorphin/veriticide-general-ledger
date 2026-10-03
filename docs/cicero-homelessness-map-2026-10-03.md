@@ -68,9 +68,14 @@ As reported from her own public accounts (S1/S2 relay of P2):
   civil commitment behind it.
 
 The same **compliance-for-support** structure appears at household scale and at policy scale.
-For someone in her position, that leaves **no unconditional route** to support: neither
-family nor state offers one. That is the inverse of the **unconditional cash** in her
-brother's own basic-income study (TD-009).
+Both conditions are contestable at their sources. The household condition is her account,
+and the family describes rent, bills, help with employment, and a house offer through a
+trust. Which public routes reach her depends on jurisdiction and eligibility, which are
+**U**. *(The earlier sentence "no unconditional route to support: neither family nor state
+offers one" is withdrawn per independent review: it asserted a universal negative without
+an inventory of support routes.)* The contrast with the **unconditional cash** design of her
+brother's basic-income study (TD-009) stands as a contrast of designs, not a claim about her
+total options.
 
 ## 4. "The same mapping her brother benefits from"
 
@@ -94,10 +99,22 @@ administration). Her exposure to the policy and his benefit from the network run
 - coordination between Cicero and OpenAI;
 - that the policy was aimed at her.
 
-Shared position in a network is not shared intent. The sharpest form of the claim this file
-supports is: **the same constellation that enriches the brother writes the rules his
-dispossessed sister would live under.** That is a statement about position, not about
-agency.
+Shared position in a network is not shared intent. **What this file supports is the dated
+links above, each at its grade.** Current benefit to the brother, authorship of or influence
+on the policy, and her actual legal exposure are **separate U questions**. *(The sentence
+"the same constellation that enriches the brother writes the rules his dispossessed sister
+would live under" is withdrawn per independent review. Its active verbs exceeded the
+evidence.)*
+
+**The stronger ground, adopted from the review:** the model bill's **own provisions** are:
+- camping prohibitions with penalties;
+- designated camps;
+- participation and drug conditions;
+- restrictions on permanent-housing funding;
+- optional commitment routes.
+
+These warrant scrutiny of conditional access and enforcement **on their own terms**. That
+requires no link to any household and no proof of intent.
 
 ## 5. Adversarial check *(proposer-adjudicated; pending a non-proposer, Priority 32)*
 

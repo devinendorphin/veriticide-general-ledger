@@ -3405,8 +3405,9 @@ data center by airstrike"). Tested against three readings of "democratic":
 | **(c) Externality** | The constraint operates independently of the labs' own safety culture | **Fully met.** This is the operative clause of the CONTROL condition, and it is what distinguishes the proposal from every lab's self-governance (RSPs, the LTBT) |
 
 **Proposer's recommendation:**
-- File a **partial CONTROL on the external-check axis.** Readings (a) and (c) are met, and (b)
-  is not.
+- File a **partial CONTROL on the external-check axis.** Reading (c) is met, (a) is partly
+  met, and (b) is not. *(Corrected 2026-10-03 per independent review: "(a) and (c) are met"
+  contradicted the table's "partly" for (a).)*
 - Keep the **account-level SINCERE-UNBOUNDED** classification for structural points 1
   (competence exclusion) and 2 (Overton window), which this does not touch.
 - *Upgrades to a full CONTROL* if Yudkowsky or MIRI document support for participatory or
@@ -3506,7 +3507,7 @@ What a CONTROL or NULL entry from this source would require: A CEO letter or equ
 
 **ENTRY 6.6** *(opened 2026-10-03 at the operator's direction, "just in case")*
 Account: Ray Kurzweil (singularitarian; Google since Dec 2012; co-founder of the Singularity Summit and Singularity University)
-Classification: **SINCERE-UNBOUNDED**. **INSTRUMENT: undetermined.**
+Classification: **SINCERE-UNBOUNDED (candidate)**. **INSTRUMENT: undetermined.** *(Downgraded to candidate 2026-10-03 per independent review: the specific qualification stripped from the forecasts is not yet identified. Upgrades if a claim with demonstrably removed uncertainty or boundary conditions is shown, or systematic immunization of failed dated forecasts.)*
 Full map: `docs/kurzweil-map-2026-10-02.md`.
 
 **Specimen record (structural):**
@@ -3551,9 +3552,11 @@ Map: `docs/thiel-map-2026-10-03.md`; genealogy branch E.
 - **Named persons, cast as end-times agents:** the lectures name **Eliezer Yudkowsky** (whom
   Thiel funded) and **Greta Thunberg** among the "legionnaires of the Antichrist." Thiel says he
   is "embarrassed" by his past funding and that such critics have become "deranged."
-- **The test is defined to be self-sealing:** the 21st-century Antichrist will appear as "a
+- **The reported frame is self-sealing:** the 21st-century Antichrist will appear as "a
   self-described protector who **promises peace, safety, and an end to technological
-  risk**."
+  risk**." *(Move 4 is claimed for this reported frame only. Whether every safety critic or
+  proposal is rejected is not shown; no complete speech corpus. Narrowed per independent
+  review.)*
 - **Delivery:** to audiences told to keep the contents "off-the-record," per Washington Post
   recordings.
 
@@ -7205,7 +7208,7 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
 | **Suppression type** | Disqualification (theological plus pathologizing: "legionnaires of the Antichrist," "deranged") |
 | **Actor & power** | Peter Thiel. Funder across the Summit tree (SIAI, DeepMind, the OpenAI pledge); Palantir co-founder; patron of the sitting Vice President |
 | **Conduct** | Named living critics (Yudkowsky, Thunberg) cast as end-times agents. Any promise of "peace, safety, and an end to technological risk" defined as the Antichrist's mark. Delivered off-the-record to elite audiences |
-| **What it suppressed** | The admissibility of calls for external checks on technology, pre-emptively, among audiences with power over funding and policy |
+| **What it targets (candidate)** | The admissibility of calls for external checks on technology, pre-emptively, among audiences with power over funding and policy. **No documented exclusion or defunding: achieved suppression is not shown** (narrowed per independent review) |
 | **Gap** | Primary recordings not captured (WaPo). No documented exclusion or defunding resulting from the lectures |
 
 *Convention element:* Art. II(2)(d). Sibling to TD-005: a disqualification register applied to a protective position.
@@ -7238,7 +7241,7 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
   - Mar 2026: the judge (Zachary Bluestone) ruled the standalone assault claims time-barred
     (expired 2008), but allowed her to proceed under Missouri's child-sexual-abuse statute.
   - Apr 2026: she refiled under that statute.
-  - Her attorneys later withdrew (reported).
+  - Her attorneys **moved to withdraw** (Reuters); the order granting withdrawal was not retrieved.
 - **The diamond, the operator's core detail, from her own account** (S1 relay of P2):
   - In **June 2020**, while she was work-trading on a rural farm in financial precarity, Sam
     messaged her for her address to send a **memorial diamond made from some of their
@@ -7269,19 +7272,28 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
 - It cites her "mental health challenges" and says she has refused conventional treatment.
 - It says she receives monthly financial support "expected to continue for life" yet
   "continues to demand more money."
-- **Countersuit:** Sam Altman filed a **defamation counterclaim** in Mar 2025.
+- The same statement says the family has **paid her rent and bills, helped her find
+  employment, and offered to buy her a house through a trust** (People; full statement relay).
+  *These are the family's claims, given the same attributed treatment as hers. Their omission
+  from the first version was an asymmetry, corrected per independent review.*
+- **Counterclaims:** Sam Altman filed counterclaims in Mar 2025 for **defamation and abuse of
+  process**. Both survived dismissal at the pleading stage (order of 20 Mar 2026), which is no
+  finding on the merits.
 
 | Field | Content |
 |---|---|
 | **Act reference** | Household-layer public tier P-12; private tier HP-13 |
-| **Suppression type** | **Disqualification** (mental health and money motive invoked against the testifier) + **retaliatory litigation** (defamation counterclaim) |
+| **Suppression type (candidate)** | **Disqualification** (mental health and money motive invoked against the testifier; its **function** is observable without proof of intent) + **counterclaims** (defamation, abuse of process): a **potential chilling effect** given the resource asymmetry; **retaliatory purpose U** |
 | **Actor & power** | Sam Altman, CEO of OpenAI, with family co-signatories. A vast wealth asymmetry with the testifier, who reports financial precarity |
 | **Conduct** | A public denial that attributes the testimony to mental illness and financial motive. A conditional-support framing. A defamation counterclaim |
 | **What it suppressed (candidate)** | The admissibility of a family member's abuse testimony, through pathologizing and motive-impugning, backed by litigation risk |
 | **Gap** | **No adjudication of the underlying allegations.** The denial may be sincere and true. The counterclaim is a legal right. **Both are recorded as the candidate Move 3 form, not as a finding** |
 
-**Why the family dynamic is a distinct specimen** (operator: "a very unique specimen"):
-- The full move-set appears **inside one family**, with the testifier's material dependency as
+**Why the family dynamic is a distinct candidate** (operator: "a very unique specimen"):
+*(Wording narrowed 2026-10-03 per independent review. These are **candidate moves and
+competing accounts**, not findings. The underlying allegations are unadjudicated and
+denied.)*
+- Candidate moves appear **inside one family**, with the testifier's material dependency as
   the medium:
   - **Care-register reframing** (Move 1 / Move 6 asymmetry tell): the $5,000 diamond from their
     father's ashes. It is a *gesture of care*, chosen by the giver, that converts the dead
@@ -7290,12 +7302,18 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
   - **Disqualification** (Move 3): "mental health challenges," "demands more money."
   - **Conditional support as leverage:** support "for life," described *in the same statement*
     that impeaches her credibility.
-  - **Retaliation:** a defamation counterclaim against a sibling's testimony.
+  - **Counterclaims against a sibling's testimony:** a potential chilling effect given the
+    resource asymmetry. Retaliatory purpose is **U**.
   - **The reversed causal arrow.** Her complaint names her mental-health conditions as **the
     injury the abuse caused**. The family statement names her "mental health challenges" as
-    **the reason to disbelieve her**. These are the same facts with opposite causal direction.
-    If her account is true, the symptom of the harm is being used to disqualify the report of
-    the harm: Move 3 in its sharpest form. Which arrow is true is **U** and is for a tribunal.
+    **the reason to disbelieve her**. These are **competing accounts of credibility and
+    causation**. They are not an agreed clinical dataset. *("The same facts with opposite
+    causal direction" is withdrawn per independent review.)* What is directly observable,
+    without any finding on the allegations or on intent, is that **the public statement uses
+    her mental health and a money motive to discount her report** (the reviewer's corrected
+    stance). If her account is true, a symptom of the alleged harm is being used to
+    disqualify the report of it. That is conditional, and which account is true is **U** and
+    is for a tribunal.
     Recording only the family's arrow would carry their framing into the ledger, so both are
     recorded, hers first. (The same form recurs in Farrow and Phillips:
     `docs/survivor-comparator-2026-10-03.md`.)
@@ -7317,8 +7335,11 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
   - **The diamond's double bind, against his own anti-poverty program** (operator analysis,
     2026-10-03; source facts S1):
     - **The gift.** About $5,000, so roughly **16 times** the ~$300 she says she needed for
-      food. It is **illiquid** and made of their father. That leaves her two moves, and both
-      lose:
+      food. **The reported mismatch between the gift offered and the immediate need is her
+      account, and it stands as such.** The following is the **operator's hypothesis** about
+      the structure, *not an exhaustive bind* (per independent review; the reviewer's
+      self-review notes that refusal does not meet a food need). The gift is illiquid and made
+      of their father, so on the operator's reading:
       - **keep it:** she holds wealth she cannot eat, and the need goes unmet;
       - **sell it:** she must "cash in" the father she grieves, and in doing so she confirms
         the family's later "demands more money" framing.
@@ -7328,9 +7349,12 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
     - **His public program at the same time.**
       - From 2016 he funded, in part, the OpenResearch basic-income study. It gave
         low-income people **$1,000 a month in cash, "without any stipulations"** on how to
-        spend it, and recruited at scale from 2019, so it was running in June 2020.
+        spend it. It was recruiting in June 2020; randomization was Oct 2020 and **payments
+        began Nov 2020** (*corrected per review*). His exact personal funding is unaudited.
       - In March 2021, nine months after the diamond, he published **"Moore's Law for
-        Everything,"** arguing that AI wealth could pay every US adult about $13,500 a year.
+        Everything,"** projecting that a proposed American Equity Fund could distribute about $13,500 a year (in
+        shares and dollars) to each US adult citizen. It is a conditional projection, not an
+        enacted entitlement.
     - **The contrast is with his own design principle, not just his rhetoric.** His study
       tests **unconditional cash**, on the premise that people in need know their own needs.
       What reached his sister was, by her account, **an in-kind luxury object instead of
@@ -7346,8 +7370,11 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
 
       **Outcome:** on the sincerity of his public program, the innocent reading may prevail;
       this item cannot impeach it alone. On **the structure of what reached her, it fails as
-      a defense of the structure**: an illiquid, father-derived gift set against a stated
-      cash need is a double bind however it was meant.
+      a defense of the structure**: the reported mismatch (an illiquid, father-derived gift set
+      against a stated cash need) stands as her account however it was meant. *Revised per
+      independent review:* "double bind" is the operator's hypothesis, not an established
+      exhaustive bind. Substitution (whether cash was refused in favour of the gift) and the
+      consequences of selling are **U**.
   - **Operator hypothesis H13 (UNVERIFIED; no source found):** the mother's stance may carry
     resentment that the daughter did not follow her into a lucrative medical career.
     **Symmetry flag:** attributing a hidden motive to the mother is the same move-type the
