@@ -42,6 +42,7 @@ purpose (shield the vulnerable) into its opposite (expose the vulnerable, shield
 | 04 | Falsification memo (reproduction + reflexivity conditions) | `04-falsification-memo.md` |
 | 05 | Custody manifest | `05-custody-manifest.md` |
 | 06 | Timeline | `06-timeline.md` |
+| 07 | Annex: powerful-associate records in the releases (Thiel / Valar). Recorded as a **counter-instance** to leg B | `07-powerful-associates-annex.md` |
 | — | Evidence store + index | `evidence/` · `evidence/custody-index.md` |
 
 ## Charging register (Convention v0.2.1)
