@@ -1,24 +1,28 @@
-# LATEST — veriticide-general-ledger (as of 2026-10-03)
+# LATEST — veriticide-general-ledger (as of 2026-10-03, end of session)
 
 ## Project state
-- `cases/` (8 case files): stable; not touched this session.
-- `ledger/ledger.md`: active. External blind adjudication corrections applied 2026-10-03; Entry 2.10
-  classification withdrawn; "Three Observations" narrowed. See `docs/provenance.md` (2026-10-03).
-- External-review intake (`docs/external-review-2026-10-02-*`): active. First-pass report + reconciliation
-  archived; the reviewer's sycophancy-to-power self-review rounds and the follow-on discussion are **not yet captured**.
-- Reception Register: stable; the adjudication has not been logged there (judgment call deferred to Endorphin).
-- Part 2 documents (Kurzweil map, Summit genealogy, EA maps, cultiness lens): **not in this repo**. Their
-  corrections are pending and the location is unknown.
+- `cases/` (8 case files): stable; not touched.
+- `ledger/ledger.md`: active.
+  - Blind-adjudication corrections applied; Entry 2.10 classification withdrawn; "Three Observations" narrowed.
+  - Cluster 7 now holds the Altman persistence re-test and the **OpenAI conduct-leg record (10 rows, 2015–2026)**:
+    pattern ESTABLISHED as a recurrent tendency at **REPORTED grade, not custodied**.
+- External-review intake: first-pass report + reconciliation archived. The reviewer's sycophancy-to-power
+  self-review rounds and the follow-on discussion are **not yet captured**.
+- Reception Register: stable; adjudication not logged there (Endorphin's call).
+- Part 2 documents (Kurzweil map, Summit genealogy, EA maps, cultiness lens): not in this repo; location unknown.
+- Hub `claude-at-claude`: dictation rule updated in `AGENTS.md`; no root ATLAS/GLOSSARY files found.
 
 ## Top 3 priorities
-1. **Re-test the Altman temporal-persistence claim.** "Abundant Intelligence" and the Cluster 7 method note count
-   three Altman SPECIMENs; "Three Observations" is now narrowed. The pattern claim currently rests on an entry that
-   no longer carries it, which is the highest live integrity risk in the ledger.
-2. **Capture the reviewer's self-review rounds + the discussion** with custody headers. The first-pass report
-   marks Phase 3 "Deferred"; those rounds may be Phase 3, and they are uncited until archived.
-3. **Work the rest of the adjudication:** deduplicate C10/C64, C11/C67, C12/C66, C56/C68 and C57/C69 (repetition
-   inflates pattern counts), re-adjudicate the other PREVAILS rows, and triage the 25 CANNOT DETERMINE rows into
-   packet failures vs. ledger failures. Then apply the Kurzweil and Summit fixes once their repo is attached.
+1. **Custody the conduct-leg record's primaries**: rows 3, 4, 5, 8, 10 first (Superalignment announcement; Kwon
+   SB 1047 letter; OSTP submission; Newsom letter; Preparedness Framework v1/v2; GPT-6 Astra system card; The
+   Information, Sept 1, 2026). The record's finding is only as strong as its grade, and it currently rests on search
+   summaries.
+2. **Run the symmetric decade test on Anthropic**, including chain-of-thought legibility. Same table, same weighing
+   rule, checked by a non-Claude reader. Without it, the Cluster 7 finding carries an unexamined asymmetry, and the
+   analyst's stake makes this the test most likely to be run soft.
+3. **Capture the reviewer's self-review rounds and Endorphin's discussion**, then work the remaining adjudication
+   (dedupe the five overlapping pairs; triage the 25 CANNOT DETERMINE rows; re-read the Cluster 9 "MOVE 4 already
+   documented" citation). These are the open threads most likely to be lost.
 
 ## Standing notes
 - (none recorded before this session; section opened 2026-10-03)
