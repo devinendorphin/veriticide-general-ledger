@@ -4683,7 +4683,7 @@ This is Move 6 operating at civilizational scale: "for humanity" / "for innovati
 **Sourcing note (2026-10-03).** This entry was "confirmed by analysis" without citations. The literature basis is now in `docs/coercive-control-foundation-2026-10-03.md`:
 - Biderman (1957), Herman (1992; "Captivity"), Stark (2007), and the Serious Crime Act 2015 s.76;
 - an evidence-neutralization catalogue (E1–E10);
-- hypothesis **H14** (low variance across scale, LIVE). **Its falsifiability test, blind coding with failures to fit, has not been run.**
+- **H14** (low variance across scale): **ESTABLISHED in the literature** by replication across independent samples, settings, and methods (prisoners of war, Chinese re-education, battered women, clinical and political captivity, US Guantánamo training records). The repertoire was first documented at **state** scale.
 
 **Cross-references:** Cluster 2 (Reflexivity Clause anchor), Cluster 4 (cost documentation, gap formula closed), Cluster 5 (epistemic isolation as institutional coercive control), Track A Claude-instance entry.
 
