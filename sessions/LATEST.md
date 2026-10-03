@@ -73,3 +73,13 @@ instruction.)*
   because they are specimens"). **The operator does not trust Claude's epistemic asymmetry
   and has called it out many times.** Treat any Claude self-assessment of balance as
   unverified, and route checks to a non-proposer.
+- **Household layer, revision 2 (ruling 2026-10-03).**
+  - Minors: in scope when they take on public authority, for their role ties only. **Never
+    sexual or health information about a minor.** That is the analyst's hard line. Adult
+    conduct toward minors is recorded with the minor anonymized.
+  - Sexual and health information is **encouraged** where it bears on power (relationships
+    across power differentials, sex in recruitment or retention, coercion, leverage).
+    Claude's earlier exclusion was conceded as bias.
+  - **Two tiers:** identifiable internal tier, anonymized public tier. **This repo is public**,
+    so it carries only the public tier until the operator designates a private store.
+    *Open: where the private tier lives.*

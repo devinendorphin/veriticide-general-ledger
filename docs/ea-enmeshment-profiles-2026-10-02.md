@@ -29,6 +29,38 @@ A person who holds several layers is a point where the frame is **written, funde
 governed by the same hands.** Nobody outside that person evaluates whether the frame merits the
 money it attracts. That is closure without coordination, and it needs no intent.
 
+**Household-layer rule, revision 2 (operator ruling, 2026-10-03, second ruling).**
+Bounds (c) and (d) of revision 1 are replaced:
+- **(c′) Minors.** A minor is in scope when they take on a public mantle of authority (the
+  community prizes young "geniuses"). Their *role and authority ties* are recorded like an
+  adult's. **Sexual or health information about a minor is never recorded.** That line is the
+  analyst's, and it is not subject to operator override. Where reported adult conduct
+  *toward* minors bears on sexual power (for example, the grooming allegations in TIME 2023),
+  it is recorded as the adult's conduct, with the minor anonymized.
+- **(d′) Sexual and health information is admitted, and encouraged, where it bears on power.**
+  This covers:
+  - relationships that cross power differentials (funder and grantee, employer and employee,
+    mentor and mentee, recruiter and recruit);
+  - sex used in recruitment or retention;
+  - coercion and consent allegations;
+  - substance use or health conditions used as leverage, or in group settings run by those
+    holding authority.
+
+  v0.1's blanket exclusion assumed sexual information can only work as a Move 3
+  disqualification. **That was the analyst's bias, conceded.** The operator's purpose runs
+  the other way: sexual power is "a frequent weapon in communities … that contain dense
+  enmeshments."
+- **(f) Two-tier dissemination.**
+  - *Internal tier:* identifiable, sourced, graded.
+  - *Public tier:* anonymized, describing the **presence** of a sexual-power dynamic without
+    identifying the persons.
+
+  **This repository is public**, verified 2026-10-03: raw files load without
+  authentication. **It can carry only the public tier.** Until the operator designates a
+  private store (for example, a private repo), identifiable sexual or health information is
+  not committed anywhere.
+
+*(Revision 1 follows. Its (c) and (d) are superseded by the revision above.)*
 **Household-layer rule (operator ruling, 2026-10-03).** For people who hold decision nodes in
 the AI / longtermist field (funding, governance, lab leadership, or authorship of the frame),
 household and intimate ties are admitted when **publicly reported**: press, the person's own

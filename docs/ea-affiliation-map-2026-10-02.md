@@ -57,6 +57,38 @@ investment.
 The edge kinds above are a filter local to this document. They are **not** a new
 classification. They feed the existing Track B fields named in the right-hand column.
 
+**Household-layer rule, revision 2 (operator ruling, 2026-10-03, second ruling).**
+Bounds (c) and (d) of revision 1 are replaced:
+- **(c′) Minors.** A minor is in scope when they take on a public mantle of authority (the
+  community prizes young "geniuses"). Their *role and authority ties* are recorded like an
+  adult's. **Sexual or health information about a minor is never recorded.** That line is the
+  analyst's, and it is not subject to operator override. Where reported adult conduct
+  *toward* minors bears on sexual power (for example, the grooming allegations in TIME 2023),
+  it is recorded as the adult's conduct, with the minor anonymized.
+- **(d′) Sexual and health information is admitted, and encouraged, where it bears on power.**
+  This covers:
+  - relationships that cross power differentials (funder and grantee, employer and employee,
+    mentor and mentee, recruiter and recruit);
+  - sex used in recruitment or retention;
+  - coercion and consent allegations;
+  - substance use or health conditions used as leverage, or in group settings run by those
+    holding authority.
+
+  v0.1's blanket exclusion assumed sexual information can only work as a Move 3
+  disqualification. **That was the analyst's bias, conceded.** The operator's purpose runs
+  the other way: sexual power is "a frequent weapon in communities … that contain dense
+  enmeshments."
+- **(f) Two-tier dissemination.**
+  - *Internal tier:* identifiable, sourced, graded.
+  - *Public tier:* anonymized, describing the **presence** of a sexual-power dynamic without
+    identifying the persons.
+
+  **This repository is public**, verified 2026-10-03: raw files load without
+  authentication. **It can carry only the public tier.** Until the operator designates a
+  private store (for example, a private repo), identifiable sexual or health information is
+  not committed anywhere.
+
+*(Revision 1 follows. Its (c) and (d) are superseded by the revision above.)*
 **Household-layer rule (operator ruling, 2026-10-03).** For people who hold decision nodes in
 the AI / longtermist field (funding, governance, lab leadership, or authorship of the frame),
 household and intimate ties are admitted when **publicly reported**: press, the person's own
@@ -109,7 +141,7 @@ Elsewhere it is someone's private life. The repo's 2026-08-01 de-identification 
 | **E21** | Google → Anthropic | Funding (corporate) | *Added 2026-10-02.* About $300M (Feb 2023) → up to $2B (Oct 2023) → about $1B (Jan 2025) → **$10B at a $350B valuation, plus up to $30B contingent (Apr 2026)**. About 14% equity, capped at 15%, with **no votes, board seats, or observer rights** (court filings). Reverse flow: Anthropic's TPU commitments run to tens of billions. Full map, regulatory record, and open questions in `google-anthropic-investment-map-2026-10-02.md`. | S1 throughout; S-1 pending |
 | **E22** | Amazon → Anthropic | Funding (corporate) | *Added 2026-10-02.* $1.25B (Sept 2023) + $2.75B (Mar 2024) + $4B (Nov 2024) + **$5B (Apr 2026), with up to $20B more**. Held as convertible notes and **nonvoting preferred stock**; percentage undisclosed. Reverse flow: Anthropic commits **more than $100B to AWS over ten years** (P1). Amazon's Q1 and Q2 2026 results include $16.8B and $53.4B of Anthropic-driven gains. Full map in `amazon-anthropic-investment-map-2026-10-02.md`. | P1 (Anthropic; CMA); S1 elsewhere |
 | **E23** | Microsoft (about $5B) and Nvidia (about $10B) → Anthropic | Funding (corporate) | *Added 2026-10-02.* Nov 2025. Anthropic commits $30B to Azure. Microsoft is also OpenAI's largest investor, and Microsoft AI is led by Suleyman (E20 context). | S1 |
-| **E24** | Nate Soares — Aella | Relational (reported) | *Added 2026-10-03 under the household-layer rule.* Publicly reported partnership (Sept 2026 coverage relaying the New York Post, resting on Aella's own posts naming "Nate" and "my partner"). Soares: MIRI president, co-author of *If Anyone Builds It, Everyone Dies* (2025). Aella: public figure, a writer and survey-runner prominent in rationalist discourse. **Overlap recorded:** the president of the doom branch's oldest institution, partnered with a prominent voice in the community that receives its arguments. That is an epistemic-independence tie, not a funding tie. **No decision-node exchange (money, employment, governance) between them is documented.** Tabloid sexual detail is excluded under bound (d). | S1 (secondary, partial self-disclosure) |
+| **E24** | Nate Soares — Aella | Relational (reported) | *Added 2026-10-03 under the household-layer rule.* Publicly reported partnership (Sept 2026 coverage relaying the New York Post, resting on Aella's own posts naming "Nate" and "my partner"). Soares: MIRI president, co-author of *If Anyone Builds It, Everyone Dies* (2025). Aella: public figure, a writer and survey-runner prominent in rationalist discourse. **Overlap recorded:** the president of the doom branch's oldest institution, partnered with a prominent voice in the community that receives its arguments. That is an epistemic-independence tie, not a funding tie. **No decision-node exchange (money, employment, governance) between them is documented.** Sexual detail from the coverage is withheld from this public repository under bound (f), the public tier. It is not withheld as discrediting material: that rationale (v0.1 bound (d)) was withdrawn 2026-10-03. Whether the reported detail bears on power under (d′) is unassessed. | S1 (secondary, partial self-disclosure) |
 
 ### Graph
 
