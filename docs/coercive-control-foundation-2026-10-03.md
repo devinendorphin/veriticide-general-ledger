@@ -42,6 +42,7 @@ substantially the same set of control functions.
 | **Duluth Power and Control Wheel** (1984) | Battered women's accounts, Duluth, Minnesota | Intimidation; emotional abuse; isolation; minimizing, denying, and blaming; using children; male privilege; economic abuse; coercion and threats | (gen.) |
 | **Herman, *Trauma and Recovery*** (1992), chapter "Captivity" | Domestic captivity **and** political prisoners, compared directly | The coercive techniques for psychological domination in the two settings are **"remarkably similar."** Control works by inducing fear, destroying autonomy, giving intermittent rewards, increasing isolation, creating dependency, and forcing betrayal of the victim's own principles. The psychological after-effects are **indistinguishable** across the two settings | S1 |
 | **Stark, *Coercive Control*** (2007) | Intimate partner abuse | Coercive control as a **"liberty crime"**: intimidation, isolation, and control, especially the **micro-regulation of everyday life** (dress, speech, food, money, work) | S1 |
+| **US military, Guantánamo (Dec 2002 – Jan 2003)** | Interrogators trained by SERE instructors | Biderman's chart, **copied verbatim** under the title "coercive management techniques," was the basis of an entire interrogation class ("an in-depth class on Biderman's Principles"). It was documented in the Senate Armed Services Committee inquiry and reported by the *New York Times* (2008). Lifton, who studied the same Korean War prisoners, said he was disturbed that the methods had been recycled | S1 (government documents via the SASC inquiry; NYT) |
 | **England and Wales, Serious Crime Act 2015, s.76** | Statute | An offence of **"repeatedly or continuously"** controlling or coercive behaviour with a **serious effect**, where the perpetrator "knows or **ought to know**" the effect. Maximum 5 years | S1 (statute) |
 
 **What converges** is the *functions*, not the surface behaviours:
@@ -55,6 +56,18 @@ substantially the same set of control functions.
 
 The surface behaviours vary enormously. The function set does not. **That is the low
 variance:** a small, stable set of functions behind many different behaviours.
+
+**Correction (2026-10-03, operator's sycophancy-to-power lens): the direction of the
+evidence was inverted in the first version of this file.** The repertoire was **first
+documented at state scale**:
+- Biderman: interrogation of prisoners of war by the Chinese and North Korean states;
+- Lifton: Chinese state thought reform;
+- then **re-adopted by the US state at Guantánamo**, from the same chart.
+
+Only **later** was it applied to households (Duluth, Herman, Stark). The first version
+presented the household as established and the state as the speculative extrapolation. **The
+state scale is the original, documented scale.** The household is the derived application.
+Herman's own subtitle makes the cross-scale claim: *From Domestic Abuse to Political Terror*.
 
 **Disconfirming test 1: are the sources independent?** Only partly.
 - Herman explicitly draws on captivity and prisoner-of-war literature that includes
@@ -81,8 +94,10 @@ established.**
 
 ## 2. Scale: the same function set at household, institution, and state
 
-*Proposer's analytic mapping (`[IN-FRAMEWORK]`); not a finding. Ledger examples are cited
-where they exist.*
+*Proposer's analytic mapping (`[IN-FRAMEWORK]`). **The state column is not the speculative
+one.** Biderman, Lifton, and the Guantánamo training materials document the function set at
+state scale directly. What is analytic here is the alignment of the institutional column and
+the specific examples. Ledger examples are cited where they exist.*
 
 | Function (Biderman) | Household | Institution | Authoritarian state |
 |---|---|---|---|
@@ -111,7 +126,7 @@ each recurs in this ledger.
 | E2 | **Gaslighting as a social, not only psychological, tactic** | **Sweet (2019, *Am. Sociol. Rev.*):** gaslighting works when perpetrators **mobilize stereotypes and structural and institutional inequalities** against the victim (S1) | Move 2 (self-evidence); the psychiatric framing of testifiers |
 | E3 | **Pathologizing the witness** (the diagnosis becomes the reason to disbelieve) | Fricker, testimonial injustice (2007; verified by the 2026-10-03 reviewer); Metzl, *The Protest Psychosis* (S1) | TD-009 (competing accounts); the survivor comparator; institutional-abuse mechanism 1 |
 | E4 | **Institutional betrayal** | **Smith & Freyd (2014):** institutions that fail to prevent, facilitate, or respond poorly to trauma; this **worsens post-traumatic outcomes** (S1) | P-3, P-5 (protective checks enmeshed); H10; Lakeshore (alleged agency cover-up) |
-| E5 | **The inverting counter-claim** | **Meier et al. (2020, NIJ-funded; about 2,000 custody cases):** mothers' abuse claims **increase** their risk of losing custody, and fathers' alienation cross-claims **virtually double** that risk; the effect is gender-specific (S1). *(Exact percentages are not verified here; a press summary of them appeared garbled.)* | TD-009 counterclaims (defamation and abuse of process; purpose U) |
+| E5 | **The inverting counter-claim** | **Meier et al. (2020, NIJ-funded; about 2,000 custody cases):** mothers' abuse claims **increase** their risk of losing custody, and fathers' alienation cross-claims **virtually double** that risk; the effect is gender-specific. A presentation of the findings reports that fathers who cross-claimed alienation had **2.9 times the odds** of taking custody from mothers alleging abuse. **Even where the father's abuse was confirmed, mothers lost custody in 13%** of domestic-violence and child-physical-abuse cases (63 of 468) (S1). | TD-009 counterclaims (defamation and abuse of process; purpose U) |
 | E6 | **Denial typology** | **Cohen, *States of Denial* (2001):** **literal** ("it didn't happen"), **interpretive** ("it's not what you think"), **implicatory** ("it doesn't mean what you say it means for us") (S1). Sykes & Matza's techniques of neutralization (1957): denial of responsibility, of injury, of the victim; condemnation of the condemners; appeal to higher loyalties (gen.) | Literal: the Altman family statement. Interpretive: Move 5 euphemism. Implicatory: Move 6. "Condemnation of the condemners" = Move 3 |
 | E7 | **Removing the witnesses and the record** | Biderman isolation; Herman | Broken Shield (no rape examinations, so no evidence); transfers instead of firing (NY 2011); secrecy statutes (Illinois) |
 | E8 | **The incident trap: the unit of evidence does not match the unit of harm** | Stark: coercive control is a **pattern** of liberty deprivation. Incident-based law sees each act as minor. **s.76 (2015)** created a course-of-conduct offence ("repeatedly or continuously") precisely to close that gap (S1) | **The ledger's own rule:** "A single item is an instance; **pattern is the proof**." Every adversarial check that demands a single item carry the whole case falls into the incident trap |
@@ -175,9 +190,32 @@ those same functions applied to the evidentiary process.
 - **Downgrades if:** coders disagree substantially; the categories absorb everything (the
   hypothesis becomes unfalsifiable, which is Move 4); or a well-documented authoritarian
   system controls *without* the isolation and perception-monopoly functions.
-- **Current status:** supported by convergence from several populations at moderate
-  strength; **the falsifiability test has not been run.** It is the right next test of the
-  ledger's foundation.
+- **Current status, restated after the correction:**
+  - **The cross-scale identity of the repertoire is documented, not hypothetical.** One
+    chart, made from state practice, was later reused by another state and independently
+    rediscovered in households.
+  - **What is LIVE** is the narrower claim: that the **ledger's own corpus** (institutional
+    and policy cases) codes reliably into the function set, and that the categories have
+    edges. **That falsifiability test has not been run.**
+  - The first version blurred these two claims. It put the burden of the untested coding
+    question onto the documented scale claim, which is the claim that implicates states.
+
+## 6. The first version of this file, viewed through sycophancy to power (operator request)
+
+| Where | What the first version did | Why it favoured power | Status |
+|---|---|---|---|
+| §1–§2, H14 | Treated the household as the established scale and the state as the extrapolation | **It inverted the documentary record.** The repertoire originates in **state** interrogation and state thought reform. The highest burden fell on the scale that implicates states | **Corrected** |
+| §1 | **Omitted the US military's verbatim reuse of Biderman's chart at Guantánamo (2002)**, although it appeared in the proposer's own search results (the ACLU and UC Davis "military training materials") | It left out the most direct government-documented instance of a powerful state running the repertoire, and that state is the one whose context this ledger mostly documents | **Corrected** (row added) |
+| §1 | Named prisoner-of-war interrogators, re-education, and abusive partners, but **no named state** in the authoritarian column of §2 | Generic state examples avoid naming the powerful | Partly corrected (Guantánamo; Chinese thought reform named). The §2 cells remain generic |
+| §5 | Put the sophisticated objection (unfalsifiable categories) at the head of the hypothesis | The objection is valid for coding the corpus. Aimed at the foundation, it does the work of E10 ("we can't be certain") | **Re-scoped** to the corpus-coding claim |
+| §3 E5 | Dropped Meier's numbers rather than verifying them | The weaker claim favoured the courts | **Corrected** (2.9x odds; 13% even with confirmed abuse) |
+| §4 | Closed the reflexive section with a two-sided frame (power-protective failures **and** sycophancy to the operator) | The two-sided frame is accurate; both were documented. But leading the close with balance can **neutralize** the specific power-protective findings. Per the ledger's double-bind entry, the remedy is one standard, not offsetting confessions | Kept; flagged |
+
+**What survives under this lens.** The independence caveat (the authors read one another)
+and the corpus-coding falsifiability test are sound evidentiary discipline, and they stay.
+They become power-protective only when uncertainty about the narrow question is allowed to
+spread to the documented one. That is the same pattern the 2026-10-03 reviewer named in its
+own work.
 
 ## BOUNDARY
 
@@ -215,3 +253,5 @@ Sources:
 - Sweet 2019: https://www.asanet.org/wp-content/uploads/attach/journals/oct19asrfeature.pdf
 - Cohen 2001: https://www.downtoearth.org.in/climate-change/there-are-three-types-of-climate-change-denier-and-most-of-us-are-at-least-one-67160
 - Goodmark: https://lawreview.law.ucdavis.edu/archives/56/1/coercive-control-and-limits-criminal-law · https://www.crimejusticejournal.com/article/view/1205
+- Guantánamo use of Biderman's chart: https://humanrights.ucdavis.edu/projects/the-guantanamo-testimonials-project/testimonies/testimonies-of-the-defense-department/china-inspired-interrogations-at-guantanamo-correction-appended · https://www.aclu.org/news/national-security/document-day-old-torture-made-new · https://www.humanrightsfirst.org/library/made-in-china
+- Meier figures: https://www.courts.oregon.gov/programs/family/sflac/Conference%20Materials/Family%20Court%20Outcomes%20Plenary%20Joan%20Meier%20-%20PPT.pdf
