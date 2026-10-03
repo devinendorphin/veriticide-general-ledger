@@ -30,6 +30,7 @@ as findings, and nothing as guilt.
 | P-8 | Community sexual-social events overlapping a leadership household (E24) | **Unassessed.** No differential or coercion reported | S1 |
 | P-9 | A funder spanning the AI tree, married to a long-time employee of his own firm (structure only; no impropriety reported). He was on both sides of sexual-privacy weaponization: outed by a publication he later destroyed through covertly funded privacy litigation. He solicited capital from a convicted sex offender years after the conviction (no abuse involvement alleged). *Named in `thiel-map-2026-10-03.md` §3–§4 because each element there is already public under his name; the sexual-content detail stays private (HP-10)* | Employment-line intimacy; privacy as a weapon; adjacency to an exploitation network | S1 |
 | P-10 | A funder spanning the AI tree financially supported a younger intimate partner (housing, gifts) during the funder's marriage. On the record, the partner said he had persuaded the funder to "stay out of politics" in 2020. The funder's culture-war political funding resumed in 2022. The partner described the arrangement as a risk to his mental health and died in 2023 (investigated as a possible suicide; no wrongdoing by the funder alleged in sources read). Detail in the private tier (HP-11) | **Financial dependency inside an intimate tie, with political funding as the contested object** | S1 (on-record interview) |
+| P-11 | A funder spanning the AI tree ran a social party series in which his own account directly recruited young men from outside his network, with messages describing the event escalating as it went on. No coercion is alleged in the sources read. Detail in the private tier (HP-12) | **Recruitment pipeline into a patron's social circle**; the temporal component of H12 | S1 |
 
 **Flagged, not entered:** one allegation involving conduct that began when the parties were
 minors. Held for an operator ruling under the minors rule.
@@ -46,6 +47,23 @@ complainant. This extends the comparison doc's §4.1, where harm tracks the abse
   accused.
 - *Downgrades if* independent handling, such as the outside law firm eventually used for P-2,
   becomes standard and later cases show it working.
+
+## H12 (hypothesis, LIVE): salons are tiered by time and access
+
+*The operator's hypothesis, from analogous firsthand experience:* the patron's gatherings open
+broad and narrow over the night to a power core plus recruited young men. **Supported in
+part:**
+- within-event escalation and recruitment (P-11);
+- access tiering at business gatherings (a former fellow: "the most depressing parties you've
+  ever been to," with a competition for minutes with the patron);
+- the salon as a power junction (the DeepMind introduction happened at the patron's party);
+- a standing invite-only network with confidential small sessions, one titled "Found a Cult."
+
+**Undetermined:** whether the power core and the recruited late tier meet at the *same*
+events. That is the load-bearing joint.
+- *Upgrades if* two or more independent accounts describe the same-event transition.
+- *Downgrades if* the business salons and the social parties prove to be separate events with
+  separate guests.
 
 ## BOUNDARY
 
