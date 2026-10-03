@@ -6,7 +6,7 @@ narrow, over the night or across venues, to a power core plus recruited young ou
 sex and power meet.*
 
 **Naming rule for this tier:**
-- **Named:** cases with a conviction, a plea, or an organizational outcome, and long-deceased historical figures with a settled public record (Cohn, Bernstein). *Health detail stays in the private tier. This extension is flagged for the operator.*
+- **Named:** cases with a conviction, a plea, or an organizational outcome, and long-deceased historical figures with a settled public record (Cohn, Bernstein). *Confirmed by the operator 2026-10-03: long-dead historical figures can be named publicly.*
 - **Anonymized:** unadjudicated individual allegations.
 - **Minors:** never described sexually. Adult conduct only.
 

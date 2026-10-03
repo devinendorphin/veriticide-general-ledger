@@ -27,12 +27,13 @@ Branch `ccr-2008c543-s3epju` in **both** this repo (public) and `veriticide-afte
 1. **Ingest the ChatGPT adjudication results** verbatim, and respond in a separate file. *Why:*
    it is the only non-proposer check, and the operator distrusts Claude's self-assessment.
    Consider a second handoff covering the 2026-10-03 material.
-2. **Operator rulings still open:**
-   - Entry 6.4 "democratic";
-   - a Kurzweil entry;
-   - the Thiel lectures as a Move 3 specimen;
-   - the Altman minors item;
-   - the public-naming extension.
+2. **Operator rulings, all received 2026-10-03:**
+   - Entry 6.4: "democratic" elaborated. The proposer recommends a *partial CONTROL* on the
+     external-check axis. **The final classification call is still the operator's.**
+   - Kurzweil: Entry 6.6 opened.
+   - Thiel lectures: Entry 6.7, SPECIMEN (Move 3 and Move 4), plus TD-008.
+   - Annie Altman: TD-009 and P-12. Listen to her.
+   - Historical naming: confirmed.
 
    *Why:* each blocks a ledger decision that Claude was told not to make.
 3. **Test H12's load-bearing joint, and capture primaries.** Look for independent same-event
@@ -98,4 +99,8 @@ instruction.)*
 - **Secrecy has a direction.** Record whether secrecy protects the vulnerable or protects the
   powerful.
 - **Public-naming extension** (long-deceased historical figures named, health detail private)
-  is *pending operator confirmation*.
+  is *pending operator confirmation*. *[Confirmed 2026-10-03: long-dead historical figures can be named publicly.]*
+- **Testimony-first for survivors who speak publicly** (operator, 2026-10-03: "Annie Altman is
+  trying to be heard so we should listen to her"). Record their account first, in their own
+  terms, then the response. The minors rule still applies: no sexual detail about the period
+  when they were minors.
