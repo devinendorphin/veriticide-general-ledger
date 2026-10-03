@@ -29,7 +29,7 @@ Last log: `sessions/2026-10-02-ea-enmeshment-and-asymmetry.md`. Branch `ccr-2008
    and Priority 32. Everything this session produced is IN-FRAMEWORK until it lands.
 2. **Get operator rulings on the three open classifications:** Entry 6.4 "democratic"; a
    Kurzweil entry; the Thiel lectures. *(Household scope ruled 2026-10-03, and P32 ruled:
-   see the standing notes. Household search under the new rule is not yet run, and the
+   see the standing notes. Household first pass done 2026-10-03 (HP-01–HP-09, H10); the Altman item is flagged for a minors ruling, and the
    analyst's bounds (a)–(e) await operator confirmation.)* *Why:* these
    are decisions Claude was told not to make, and they block the ledger.
 3. **Primary capture for the load-bearing rows:**
@@ -84,3 +84,7 @@ instruction.)*
   - **Two tiers:** identifiable internal tier, anonymized public tier. **This repo is public**,
     so it carries only the public tier until the operator designates a private store.
     *Open: where the private tier lives.*
+- **Private tier lives in `devinendorphin/veriticide-after-hours`** (PRIVATE, verified
+  2026-10-03), on branch `ccr-2008c543-s3epju`. Identifiable household and sexual-power
+  entries (HP-xx) go **only** there. The public repo gets anonymized presence entries (P-x)
+  only. Never copy identifiable content across.
