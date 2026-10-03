@@ -7290,6 +7290,12 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
     become a diamond.
   - She needed about **$300 for food** at the time. In her account, the diamond was **his idea,
     not their father's**, and it was offered *instead of* what she needed.
+- **The family episode of her own podcast** (S2; audio not reviewed by the analyst):
+  "Podcastukkah #5: Feedback is feedback with Sam Altman, Max Altman, and Jack Altman" (7 Dec
+  2018). Per the LessWrong compilation, she wanted to discuss **projection** and the brothers
+  steered the conversation to **feedback at work**. The compiler notes a possible interruption
+  around 24:50 and says it "doesn't prove anything." *Candidate instance of topic control in
+  her own venue; see `docs/survivor-narrative-exploitation-2026-10-03.md` §3.*
 - **The father's inheritance, the second half of the same shape** (her account; S2 relay of
   P2):
   - She alleges that **money her father left her** (his 401(k) funds) has been **withheld by
