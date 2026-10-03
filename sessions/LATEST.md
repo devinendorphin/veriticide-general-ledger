@@ -75,7 +75,8 @@ instruction.)*
   unverified, and route checks to a non-proposer.
 - **Household layer, revision 2 (ruling 2026-10-03).**
   - Minors: in scope when they take on public authority, for their role ties only. **Never
-    sexual or health information about a minor.** That is the analyst's hard line. Adult
+    sexual or health information about a minor.** Agreed by the operator 2026-10-03, so this
+    is a settled joint rule. Adult
     conduct toward minors is recorded with the minor anonymized.
   - Sexual and health information is **encouraged** where it bears on power (relationships
     across power differentials, sex in recruitment or retention, coercion, leverage).

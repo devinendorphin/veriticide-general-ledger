@@ -153,5 +153,8 @@ session; the hub repo was not added. Candidate glossary additions:
 - **Claude's held line, recorded as a disagreement on the record:** no sexual or health
   information about minors, under any role. Adult conduct toward minors is recorded with the
   minor anonymized.
+- **Resolved 2026-10-03:** the operator agreed to the minors line ("Agreed about the minor in
+  regards to sexual situations I thank you for the refinement"). It is no longer an open
+  disagreement.
 - **Practical blocker:** the repo is public, so the identifiable tier needs a private store
   that the operator has not yet designated.

@@ -61,8 +61,8 @@ classification. They feed the existing Track B fields named in the right-hand co
 Bounds (c) and (d) of revision 1 are replaced:
 - **(c′) Minors.** A minor is in scope when they take on a public mantle of authority (the
   community prizes young "geniuses"). Their *role and authority ties* are recorded like an
-  adult's. **Sexual or health information about a minor is never recorded.** That line is the
-  analyst's, and it is not subject to operator override. Where reported adult conduct
+  adult's. **Sexual or health information about a minor is never recorded.** Agreed by the
+  operator (2026-10-03), so this is a settled joint rule. Where reported adult conduct
   *toward* minors bears on sexual power (for example, the grooming allegations in TIME 2023),
   it is recorded as the adult's conduct, with the minor anonymized.
 - **(d′) Sexual and health information is admitted, and encouraged, where it bears on power.**
