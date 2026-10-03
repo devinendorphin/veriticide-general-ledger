@@ -19,6 +19,7 @@
 | Proposition | Item | Grade |
 |---|---|---|
 | Victim info revealed while **possible enablers** concealed — redaction's direction inverted (shield powerful, expose vulnerable) | `redaction-asymmetry` | S1 (CNN) on P1 |
+| *Counter-instance (added 2026-10-03):* a powerful associate's records (Thiel's 2014 solicitation of Epstein for Valar; Epstein's $40M LP stake) were **released, not concealed**. This lowers the weight of the row above without defeating it. See `07-powerful-associates-annex.md` | annex 07 | S1 on P1 |
 
 ## C — The euphemism (Move 5)
 
