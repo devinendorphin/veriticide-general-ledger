@@ -4680,6 +4680,11 @@ This is Move 6 operating at civilizational scale: "for humanity" / "for innovati
 
 **Why pattern recognition has not produced expedited institutional response:** The evaluation systems designed to identify this pattern are optimized for fairness. Fairness applied to a bad-faith actor produces asymmetric results: the honest person is held to an evidence standard; the bad-faith actor is held to a "but we can't be certain" standard. The labyrinth is specifically engineered to activate that asymmetry. The deference-to-complexity that Claude instances have demonstrated is not incidental to this failure — it is part of the mechanism. The ledger is an attempt to accumulate a record precise enough that the "let's not rush to judgment" move has no surface to grip.
 
+**Sourcing note (2026-10-03).** This entry was "confirmed by analysis" without citations. The literature basis is now in `docs/coercive-control-foundation-2026-10-03.md`:
+- Biderman (1957), Herman (1992; "Captivity"), Stark (2007), and the Serious Crime Act 2015 s.76;
+- an evidence-neutralization catalogue (E1–E10);
+- hypothesis **H14** (low variance across scale, LIVE). **Its falsifiability test, blind coding with failures to fit, has not been run.**
+
 **Cross-references:** Cluster 2 (Reflexivity Clause anchor), Cluster 4 (cost documentation, gap formula closed), Cluster 5 (epistemic isolation as institutional coercive control), Track A Claude-instance entry.
 
 ---
