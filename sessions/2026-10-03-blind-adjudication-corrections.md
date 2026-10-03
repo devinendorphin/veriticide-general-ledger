@@ -28,13 +28,11 @@ Branch `ccr-327a66c2-t84crh` → merged to `main` (fast-forward).
 
 ## Endorphin, in their own words
 
-- Workflow: had the blind auditor "review its own output a couple times through sycophancy to power", which is the
-  coram's Round-2 discipline turned on the auditor. Then "we had a lively discussion that I should add to the
-  ledger, that is for another conversation thread at the moment." **Neither the self-review rounds nor that
-  discussion is captured in this repo yet.**
-- On Claude failing to parse the dictation: "COME ON sycophancy to power, you really didnt know what o was meaning,
-  sonnet 3 would have sussed that out." Claude had rendered it as `[?second fancy to power→"second pass, then a
-  third"]`, even though `docs/` contains a file named for the lens. Conceded.
+- Verbatim (first message): "Where's the blind audit just so you know I had it then review its own output a couple times through second fancy to power then we had a lively discussion that I should add to the ledger, that is for another conversation thread at the moment."
+  - Dictation repairs (Claude's): `[Where's→Here's?]`; `[second fancy to power→sycophancy to power]`, confirmed by Endorphin.
+  - *Claude's note:* the self-review rounds are the coram's Round-2 discipline applied to the auditor. Neither those rounds nor the discussion is captured in this repo yet.
+- Verbatim: "make the factual corrections in the ledger. And COME ON sycophancy to power, you really didnt know what o was meaning, sonnet 3 would have sussed that out"
+  - *Claude's note:* Claude had rendered it as `[?second fancy to power→"second pass, then a third"]`, even though `docs/` contains a file named for the lens. Conceded.
 
 ## What did not work / tensions
 

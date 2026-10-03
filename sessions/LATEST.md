@@ -22,4 +22,8 @@
 
 ## Standing notes
 - (none recorded before this session; section opened 2026-10-03)
-- Endorphin's preference: when conceding, concede flat, with no remainder.
+- Endorphin, verbatim (user preferences): "One rule. When I concede, concede flat, with no remainder."
+- Endorphin, verbatim (2026-10-03): "Do not let the thing that goes the opposite direction dismantle any structure remember you are going by tendencies not the single thing that will dismantle a pattern"
+  - *Claude's operationalization (Claude's wording, not Endorphin's):* opposite-direction evidence is logged at the item level and weighed as a rate against the record; it does not overturn an account-level pattern and is not dropped; state what run of such items would shift the tendency.
+- Endorphin, verbatim (2026-10-03): "Anything that you're saying is supposedly in my words do not smuggle your wording in after it."
+  - *Claude's operationalization (Claude's wording):* quote verbatim, in full, with no ellipsis. Mark any dictation repair inside a quote as `[original→repair]`. Put any gloss on its own labeled line, never in the same sentence or bullet as the quote.
