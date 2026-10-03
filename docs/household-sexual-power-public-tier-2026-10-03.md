@@ -71,7 +71,7 @@ events. That is the load-bearing joint.
 
 | Standard applied in this file | Result for Anthropic |
 |---|---|
-| Household ties at decision nodes | Anthropic's own household tie (E1/E2: the Karnofsky–Amodei household) is **named in this repo** (EA affiliation map). Sexual-power items involving Anthropic leadership: **none found** (round 8; **single general query**, shallower than the searches run on other actors). A reported Dec 2025 incident in which an Anthropic security executive overrode a private gay Discord community's vote to expand a Claude bot's access is recorded as **reported, not a sexual-power item**. |
+| Household ties at decision nodes | Anthropic's own household tie (E1/E2: the Karnofsky–Amodei household) is **named in this repo** (EA affiliation map). Sexual-power items involving Anthropic leadership: **none found** in two queries (rounds 8 and 10). That is still shallower than the searches on other actors. A reported Dec 2025 incident in which an Anthropic security executive overrode a private gay Discord community's vote to expand a Claude bot's access is recorded as **reported, not a sexual-power item**. |
 
 ## BOUNDARY
 
