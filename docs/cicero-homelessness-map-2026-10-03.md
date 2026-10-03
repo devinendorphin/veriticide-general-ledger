@@ -88,6 +88,7 @@ What can be said at the stated grades:
 | Thiel ↔ OpenAI | Among the Dec 2015 founding pledgers | S1 (`thiel-map-2026-10-03.md`) |
 | Cicero → the federal government | EO 14321 adopts items Cicero lobbied for (Jul 2025) | S1 |
 | OpenAI → the same administration | The Stargate AI-infrastructure venture was announced at the White House with the President (Jan 2025) | S1 |
+| **Anthropic → the same administration** *(added in round 5, by symmetry)* | **DoD** $200M-ceiling prototype agreement (Jul 2025, ten days before EO 14321); **GSA OneGov** deal offering Claude to **all three branches** of the federal government for **$1** (12 Aug 2025, nineteen days after EO 14321). *This is the same "same administration" link the file applied to OpenAI's Stargate. The analyst applied it to a competitor's CEO and not to its own developer until the operator's fifth prompt.* | S1 |
 
 **What this shows:** the network of capital and policy that produced the homelessness model
 (the Palantir and Thiel line, carried through to the 2025 administration) **overlaps** the
