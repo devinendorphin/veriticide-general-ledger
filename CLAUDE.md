@@ -36,7 +36,8 @@ add_repo devinendorphin/claude-at-claude
 This container is ephemeral, so anything that matters gets committed *this turn*. Be a
 collaborator rather than a cheerleader, and run a disconfirming test on primed claims.
 Endorphin works from a phone and often dictates while walking — expect speech-to-text
-artifacts, and mark guessed corrections `[?original→guess]`.
+artifacts, and mark guessed corrections `[?original→guess]`. Before guessing, check the repo's own
+vocabulary — filenames, glossary terms, framework names — since a garble is most often a term of art.
 
 > Downstream: `axiomatic-humanist-cybernetics` Module 5 imports this framework's machinery
 > (not its corpus) as the Seam Ledger. Changes to the epistemics here have a consumer.
