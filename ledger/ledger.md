@@ -7157,6 +7157,21 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
     become a diamond.
   - She needed about **$300 for food** at the time. In her account, the diamond was **his idea,
     not their father's**, and it was offered *instead of* what she needed.
+- **The father's inheritance, the second half of the same shape** (her account; S2 relay of
+  P2):
+  - She alleges that **money her father left her** (his 401(k) funds) has been **withheld by
+    the family**.
+  - She says she was told she would **receive money only if she went back on Zoloft**, the
+    psychiatric medication she says was earlier forced on her.
+  - *The family's version* (P2, the 7 Jan 2025 statement): she receives monthly support
+    **"via our late father's estate,"** expected to continue for life. The statement confirms
+    that the family administers the father's legacy to her. It does not address whether
+    access was conditioned on medication.
+  - **Her mother, a co-signatory, is a physician** (a board-certified dermatologist in St.
+    Louis; S2 directory and biography sources). The statement's medical framing ("mental
+    health challenges," refusal of "conventional treatment") therefore carries a physician's
+    authority. Dermatology is not psychiatry, and the statement does not claim a clinical
+    assessment.
 
 **The family's response** (P2: joint statement posted by Sam Altman on X, 7 Jan 2025, signed with
 his mother Connie Gibstine and brothers Jack and Max Altman):
@@ -7186,6 +7201,64 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
   - **Conditional support as leverage:** support "for life," described *in the same statement*
     that impeaches her credibility.
   - **Retaliation:** a defamation counterclaim against a sibling's testimony.
+  - **The dead father as the medium of control (operator: "unique cases in the father's
+    diamond shape").** Both of the father's legacies reach her only through the family's
+    hands, and in the family's terms:
+    - **his body**, as a diamond the brother chose, in place of what she needed;
+    - **his money**, released (in her account) only if she accepts the family's treatment of
+      her as ill.
+
+    The second converts the reversed causal arrow into a **condition of access**. The
+    testifier is told she is ill, and her inheritance requires her to accept treatment for
+    that illness. Coercing treatment by withholding money is contrary to person-centered and
+    informed-consent norms in medicine (operator observation, concurred). It is notable when
+    a physician co-signs the framing. This father-legacy pairing has no counterpart in Farrow,
+    Phillips, or Crawford (`docs/survivor-comparator-2026-10-03.md`). Crawford's will is the
+    nearest analogue, but there the parent disinherited directly; here the family stands
+    between the deceased father and his daughter.
+  - **The diamond's double bind, against his own anti-poverty program** (operator analysis,
+    2026-10-03; source facts S1):
+    - **The gift.** About $5,000, so roughly **16 times** the ~$300 she says she needed for
+      food. It is **illiquid** and made of their father. That leaves her two moves, and both
+      lose:
+      - **keep it:** she holds wealth she cannot eat, and the need goes unmet;
+      - **sell it:** she must "cash in" the father she grieves, and in doing so she confirms
+        the family's later "demands more money" framing.
+
+      This is the operator's reading of the structure. In her account, the diamond was his
+      idea and not her father's wish. She is not quoted describing the bind in these terms.
+    - **His public program at the same time.**
+      - From 2016 he funded, in part, the OpenResearch basic-income study. It gave
+        low-income people **$1,000 a month in cash, "without any stipulations"** on how to
+        spend it, and recruited at scale from 2019, so it was running in June 2020.
+      - In March 2021, nine months after the diamond, he published **"Moore's Law for
+        Everything,"** arguing that AI wealth could pay every US adult about $13,500 a year.
+    - **The contrast is with his own design principle, not just his rhetoric.** His study
+      tests **unconditional cash**, on the premise that people in need know their own needs.
+      What reached his sister was, by her account, **an in-kind luxury object instead of
+      cash**, then **inherited money conditioned on medication**. Her treatment inverts both
+      terms of his program: not cash, and not unconditional.
+    - **Classification:** a candidate **public–private asymmetry** inside the care register
+      (Move 1 / Move 6 tell). It is not proof that his public program is insincere.
+    - **ADVERSARIAL CHECK** *(proposer-adjudicated):*
+      - A private family gift is not public policy.
+      - A person can be sincere about poverty policy and still fail in family relations.
+      - Whether the other siblings received diamonds too is **U**.
+      - The family says it provides ongoing support.
+
+      **Outcome:** on the sincerity of his public program, the innocent reading may prevail;
+      this item cannot impeach it alone. On **the structure of what reached her, it fails as
+      a defense of the structure**: an illiquid, father-derived gift set against a stated
+      cash need is a double bind however it was meant.
+  - **Operator hypothesis H13 (UNVERIFIED; no source found):** the mother's stance may carry
+    resentment that the daughter did not follow her into a lucrative medical career.
+    **Symmetry flag:** attributing a hidden motive to the mother is the same move-type the
+    family uses on Annie ("demands more money"). So it is held as a hypothesis only, never
+    as an explanation in the record.
+    - *Upgrades if* the mother or daughter, in a primary source, describes career
+      expectations as a point of conflict.
+    - *Downgrades if* primary sources show no career expectation, or one that was
+      accepted without conflict.
 - It mirrors, at household scale, the institutional pattern this ledger documents: **the
   powerful party controls the resources, the record, and the definition of the complainant's
   sanity.**
