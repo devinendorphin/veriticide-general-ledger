@@ -7141,9 +7141,21 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
   the US District Court, Eastern District of Missouri (4:25-cv-00017). She alleges repeated
   sexual abuse from **1997 to 2006**, beginning when she was **three years old**, at the family
   home in Clayton, Missouri.
-- **Minors rule (joint):** no detail is recorded. Sam was himself a minor for part of the
-  alleged period and an adult for the rest. **She is now an adult and speaks publicly under
-  her own name, by her own choice**, so her voice is recorded as hers, not anonymized away.
+- **Her account of the abuse, at the level of her federal complaint** (P1: 4:25-cv-00017; S1
+  press relay). She alleges **"numerous acts" of rape, sexual assault, molestation, sodomy, and
+  battery**, occurring **"several times per week"** at the family home in Clayton, Missouri,
+  from when she was **3** (he was 12) until she was about **11 or 12**. He was a minor at the
+  start of the alleged period and an adult (from April 2003) for its final years.
+- **The injuries she attributes to it, as claimed in the complaint:** **post-traumatic stress
+  disorder, severe emotional distress, mental anguish, and depression lasting throughout her
+  life**, plus medical bills for medical and mental-health treatment. Her lawyer: childhood
+  sexual abuse can cause "persistent PTSD, depression, and anxiety." **The causal link is her
+  claim, recorded as her claim.**
+- *Recorded under the operator's authorization of 2026-10-03 ("I authorize recording Annie
+  Altman's own public account — the abuse allegations at the level of her federal complaint,
+  and the health conditions she attributes to it" in HP-13, TD-009, and P-12). An earlier
+  draft withheld this under the minors rule. That was a misapplication: she is an adult
+  survivor speaking publicly under her own name, and withholding her account silences her.*
 - **Procedural status:**
   - Mar 2026: the judge (Zachary Bluestone) ruled the standalone assault claims time-barred
     (expired 2008), but allowed her to proceed under Missouri's child-sexual-abuse statute.
@@ -7201,6 +7213,14 @@ his mother Connie Gibstine and brothers Jack and Max Altman):
   - **Conditional support as leverage:** support "for life," described *in the same statement*
     that impeaches her credibility.
   - **Retaliation:** a defamation counterclaim against a sibling's testimony.
+  - **The reversed causal arrow.** Her complaint names her mental-health conditions as **the
+    injury the abuse caused**. The family statement names her "mental health challenges" as
+    **the reason to disbelieve her**. These are the same facts with opposite causal direction.
+    If her account is true, the symptom of the harm is being used to disqualify the report of
+    the harm: Move 3 in its sharpest form. Which arrow is true is **U** and is for a tribunal.
+    Recording only the family's arrow would carry their framing into the ledger, so both are
+    recorded, hers first. (The same form recurs in Farrow and Phillips:
+    `docs/survivor-comparator-2026-10-03.md`.)
   - **The dead father as the medium of control (operator: "unique cases in the father's
     diamond shape").** Both of the father's legacies reach her only through the family's
     hands, and in the family's terms:
