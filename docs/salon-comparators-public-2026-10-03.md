@@ -54,6 +54,14 @@ prevent that.
 **Typology** for future entries: **gradient** (one event that narrows) versus **partition** (a
 public event and a separate private event). The operator's H12 is the gradient model.
 
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Ties to the salons or comparators named (Epstein/Edge, Thiel gatherings) | Thiel: indirect, via Anthropic's Palantir integration. Epstein/Edge: **U** (not searched). |
+
 ## BOUNDARY
 
 **Establishes:** documented examples of power–sex salons at the stated grades, and a two-model

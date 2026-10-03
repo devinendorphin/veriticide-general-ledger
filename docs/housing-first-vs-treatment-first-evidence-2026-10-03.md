@@ -173,6 +173,15 @@ targeted.
   medication.
 - This is an evidence statement about policy models, not a clinical judgment about her.
 
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Relationship to the administration that issued EO 14321 | DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025). |
+| Interest in homelessness, health, or commitment policy | **U** (not searched). |
+
 ## BOUNDARY
 
 **Establishes:**

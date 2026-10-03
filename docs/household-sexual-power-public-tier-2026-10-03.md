@@ -65,6 +65,14 @@ events. That is the load-bearing joint.
 - *Downgrades if* the business salons and the social parties prove to be separate events with
   separate guests.
 
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Household ties at decision nodes | Anthropic's own household tie (E1/E2: the Karnofsky–Amodei household) is **named in this repo** (EA affiliation map). Sexual-power items involving Anthropic leadership: **none found in sources read; not specifically searched (U).** |
+
 ## BOUNDARY
 
 **Establishes:** the presence of the listed dynamics in the public record, at the stated

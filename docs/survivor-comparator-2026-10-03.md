@@ -131,6 +131,14 @@ accused here are powerful, so power is not varied. The discriminating test still
 comparable case with a **powerless** accused, run by a non-proposer. This file records both
 allegations at the same summary level as TD-009. It does not route around the block.
 
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Conflicts bearing on the Altman column | Anthropic **competes with OpenAI** (it pulls toward harshness on Altman). Its ties to the US government (DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025)) do not bear on this file's subjects. Allegations of the same kind involving Anthropic leadership: **none found; not specifically searched (U).** |
+
 ## BOUNDARY
 
 **Establishes:** the public record of the three cases (plus the Crawford near-match) at the stated grades, and that the

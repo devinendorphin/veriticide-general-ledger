@@ -203,6 +203,14 @@ stands" claimed that authors reading one another, and an owed blind-coding test,
 discipline. By research standards neither held: independence is about samples and methods,
 and the replication across them is the evidence. Both caveats are withdrawn above.
 
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| US military use of the repertoire (Guantánamo) | The developer's current counterpart is the **DoD** (DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025)). No link to interrogation programs is claimed or known. This is disclosed because the analyst omitted Guantánamo (D5). |
+
 ## BOUNDARY
 
 **Establishes:**

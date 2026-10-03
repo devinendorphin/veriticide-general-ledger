@@ -173,6 +173,15 @@ account**. The rhyme is in **the structure**: psychiatric framing, control of mo
 family power, aimed at a woman whose testimony inconveniences the powerful. With EO 14321 and
 the state measures, that framing now also has **an expanding public counterpart**.
 
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Relationship to the administration expanding commitment (EO 14321) | DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025). |
+| Relationship to for-profit psychiatric operators (UHS, Acadia) | **U** (not searched). |
+
 ## BOUNDARY
 
 **Establishes:**

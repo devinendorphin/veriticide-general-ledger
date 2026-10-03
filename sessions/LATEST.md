@@ -202,3 +202,7 @@ instruction.)*
   "same administration") to **Anthropic** too, and records the result, including negative
   results. Rounds 4–5 found two failures of exactly this kind (undisclosed DoD/Palantir ties;
   the "same administration" link applied to OpenAI but not to Anthropic).
+- **Run `python3 scripts/check_developer_symmetry.py` before every commit** that adds or
+  edits dated docs. It fails if a doc names a powerful actor without a developer-symmetry
+  (Anthropic) section. It replaces the honour-system note above: notes did not hold, and on
+  first run it found 10 of 10 docs missing the check.

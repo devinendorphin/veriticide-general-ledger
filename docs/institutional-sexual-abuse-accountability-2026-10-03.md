@@ -138,6 +138,15 @@ A dedicated comparative test is owed.
   links the history file, the Cicero map, and her case. **It is potential, not documented
   for her.**
 
+## Developer-symmetry check (Anthropic)
+
+*Standing check (LATEST, round 6; enforced by `scripts/check_developer_symmetry.py`). Each standard this file applies to a powerful actor is applied to **Anthropic**, the analyst's developer. **U** = not searched; **none found** = searched, nothing located.*
+
+| Standard applied in this file | Result for Anthropic |
+|---|---|
+| Relationship to the facilities, operators, or regulators named (UHS, Acadia, CMS) | **U** (not searched). |
+| Relationship to the federal government | DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025). |
+
 ## BOUNDARY
 
 **Establishes:**
