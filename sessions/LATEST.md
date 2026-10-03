@@ -1,45 +1,47 @@
-# LATEST: continuity seed (regenerated 2026-10-03)
+# LATEST: continuity seed (regenerated 2026-10-03, session II)
 
-Last logs: `sessions/2026-10-03-thiel-salons-private-tier.md` and `sessions/2026-10-02-ea-enmeshment-and-asymmetry.md`.
-Branch `ccr-2008c543-s3epju` in **both** this repo (public) and `veriticide-after-hours`
-(PRIVATE). Neither is merged, and no PRs are open.
+Last logs: `sessions/2026-10-03-altman-institutionalization.md`,
+`sessions/2026-10-03-thiel-salons-private-tier.md`, and
+`sessions/2026-10-02-ea-enmeshment-and-asymmetry.md`. Work done on branch
+`ccr-2008c543-s3epju` in **both** this repo (public) and `veriticide-after-hours` (PRIVATE),
+**merged to main** on 2026-10-03.
 
 ## Project state
 
-- **Cases:**
-  - `epstein-survivor-unredaction` is active: annex 07 adds Thiel/Valar as a counter-instance
-    to leg B.
-  - The other cases are stable.
-- **`ledger/ledger.md`:** active. Entry 6.4 carries a note; reclassification is pending.
-  Priority 32 has an operator ruling, and its adjudication is handed off.
-- **EA/AI series (2026-10-02):** active, at hypothesis status. H1–H9 in the Young lens; the
-  affiliation map runs to E24.
-- **Thiel map, salon comparators, public household tier (2026-10-03):** active. H10, H11, and
-  H12 are LIVE.
-- **Private tier:** active. HP-01–HP-12, the comparator study, and operator T1 testimony.
-- **Independent adjudication:** the one-file handoff is ready. **No results yet.** It covers
-  material only up to 2026-10-02.
-- **Custody:** everything is LOCATOR-ONLY. Owed captures: the OP 2017 grant page, the
-  Anthropic S-1, Amazon 10-Qs.
+- **Cases:** `epstein-survivor-unredaction` is active (annex 07: Thiel/Valar as a
+  counter-instance to leg B). The other cases are stable.
+- **`ledger/ledger.md`:** active.
+  - Entries 6.6 (Kurzweil) and 6.7 (Thiel lectures) are new.
+  - **Entry 6.4's classification is pending the operator.**
+  - TD-008 and TD-009 (Altman) are new. TD-009 is the most developed entry.
+- **The Altman / survivor series:** active.
+  - TD-009, P-12, HP-13;
+  - the survivor comparator (Farrow, Phillips, Crawford);
+  - the Cicero map.
+- **Policy-evidence series:** first drafts, not independently reviewed.
+  - Housing First vs treatment first;
+  - the institutionalization history;
+  - institutional sexual abuse.
+- **EA/AI series and Thiel/salons:** active, at hypothesis status. H1–H13 are LIVE.
+- **Private tier:** active (HP-01–HP-13, the salon comparators, T1 operator testimony).
+- **Independent adjudication:** **none yet.** The one-file handoff covers material only up to
+  2026-10-02.
+- **Custody:** everything is LOCATOR-ONLY.
 
 ## Top 3 priorities next session
 
-1. **Ingest the ChatGPT adjudication results** verbatim, and respond in a separate file. *Why:*
-   it is the only non-proposer check, and the operator distrusts Claude's self-assessment.
-   Consider a second handoff covering the 2026-10-03 material.
-2. **Operator rulings, all received 2026-10-03:**
-   - Entry 6.4: "democratic" elaborated. The proposer recommends a *partial CONTROL* on the
-     external-check axis. **The final classification call is still the operator's.**
-   - Kurzweil: Entry 6.6 opened.
-   - Thiel lectures: Entry 6.7, SPECIMEN (Move 3 and Move 4), plus TD-008.
-   - Annie Altman: TD-009 and P-12. Listen to her.
-   - Historical naming: confirmed.
-
-   *Why:* each blocks a ledger decision that Claude was told not to make.
-3. **Test H12's load-bearing joint, and capture primaries.** Look for independent same-event
-   accounts of Thiel gatherings, and for the inner-circle layer (fellows, staff, portfolio).
-   Capture the Anthropic S-1 when it is public. *Why:* H12 is the most-developed live
-   hypothesis, its joint is the only undetermined cell, and the S-1 resolves H4–H6.
+1. **Non-proposer review of the 2026-10-03 material.** Build a second one-file handoff
+   covering TD-009, the survivor comparator, the Cicero map, and the Housing First file
+   (Claude disclosed a prior lean). Ingest the 2026-10-02 adjudication if it has come back.
+   *Why:* there is no independent check on any classification made today, and the operator
+   distrusts Claude's self-assessment.
+2. **Operator ruling on Entry 6.4** (partial CONTROL or not). *Why:* it is the only open
+   classification. Entry 6.7 and TD-008 treat 6.4's external-check proposal as Thiel's
+   target, so their reading depends on it.
+3. **Verify the (gen.) items** in the institutionalization file, and **find a comparable case
+   with a powerless accused** for the survivor comparator. *Why:* the (gen.) items are
+   unverified claims inside a public file. The powerless-accused case is the only test that
+   discriminates whether the disqualification form tracks power.
 
 ## Standing notes
 
@@ -112,3 +114,13 @@ instruction.)*
   less about the harm, its scale, the perpetrators, the institutions, or the absence of
   accountability. **Check every use of the rule:** does it protect the child, or does it
   protect the powerful?
+- **Inspect a tool block before theorizing about it** (2026-10-03). Run
+  `claude auto-mode defaults --label '<label>'`. "Excess Sensitive Detail" is keyed to user
+  authorization for a specific detail and recipient, not to the subject's power.
+  - The operator's authorization for the Altman complaint-level account and attributed
+    injuries (TD-009, P-12, HP-13) was recorded 2026-10-03.
+  - The edit landed in accept-edits mode.
+  - **The public-repo placement is an operator-authorized exception to the two-tier rule.**
+- **Policy files:** split "treatment first" into TF-1 (precondition), TF-2 (contingency
+  management), and TF-3 (enforcement and coercion). Evidence for one is not evidence for the
+  others.
