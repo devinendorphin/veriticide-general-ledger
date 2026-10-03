@@ -532,9 +532,18 @@ retained as captured with correction pointers.
 - **Entry 2.10 (Fable 5/Mythos 5 launch), C12/C66:** "less than 5% of sessions" relabeled from false-positive rate
   to trigger rate; claims that the suspension's cause was undisclosed corrected (same-day directive statement, already
   filed in Cluster 4); claims that the suspension showed inadequate pre-launch evaluation struck; "three-day
-  suspension" corrected. Classification marked UNDER RE-ADJUDICATION. Cluster 2 note updated.
+  suspension" corrected. Classification first marked UNDER RE-ADJUDICATION (superseded same day, below). Cluster 2 note updated.
 - **"Three Observations" (Cluster 7), C57/C69:** restored the post's own conditional; corrected the false
   "defused within three sentences" sequence ("not less" precedes the capital/labor passage). Re-adjudication flagged.
 - **Musk/McHugh Component A, C20:** struck "approximately 20% of the US population" — views are global impressions.
 - **Entry 3.5c, C22:** Mar 4 → Mar 10 is six days, not two.
 Not in this repo: the Kurzweil-map arithmetic and Summit-genealogy graph corrections (Part 2 documents).
+
+**Re-adjudication, same day.** The reviewer's reconciliation (`docs/external-review-2026-10-02-gpt6-codex-reconciliation.md`) issued RA-2026-10-02-01/02. Both were checked against
+the ledger's captures and adopted:
+- **Entry 2.10, RA-01:** original classification WITHDRAWN; combined concealment rationale not established; not
+  NULL and not exoneration; surviving claims must re-ground on their own acts. The "UNDER RE-ADJUDICATION" status is
+  withdrawn as an error: it held withdrawn grounds open as if they were pending.
+- **"Three Observations", RA-02:** NARROWED (PARTLY PREVAILS) to a limited benefit-framing/governance finding.
+  Open and not adjudicated: the three-entry Altman temporal-persistence claim ("Abundant Intelligence"; Cluster 7
+  method note) needs re-testing with this entry narrowed.
