@@ -60,7 +60,7 @@ public event and a separate private event). The operator's H12 is the gradient m
 
 | Standard applied in this file | Result for Anthropic |
 |---|---|
-| Ties to the salons or comparators named (Epstein/Edge, Thiel gatherings) | Thiel: **direct** (Founders Fund co-led Anthropic's Feb 2026 round) and via the Palantir integration. Epstein/Edge–Anthropic: **none found** (searched in round 8; general search only). |
+| Ties to the salons or comparators named (Epstein/Edge, Thiel gatherings) | Thiel: **direct** (Founders Fund co-led Anthropic's Feb 2026 round) and via the Palantir integration. Epstein/Edge–Anthropic: **none found** (round 8; **single general query**, shallower than the searches run on other actors; general search only). |
 
 ## BOUNDARY
 

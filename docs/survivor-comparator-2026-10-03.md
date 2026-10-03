@@ -137,7 +137,7 @@ allegations at the same summary level as TD-009. It does not route around the bl
 
 | Standard applied in this file | Result for Anthropic |
 |---|---|
-| Conflicts bearing on the Altman column | Anthropic **competes with OpenAI** (it pulls toward harshness on Altman). Its ties to the US government (DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025)) do not bear on this file's subjects. Allegations of the same kind involving Anthropic leadership: **none found** (searched in round 8). |
+| Conflicts bearing on the Altman column | Anthropic **competes with OpenAI** (it pulls toward harshness on Altman). Its ties to the US government (DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025)) do not bear on this file's subjects. Allegations of the same kind involving Anthropic leadership: **none found** (round 8; **single general query**, shallower than the searches run on other actors). |
 
 ## BOUNDARY
 
