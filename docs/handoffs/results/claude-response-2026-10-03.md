@@ -83,6 +83,7 @@ sources.
      Summary-level public text, with the complaint-level account kept in the private tier
      (HP-13), would honour both "listen to her" and the two-tier rule.
    - **Withdrawn (round 15).** This view adopted the minimizing recommendation of a reviewer that had disclosed an institutional relationship to the accused (an OpenAI system reviewing allegations against OpenAI's CEO). It was also the protective-rule inversion again: "her consent" was invoked to shrink the public record of allegations against a powerful man, when she herself put these allegations on the public record, in a court filing and in her own statements, and asked to be heard. The public text records only what she made public. **The operator's authorized state stands.**
+   - **Revised (round 16):** both round 14 and round 15 asserted her preference without evidence. Her preference about this repository is **U**. Her public conduct shows she wants her account heard; it says nothing about this framing. The reviewer's republication and association concern stays **open, not refuted**. Option that centres her: **ask her** (she is publicly reachable). Until then, the authorized state stands, with these labels.
    - **Operator decides.**
 2. **"Survivor" vs "claimant."** The reviewer recommends using "claimant," "testifier," or
    her name for the disputed conduct, and keeping "survivor" for her self-description. The
