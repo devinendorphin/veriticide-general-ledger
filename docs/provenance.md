@@ -547,3 +547,15 @@ the ledger's captures and adopted:
 - **"Three Observations", RA-02:** NARROWED (PARTLY PREVAILS) to a limited benefit-framing/governance finding.
   Open and not adjudicated: the three-entry Altman temporal-persistence claim ("Abundant Intelligence"; Cluster 7
   method note) needs re-testing with this entry narrowed.
+
+## 2026-10-03 — Re-test: Sam Altman temporal persistence (Cluster 7)
+
+Triggered by the RA-2026-10-02-02 narrowing of "Three Observations." All three Altman entries were checked against
+their Appendix A captures. Result: persistence **met in narrowed form only**, as a consistent stance (benefit framing
++ acknowledged risk + nonbinding remedy, 3/3). Withdrawn as account-level claims: unfalsifiable overlay (1/3),
+foreclosure (0/3), concealment (0/3), "spanning multiple years" (all three dated 2025 by the ledger's own evidence).
+Disconfirming test: the surviving stance is plausibly genre base rate. A comparator set or the conduct leg is
+needed; the conduct leg is not established (Entry 7.3 is label-only per C54). Account-level pattern: NOT
+ESTABLISHED; stands as a basis for inquiry. Pointer notes added to all three entries. Gentle Singularity's
+"forecloses the distribution question" corrected against the text. Cluster 9's "MOVE 4 already documented"
+citation of the 10GW claim flagged for re-read.
