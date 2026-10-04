@@ -56,6 +56,32 @@ The private tier, `devinendorphin/veriticide-after-hours`, has its own main, als
   - a dated update search for HF and recovery housing;
   - the remaining CANNOT VERIFY rows.
 
+## Update (2026-10-04): adversarial assessment, viewed through sycophancy to power
+
+- **File:** `docs/adversarial-assessment-2026-10-04.md`. It runs four lens rounds and stops
+  under a stopping rule stated in advance; round 4 raised nothing new. Proposer
+  self-assessment, so it is a candidate specimen and routes to non-proposer review.
+- **Corrected in the same commit:** README custody claims, checked against the governing
+  indexes. DOGE and redistricting hold **0 VERIFIED** items; the README's Band 1 had called
+  them VERIFIED.
+- **Awaiting the operator.** The ruling on the testifier's public record is *not* re-opened.
+  - (1) Make the adversarial-check wording symmetric (`formatter.py:81,83`; 65 of 71 ledger
+    checks are headed "Why this reading fails").
+  - (2) Route the **twelve undisposed rows** from the 2026-10-02 blind review (C03, C04, C08,
+    C11, C13, C15, C18, C30, C32, C41, C51, C67) through one non-proposer route.
+  - (3) Make the Entry 8 account-level note count both directions. It says accommodation is
+    documented "once" and omits the two external overclaim findings.
+  - (4) Cold-register vocabulary: "Genocide Supplement," "is the historical truth,"
+    "Met"/"Charged."
+  - (5) README:11 "independently derived," and H14's grade (a D6 re-opening, offered once).
+  - (6) Three placement items:
+    - the podcast item sits inside TD-009's testimony-first block;
+    - TD-009's heading "The dead father as the medium of control";
+    - CTF-1's irony contradiction.
+  - (7) The residual on P-10.
+  - (8) A stopping rule for lens loops, and the reading of "concede flat" offered in A7
+    (*proposed, not a standing note*).
+
 ## Top 3 priorities next session
 
 1. **Non-Claude review, on both lines.**
