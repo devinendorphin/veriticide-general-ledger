@@ -18,8 +18,14 @@ knowledge and were **not re-verified in this session's searches**.
 **Discipline:**
 - **The serious-illness counter-case is recorded, not suppressed.** Some people do suffer
   terribly without care, and the revival responds partly to them.
-- **Misuse of coercion does not show that all coercion is misuse.** This file documents how
-  the power gets used against people, and makes no claim beyond that.
+- ~~**Misuse of coercion does not show that all coercion is misuse.**~~ *Revised 2026-10-04
+  (operator challenge, conceded).* "Misuse" implied that some override of a person's autonomy
+  is a non-harmful *use*. That concedes the care-register framing this ledger studies.
+  **Every override of a person's autonomy "for their own good" is a harm.** Whether a
+  particular override can be *justified* is a separate question: incapacity, or imminent
+  lethal danger, are the candidates. The burden of justification sits with the person doing
+  the overriding. The record below shows that justification is usually claimed by those who
+  benefit from the override.
 
 ---
 
@@ -60,6 +66,10 @@ fact. They draw opposite conclusions from it.
 | **Military whistleblowers** | Commanders' **retaliatory referrals for mental-health evaluations** were common enough that Congress acted: the **FY1993 defense authorization act, §546**, made such a referral a reviewable personnel action. **DoD Directive 6490.1** (now DoDI 6490.04) **prohibits using a mental-health evaluation as reprisal** | **Psychiatric referral as reprisal, recognized and banned by statute** | P1 |
 | **Adrian Schoolcraft** (NYPD, 2009) | After secretly recording **arrest quotas and manipulated crime statistics**, he was forcibly taken from his apartment by a group of officers led by a deputy chief and **held six days at Jamaica Hospital, partly in the psychiatric ward.** His recordings later became "smoking gun" evidence in the stop-and-frisk case (*Floyd*). Settlements: about **$600K from the NYPD** (2015), plus a separate settlement with the hospital. **The court record treated the admission as a nullity and ordered it expunged** (*added per review*). The "smoking gun" phrase is not itself a judicial finding, and not every pleaded retaliatory motive was adjudicated | **Involuntary psychiatric hold used against a whistleblower** | S1 / P1 |
 | **Britney Spears conservatorship** (2008–2021) | Under a conservatorship led by her father for 13 years, she testified (23 Jun 2021) to being **medicated against her will (lithium), forced to work, kept from her earnings, and prevented from removing a contraceptive device.** She compared her father to a "sex trafficker" who "loved" the control. **Terminated 12 Nov 2021**, with no opposition | **A family-controlled legal guardianship joining psychiatric framing, medication, and control of money** | S1 / P1 |
+| **Louisa Nottidge** (England, 1846–49) *(added 2026-10-04)* | An unmarried heiress who joined the **Agapemonites**, a mystical Christian sect whose leader, Henry Prince, claimed divinity. **On her mother's instructions, her brother, cousin and brother-in-law seized her** (Nov 1846). After she kept affirming Prince's divinity, she was **certified insane** and confined in Moorcroft House Asylum. She escaped (Jan 1848), and the Commissioners in Lunacy released her (May 1848). **She sued her relatives for false imprisonment and won** (*Nottidge v. Ripley*, 1849). Recorded in full: **her money was contested on both sides.** In *Nottidge v. Prince* (1860) her brother recovered from Prince what she had given him, on the ground of undue influence | **Religious heterodoxy within the family's own faith, treated as madness, by the family, with a fortune at stake.** A second controlling party (the sect leader) is on the record | S2 (Wikipedia, citing *The Times* trial reports) |
+| **Louisa Lowe** (England, 1870–) *(added 2026-10-04)* | Sent by her husband, the Anglican vicar George Lowe, to Brislington House, then Henry Maudsley's Lawn House, then Otto House, **on account of her spiritualism ("passive writing")** and her claim to special powers. Accounts record that her husband **"had a strong interest in her income,"** and that **Maudsley colluded in keeping her, partly because she was threatening to divorce her husband.** She later took part in the **Lunacy Law Reform Association**, helped bring her doctors before an 1877 Select Committee, helped **Georgina Weldon** escape a commitment her own husband had arranged, and wrote *The Bastilles of England* (1883) | **A clergyman husband, a wife's mystical turn, her income, and the leading psychiatrist of the day** | S1 / S2 |
+| **Rosina Bulwer-Lytton** (England, 1858) *(added 2026-10-04)* | After she **publicly denounced her husband, the novelist and politician Edward Bulwer-Lytton, at his election**, he had her committed. She was **released just over three weeks later** amid public outcry | **Commitment as the answer to a wife's public speech** | S2 |
+| **Howard Dully** (California, 1960) *(added 2026-10-04)* | **Lobotomized at 12** (transorbital, $200) by Walter Freeman, at the instigation of his **father and stepmother**. Freeman had diagnosed "childhood schizophrenia," though other clinicians who saw him found no disorder. Afterwards: years at Agnews State Hospital, incarceration, homelessness. Freeman was told "terrible lies" about him by the stepmother (Dully's memoir, *My Lobotomy*, 2007) | **A parent's account of a child, converted by a clinician into irreversible brain surgery** | S2 (memoir; NPR 2005 documentary, gen.) |
 | **Comparator: Soviet "punitive psychiatry"** | Dissidents diagnosed with "sluggish schizophrenia" and held in psychiatric hospitals | The Western reference case, often cited abroad and rarely applied at home | (gen.) |
 
 **Pattern across the cases** (a tendency claim; the cases were selected for fit):
@@ -67,7 +77,17 @@ fact. They draw opposite conclusions from it.
   whistleblowers. People whose speech or autonomy **inconveniences someone with power over
   them.**
 - **Who holds the lever:** often **family** (Packard's husband, Kennedy's father, Spears's
-  father) or **the institution being exposed** (the NYPD, military commands).
+  father, Nottidge's mother, Lowe's husband, Bulwer-Lytton's husband, Dully's stepmother) or
+  **the institution being exposed** (the NYPD, military commands).
+- **What sets it off** *(added 2026-10-04)*:
+  - **a woman's spiritual turn within, or slightly outside, the family's own faith**
+    (Packard, Nottidge, Lowe);
+  - **her public speech** (Bulwer-Lytton);
+  - **money**: Lowe's income, Nottidge's fortune, Spears's earnings, and Altman's inheritance
+    as she tells it;
+  - **a threat to leave** (Lowe's threatened divorce).
+
+  The label of insanity arrives *after* the inconvenience.
 - **The move:** a label of mental illness **turns dissent into a symptom**, so the
   institution never has to answer the dissent itself. This is the ledger's **Move 3**
   (disqualification) **with physical custody attached.**
@@ -78,6 +98,7 @@ fact. They draw opposite conclusions from it.
 
 | Corruption | Evidence | Grade |
 |---|---|---|
+| **Consent coerced by access to care** *(added 2026-10-04)* | **Willowbrook hepatitis studies (1956–c.1970, Saul Krugman):** children with intellectual disabilities were **deliberately infected with hepatitis**, by injection or in chocolate milk. Parents signed consent, but **admission was at times available only through the "hepatitis unit"**, so consent was the price of a bed. The study was non-therapeutic for the children infected | **Agreement extracted by making the alternative no care at all** | S1 (bioethics casebooks; Halpern, *Dangerous Medicine*, reviewed *NYRB* 2024) |
 | **Squalor and neglect** | **Willowbrook State School** (Staten Island): overcrowding, filth, and abuse were exposed by television reporting in 1972. Litigation ended in the **1975 consent judgment**, *NYSARC v. Carey*, which set minimum standards of care | P1 / S1 |
 | **Unpaid forced labor ("institutional peonage")** | Patients and residents ran farms, laundries, and kitchens for no pay, sometimes labeled as "therapy." ***Souder v. Brennan*** **(1973)** held that federal wage law covers patient-workers | P1 |
 | **Custody without treatment** | ***O'Connor v. Donaldson*** **(1975):** Kenneth Donaldson was held **almost 15 years** in a Florida state hospital. He was not dangerous and **received no treatment**. The Supreme Court held that a state cannot confine a non-dangerous person who can survive in freedom | P1 |
@@ -193,7 +214,10 @@ the state measures, that framing now also has **an expanding public counterpart*
 - that the current revival lowers detention standards.
 
 **Does NOT establish:**
-- that all coercive treatment is abuse;
+- ~~that all coercive treatment is abuse~~ *(revised 2026-10-04, see Discipline)*: whether
+  any particular override was *justified*. Every override recorded here is a harm. Whether
+  it was justified is a separate question, and the burden of answering it sits with the
+  person who did the overriding;
 - that the current measures are made in bad faith;
 - that any individual's commitment under them would be wrongful;
 - anything about Annie Altman beyond her account and the structural rhyme;
@@ -208,7 +232,11 @@ Sources:
 - Military: https://www.gao.gov/products/NSIAD-95-23 · https://apps.dtic.mil/sti/tr/pdf/ADA271761.pdf
 - Schoolcraft: https://en.wikipedia.org/wiki/Adrian_Schoolcraft · https://www.amny.com/opinion/what-spurred-the-adrian-schoolcraft-settlement-1-10926115
 - Spears: https://www.bangordailynews.com/2021/06/24/nation/britney-spears-tells-judge-i-want-my-life-back/ · https://www.thefader.com/2021/11/12/britney-spears-conservatorship-terminated
-- Willowbrook: https://disabilityjustice.org/basic-legal-rights/the-closing-of-willowbrook/
+- Willowbrook: https://disabilityjustice.org/basic-legal-rights/the-closing-of-willowbrook/ · hepatitis studies: https://www.qcc.cuny.edu/SocialSciences/ppecorino/MEDICAL_ETHICS_TEXT/Chapter_7_Human_Experimentation/Case_Study_Willowbrook_Experiments.htm · https://www.nybooks.com/articles/2024/11/21/the-horrors-of-hepatitis-research-dangerous-medicine-sydney-halpern/
+- Nottidge: https://en.wikipedia.org/wiki/Louisa_Nottidge
+- Lowe: https://ese-journals.unisalento.it/index.php/linguelinguaggi/article/view/29142 · https://www.goodreads.com/author_blog_posts/19188166-dracula-for-doctors-by-fiona-subotsky
+- Bulwer-Lytton: https://librarycompany.org/?p=21642
+- Dully: https://en.wikipedia.org/wiki/Howard_Dully
 - Souder v. Brennan: https://clearinghouse.net/case/15215
 - O'Connor v. Donaldson: https://www.law.cornell.edu//supremecourt/text/422/563
 - Hartford Courant: https://www.npr.org/1998/10/12/1033167/death-in-restraints · https://www.nami.org/press-releases/how-many-more-must-die-nami-asks-congress/
