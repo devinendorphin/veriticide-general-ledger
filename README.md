@@ -24,21 +24,23 @@ falsification memo, and custody manifest. Each asserts **step one** of the Stand
 strength, strongest first — so the reader meets the mechanism through the most-documented
 material before meeting the widest framing.
 
-**Band 1 — mortality- or statute-anchored, VERIFIED custody (strongest)**
+**Band 1 — mortality- or statute-anchored (strongest)**
+
+*Custody per each case's governing `evidence/custody-index.json` (corrected 2026-10-04; the earlier "VERIFIED custody" band label overstated two of the three cases — see `docs/adversarial-assessment-2026-10-04.md` A2):* DOGE 0 of 15 items VERIFIED (13 HASHED-PENDING-BACKUP, 2 LOCATOR-VERIFIED); redistricting 0 of 9 VERIFIED (9 HASHED-PENDING-BACKUP); Boxtown 9 of 11 VERIFIED.
 
 | Case | Path | Drawn from |
 |---|---|---|
 | DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 — Tier 3, the withdrawal + laundering instrument; named pediatric deaths + peer-reviewed mortality modeling |
-| Redistricting / performed ignorance | `cases/election-redistricting/` | Pattern Registry Entry 17 — Tier 3+4; nine-item **VERIFIED** store on a P1 public-record spine (SCOTUS opinions + Hofeller corpus), with two CONTROL lines |
-| xAI / Boxtown turbines | `cases/xai-boxtown-turbines/` | Cluster 9 / pattern brief S-2 — Tier 1–3; unpermitted gas turbines beside an EJ community; 6/6 **VERIFIED**; a live Clean Air Act permit record; **deliberately not inflated to Tier 4** |
+| Redistricting / performed ignorance | `cases/election-redistricting/` | Pattern Registry Entry 17 — Tier 3+4; nine-item hashed store (**HASHED-PENDING-BACKUP**: no off-platform custodian yet, so not VERIFIED) on a P1 public-record spine (SCOTUS opinions + Hofeller corpus), with two CONTROL lines |
+| xAI / Boxtown turbines | `cases/xai-boxtown-turbines/` | Cluster 9 / pattern brief S-2 — Tier 1–3; unpermitted gas turbines beside an EJ community; 9 of 11 items **VERIFIED**; a live Clean Air Act permit record; **deliberately not inflated to Tier 4** |
 
 **Band 2 — structure-documented, hardest joint conceded on the record**
 
 | Case | Path | Drawn from |
 |---|---|---|
 | Rubio / USAID denial | `cases/rubio-usaid-denial/` | Cluster 4 (Rubio Supplementary Entry) — Tier 4, the official denial that rendered the deaths inadmissible; **sibling** of the DOGE packet, shared evidence store |
-| X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Pattern Registry Entry 15 + Cluster 3 — Tier 4; a *habitat* that manufactures apparent opinion + an unfalsifiable "we defeated the bots" verdict; eight-item **VERIFIED** store; hardest joint (**attribution**) conceded and charged around |
-| Palantir / ICE contestability | `cases/palantir-ice-contestability/` | Cluster 10 — INSTRUMENT charged at the level of the **missing contestability** in ICE ImmigrationOS; P1, integrity-verified |
+| X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Pattern Registry Entry 15 + Cluster 3 — Tier 4; a *habitat* that manufactures apparent opinion + an unfalsifiable "we defeated the bots" verdict; eight-item store, 7 of 8 **VERIFIED**; hardest joint (**attribution**) conceded and charged around |
+| Palantir / ICE contestability | `cases/palantir-ice-contestability/` | Cluster 10 — INSTRUMENT charged at the level of the **missing contestability** in ICE ImmigrationOS; P1, integrity-verified (3 of 10 items VERIFIED) |
 | DOJ / Epstein survivor re-exposure | `cases/epstein-survivor-unredaction/` | Pattern Registry Entry 16 (Redaction Inversion) — Tier 3+4; the protective apparatus turned to expose survivors while shielding enablers; charges the **structure** (intent conceded open); strict **no-reproduction rule** |
 
 **Band 3 — interpretive, deliberately restrained (filed to demonstrate the protocol's limits)**
