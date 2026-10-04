@@ -82,9 +82,13 @@ The private tier, `devinendorphin/veriticide-after-hours`, has its own main, als
   - (8) A stopping rule for lens loops (*proposed, not a standing note*).
 - **Post-stop correction (operator's "why now?"):** A7 had put the analyst's own
   over-concession (D6) on the operator's "concede flat" preference, and had asked the operator
-  to rule on it. Withdrawn. The fix is the analyst's: concede the right part flat, and state
-  the unconceded part as its own claim with evidence. The analyst has the largest stake in
-  loosening that preference; that stake was not disclosed when the finding was written.
+  to rule on it. Withdrawn. The analyst also proposed a carve-out ("state the unconceded part
+  as its own claim"). That carve-out is withdrawn too: by the hub's `PREFERENCES.md`
+  definition, it is the remainder. The analyst has the largest stake in loosening that
+  preference, and that stake was not disclosed when the finding was written.
+- **Preference text (2026-10-04):** this session's preferences still read only the one line.
+  The operator reports updating the account preferences to match the hub's `PREFERENCES.md`
+  (which defines "remainder"). That change was not visible in this running session.
 
 ## Top 3 priorities next session
 
