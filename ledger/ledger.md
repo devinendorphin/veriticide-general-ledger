@@ -4684,6 +4684,7 @@ This is Move 6 operating at civilizational scale: "for humanity" / "for innovati
 - Biderman (1957), Herman (1992; "Captivity"), Stark (2007), and the Serious Crime Act 2015 s.76;
 - an evidence-neutralization catalogue (E1–E10);
 - **H14** (low variance across scale): **ESTABLISHED in the literature** by replication across independent samples, settings, and methods (prisoners of war, Chinese re-education, battered women, clinical and political captivity, US Guantánamo training records). The repertoire was first documented at **state** scale.
+- **Corpus test (2026-10-04):** `docs/sww-corpus-low-variance-test-2026-10-04.md`. A pre-registered test on 382 *Something Was Wrong* episodes found no detectable setting effect on the function profile across household-to-institution settings, plus convergence beyond a control corpus. The "core functions in nearly every case" criterion **failed** for isolation and perception control, and institutional self-similarity ("fractal") was **not established**. No state-scale evidence was added.
 
 **Cross-references:** Cluster 2 (Reflexivity Clause anchor), Cluster 4 (cost documentation, gap formula closed), Cluster 5 (epistemic isolation as institutional coercive control), Track A Claude-instance entry.
 
