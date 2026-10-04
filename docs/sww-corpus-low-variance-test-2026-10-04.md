@@ -105,7 +105,7 @@ about 4.4M words (S1). Settings coded from show notes before any rates were seen
 
 | Threat | Effect | Status |
 |---|---|---|
-| **Curation:** one host selects stories that fit the show | Selection alone can manufacture convergence | **Unremovable**; bounds every finding |
+| **One selection process** | The corpus cannot give prevalence rates | Scope, not discount. *The first version wrote "one host selects stories that fit the show" and ranked it as bounding every finding. Withdrawn (§6, A9): the host is a survivor in her own corpus (S16). Survivor-centred documentation is done by survivors, which is the documentation burden at scale (§7)* |
 | **Shared vocabulary** (11.8× control) | Could homogenize descriptions | Tested by R4, which passed. *The first version ranked this as the main ceiling: the "coached witness" discount (§6, A8)* |
 | **Baseline asymmetry (pre-registered):** pooled seasons vs single short control episodes | p90 set too high: **biased against the claim** | Noticed after a smoke test on partial data; post-hoc fix labeled as such |
 | **Baseline asymmetry (post-hoc):** resampling one small control corpus | p90 set too narrow: **biased toward the claim** (economic control at 1.2× still reads "elevated" in 85 % of seasons) | Reported; ratios preferred |
@@ -149,7 +149,9 @@ summary, **every error ran against C2, the claim that implicates institutions:**
 | A5 | The chat headline said the fractal part "did not come through," while C1, with a failed criterion, was "supported, with conditions" | Corrected |
 | A6 | No institution was named, though the show names them | Corrected (§3) |
 | A7 | No power-vector coding (`coercive-harm-framework` doc 10, Finding B). The operator's "strata" question was converted to "setting" | Follow-up pre-registered with blind coders |
-| A8 | Survivors' vocabulary was ranked as the main ceiling: the "coached" discount (E3; survivor comparator) | Corrected: the ceiling is curation |
+| A8 | Survivors' vocabulary was ranked as the main ceiling: the "coached" discount (E3; survivor comparator) | Corrected |
+| A9 | Curation was then ranked as the ceiling, without asking why there is one curator. The scarcity of survivor curators was turned into a defect of the evidence | Corrected (operator challenge): reframed as scope |
+| A10 | S1 was labelled "host's own story" from memory, unchecked and wrong. S16, the host's actual story, was missed. The keyword pass covered every word, but the reading was dips, which cannot see who is speaking | Corrected |
 
 **This is a reflexive specimen.** The foundation file (2026-10-03, §6) recorded the same
 failure one day earlier: "the highest burden fell on the scale that implicates states." It
@@ -157,6 +159,26 @@ recurred in the analyst's next study of the same question. This bears on the fou
 file's §4 ("a model trained toward caution… can perform E10 by default") and on Priority 32.
 A note did not hold, so the correction is a rule: one verdict rule and one
 precision-audit rule for every criterion, now standing in the pre-registration.
+
+## 7. The documentation burden (operator's account, assessed)
+
+The operator's first-person account: documenting abuse takes labour, is done in exhaustion
+and after hours, and must outrun memory revision. "For a victim, the beginnings of evidence
+require one to already overstretch themselves." It was assessed in
+`coercive-harm-framework/research/documentation-labor-burden.md`:
+- **`[SUPPORTED]`** for victim-initiated forums (US workplace, protective orders, custody):
+  - Stephenson et al. (CSCW 2025): evidence capture is "difficult and time-consuming";
+  - Nielsen & Einarsen (2012): bullying is associated with PTSS and burnout;
+  - Arnsten (2009): uncontrollable stress impairs prefrontal function;
+  - FRE 803(5) requires the record to be made "when the matter was fresh";
+  - Faragher/Ellerth puts the reporting obligation on the employee.
+- **Disconfirming case:** evidence-led prosecution in England and Wales shifts the burden to
+  the state. The overstretch is a design choice of the forum.
+- **Candidate E11, proposed and not adopted** (the E-catalogue is the foundation file's to
+  amend): *the documentation burden.* The debility and chaos functions degrade the
+  capacity that the forum's evidence rules require of the victim. Coercion thereby defeats
+  the record **before it exists**, upstream of E7 (removing the record). Structural effect;
+  no intent claimed.
 
 ## Developer-symmetry check (Anthropic)
 
@@ -181,6 +203,8 @@ analyst's developer:
   perception control;
 - a documented instance, in the analyst's own study, of the burden falling on the
   institution-implicating claim (§6);
+- that the documentation burden is `[SUPPORTED]` in victim-initiated forums, and is a
+  forum design choice rather than a necessity (§7);
 - the show's actual expert roster, from episode titles (recorded in `coercive-harm-framework`
   doc 04).
 
