@@ -178,6 +178,136 @@ them sincerely.
 
 ---
 
+## 5b. Child removal from Indigenous families: schools, scoops, foster care (added 2026-10-04)
+
+*Operator-directed: "the foster care system and the mass graves near those orphanages,
+usually in Canada, of Indigenous kids; probably also in America."*
+
+### Disconfirming test, run first
+
+Two parts of that prompt were tested against the record.
+
+- **"Orphanages."** They were not orphanages.
+  - Most children at Canadian residential schools and US federal boarding schools had
+    living parents.
+  - In Canada, attendance was made **compulsory** in 1920. The Indian Act amendment let
+    truant officers enter "any place" to take Status Indian children aged 7–15 and penalised
+    parents who refused (P1).
+  - The US system took children by comparable compulsion and pressure (gen.).
+  - Calling them "orphanages" erases the removal, which is what makes them a case for this
+    file: the state overrode parents and children together, in the name of the children's
+    good.
+- **"Mass graves."** The record does not support that term for the Canadian finds. It
+  supports "unmarked graves". The difference matters, because denialists exploit the gap
+  between the two.
+  - **Kamloops (Tk'emlúps te Secwépemc), May 2021.** Ground-penetrating radar (GPR)
+    detected anomalies first reported as the remains of 215 children. In 2022 the
+    specialist revised the figure to **~200 "potential burials"**. **None has been
+    excavated** (S1: CBC; Global News).
+  - GPR detects soil disturbance consistent with graves. It does not detect bodies or the
+    *arrangement* of burials. A mass grave means many bodies in one pit. Neither the
+    Canadian searches nor the US reports describe that.
+  - **Pine Creek, Manitoba, 2023.** Fourteen GPR anomalies under a church basement were
+    excavated. No human remains were found. The other 57 lie in **known burial areas**. The
+    NCTR records 21 student deaths at the school. Chief Nepinak: the results "take nothing
+    away from the difficult truths" (S1: Canadian Press).
+  - **What the "mass grave" image fits:** the **Tuam** Mother and Baby Home in Ireland. The
+    Bon Secours Sisters ran it. 796 children's deaths are recorded for 1925–1960, and the
+    remains are believed to be in a disused septic-tank structure. A forensic excavation
+    began in July 2025 and is expected to take about two years. Ireland's commission found
+    about **9,000** child deaths across such homes (S1: AP; Al Jazeera). That case is a
+    church-run institution for unmarried mothers, not an Indigenous residential school.
+- **What the test does *not* disturb, and this needs saying flat.** Thousands of Indigenous
+  children died in these systems. Many were buried at or near the schools in graves that
+  were unmarked or later lost, often without their families being told. **That is
+  established by the institutions' own records.** It does not depend on any GPR result. A
+  correction to "mass graves" is not a correction to the deaths. A ledger that let the
+  first slide into the second would be running the laundering move it studies.
+
+### Canada (P1/S1 unless marked)
+
+- **Residential schools,** 1870s–1996. **At least 150,000** First Nations, Métis and Inuit
+  children attended. They were federally funded; churches ran them, the Catholic Church
+  more than half.
+- **TRC final report (2 Jun 2015):** "**cultural genocide**". Its Missing Children and
+  Unmarked Burials work, now held by the NCTR, identifies **~4,200** children by name or
+  in unnamed death records. In **Sept 2025** the NCTR verified **1,143 further names** for
+  the National Student Memorial Register.
+- **Pope Francis (Jul 2022):** the policy amounted to "genocide". **House of Commons
+  (27 Oct 2022):** a unanimous, non-binding motion said the system violated Art. 2 of the
+  Genocide Convention.
+- **The Sixties Scoop,** roughly 1951–1991, peaking in 1961–1983. About **20,000** Indigenous
+  children were taken into care and adopted out, mostly to non-Indigenous families. The
+  **$875M settlement (2017)** set aside $750M for status First Nations and Inuit claimants.
+- **The present system.** In the **2021 Census, Indigenous children were 53.8% of children
+  in foster care while making up 7.7% of children aged 14 and under**. More than 3% of
+  Indigenous children were in care, against 0.2% of non-Indigenous children (Statistics
+  Canada). The proportion rose from 52.2% in 2016.
+  - The Canadian Human Rights Tribunal found federal underfunding of on-reserve child
+    welfare **discriminatory**. That led to a **$23.4B compensation settlement**, approved
+    2023 and covering about 300,000 people from 1991 onward, the largest in Canadian
+    history.
+  - Underfunded prevention, then removal for "neglect" that tracks poverty: this is the
+    structure the settlement was paid for.
+
+### United States (P1/S1 unless marked)
+
+- **Federal Indian Boarding School Initiative** (Interior Department).
+  - Vol. I (May 2022) documented whippings, sexual abuse, manual labour and severe
+    malnourishment.
+  - Vol. II (30 Jul 2024) found:
+    - **at least 973 children died**;
+    - **at least 74 marked and unmarked burial sites at 65 school sites**;
+    - **417 federal schools in 37 states or territories, 1819–1969**;
+    - **more than $23.3B** (FY23 dollars) appropriated for the system and related
+      assimilation policies, 1871–1969.
+  - The report's own experts say 973 is a floor drawn from incomplete federal records.
+- **Presidential apology: 25 Oct 2024,** at the Gila River Indian Community. It was the
+  first formal US presidential apology for the boarding-school policy.
+- **The Indian Adoption Project** (1958–1967; BIA, the Children's Bureau and the Child
+  Welfare League of America) placed **395** Native children with white families.
+  - The Association on American Indian Affairs reported in 1976 that up to **one-third** of
+    Indian children were separated from their families between 1941 and 1967 (S1/S2).
+- **ICWA (1978):** Congress found "an alarmingly high percentage of Indian families are
+  broken up by the removal, often unwarranted, of their children". The Supreme Court
+  upheld the Act in ***Haaland v. Brackeen*** (2023, 7–2).
+- **Foster care generally (not Indigenous-specific).**
+  - GAO-12-201 (2011): in five states, foster children were prescribed psychotropic drugs
+    at **2.7–4.5 times** the rate of other Medicaid children in 2008, with more indicators
+    of potential health risk. GAO notes the higher rate does not by itself show
+    inappropriate prescribing, given greater need and trauma.
+  - Foster care is also a funding source for troubled-teen-industry placements (see the
+    coercive-harm-framework S24 notes: public agencies pay for placements).
+
+### What this adds to the file's pattern
+
+- **The override at population scale.** §2's cases are a husband, a father, a family. Here
+  the overrider is **the state, with churches as contractors**. The stated good was the
+  child's "civilisation", then "protection" (the Scoop), then "best interests" (present-day
+  removals).
+  - The justification burden this file assigns to the overrider was not just unmet. The
+    governments that held it later conceded it in apology and settlement: TRC, Pope,
+    Commons, presidential apology, $875M, $23.4B.
+- **The same instruments as §2 and as the S24 troubled-teen record:**
+  - removal at night or by compulsion;
+  - renaming and numbering;
+  - punishment for one's own language (the S24 programs' "bans" on speech);
+  - forced labour;
+  - malnourishment;
+  - restricted, monitored contact with family;
+  - deaths not reported to families;
+  - records incomplete or held by the institution.
+- **The successor pattern.** Residential schools gave way to the Scoop, and the Scoop gave
+  way to over-representation in foster care. When one form of removal closes, the next
+  opens under a new name. The S24 programs did the same thing at the level of a single
+  operator. This ledger's term for a shared move-set is "structural identity". **It is not
+  a claim of coordination** across eras or agencies.
+- **The serious-need counter-case, recorded as the Discipline requires.** Some children in
+  care today are there because of real danger at home. The 53.8% figure does not show that
+  any given removal was wrong. What it shows is that removal is distributed by something
+  other than danger alone, and the CHRT made a finding on part of that (underfunding).
+
+
 ## 6. Bearing on TD-009 (a structural rhyme, not equivalence)
 
 **The family lever, across 160 years:**
@@ -202,6 +332,7 @@ the state measures, that framing now also has **an expanding public counterpart*
 |---|---|
 | Relationship to the administration expanding commitment (EO 14321) | DoD $200M-ceiling prototype agreement (Jul 2025); Claude Gov for national-security customers; Claude on classified networks with Palantir; GSA OneGov $1 deal across all three federal branches (Aug 2025). |
 | Relationship to for-profit psychiatric operators (UHS, Acadia) | **None found** (single general query) for UHS or Acadia specifically. Anthropic launched **Claude for Healthcare** (Jan 2026), with HIPAA-ready tools for health systems and **payers**: prior authorization, CMS coverage data, insurance appeals. It is therefore a vendor to the sector (round 8). |
+| Relationship to child-welfare agencies or foster-care contractors (§5b) | **U**: not searched this round. |
 | Government relationship, dated (round 8) | **Dated record, both directions:** DoD $200M agreement (Jul 2025) and GSA OneGov $1 deal (Aug 2025); then the **rupture**. The DoD demanded "all lawful uses." **By Anthropic's own account** (its statements and its lawsuit), it **largely agreed** to broad military use, and refused only two uses it calls non-negotiable: mass surveillance of Americans, and lethal autonomous weapons without human oversight. *Attribution added in round 9: the first version stated the developer's self-description as fact. It also left out that the developer agreed to most military uses.* **The government's stated reasons, verbatim, not paraphrased:** the Defense Secretary said Anthropic's stance is "fundamentally incompatible with American principles"; the President called it a "RADICAL LEFT, WOKE COMPANY" whose "selfishness is putting AMERICAN LIVES at risk." **Independent check:** on 26 Mar 2026 Judge Rita Lin (N.D. Cal.) granted a **preliminary injunction**, finding the designation **likely unlawful and arbitrary** and likely **First Amendment retaliation** for Anthropic's public stance. A Pentagon official said the designation "still" stands. The case is ongoing. **Reported military use (the most damning documented item; omitted until round 11):** the *Wall Street Journal* (Feb 2026, anonymous sources) reported that **Claude was used, through Anthropic's Palantir partnership, in the 3 Jan 2026 US military raid on Caracas** that **seized** Nicolás Maduro and took him to New York for arraignment (the US calls it a capture; Venezuela's attorney general called it an abduction and "an act of war"). **The UN Secretary-General and the UN human rights office said the operation undermined a fundamental principle of international law**, and at the Security Council it was called a violation of Venezuela's sovereignty. *(Round 13: "captured" had adopted the acting state's term without the international-law record.)* Venezuela's defence ministry said **83 people were killed**. Anthropic **declined to say** whether Claude was used, and said any use had to comply with its policies, which prohibit use for violent ends. *Grade: S1, **corroborated**: reported by the WSJ and **independently by Axios** ("sources with knowledge"); an **anonymous** senior administration official discussed it. *(Round 13: "on the record as background" was self-contradictory and overstated the sourcing.)* (Round 12 corrected "single outlet, unconfirmed," which understated it.) The developer's response is a non-denial.* **The raid is the dispute's reported origin:** a senior administration official said Anthropic asked whether its software was used in the raid, which "caused real concerns across the Department of War," and the Pentagon announced a review of the partnership (Axios, Fox News, Feb 2026). **Anthropic denied** discussing specific operations with the department or with Palantir "outside of routine discussions on strictly technical matters." It precedes the Feb–Mar 2026 dispute, and it bears directly on the developer's claim to have refused the uses it calls non-negotiable. *Round 10: the round-9 text paraphrased the state's position as a neutral contracting rule ("vendors must accept all lawful uses"). That euphemized the more powerful party's stated ideological reasons and omitted a judicial finding against it.* On **27 Feb 2026** the Defense Secretary barred contractors from commercial activity with Anthropic and designated it a supply-chain risk. On **9 Mar 2026 Anthropic sued** the Defense Department (Bloomberg Law; Euronews). The relationship is now **adversarial, in litigation**. *The earlier "same administration" rows recorded only the 2025 alignment.* |
 
 ## BOUNDARY
@@ -220,6 +351,10 @@ the state measures, that framing now also has **an expanding public counterpart*
   person who did the overriding;
 - that the current measures are made in bad faith;
 - that any individual's commitment under them would be wrongful;
+- (§5b) that GPR anomalies are graves until excavated or matched to records, or that any
+  site is a "mass grave". It does establish the deaths, which the institutions' own
+  records show;
+- (§5b) that any particular present-day child removal is wrongful;
 - anything about Annie Altman beyond her account and the structural rhyme;
 - the (gen.) items, which await re-verification.
 
@@ -247,3 +382,6 @@ Sources:
 - NY 2025: https://politicsny.com/2025/05/08/mayor-adams-applauds-new-state-budget-that-expands-involuntary-commitment-powers-for-those-with-mental-illness/ · https://www.wxxinews.org/new-york-public-news-network/2025-03-04/how-does-it-feel-to-be-involuntarily-committed-ny-advocates-condemn-gov-hochul-plan
 - California SB 43: https://dmh.lacounty.gov/sb-43/
 - EO 14321: https://www.wfae.org/united-states-world/2025-07-24/trump-signs-an-executive-order-to-make-it-easier-to-remove-homeless-people-from-streets
+- §5b Canada: https://www.cbc.ca/1.6084185 (Kamloops ~200, unexcavated) · https://sootoday.com/national-news/chief-says-excavation-of-manitoba-church-basement-found-no-evidence-of-human-remains-7428138 (Pine Creek) · https://nctr.ca/missing-children-and-unmarked-burials-initiative/faq/ · https://nctr.ca/statements-and-news-releases/honouring-a-sacred-commitment-more-names-verified-for-the-national-student-memorial-register/ · https://www.cbc.ca/lite/story/1.3096229 (TRC) · https://www.cbc.ca/lite/story/1.6537203 (Pope) · https://theconversation.com/residential-school-system-recognized-as-genocide-in-canadas-house-of-commons-a-harbinger-of-change-196774 · https://www.facinghistory.org/en-ca/resource-library/until-there-not-single-indian-canada (1920 amendment) · https://www.thecanadianencyclopedia.ca/en/article/sixties-scoop · https://www.cbc.ca/1.6590075 (53.8%) · https://amp.cbc.ca/lite/story/1.6919219 ($23.4B)
+- §5b US: https://eji.org/news/federal-investigation-finds-at-least-973-children-died-in-federal-indian-boarding-schools/ · https://sourcenm.com/2024/10/25/too-shameful-to-acknowledge-biden-delivers-historic-apology-for-indian-boarding-schools/ · https://en.wikipedia.org/wiki/Indian_Adoption_Project · https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/native-american-issues/haaland-v-brackeen/ · https://www.gao.gov/products/gao-12-201
+- §5b Tuam: https://www.bishop-accountability.org/2025/07/irish-team-begins-search/
