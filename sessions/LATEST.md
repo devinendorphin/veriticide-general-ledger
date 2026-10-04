@@ -79,8 +79,12 @@ The private tier, `devinendorphin/veriticide-after-hours`, has its own main, als
     - TD-009's heading "The dead father as the medium of control";
     - CTF-1's irony contradiction.
   - (7) The residual on P-10.
-  - (8) A stopping rule for lens loops, and the reading of "concede flat" offered in A7
-    (*proposed, not a standing note*).
+  - (8) A stopping rule for lens loops (*proposed, not a standing note*).
+- **Post-stop correction (operator's "why now?"):** A7 had put the analyst's own
+  over-concession (D6) on the operator's "concede flat" preference, and had asked the operator
+  to rule on it. Withdrawn. The fix is the analyst's: concede the right part flat, and state
+  the unconceded part as its own claim with evidence. The analyst has the largest stake in
+  loosening that preference; that stake was not disclosed when the finding was written.
 
 ## Top 3 priorities next session
 
