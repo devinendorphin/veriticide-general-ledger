@@ -13,17 +13,25 @@ files it points to. It adds no new claim.*
 - The **hot register** — the uncaptured statement of the whole — is the Declaration:
   `docs/declaration-on-veriticide-v0.1.md`.
 - Every evidentiary claim carries a **custody state**
-  (`LOCATOR-VERIFIED` → `HASHED-PENDING-BACKUP` → `VERIFIED`, strongest last). The governing record
-  is each case's `evidence/custody-index.md`; the corpus status is `docs/custody-status-2026-07-02.md`.
+  (`LOCATOR-VERIFIED` → `HASHED-PENDING-BACKUP` → `VERIFIED`, strongest last; CTF-1 uses
+  `SCREENSHOT-HELD`, which cannot reach `VERIFIED`). Only `VERIFIED` is tribunal-grade. The governing
+  record is each case's `evidence/custody-index.md`; the corpus status is
+  `docs/custody-status-2026-07-02.md`; per-case counts are in the README's case tables.
+- **Bands and custody are separate axes.** A case's band grades what it rests on (mortality modeling
+  and statute; documented structure; interpretation), not its custody. Two of the three Band-1 cases
+  (DOGE, redistricting) hold no `VERIFIED` items as of 2026-10-05.
 
 ## If you are a journalist
 
 1. Start with a **Band-1** case: `cases/doge-usaid-pepfar/`, `cases/election-redistricting/`, or
-   `cases/xai-boxtown-turbines/`.
+   `cases/xai-boxtown-turbines/`. Of these, only Boxtown currently holds `VERIFIED` items; check the
+   custody state of anything you intend to cite (step 3).
 2. Read its `00-charge-theory.md` (one page), then `01-evidence-matrix.md` and `02-source-bundle.md`.
 3. **Verify before you cite:** `evidence/custody-index.md` + `evidence/custody-receipt.md` give the
-   per-item sha256 and Internet-Archive URLs. Cite only what an item's custody state supports — a
-   `LOCATOR-VERIFIED` item is a locator, not a held original.
+   per-item sha256 and Internet-Archive URLs. Custody receipts exist for DOGE, Rubio, Boxtown,
+   X bot-swarm, and Palantir only; redistricting, Epstein, and CTF-1 have none. Cite only what an
+   item's custody state supports — a `LOCATOR-VERIFIED` item is a locator, not a held original, and a
+   `HASHED-PENDING-BACKUP` item has no second custodian.
 4. Read `03-adversarial-check.md` (the story's own strongest rebuttals) before publishing.
 > The one thing to know: these are step-one documentation packets, not verdicts.
 
@@ -67,7 +75,9 @@ files it points to. It adds no new claim.*
 
 - Start with any case's `03-adversarial-check.md` and `04-falsification-memo.md` — the framework's own
   attempts to break itself — plus the Reflexivity Clause and the external reviews
-  (`docs/external-review-*`). The **asymmetry test** asks where the machinery points: at the claim's
+  (`docs/external-review-*`), the blind adjudications and their verdicts (`docs/handoffs/`,
+  `docs/handoffs/results/`), and the analyst-as-subject records (`docs/reflexive-specimen-*`). The
+  **asymmetry test** asks where the machinery points: at the claim's
   *content* (possible truth-under-siege) or at the speaker's *standing* (the tell).
 
 ## Repo legend
@@ -76,5 +86,8 @@ files it points to. It adds no new claim.*
 |---|---|
 | `cases/<case>/` | the dossiers — `00`-charge-theory … `06`-timeline, plus `evidence/` |
 | `ledger/ledger.md` | the source-of-record archive ("the cathedral" the case files are cut from) |
-| `docs/` | Declaration (hot) · Convention (spine) · Protocol + tier taxonomy (working) · custody status · external reviews |
-| `scraper/`, `experiments/` | capture tooling and the Tier-1/2 assay |
+| `docs/` | Declaration (hot) · Convention (spine) · Protocol + tier taxonomy (working) · custody status · external reviews · reflexive specimens · dated research series |
+| `docs/handoffs/` | blind-adjudication packets sent to non-proposer reviewers; verdicts in `results/` |
+| `scraper/`, `experiments/` | capture tooling (Appendix A) and pre-registered experiments, none yet executed |
+| `scripts/check_developer_symmetry.py` | lint: dated docs naming powerful actors must apply the same standard to Anthropic |
+| `sessions/LATEST.md` | current state and priorities |
