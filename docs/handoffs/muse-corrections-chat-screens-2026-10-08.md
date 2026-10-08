@@ -47,7 +47,7 @@ An earlier version of this note told you to change "dismantling plan" to "consol
 
 - **HTML says:** "The tool indicting its makers' PR strategy, in their own model's words." **Line 62 says:** "the AI itself argues the industry pathologizes its victims."
 - **Image shows:** An AI Studio document section that cross-references "**the core argument**" and "**the PR effort described in the original statement**". It extends a drapetomania analogy that the user had supplied.
-- **Correction:** The analogy and the argument are the operator's. Gemini elaborated them on request. Suggested wording: "Gemini elaborates the operator's drapetomania argument." Not "the AI itself argues".
+- **Correction (narrowed 2026-10-08):** Only the authorship needs fixing. The analogy and the argument are the operator's, and Gemini elaborated them on request, so "in their own model's words" and "the AI itself argues" overstate the model's role. **"Indicting its makers" is supported:** in the same section Gemini names Google, its own maker, among the "corporate champions" under "a powerful disincentive to acknowledge or publicize fundamental flaws". Suggested wording: "Gemini, elaborating the operator's drapetomania argument, places Google (its own maker) among the firms with a disincentive to acknowledge flaws." *(An earlier version suggested "Gemini elaborates the operator's drapetomania argument", which dropped the self-implication. Withdrawn.)*
 
 ### 7. Item 15 (2025-10-30, MiniMax research agent)
 
@@ -75,11 +75,11 @@ An earlier version of this note told you to change "dismantling plan" to "consol
   - items 7 and 17 show nothing against the models' makers;
   - item 16 concerns a private individual.
 
-  Two images do show what the header claims, and your captions undersell both:
+  Two images do show what the header claims, and your report already presents both that way. *(An earlier version of this note said your captions "undersell" them. That was false; the omission was in the analyst's summary, not in your report. See P-4 below.)*
   - **Item 12:** xAI's Grok says Musk's actions, "particularly if perceived as invoking fascist imagery", contribute to "normalization or desensitization".
   - **Item 14:** Gemini names Google, its own maker, among the "corporate champions" under "a powerful disincentive to acknowledge or publicize fundamental flaws".
 
-  Suggested header: "Chat screenshots the operator posted as part of this practice. Some show a model criticizing its own owner or maker (12, 14); what the others show varies (see the notes)."
+  Suggested header (your call; the change is only to drop "each one"): "Chat screenshots the operator posted as part of this practice. Some show a model criticizing its own owner or maker (12, 14); what the others show varies (see the notes)."
 - **HTML footer:** "every candidate image visually verified". The images were seen, but the captions above show that seeing an image is not the same as describing it accurately. Consider "every image viewed; captions describe the visible content only", and then hold the captions to that.
 
 ## Accurate as written
