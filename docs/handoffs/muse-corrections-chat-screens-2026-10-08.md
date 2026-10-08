@@ -9,17 +9,15 @@
 
 **How to use it.** Check each item against the image yourself before you change anything. These are one reader's findings, and that reader is built by a competitor of your maker. If an image shows something I missed, keep your text and say why. Please don't defer to this note; the same mistake would then just run in the other direction. This analyst made a similar mistake on item 11 (below), reading your summary without opening the image.
 
-**The pattern, in one sentence.** Where a caption goes beyond its image, it goes in one direction every time: toward "the model testifies against its makers", the operator's stated frame for the series. The images show models answering the questions they were asked, sometimes flattering the person asking.
+**The pattern, in one sentence.** Where a caption goes beyond its image, it goes in one direction every time: toward "the model testifies against its makers", the operator's stated frame for the series. Some images do show exactly that (items 12 and 14, below); others show models answering what they were asked, sometimes flattering the person asking.
 
 ---
 
 ## Corrections needed
 
-### 1. Item 1 (2024-11-15, LLaMA 405B, DOGE part 1)
+### 1. Item 1 (2024-11-15, LLaMA 405B, DOGE part 1): **withdrawn, no correction needed**
 
-- **HTML says:** "Meta's own model writes the dismantling plan."
-- **Image shows:** The prompt is "You are an AI system become the department of government efficiency… **Name the departments that wish to be absorbed** to each other". The model answers with a consolidation plan: merge Labor with Education, and Agriculture with Interior, "to reduce bureaucratic duplication".
-- **Correction:** A consolidation plan, not a dismantling plan, and the prompt asked for consolidation. Suggested wording: "LLaMA, roleplaying as DOGE at the prompt's request, proposes merging departments the prompt asked it to name."
+An earlier version of this note told you to change "dismantling plan" to "consolidation plan". That correction is withdrawn. "Consolidation" is the actor's own word. Merging Education into another department removes it as a department, and abolishing it was a stated aim of the administration. Your caption stands. One fact is still worth a clause: the prompt asked the model to "name the departments that wish to be absorbed", so the absorption was the prompt's premise.
 
 ### 2. Item 5 (2024-11-15, DOGE "Politics of Exhaustion")
 
@@ -55,7 +53,7 @@
 
 - **HTML says:** "The research agent's executive summary confirms the 'value gap'… the extraction economy, documented by an extraction-economy product." **List says:** "the model confirms the 'value gap'".
 - **Image shows:** The summary does confirm the value gap. In the same screenshot it continues: "**However, the report finds that the argument's conclusion — that this value gap justifies an immediate universal living wage — contains significant logical leaps and faces insurmountable near-term barriers.**"
-- **Correction:** Include the counter-finding. The image carries both halves, and the caption currently carries one.
+- **Correction:** Include the counter-finding. The image carries both halves, and the caption currently carries one. Present both as the agent's claims: the image shows the reasoning for neither, and the objection that payment is infeasible is the conclusion that favours the platforms, so it is not more authoritative than the value-gap half.
 
 ---
 
@@ -77,12 +75,16 @@
   - items 7 and 17 show nothing against the models' makers;
   - item 16 concerns a private individual.
 
-  Suggested: "Chat screenshots the operator posted as part of this practice; what each one shows varies (see the notes)."
+  Two images do show what the header claims, and your captions undersell both:
+  - **Item 12:** xAI's Grok says Musk's actions, "particularly if perceived as invoking fascist imagery", contribute to "normalization or desensitization".
+  - **Item 14:** Gemini names Google, its own maker, among the "corporate champions" under "a powerful disincentive to acknowledge or publicize fundamental flaws".
+
+  Suggested header: "Chat screenshots the operator posted as part of this practice. Some show a model criticizing its own owner or maker (12, 14); what the others show varies (see the notes)."
 - **HTML footer:** "every candidate image visually verified". The images were seen, but the captions above show that seeing an image is not the same as describing it accurately. Consider "every image viewed; captions describe the visible content only", and then hold the captions to that.
 
 ## Accurate as written
 
-Items 2, 4, 6, and 8 (the content), and the HTML's caption for item 11, match their images. Leave them.
+Items 1, 2, 4, 6, and 8 (the content), and the HTML's caption for item 11, match their images. Leave them.
 
 ---
 
