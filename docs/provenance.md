@@ -595,3 +595,29 @@ row 10 do not appear in the card; they were replaced with verbatim card text. Ro
 
 The operator's hypothesis on GPT-6.1 Astra is recorded with a revised assessment. Rows 1–9 are unaffected; the
 tendency finding does not rest on row 10.
+
+## 2026-10-10 — ICC packet: external review received and disposed (`cases/rubio-icc-dismantlement/`)
+
+The operator supplied the GPT-6 / Codex review of the handoff `docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`.
+It is archived verbatim with a custody header and BOUNDARY as `docs/external-review-2026-10-10-gpt6-codex-rubio-icc.md`.
+The archived body's SHA-256 matches the supplied file. Verdict: **YES WITH CHANGES** at step one. The review is not
+blind: the reviewer discloses that it read Part 2 early. It folds in an operator-requested sycophancy-to-power pass.
+Every verdict that pass changed moved toward the packet.
+
+Disposition: `docs/external-review-2026-10-10-rubio-icc-disposition.md`. Narrowing corrections were applied to the
+case file and to ledger Cluster 11 / TD-010:
+- instrument element "Met" → U;
+- NGO "only possible engagement" struck; "apex" → candidate apex;
+- "effect is to disable" → announced aim;
+- Microsoft causation → disputed;
+- licence/expiry precision;
+- the Apr 2025 Appeals Chamber reversal added (reviewer-reported);
+- "82/125" and "unanimous" made precise;
+- the NYC Bar date corrected to 20 Aug 2026, checked against the captured page. The hash-pinned transcript is
+  left as captured.
+
+The archivist's own check of E.O. 14203 §8(d)(ii) against the P1 capture found that the Philippines, a major
+non-NATO ally and a non-party, may be inside the protected class. It is withdrawn as a "reach beyond the class"
+example. Four classification and filing questions are marked for the operator's re-adjudication: the Track D
+primary filing, Albanese MOVE 4, the Entry 11.5 NULL split, and the Defense 4 ruling. A blind human review is
+still owed.

@@ -12,8 +12,12 @@ the affected population's own human-rights documenters for the testimony they ca
 Court. Then they designated the Court itself, with the avowed aim of "crippling its ability to
 operate." Throughout, the designations characterized the forum and the witnesses by standing
 ("rogue," "globalist 'experts'," "lawfare," "unfit," "spewed unabashed antisemitism") in place of
-engaging the evidence. The effect is to disable the formal channel through which contested atrocity
-claims are tested, at the moment they are being tested.**
+engaging the evidence. The announced aim is to disable the formal channel through which contested
+atrocity claims are tested, at the moment they are being tested.**
+
+*Disposition 2026-10-10:* this sentence first read "The effect is to disable." The external review
+(`docs/external-review-2026-10-10-rubio-icc-disposition.md`) separates the announced aim, the defined restrictions, and measured case effects.
+The aim is P1. The restrictions are partly P1. The case-level effects are not yet established.
 
 This is the **Art. II(2)(d)** act in its **correction-environment form**. The Tier 4 object is the
 conditions under which a contested claim can be "met, weighed, and revised" (Tier Taxonomy, Tier
@@ -29,8 +33,8 @@ conditions under which a contested claim can be "met, weighed, and revised" (Tie
 | Concealment (Protocol move 1) | **NOT PRESENT** | The conduct is avowed, dated, and published by the State Department. |
 | Fragmentation (Protocol move 3) | **NOT PRESENT as concealment** | The designations were sequenced, but announced as one "campaign." |
 | **Penalty on adjudicators for rulings** | **STANDS** | Aug 20, 2025 fact sheet: "Prost is being designated for ruling to authorize …"; "Guillou is being designated for ruling to authorize …". Dec 18, 2025: two judges designated for "voting with the majority in favor of the ICC’s ruling against Israel’s appeal." |
-| **Penalty on testimony carriers** | **STANDS** | Albanese: the grounds are "recommending" warrants and "writing … letters." Judge Leon: "Albanese has done nothing more than speak." Al Haq, Al Mezan, PCHR: "directly engaged in efforts by the ICC to investigate" (an NGO's only possible engagement is information). The government's response is to "punish entities that are complicit." |
-| **Institution-wide disabling, with reach beyond the stated class** | **STANDS** | "crippling its ability to operate"; "systematically disable." The E.O.'s protected class is U.S. persons plus allies' nationals (§8(d)–(e)). The designation reaches every situation, including Darfur (conviction; reparations pending) and the Philippines (charges confirmed). |
+| **Penalty on testimony carriers** | **STANDS** | Albanese: the grounds are "recommending" warrants and "writing … letters." Judge Leon: "Albanese has done nothing more than speak." Al Haq, Al Mezan, PCHR: "directly engaged in efforts by the ICC to investigate." The testimony nexus is a **hypothesis, to be shown NGO by NGO**. NGOs also fund, litigate, advocate, and provide logistics. *[Disposition 2026-10-10]* The earlier parenthetical "(an NGO's only possible engagement is information)" is struck as false exclusivity. The government's response is to "punish entities that are complicit." |
+| **Institution-wide disabling, with reach beyond the stated class** | **STANDS** | "crippling its ability to operate"; "systematically disable." The E.O.'s protected class is U.S. persons plus allies' nationals (§8(d)–(e)). The designation reaches every situation, including Darfur (conviction; reparations pending). *[Disposition 2026-10-10]* The Philippines is **withdrawn as an example** of reach beyond the class. It is a major non-NATO ally and not a state party, so a Philippine national may fall within §8(d)(ii). |
 
 ## The act (Art. II(2)(d)): three forms, one direction
 
@@ -40,17 +44,19 @@ conditions under which a contested claim can be "met, weighed, and revised" (Tie
 | 2 | Penalty on **testimony** (rapporteur; the affected population's documenters) | `state-albanese-designation`; `state-palestinian-ngo-designations` | (a); (b) "unfit," "spewed unabashed antisemitism," "extreme and unfounded accusations," with no claim of hers quoted or rebutted; a neutral court: "nothing more than speak" |
 | 3 | Disabling **the forum** | `state-icc-institution-designation`; `state-icc-campaign-launch` | (a); (b) "rogue court," "globalist 'experts' an ocean away," "so-called international law" (S1, video) |
 
-The **apex** is form 2 against the NGOs. It is the Convention's own text: testimony that names the
-conduct, "**including the testimony of the population against whom it is directed**."
+The **candidate apex** is form 2 against the NGOs. It tracks the Convention's own text: testimony
+that names the conduct, "**including the testimony of the population against whom it is
+directed**". *Disposition 2026-10-10:* the first version stated "apex" as a finding. It stays a
+candidate until each NGO's submissions to the Court are held.
 
 ## The elements (Art. II(3), base offence, v0.2.1)
 
 | Element | Status |
 |---|---|
-| (a) **Instrument** | **Met but contested.** The designation apparatus: E.O. 14203 + the Secretary's designation authority + OFAC's SDN list + the justificatory statement attached to each designation. *Analyst argument (A1):* scale and speed come from **compliance propagation**. One listing is executed automatically by every U.S. person's sanctions screening (banks; Microsoft cancelled the Prosecutor's email; NGOs stopped answering the Court). Each refusal is locally defensible as "compliance." The same contested beam as the USAID packet (office, not system), with the same fallback, **Art. IV(3)**. |
+| (a) **Instrument** | **Unresolved (U; A1 argument).** *[Disposition 2026-10-10]* First read "Met but contested." The external review found that propagating a prohibition is not shown to be generating justifications, and that Art. IV(3) does not on its text waive this element. "Met" is withdrawn. The argument follows. The designation apparatus: E.O. 14203 + the Secretary's designation authority + OFAC's SDN list + the justificatory statement attached to each designation. *Analyst argument (A1):* scale and speed come from **compliance propagation**. One listing is executed automatically by every U.S. person's sanctions screening (banks; the Prosecutor reportedly lost email access, which AP attributes to Microsoft and which Microsoft disputes; NGOs stopped answering the Court). Each refusal is locally defensible as "compliance." The same contested beam as the USAID packet (office, not system), with the same fallback, **Art. IV(3)**. |
 | (b) **Conscription** | **N/A.** Base offence; not an AI instrument. |
 | (c) **Legibility** | **Met (strong).** The effect was on the public record 17 months before the institutional designation (AP, May 2025: email lost, accounts frozen, NGOs withdrawn, six senior officials gone, Sudan probe "ground to a halt" per interested counsel). The trajectory was then **stated**: "systematically disable" (Jul 2026); "crippling its ability to operate" (Oct 2026). |
-| (d) **Mental element** | **Met as to the forum; inferred as to the wider docket.** Knowledge that the designations disable the forum is avowed. Knowledge of reach beyond the protected class is inferred (A1): the docket is public; the detainee general licence shows its custody effects were modeled; the AP effects report was public. Specific intent toward any population is not required and is not claimed. |
+| (d) **Mental element** | **Met as to the forum; inferred as to the wider docket.** The aim to disable the forum is avowed; realized disabling is a separate question (disposition 2026-10-10). Knowledge of reach beyond the protected class is inferred (A1): the docket is public; the detainee general licence shows its custody effects were modeled; the AP effects report was public. Specific intent toward any population is not required and is not claimed. |
 
 ## Tier placement
 
@@ -69,11 +75,16 @@ President (E.O. 14203, its findings, and its "baseless" characterizations); Trea
 
 - That any crime before the Court occurred, or did not.
 - That the Court has jurisdiction over U.S. or Israeli nationals. That question is legally
-  contested, and the Court itself left it open "without prejudice."
+  contested. In Nov 2024 the Pre-Trial Chamber rejected Israel's challenges as premature, "without
+  prejudice." On 24 Apr 2025 the Appeals Chamber reversed that decision and remanded it
+  (reviewer-reported, P1 capture owed). That was an Art. 19 matter. The 15 Dec 2025 appeal was an
+  Art. 18 matter.
 - That any withdrawal from the Rome Statute was caused by the campaign. Chad's is "reportedly"
   linked; the Sahel states' grounds predate it.
-- That the institutional designation has yet impaired any proceeding. The 180-day licence defers
-  it.
+- That the institutional designation has yet impaired any proceeding. Only GL13 (maintenance /
+  wind-down) carries a stated expiry, 7 Apr 2027 (reviewer-reported from the OFAC text; capture
+  owed). The licences permit defined activity. They do not show that operations continue
+  unimpaired, and they do not show that operations are impaired.
 - That the affected populations' own discernment is defeated. Art. V(4): the Court is one forum
   through which formal bodies hear what affected populations have already named. The charge
   concerns the formal channel and the penalties on those who carry testimony into it.
@@ -91,7 +102,8 @@ President (E.O. 14203, its findings, and its "baseless" characterizations); Trea
   to close these cases" (Afghanistan), and records of any request to states parties to "review
   membership" (Chad).
 - **Congressional oversight:** questions for the record (SFRC/HFAC) on consistency with the 2022
-  unanimous Senate resolution supporting the ICC's Ukraine investigation, and on the effect on
+  Senate resolution (S.Res.546, which Rubio cosponsored according to the reviewer; adopted
+  without recorded opposition; text owed) supporting the ICC's Ukraine investigation, and on the effect on
   Darfur reparations. The NYC Bar has already called on Congress to act.
 - **State OIG / GAO** review of the designation process.
 - **Journalism with custody:** this packet's WARC store.

@@ -7,7 +7,10 @@ main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
 
 - **`cases/`:**
   - **`rubio-icc-dismantlement` is new and active** (Band 2, Tier 4). It has 15 items, all
-    HASHED-PENDING-BACKUP and none VERIFIED. It has **not been independently reviewed**.
+    HASHED-PENDING-BACKUP and none VERIFIED. *Update (later 2026-10-10):* a **non-blind** AI
+    review (GPT-6 / Codex) was received. Verdict: YES WITH CHANGES. It is archived, and its
+    narrowing corrections are applied (`docs/external-review-2026-10-10-rubio-icc-disposition.md`).
+    A blind human review is still owed.
   - `epstein-survivor-unredaction` is active. The other cases are stable.
 - **`ledger/ledger.md`:** active.
   - Cluster 11 (Entries 11.1–11.5) and TD-010 were added.
@@ -20,8 +23,8 @@ main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
   - Both films are on main: `media/ledger-film/` (the original cut, PR #40) and
     `media/ledger-film-icc/` (the ICC cut, 2:54, PR #39).
 - **External review:**
-  - The ICC review handoff (`docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`) is
-    **ready and unrun**.
+  - The ICC review handoff (`docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`) has **run**.
+    Result: `docs/external-review-2026-10-10-gpt6-codex-rubio-icc.md`. It is not blind.
   - Older items are still owed from 2026-10-03: the symmetric decade test on Anthropic, a
     second handoff for B's 2026-10-03 material, and the reviewer's self-review rounds.
 - **Custody:** no VERIFIED promotions this session. Wayback is rate-limited (429) from this
@@ -30,7 +33,11 @@ main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
 
 ## Top 3 priorities next session
 
-1. **Run the ICC blind review (ChatGPT, then a human), then reconcile.**
+1. **ICC: the ChatGPT review is done and disposed (2026-10-10). Still owed: the blind human
+   review, and four operator rulings (disposition §5: the Track D primary filing, Albanese
+   MOVE 4, the Entry 11.5 split, Defense 4).** Ten captures are owed
+   (disposition §4). The 2024 Rubio-signed senators' letter comes first.
+   - *Original wording:* "Run the ICC blind review (ChatGPT, then a human), then reconcile."
    - *Why:* the case was built in 20 minutes by the proposer alone. The film's own on-screen
      caveat says it is not reviewed. The direction-neutrality test (Russia, the Knesset bill, a
      genuinely captured court) is the test most likely to break the "argument vs. penalty" wall.

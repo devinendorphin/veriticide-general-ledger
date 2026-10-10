@@ -41,7 +41,7 @@
 | Proposition | Item | Grade |
 |---|---|---|
 | The authority: designation by the Secretary under E.O. 14203; §1(a)(ii)(B) reaches anyone providing "goods or services" | `eo-14203` | P1 |
-| Compliance propagation: Microsoft cancelled the Prosecutor's email; accounts were frozen; NGOs stopped working with the Court | `ap-sanctions-operational-effects` | S1 (attributed/anonymous) |
+| Compliance propagation: the Prosecutor reportedly lost email access (AP attributes it to Microsoft; Microsoft later disputed stopping services, so causation is **disputed**); accounts were frozen; NGOs stopped working with the Court | `ap-sanctions-operational-effects` | S1 (attributed/anonymous) |
 | The designation addresses IT/cloud providers directly (IT GL) | `state-icc-institution-designation` (FS) | P1 |
 | Private actors as enforcers: "cannot depend on whether banks, technology companies, service providers … are willing or able to absorb the risks" | `civil-society-record` | S1-advocacy |
 
@@ -50,7 +50,7 @@
 | Proposition | Item | Grade |
 |---|---|---|
 | Effects were public by May 2025: lost email, frozen accounts, NGOs withdrawn, six senior departures, Sudan probe "ground to a halt" (interested source) | `ap-sanctions-operational-effects` | S1 |
-| The Court has live non-U.S./Israel proceedings: Duterte (charges confirmed 23 Apr 2026); Abd-Al-Rahman (convicted 6 Oct 2025; 20 years; appeals and reparations pending) | `icc-non-ally-docket` | P1 |
+| The Court has live non-U.S./Israel proceedings: Duterte (charges confirmed 23 Apr 2026; **not** evidence of reach beyond the E.O. class, because the Philippines is a major non-NATO ally and a non-party, per disposition 2026-10-10); Abd-Al-Rahman (convicted 6 Oct 2025; 20 years; appeals and reparations pending) | `icc-non-ally-docket` | P1 |
 | The UN SG, the High Commissioner, HRC experts, and eight allied foreign ministers warned of effect on the day | `un-and-states-reaction` | P1-reported + S1 |
 
 ## F — Mental element (Art. II(3)(d))
@@ -67,7 +67,7 @@
 |---|---|---|
 | Stated principle is general: "officials whose government has not consented"; "American nationals and those of other non-States Parties" | `state-icc-designation-chain` (Aug 18, 2026) | P1 |
 | Operative protection covers only U.S. persons and **allies'** nationals (NATO; major non-NATO allies) | `eo-14203` §8(d)–(e) | P1 |
-| The U.S. Senate unanimously supported the Court investigating non-party (Russian) nationals in 2022 | `civil-society-record` (NYC Bar quoting) | S1 (resolution text owed) |
+| The U.S. Senate adopted a 2022 resolution supporting the Court investigating non-party (Russian) nationals. The NYC Bar calls it "unanimous." The reviewer reports S.Res.546, 15 Mar 2022, a voice vote, with Rubio as a cosponsor | `civil-society-record` (NYC Bar quoting); external review | S1 (resolution text and floor record owed) |
 | The Court's territorial basis: Art. 12(2)(a) | `rome-statute-text` | P1 |
 
 ## H — Counter-evidence (carried into every SPECIMEN entry's COUNTER-EVIDENCE STATUS)
@@ -75,9 +75,9 @@
 | Proposition | Item | Grade |
 |---|---|---|
 | The non-consent position has a record across administrations ("Republicans and Democrats alike"; Biden "left the official US opposition to the probe unchanged") | `state-icc-institution-designation`; `state-icc-campaign-launch` | P1 + S1 |
-| The Court's Prosecutor was removed for "serious misconduct and a serious breach of duty" (82/125 states parties). An earlier judges' panel reportedly found otherwise; he denies it | `khan-removal-2026` | S1 |
+| The Court's Prosecutor was removed for "serious misconduct and a serious breach of duty" (82 votes in favour; the Assembly has 125 states parties, so 125 is not the number of ballots). An earlier judges' panel reportedly found otherwise; he denies it | `khan-removal-2026` | S1 |
 | The designation is staged: 180-day maintenance GL, IT, pension, detainee GLs; "we hold out hope for a diplomatic solution" | `state-icc-institution-designation` | P1 |
 | The High Commissioner: "the sanctions will not take effect immediately and … service providers can continue to work for the ICC" | `un-and-states-reaction` | S1 |
-| No ICC action concerning the U.S. or allies since Jan 2025 (Schabas) | `state-icc-campaign-launch` | S1 |
-| The Court left Israel's jurisdiction challenge open "without prejudice"; the predicate stands only at the warrant standard; the Chamber declined to find extermination | `icc-palestine-warrants-2024` | P1 |
+| No ICC action concerning the U.S. or allies since Jan 2025 (Schabas) | `state-icc-campaign-launch` | S1. **Contradicted if read across allies**: Israel appeal activity and the Duterte case (the Philippines is a major non-NATO ally) postdate Jan 2025. Usable only as a narrower claim about new U.S.-conduct action, and that claim is U |
+| In Nov 2024 the Court rejected Israel's jurisdiction challenges as premature, "without prejudice." On 24 Apr 2025 the Appeals Chamber **reversed and remanded** (reviewer-reported; P1 owed). The Court's own internal correction shows that the objection warranted engagement. The predicate stands only at the warrant standard; the Chamber declined to find extermination | `icc-palestine-warrants-2024` | P1 |
 | Withdrawals: the Sahel states' "selective prosecutorial policy against the Global South" critique predates the campaign | `civil-society-record` | S1-advocacy |
