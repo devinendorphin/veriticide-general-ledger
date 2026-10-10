@@ -155,6 +155,75 @@ S.append((7.0, [H1(0.3, "veriticide-general-ledger", 430, size=72),
                  P(1.6, "Start with cases/  ·  reader's map: docs/readers-map.md", 620, DIM, 34),
                  P(2.4, "Copy it. Mirror it. Audit it.", 740, FG, 44)], None))
 
+# ---- appendix: one case file, opened (cases/rubio-usaid-denial/) -------------
+def M(t, s, y, c=FG, size=30, x=L): return T(t, s, (x, y), ("mono", size), c)
+def R2(t, s, y, c=FG, size=36): return T(t, s, (1000, y), ("Inter-Regular", size), c)
+RB = "cases/rubio-usaid-denial/"
+S.append((7.0, [K(0.2, "Example · what a case file contains", 230), RULE(0.3, 280),
+                 H1(0.6, "Rubio / USAID denial", 310, size=88),
+                 P(1.5, "Band 2 · Tier 4 — veriticide proper · single named respondent", 440, DIM, 36),
+                 M(2.2, RB, 560, GOLD, 28),
+                 M(2.5, "  00-charge-theory.md      03-adversarial-check.md", 610, FG, 28),
+                 M(2.7, "  01-evidence-matrix.md    04-falsification-memo.md", 655, FG, 28),
+                 M(2.9, "  02-source-bundle.md      05-custody-manifest.md", 700, FG, 28),
+                 M(3.1, "  06-timeline.md           evidence/  (hashed, indexed)", 745, FG, 28)], None))
+S.append((10.0, [K(0.2, "00 · Charge theory — the act", 170), RULE(0.3, 220),
+                  H1(0.6, "An escalation ladder, each rung sourced.", 250, size=56),
+                  M(1.5, "1  \"No one has died because of USAID cuts\"", 380, FG, 30),
+                  M(2.0, "2  \"No children are dying on my watch\"", 435, FG, 30),
+                  M(2.5, "3  Of the mortality modeling: \"false, that's fake\"", 490, FG, 30),
+                  M(3.0, "4  The truthful testimony itself branded \"a lie\"", 545, GOLD, 30),
+                  M(3.5, "5  Non-response to two congressional demands", 600, FG, 30),
+                  P(4.6, "Rung 4 is the apex: not denial but inversion — the witness recoded as liar.", 700, DIM, 34),
+                  P(5.4, "Charged: the defeat of recognition. Not charged: causing any death.", 770, GOLD, 34)], None))
+S.append((9.0, [K(0.2, "00 · Charge theory — the elements", 200), RULE(0.3, 250),
+                 H1(0.6, "Each element graded, not assumed.", 280, size=60),
+                 M(1.5, "Instrument       MET — CONTESTED", 410, GOLD, 32),
+                 P(1.7, "the office and its megaphone, not one voice", 455, DIM, 30),
+                 M(2.4, "Legibility       MET — STRONG", 530, FG, 32),
+                 P(2.6, "named deaths, internal cable and memos, all before the denial", 575, DIM, 30),
+                 M(3.3, "Mental element   MET — STRONGEST", 650, FG, 32),
+                 P(3.5, "he was Acting Administrator of USAID; the warnings were his agency's", 695, DIM, 30),
+                 M(4.2, "Conscription     N/A", 770, DIM, 32)], None))
+S.append((10.0, [K(0.2, "03 · Adversarial check  ·  04 · Falsification memo", 170), RULE(0.3, 220),
+                  H1(0.6, "The case argues against itself, in advance.", 250, size=56),
+                  T(1.4, "STRONGEST DEFENSES, STEEL-MANNED", (L, 370), ("Inter-SemiBold", 24), DIM),
+                  P(1.7, "Protected political speech", 410, FG, 32),
+                  P(2.0, "One official is not an instrument", 460, FG, 32),
+                  P(2.3, "He never read the cable", 510, FG, 32),
+                  P(2.6, "They were only projections", 560, FG, 32),
+                  P(2.9, "A fact-check is just opinion", 610, FG, 32),
+                  T(3.6, "WHAT WOULD PROVE IT WRONG", (1000, 370), ("Inter-SemiBold", 24), DIM),
+                  R2(3.9, "He engaged the evidence on stated grounds", 410, FG, 32),
+                  R2(4.2, "The quotes are inaccurate or out of context", 460, FG, 32),
+                  R2(4.5, "A genuine firewall kept the warnings from him", 510, FG, 32),
+                  R2(4.8, "The record was still genuinely open on May 21", 560, FG, 32),
+                  P(6.0, "If the denial was actually argued, it is protected — and this is not the case.", 720, GOLD, 34)], None))
+S.append((8.0, [K(0.2, "Boundary", 260), RULE(0.3, 310),
+                 H1(0.6, "What this case does not establish.", 340, size=60),
+                 P(1.5, "That he caused any death.", 470),
+                 P(2.0, "Specific intent to deceive.", 535),
+                 P(2.5, "That a court will accept the instrument characterization.", 600),
+                 P(3.0, "That honest political disagreement is criminal. It is not.", 665),
+                 P(4.0, "The target is the official denial against a closed internal record.", 765, GOLD, 36)], None))
+S.append((10.0, [K(0.2, "Forum-Now  ·  Custody", 170), RULE(0.3, 220),
+                  H1(0.6, "Soft vehicles live. Hard vehicles dormant.", 250, size=56),
+                  T(1.4, "ACTIVE — STEP ONE", (L, 370), ("Inter-SemiBold", 24), GOLD),
+                  P(1.7, "Preservation demand to State / USAID", 410, FG, 32),
+                  P(2.0, "FOIA for the basis of \"no one has died\"", 460, FG, 32),
+                  P(2.3, "HFAC: correct the record", 510, FG, 32),
+                  P(2.6, "State OIG · GAO", 560, FG, 32),
+                  T(3.2, "DORMANT — STEP TWO", (1000, 370), ("Inter-SemiBold", 24), DIM),
+                  R2(3.5, "False-statement referral: OFF", 410, DIM, 32),
+                  R2(3.8, "until knowing falsity is shown", 460, DIM, 32),
+                  R2(4.1, "and a committee will act", 510, DIM, 32),
+                  T(5.0, "EVIDENCE · 2 ITEMS · HASHED-PENDING-BACKUP · NOT YET TRIBUNAL-GRADE", (L, 660), ("Inter-SemiBold", 24), DIM),
+                  M(5.4, "43347d81d0f5bd8d394d99a7e2688ffed14348590a2d0cb02d25b0544ecc8888  rubio-acting-administrator", 705, FG, 22),
+                  M(5.7, "93cc853e9ad2e4c4d532e33d88465a913953485def543e80382c0d3c0eb0334a  wapo-factchecker-four-pinocchios", 740, FG, 22)], None))
+S.append((6.0, [H1(0.3, "A basis to demand.", 430, size=80),
+                 H1(1.3, "The verdict is for a tribunal.", 540, GOLD, 80),
+                 T(2.4, "github.com/devinendorphin/veriticide-general-ledger/tree/main/cases/rubio-usaid-denial", (L, 680), ("mono", 26), DIM)], None))
+
 def main(out):
     total = sum(s[0] for s in S)
     ff = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",

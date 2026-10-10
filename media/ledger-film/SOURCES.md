@@ -22,3 +22,21 @@ tribunal-grade custody; 46 of the ledger's 65 items are not yet VERIFIED. The fi
 "Eight case files" means the six-extract dossier structure existed by 2026-06-30; the files
 have been revised since. The film asserts step one (a basis to demand preservation,
 disclosure, audit, inquiry), not step two.
+
+## Appendix — the Rubio case (`cases/rubio-usaid-denial/`)
+
+The film's final 60 s open one case file. Every line is drawn from that directory:
+
+| On screen | Source |
+|---|---|
+| Band 2 · Tier 4 · single named respondent | `README.md` case table; `00-charge-theory.md` (Tier placement, Named respondent) |
+| Escalation ladder, rungs 1–5 | `00-charge-theory.md`, "The act" table |
+| Element grades (instrument contested; legibility strong; mental element strongest; conscription N/A) | `00-charge-theory.md`, "The elements" table |
+| Five steel-manned defenses | `03-adversarial-check.md`, Defenses 1–5 |
+| Four falsifiers; "if the denial was actually argued, it is protected" | `04-falsification-memo.md` §A–C |
+| "Does not establish" list | `00-charge-theory.md`, "What this charge theory does NOT establish" |
+| Active soft / dormant hard vehicles | `00-charge-theory.md`, Forum-Now block |
+| 2 items, HASHED-PENDING-BACKUP, full hashes | `evidence/custody-index.md`; `evidence/*/sha256.txt` |
+
+Condensations of the defenses and falsifiers are paraphrased; the quotes in the ladder are verbatim
+from the charge theory. The case's own boundary is shown on screen before its Forum-Now block.
