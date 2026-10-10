@@ -1,0 +1,20 @@
+{
+  "item_id": "state-albanese-designation",
+  "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/sanctioning-lawfare-that-targets-u-s-and-israeli-persons/",
+  "source_urls": [
+    "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/sanctioning-lawfare-that-targets-u-s-and-israeli-persons/"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:10.583690Z",
+  "bears_date": "2025-07-09",
+  "grade": "P1 (State Dept)",
+  "track": "D",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "d7fddf1241ca25b93fd05c57799eec7ff8ca2bd7e72800da09bc743a3a96b7f6",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

@@ -1,0 +1,20 @@
+{
+  "item_id": "ap-sanctions-operational-effects",
+  "source_url": "https://www.pbs.org/newshour/world/trumps-sanctions-on-iccs-chief-prosecutor-have-halted-tribunals-work-officials-and-lawyers-say",
+  "source_urls": [
+    "https://www.pbs.org/newshour/world/trumps-sanctions-on-iccs-chief-prosecutor-have-halted-tribunals-work-officials-and-lawyers-say"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:14.871722Z",
+  "bears_date": "2025-05",
+  "grade": "S1 (AP via PBS; interested/anonymous sources flagged)",
+  "track": "A / C",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "2b97fb891cfe190e90506773322ab4f2c8a76b42ebda14b26c0dfffd5eb74d81",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

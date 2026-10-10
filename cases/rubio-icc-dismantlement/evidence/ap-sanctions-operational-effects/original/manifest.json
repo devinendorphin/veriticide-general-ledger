@@ -1,0 +1,16 @@
+{
+  "item": "./ap-sanctions-operational-effects",
+  "captured_at": "2026-10-10T05:50:14.871722Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.pbs.org_newshour_world_trumps-sanctions-on-iccs-chief-prosecutor-have-halted.html": {
+      "sha256": "69b2bc01bd2dd2785144b49cd71fbd9c785050acc65597c6f9fe4a417eafa9c5",
+      "bytes": 267514
+    },
+    "www.pbs.org_newshour_world_trumps-sanctions-on-iccs-chief-prosecutor-have-halted.warc.gz": {
+      "sha256": "a62c0daaab3b0d4fa8114fc2d85784a8e1c66a0e89056a822c0453adf8b11782",
+      "bytes": 78365
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "item": "./state-albanese-designation",
+  "captured_at": "2026-10-10T05:50:10.583690Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.state.gov_releases_office-of-the-spokesperson_2025_07_sanctioning-lawfare-th.html": {
+      "sha256": "7e5a3661c71ec4a0abade3ae878bdac312de1ea88599c822a71b1e05cb38297b",
+      "bytes": 175694
+    },
+    "www.state.gov_releases_office-of-the-spokesperson_2025_07_sanctioning-lawfare-th.warc.gz": {
+      "sha256": "b115991203f3b9171d1246082af573ea652ebaa1db376c3d156551f39d9304c8",
+      "bytes": 40543
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "item": "./icc-non-ally-docket",
+  "captured_at": "2026-10-10T05:50:20.973114Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 4,
+  "artifacts": {
+    "www.icc-cpi.int_darfur_abd-al-rahman.html": {
+      "sha256": "f3f5d8c50ebfc8f87e5921725919507d767260178c3c315e2f77c63050c69f37",
+      "bytes": 53117
+    },
+    "www.icc-cpi.int_darfur_abd-al-rahman.warc.gz": {
+      "sha256": "e4b7bac313384746955405989e057eae3270f8c05e9c0257243fae0f367ed249",
+      "bytes": 16825
+    },
+    "www.icc-cpi.int_news_icc-pre-trial-chamber-i-confirms-all-charges-against-rodrig.html": {
+      "sha256": "9d0ebaa8af6ebe0a979f4a39035c0671bd43cf62a94161858d0071bbe382bef2",
+      "bytes": 60076
+    },
+    "www.icc-cpi.int_news_icc-pre-trial-chamber-i-confirms-all-charges-against-rodrig.warc.gz": {
+      "sha256": "8c745ac8cc969fe22931a53ab71a59acd789ce2a58212fcf676fe31604f851b3",
+      "bytes": 17673
+    }
+  }
+}

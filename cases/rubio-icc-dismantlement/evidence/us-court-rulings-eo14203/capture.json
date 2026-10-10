@@ -1,0 +1,22 @@
+{
+  "item_id": "us-court-rulings-eo14203",
+  "source_url": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese",
+  "source_urls": [
+    "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese",
+    "https://www.fortifyrights.org/glo-inv-2026-09-30/",
+    "https://www.justiceinitiative.org/newsroom/u-s-court-bars-enforcement-of-sanctions-that-undermine-the-rule-of-law-and-betray-american-values"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:17.941345Z",
+  "bears_date": "2025-07-30..2026-09-28",
+  "grade": "S1 (party-interest flagged; opinions P1 owed)",
+  "track": "D / F",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "d7a4dd23206534b2dd59792c3ce19ba9005127173d450628fa173bdc3de69c5b",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 6 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

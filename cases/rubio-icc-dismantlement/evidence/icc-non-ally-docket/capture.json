@@ -1,0 +1,21 @@
+{
+  "item_id": "icc-non-ally-docket",
+  "source_url": "https://www.icc-cpi.int/darfur/abd-al-rahman",
+  "source_urls": [
+    "https://www.icc-cpi.int/darfur/abd-al-rahman",
+    "https://www.icc-cpi.int/news/icc-pre-trial-chamber-i-confirms-all-charges-against-rodrigo-roa-duterte-and-commits-him-trial"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:20.973114Z",
+  "bears_date": "2025-10-06..2026-04-23",
+  "grade": "P1 (ICC)",
+  "track": "C",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "71e299b396505b1d768a43897fbb5fdb1372249e5956aebe4352007f14925eb7",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

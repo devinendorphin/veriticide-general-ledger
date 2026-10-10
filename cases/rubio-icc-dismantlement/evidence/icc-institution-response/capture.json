@@ -1,0 +1,20 @@
+{
+  "item_id": "icc-institution-response",
+  "source_url": "https://www.icc-cpi.int/news/icc-strongly-rejects-us-sanctions-against-institution",
+  "source_urls": [
+    "https://www.icc-cpi.int/news/icc-strongly-rejects-us-sanctions-against-institution"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:12.010778Z",
+  "bears_date": "2026-10-09",
+  "grade": "P1 (ICC; interested party)",
+  "track": "D / C",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "d0d14278d0bc6bbaa48c88c5eb5227dceac5fe3b949e6b027b3ccea1a8197391",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

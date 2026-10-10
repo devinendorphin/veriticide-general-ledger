@@ -1,0 +1,2 @@
+40a09c2e238959045b54c531f7f17bc6c8f4b8f174d502b9ce4d543edf47d595  ./www.state.gov_releases_office-of-the-spokesperson_2025_09_sanctioning-foreign-ng.html
+63c8d2bf6aa51e0a6d2ee96a2ee1c4f943ee6a3926c07b16cfed95bc68dcee32  ./www.state.gov_releases_office-of-the-spokesperson_2025_09_sanctioning-foreign-ng.warc.gz

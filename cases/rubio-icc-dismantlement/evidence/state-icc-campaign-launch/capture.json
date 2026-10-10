@@ -1,0 +1,21 @@
+{
+  "item_id": "state-icc-campaign-launch",
+  "source_url": "https://cn.usembassy.gov/state-department-launches-campaign-to-dismantle-international-criminal-courts-threat-to-american-sovereignty/",
+  "source_urls": [
+    "https://cn.usembassy.gov/state-department-launches-campaign-to-dismantle-international-criminal-courts-threat-to-american-sovereignty/",
+    "https://www.aljazeera.com/news/2026/7/13/trump-administration-vows-to-disable-international-criminal-court"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:07.905562Z",
+  "bears_date": "2026-07-13",
+  "grade": "P1 (State Media Note, U.S. Mission mirror) + S1 (Al Jazeera, video quotes)",
+  "track": "A / B / C",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "c249c774441dd6119ee3288d638ebbe89ef84c749e8c71d6299b51c7a4cfaf4f",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

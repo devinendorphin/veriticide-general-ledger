@@ -1,0 +1,16 @@
+{
+  "item": "./rome-statute-text",
+  "captured_at": "2026-10-10T05:50:25.877863Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.icc-cpi.int_sites_default_files_RS-Eng.pdf.pdf": {
+      "sha256": "ed7bca058ba7a610b20e63b72863a5deeb65b644b79d719a238452135412cadd",
+      "bytes": 395476
+    },
+    "www.icc-cpi.int_sites_default_files_RS-Eng.pdf.warc.gz": {
+      "sha256": "346e4643a72a2b70ea8f67b99ccbe26c3b717aa1010ec861e5a0854525f788d0",
+      "bytes": 331604
+    }
+  }
+}

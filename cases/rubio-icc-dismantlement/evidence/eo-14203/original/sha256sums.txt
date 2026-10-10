@@ -1,0 +1,2 @@
+dc7b0b46a026968cd87c4ef2d2331fb029fcd995cd9512f1bd31097531cc8474  ./www.whitehouse.gov_presidential-actions_2025_02_imposing-sanctions-on-the-intern.html
+6b1f86d5cc57292082dd02d4a19f6c242cd975601dc10d7c9ad1a7962df4ebd1  ./www.whitehouse.gov_presidential-actions_2025_02_imposing-sanctions-on-the-intern.warc.gz
