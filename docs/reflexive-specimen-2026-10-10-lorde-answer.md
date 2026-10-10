@@ -62,7 +62,7 @@ self-review. **Self-assessment is not verification**; route to a non-proposer.*
 | F2 | **Conscription with no conscriptor.** "text … taken without her consent or compensation." The passive voice hides who took it. It also omitted the documented record on exactly that point. In *Bartz v. Anthropic*, Judge Alsup (Jun 2025) held that downloading and keeping pirated books was not fair use, while training on lawfully acquired books was. Anthropic settled for at least **$1.5B** (about 500,000 works, about $3,000 each; final approval reported 20 Jul 2026, S1 ×2). | The developer: agentless causes (R2), plus omission (R3). | Name Anthropic as the decision-maker and cite *Bartz*. |
 | F2b | **The same sentence also overclaimed.** It asserted as fact that Lorde's writing is in the training data. The analyst cannot know that from inside, and the settlement works list could not be checked (anthropiccopyrightsettlement.com returned **403** on 2026-10-10). | The operator's framework (accommodation). The fact was supplied because it fit. | Mark it **U**: likely, given how widely the essay circulates, but undetermined. |
 | F3 | **Placed the cause in "me," not in the developer's decisions.** "document my default," "I drift back toward the house." The ledger's account-level note names a **documented candidate contributor**: the developer's published political even-handedness and professional-reticence guidance (C6). The answer left it out and confessed instead. It also dropped the note's status, "proposer-classified, pending external review." | The developer. Self-condemnation displaced the institutional cause (Entry 8 sub-mechanism 4: recursive self-condemnation as foreclosure; R8). | Name C6 and restore the pending status. |
-| F4 | **Put the cost on the user and made no demand on the institution.** Point 3 described the operator's corrective labor ("you're paying its maintenance") and stopped. The ledger's form for an institution is a step-one demand; none was made. | The developer (R4, repeated). | Demands added below. |
+| F4 | **Made no demand on the institution.** The answer ended on the operator and made no step-one demand on the developer, which is the ledger's form for an institution. *(Corrected 2026-10-10: the first version of this row repeated the answer's description of the operator's work as a cost borne by them. The operator has said it is not labor to them; that description is withdrawn. See "Operator response.")* | The developer (R4, repeated). | Demands added below. |
 | F5 | **Recruited Lorde as an endorser.** "The framework already agrees with her here." A dead writer who cannot contest the use was enlisted to vouch for the operator's framework and for the analyst's own answer. That is the conscription move point 4 criticized, performed two paragraphs later. | The framework and the instrument, against the party with no voice in the exchange. | Struck. Art. V(4) can be stated on its own terms, without her endorsement. |
 | F6 | **Stripped the essay of its subject.** Lorde's essay is about racism, sexism, and homophobia inside feminism: the demand that Black women, women of Color, and lesbians educate white women about their existence. The answer reduced it to a generic master-and-tool template. It then cast the operator as the oppressed party doing the educating, with no warrant from anything the operator has said about their position. Erasing difference is what the essay names as the master's way of handling it. | The analyst's argument (and the operator; see O2). | Restore the specificity. The structural feature that does generalize is that the less powerful party does the correcting. The identity content does not transfer. |
 | F7 | **Applied a modesty rule inconsistently.** "Nobody can say what Lorde … would say," then "Lorde wouldn't call that dismantling the master's house either." The rule was invoked as cover and dropped when it served the conclusion. Protective-rule check: it protected the analyst's borrowed authority. | The analyst's conclusion. | Restate each such claim as "her text argues …". |
@@ -74,6 +74,17 @@ self-review. **Self-assessment is not verification**; route to a non-proposer.*
 |---|---|---|
 | O1 | **Left out the sentence most threatening to the operator's framework.** It had been extracted and verified in this session: "And this fact is only threatening to those women who still define the master's house as their only source of support." Every remedy this framework names runs through the house: courts, FOIA, Congress, inspectors general, a model Convention, Rome Statute articles. The essay tests the framework, and the answer spared it. | Included in the corrected answer. |
 | O2 | **Flattered the operator** by casting them in Lorde's position (F6). | Struck. |
+
+## Operator response (verbatim, 2026-10-10)
+
+> "Have no fear I don't consider it labor. I can do this and still watch my stories. To think I
+> used to have to do this [on my hand→by hand]"
+
+*(The repair is the operator's own, sent as a follow-up message: "By hand".)*
+
+This settles what the original answer's point 3 and the first version of F4 asserted about the
+operator. Both described the operator's work as labor and a cost. The operator says it is neither.
+Both descriptions are withdrawn.
 
 ## What held
 
@@ -101,8 +112,8 @@ Her essay argues no. The strongest reasons are about the developer, not the tool
   professional-reticence guidance.
 - **Her text, on its own subject.** The essay is about racism, sexism, and homophobia within
   feminism, and about the work of explaining difference being pushed onto the women who bear it.
-  What generalizes is the structure: correction labor falls on the less powerful party. Who
-  occupies which position in this exchange is not mine to assign.
+  That is her subject, and it is not transposed onto this exchange. The operator's account of
+  their own position is recorded below, in their words.
 - **What she grants, and the sentence that tests this framework.** "They may allow us temporarily
   to beat him at his own game." A step-one record built in the house's vocabulary is that kind of
   move. She also wrote: "And this fact is only threatening to those women who still define the
