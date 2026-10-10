@@ -17,8 +17,8 @@ main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
   prompt. The newest is `docs/reflexive-specimen-2026-10-10-lorde-answer.md`. *Bartz v.
   Anthropic* is now on record there; it had been absent from the repo before.
 - **Media:**
-  - `media/ledger-film-icc/` (the ICC cut, 2:54) is on main via this merge.
-  - The original film, `media/ledger-film/` on branch `ccr-9ccea43f-ymg1wk`, is **not merged**.
+  - Both films are on main: `media/ledger-film/` (the original cut, PR #40) and
+    `media/ledger-film-icc/` (the ICC cut, 2:54, PR #39).
 - **External review:**
   - The ICC review handoff (`docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`) is
     **ready and unrun**.
@@ -42,7 +42,6 @@ main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
    - *Why:* the neutral-court rows and form 2 (the apex) rest on S1 reports of opinions that
      are not yet held.
 3. **Rulings and loose threads.**
-   - Decide whether to merge the original film branch `ccr-9ccea43f-ymg1wk`.
    - Answer who said "she won't mind," so it can be recorded with attribution.
    - Carried from earlier sessions: the operator's ruling on Entry 6.4; the remaining
      adjudication leftovers (dedupe, the CANNOT DETERMINE rows, the Cluster 9 citation); the
