@@ -110,9 +110,8 @@ from Android.
 
 ## Loose ends
 
-- **The original film's branch `ccr-9ccea43f-ymg1wk` is not merged to main.** The ICC cut's
-  `render.py` and `SOURCES.md` cite it. This session did not merge it; that needs its own
-  instruction.
+- **The original film's branch `ccr-9ccea43f-ymg1wk`:** merged to main as PR #40, on the
+  operator's instruction ("Merge it too"). The ICC cut's citation to it now resolves on main.
 - **The ICC film's end-card path** (`cases/rubio-icc-dismantlement`) only resolves once this
   branch is on main.
 - The **ChatGPT review** is written and not yet run. When it returns, archive it verbatim and
