@@ -1,0 +1,20 @@
+{
+  "item_id": "rome-statute-text",
+  "source_url": "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf",
+  "source_urls": [
+    "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:25.877863Z",
+  "bears_date": "1998-07-17 (consolidated text)",
+  "grade": "P1 (ICC-hosted PDF)",
+  "track": "reference",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "1e8c73eb6f5110dce31ea11567d9fd41543e829969d8715da0f3e258e0ca2df9",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

@@ -1,0 +1,130 @@
+{
+  "generated": "2026-10-10",
+  "generator": "evidence/build-custody-index.py",
+  "item_count": 15,
+  "custody_states": {
+    "HASHED-PENDING-BACKUP": 15
+  },
+  "items": [
+    {
+      "item_id": "ap-sanctions-operational-effects",
+      "grade": "S1 (AP via PBS; interested/anonymous sources flagged)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "A / C",
+      "source_url": "https://www.pbs.org/newshour/world/trumps-sanctions-on-iccs-chief-prosecutor-have-halted-tribunals-work-officials-and-lawyers-say",
+      "sha256_transcript": "2b97fb891cfe190e90506773322ab4f2c8a76b42ebda14b26c0dfffd5eb74d81"
+    },
+    {
+      "item_id": "civil-society-record",
+      "grade": "S1-advocacy (interested parties)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "C",
+      "source_url": "https://www.coalitionfortheicc.org/news/US-institutional-sanctions-against-icc",
+      "sha256_transcript": "66e2bf3c553dbe838a166a2f9eb94ab3e854ea31157b70d33e65feeb7badc7a8"
+    },
+    {
+      "item_id": "eo-14203",
+      "grade": "P1 (White House)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "B",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/02/imposing-sanctions-on-the-international-criminal-court/",
+      "sha256_transcript": "ae695ad302703bd527e4663b2abef4de4f3284eb07c75db87372a2bfd9411021"
+    },
+    {
+      "item_id": "icc-institution-response",
+      "grade": "P1 (ICC; interested party)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "D / C",
+      "source_url": "https://www.icc-cpi.int/news/icc-strongly-rejects-us-sanctions-against-institution",
+      "sha256_transcript": "d0d14278d0bc6bbaa48c88c5eb5227dceac5fe3b949e6b027b3ccea1a8197391"
+    },
+    {
+      "item_id": "icc-non-ally-docket",
+      "grade": "P1 (ICC)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "C",
+      "source_url": "https://www.icc-cpi.int/darfur/abd-al-rahman",
+      "sha256_transcript": "71e299b396505b1d768a43897fbb5fdb1372249e5956aebe4352007f14925eb7"
+    },
+    {
+      "item_id": "icc-palestine-warrants-2024",
+      "grade": "P1 (ICC press release; decisions not captured)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "C",
+      "source_url": "https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges",
+      "sha256_transcript": "7df85db8631241743dfd654391652bcfe6835ead3843f84c58af8e289ee9fe88"
+    },
+    {
+      "item_id": "khan-removal-2026",
+      "grade": "S1 (JURIST; Al Jazeera) \u2014 counter-evidence",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "counter / C",
+      "source_url": "https://www.aljazeera.com/news/2026/3/21/icc-chief-prosecutor-khan-cleared-of-sexual-misconduct-by-judges-report",
+      "sha256_transcript": "72719cd5d0571e0c07f40410b440f207a403a82d83c4d99a6e80fb27624d8707"
+    },
+    {
+      "item_id": "rome-statute-text",
+      "grade": "P1 (ICC-hosted PDF)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "reference",
+      "source_url": "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf",
+      "sha256_transcript": "1e8c73eb6f5110dce31ea11567d9fd41543e829969d8715da0f3e258e0ca2df9"
+    },
+    {
+      "item_id": "state-albanese-designation",
+      "grade": "P1 (State Dept)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "D",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/sanctioning-lawfare-that-targets-u-s-and-israeli-persons/",
+      "sha256_transcript": "d7fddf1241ca25b93fd05c57799eec7ff8ca2bd7e72800da09bc743a3a96b7f6"
+    },
+    {
+      "item_id": "state-icc-campaign-launch",
+      "grade": "P1 (State Media Note, U.S. Mission mirror) + S1 (Al Jazeera, video quotes)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "A / B / C",
+      "source_url": "https://cn.usembassy.gov/state-department-launches-campaign-to-dismantle-international-criminal-courts-threat-to-american-sovereignty/",
+      "sha256_transcript": "c249c774441dd6119ee3288d638ebbe89ef84c749e8c71d6299b51c7a4cfaf4f"
+    },
+    {
+      "item_id": "state-icc-designation-chain",
+      "grade": "P1 (State Dept, four releases)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "A / B / D",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/08/advancing-the-united-states-campaign-to-address-the-threat-posed-by-the-international-criminal-court/",
+      "sha256_transcript": "ef3797f44ede8ac50b064b6e0113822a2436fb6371ea665bef03e45be0de6a5a"
+    },
+    {
+      "item_id": "state-icc-institution-designation",
+      "grade": "P1 (State Dept press statement + fact sheet + index)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "A / B",
+      "source_url": "https://www.state.gov/icc-sanctions",
+      "sha256_transcript": "666096c38ba4c7ed5abba216590b91e372483335d62b7be50dce169b417b402a"
+    },
+    {
+      "item_id": "state-palestinian-ngo-designations",
+      "grade": "P1 (State Dept)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "D",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/sanctioning-foreign-ngos-directly-engaged-in-iccs-illegitimate-targeting-of-israel/",
+      "sha256_transcript": "a67076facef1c33a4693ad5586db0146c2aaef30741a077a2831ce0552096f94"
+    },
+    {
+      "item_id": "un-and-states-reaction",
+      "grade": "P1-reported (UN News) + S1",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "C / D",
+      "source_url": "https://news.un.org/en/story/2026/10/1168562",
+      "sha256_transcript": "2b0cb4471f499ef9ecbede0ebb91b7571c009b84f6e456cf61244f148af885f6"
+    },
+    {
+      "item_id": "us-court-rulings-eo14203",
+      "grade": "S1 (party-interest flagged; opinions P1 owed)",
+      "custody_state": "HASHED-PENDING-BACKUP",
+      "track": "D / F",
+      "source_url": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese",
+      "sha256_transcript": "d7a4dd23206534b2dd59792c3ce19ba9005127173d450628fa173bdc3de69c5b"
+    }
+  ]
+}

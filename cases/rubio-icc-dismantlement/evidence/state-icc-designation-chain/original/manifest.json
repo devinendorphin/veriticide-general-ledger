@@ -1,0 +1,40 @@
+{
+  "item": "./state-icc-designation-chain",
+  "captured_at": "2026-10-10T05:50:09.997054Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 8,
+  "artifacts": {
+    "www.state.gov_releases_office-of-the-spokesman_2026_08_advancing-the-united-stat.html": {
+      "sha256": "8d98657baf2f2f072bc24583b64dec0f976c202233d49b280c453b8d2dde2b2d",
+      "bytes": 175597
+    },
+    "www.state.gov_releases_office-of-the-spokesman_2026_08_advancing-the-united-stat.warc.gz": {
+      "sha256": "a62be4181224ac6f63554c47abc67f9622255c8504d09b654fc50785b8f3537d",
+      "bytes": 40594
+    },
+    "www.state.gov_releases_office-of-the-spokesperson_2025_06_imposing-sanctions-in-.html": {
+      "sha256": "35f0c197257e7fb7d443c1af13a386f7a242c66474fcd62b1a51b7573dfa684a",
+      "bytes": 175099
+    },
+    "www.state.gov_releases_office-of-the-spokesperson_2025_06_imposing-sanctions-in-.warc.gz": {
+      "sha256": "929dd5c2efaa13f037b6f15e37e9abad804bd44f6b81bf794389c6747e299d4d",
+      "bytes": 40591
+    },
+    "www.state.gov_releases_office-of-the-spokesperson_2025_08_imposing-further-sanct.html": {
+      "sha256": "25e07ff8fa4e15b32e8601b0f78a40ec74c93d3edad8ee785f4889d006631686",
+      "bytes": 176656
+    },
+    "www.state.gov_releases_office-of-the-spokesperson_2025_08_imposing-further-sanct.warc.gz": {
+      "sha256": "10a80c31db5f56681e9be532565099b2fbbc95dc993e06b8d4bb4389bed40fc4",
+      "bytes": 40827
+    },
+    "www.state.gov_releases_office-of-the-spokesperson_2025_12_sanctioning-icc-judges.html": {
+      "sha256": "f5f9f6c2ffa503aaae73694db4e0fea47aed82191ff93fe338d61369538d7db7",
+      "bytes": 175282
+    },
+    "www.state.gov_releases_office-of-the-spokesperson_2025_12_sanctioning-icc-judges.warc.gz": {
+      "sha256": "076c802eb6f1e72656f32d648a352d4f2ec444296da355ac14c0d53744ceab07",
+      "bytes": 40245
+    }
+  }
+}

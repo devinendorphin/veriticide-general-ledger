@@ -1,0 +1,20 @@
+{
+  "item_id": "state-palestinian-ngo-designations",
+  "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/sanctioning-foreign-ngos-directly-engaged-in-iccs-illegitimate-targeting-of-israel/",
+  "source_urls": [
+    "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/sanctioning-foreign-ngos-directly-engaged-in-iccs-illegitimate-targeting-of-israel/"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:11.152515Z",
+  "bears_date": "2025-09-04",
+  "grade": "P1 (State Dept)",
+  "track": "D",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "a67076facef1c33a4693ad5586db0146c2aaef30741a077a2831ce0552096f94",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

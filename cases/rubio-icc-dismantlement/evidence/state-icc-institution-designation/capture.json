@@ -1,0 +1,22 @@
+{
+  "item_id": "state-icc-institution-designation",
+  "source_url": "https://www.state.gov/icc-sanctions",
+  "source_urls": [
+    "https://www.state.gov/icc-sanctions",
+    "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court-2/",
+    "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:06.607814Z",
+  "bears_date": "2026-10-09",
+  "grade": "P1 (State Dept press statement + fact sheet + index)",
+  "track": "A / B",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "666096c38ba4c7ed5abba216590b91e372483335d62b7be50dce169b417b402a",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

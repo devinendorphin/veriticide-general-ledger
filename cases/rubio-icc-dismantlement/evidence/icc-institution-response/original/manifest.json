@@ -1,0 +1,16 @@
+{
+  "item": "./icc-institution-response",
+  "captured_at": "2026-10-10T05:50:12.010778Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.icc-cpi.int_news_icc-strongly-rejects-us-sanctions-against-institution.html": {
+      "sha256": "29279e927ba2d5fa6a36533a5135967cd6984052e283e51a27b95e181bd1c41d",
+      "bytes": 60019
+    },
+    "www.icc-cpi.int_news_icc-strongly-rejects-us-sanctions-against-institution.warc.gz": {
+      "sha256": "92876b869492764ccd12ec554d39cf41b6df34d715689b6b54afe147a1edcbb1",
+      "bytes": 19620
+    }
+  }
+}

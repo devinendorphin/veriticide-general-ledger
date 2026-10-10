@@ -1,0 +1,16 @@
+{
+  "item": "./icc-palestine-warrants-2024",
+  "captured_at": "2026-10-10T05:50:18.603497Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.icc-cpi.int_news_situation-state-palestine-icc-pre-trial-chamber-i-rejects-s.html": {
+      "sha256": "1750668d0cffed836a4494a9a69d5c2e5742b601c0490b396e2331f38563595f",
+      "bytes": 119789
+    },
+    "www.icc-cpi.int_news_situation-state-palestine-icc-pre-trial-chamber-i-rejects-s.warc.gz": {
+      "sha256": "bb042d5f2a69c25d9f64bb92efb67b6ce45871541760b508e75fd2d978fa9e10",
+      "bytes": 33125
+    }
+  }
+}

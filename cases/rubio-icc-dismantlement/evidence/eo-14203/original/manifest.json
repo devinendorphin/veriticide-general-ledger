@@ -1,0 +1,16 @@
+{
+  "item": "./eo-14203",
+  "captured_at": "2026-10-10T05:49:50.712432Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.whitehouse.gov_presidential-actions_2025_02_imposing-sanctions-on-the-intern.html": {
+      "sha256": "dc7b0b46a026968cd87c4ef2d2331fb029fcd995cd9512f1bd31097531cc8474",
+      "bytes": 333004
+    },
+    "www.whitehouse.gov_presidential-actions_2025_02_imposing-sanctions-on-the-intern.warc.gz": {
+      "sha256": "6b1f86d5cc57292082dd02d4a19f6c242cd975601dc10d7c9ad1a7962df4ebd1",
+      "bytes": 71373
+    }
+  }
+}

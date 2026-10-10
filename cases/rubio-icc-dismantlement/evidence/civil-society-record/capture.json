@@ -1,0 +1,22 @@
+{
+  "item_id": "civil-society-record",
+  "source_url": "https://www.coalitionfortheicc.org/news/US-institutional-sanctions-against-icc",
+  "source_urls": [
+    "https://www.coalitionfortheicc.org/news/US-institutional-sanctions-against-icc",
+    "https://www.coalitionfortheicc.org/news/rome-statute-withdrawals-and-new-us-campaign-threaten-victims-access-justice",
+    "https://www.nycbar.org/press-releases/statement-condemning-the-u-s-governments-campaign-to-dismantle-the-international-criminal-court/"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:25.214491Z",
+  "bears_date": "2026-07..2026-10-09",
+  "grade": "S1-advocacy (interested parties)",
+  "track": "C",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "66e2bf3c553dbe838a166a2f9eb94ab3e854ea31157b70d33e65feeb7badc7a8",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 6 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

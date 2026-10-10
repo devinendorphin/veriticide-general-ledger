@@ -1,0 +1,32 @@
+{
+  "item": "./civil-society-record",
+  "captured_at": "2026-10-10T05:50:25.214491Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 6,
+  "artifacts": {
+    "www.coalitionfortheicc.org_news_US-institutional-sanctions-against-icc.html": {
+      "sha256": "4fad3600b0e25b2af0deab9ed446a8255a9e868bce2c0952bbdeec71f7f1c7f0",
+      "bytes": 39607
+    },
+    "www.coalitionfortheicc.org_news_US-institutional-sanctions-against-icc.warc.gz": {
+      "sha256": "75e74e2a1f7853e9be90bfcd7f80037dd68c43f253c94e9c726cd9d31b9211ac",
+      "bytes": 13844
+    },
+    "www.coalitionfortheicc.org_news_rome-statute-withdrawals-and-new-us-campaign-thr.html": {
+      "sha256": "0f3f4d98f571c1962e19466e3b7ebbb5bb0c9e7ec019eaa5a2930ce5e3aff81e",
+      "bytes": 51106
+    },
+    "www.coalitionfortheicc.org_news_rome-statute-withdrawals-and-new-us-campaign-thr.warc.gz": {
+      "sha256": "7dcc388216d46d0a2487edc8b1a812235ee3174cf8bdaa9887b8b19d24e73b63",
+      "bytes": 18099
+    },
+    "www.nycbar.org_press-releases_statement-condemning-the-u-s-governments-campaign-.html": {
+      "sha256": "d2bae0377813013ad9ee3bb370294d36df66db61865abe7e60c266deb65b2b3a",
+      "bytes": 123917
+    },
+    "www.nycbar.org_press-releases_statement-condemning-the-u-s-governments-campaign-.warc.gz": {
+      "sha256": "dabc2ff7b1928dcc3f0554e4bcfdcd02af97b8ab38772dc1d46c2ed5c3a29978",
+      "bytes": 33799
+    }
+  }
+}

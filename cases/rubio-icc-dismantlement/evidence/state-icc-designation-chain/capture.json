@@ -1,0 +1,23 @@
+{
+  "item_id": "state-icc-designation-chain",
+  "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/08/advancing-the-united-states-campaign-to-address-the-threat-posed-by-the-international-criminal-court/",
+  "source_urls": [
+    "https://www.state.gov/releases/office-of-the-spokesman/2026/08/advancing-the-united-states-campaign-to-address-the-threat-posed-by-the-international-criminal-court/",
+    "https://www.state.gov/releases/office-of-the-spokesperson/2025/06/imposing-sanctions-in-response-to-the-iccs-illegitimate-actions-targeting-the-united-states-and-israel/",
+    "https://www.state.gov/releases/office-of-the-spokesperson/2025/08/imposing-further-sanctions-in-response-to-the-iccs-ongoing-threat-to-americans-and-israelis/",
+    "https://www.state.gov/releases/office-of-the-spokesperson/2025/12/sanctioning-icc-judges-directly-engaged-in-the-illegitimate-targeting-of-israel/"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:09.997054Z",
+  "bears_date": "2025-06-05..2026-08-18",
+  "grade": "P1 (State Dept, four releases)",
+  "track": "A / B / D",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "ef3797f44ede8ac50b064b6e0113822a2436fb6371ea665bef03e45be0de6a5a",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 8 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

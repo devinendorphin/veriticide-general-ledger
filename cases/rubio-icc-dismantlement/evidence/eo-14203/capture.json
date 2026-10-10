@@ -1,0 +1,20 @@
+{
+  "item_id": "eo-14203",
+  "source_url": "https://www.whitehouse.gov/presidential-actions/2025/02/imposing-sanctions-on-the-international-criminal-court/",
+  "source_urls": [
+    "https://www.whitehouse.gov/presidential-actions/2025/02/imposing-sanctions-on-the-international-criminal-court/"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:49:50.712432Z",
+  "bears_date": "2025-02-06",
+  "grade": "P1 (White House)",
+  "track": "B",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "ae695ad302703bd527e4663b2abef4de4f3284eb07c75db87372a2bfd9411021",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

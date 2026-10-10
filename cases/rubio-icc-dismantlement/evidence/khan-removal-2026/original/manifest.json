@@ -1,0 +1,24 @@
+{
+  "item": "./khan-removal-2026",
+  "captured_at": "2026-10-10T05:50:22.231674Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 4,
+  "artifacts": {
+    "www.aljazeera.com_news_2026_3_21_icc-chief-prosecutor-khan-cleared-of-sexual-mis.html": {
+      "sha256": "e889af78d30675afa36621980254030fc674b3d635ea052671dc072aa2448404",
+      "bytes": 200935
+    },
+    "www.aljazeera.com_news_2026_3_21_icc-chief-prosecutor-khan-cleared-of-sexual-mis.warc.gz": {
+      "sha256": "73d69f3ba4647408b650acfa3dbf4eeb5ee07b6432d9f828dc98366d6a285554",
+      "bytes": 58209
+    },
+    "www.jurist.org_news_2026_07_international-criminal-court-votes-to-remove-chief-p.html": {
+      "sha256": "ed1f7c021e285d6e70a527988793b40f599a4b27ab3b1c67be8a3f62146eef26",
+      "bytes": 40184
+    },
+    "www.jurist.org_news_2026_07_international-criminal-court-votes-to-remove-chief-p.warc.gz": {
+      "sha256": "e26f8a8e4529795fd6527f92ecc123c6efe796d230f7f58674fb8a1ca4477a08",
+      "bytes": 11960
+    }
+  }
+}

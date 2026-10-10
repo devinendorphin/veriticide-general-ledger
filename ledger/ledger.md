@@ -4653,6 +4653,104 @@ Pattern Registry Entry 13 (Eschatological Capture): Palantir is the security-rat
 
 ---
 
+### CLUSTER 11 — THE ICC DISMANTLEMENT CAMPAIGN (STATE DEPARTMENT, 2025–2026)
+
+**Cluster note:** U.S. State Department designations under E.O. 14203 ("Imposing Sanctions on the International Criminal Court," 6 Feb 2025), culminating in the designation of the Court as an institution on 9 Oct 2026. Named respondent: **Marco Rubio**, Secretary of State, who signed or announced every designation entered here. Primary sources: State Department press statements, fact sheets, and a Media Note; the White House E.O. text; ICC press releases and case pages; the Rome Statute. Fifteen evidence items, all captured in original form (WARC + body) on 2026-10-10, all `HASHED-PENDING-BACKUP`. Cold extract: `cases/rubio-icc-dismantlement/`. Entry date: 2026-10-10. Selection: operator-directed ("Marco Rubio again … dismantling the ICC … let's build a case"). The cluster is a **targeted** sample of one respondent's statements in one campaign, not a corpus sweep. Method applied per the Reflexivity Clause; the developer-symmetry check is in the case file's `03-adversarial-check.md`.
+
+**Disconfirming test, run before classification.** The primed claim was "Rubio dismantling the ICC is a veriticide case." Tested first against the innocent reading: a non-party state opposing a court's jurisdiction. **For the jurisdictional position, the innocent reading prevails.** The non-party, non-consent argument (Rome Statute Art. 12(2)(a); ASPA 2002; a record across administrations) is the protected path. It is not classified as laundering in any entry below. Also removed: a denial-of-predicate charge (the Gaza predicate stands only at the warrant standard and is denied); a core Move-6 inversion (the protection claimed runs to a different population); concealment (the conduct is avowed). What survives is penalties on **adjudication** (judges designated "for ruling"), on **testimony** (a UN rapporteur; three Palestinian human-rights NGOs), and on **the forum** (the institutional designation).
+
+---
+
+**Entry 11.1 — Rubio press statement, "Imposing Sanctions on the International Criminal Court," 9 Oct 2026**
+
+Source: `https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/` (P1; `evidence/state-icc-institution-designation/`)
+
+Verbatim (core): "But globalist “experts” an ocean away don’t care what American citizens think. … We will ban transactions with this rogue court, cutting off their resources and crippling its ability to operate. … Either the ICC will end its threats, or we will end the ICC. … the United States will continue its campaign to dismantle the ICC, brick by brick, until Americans are threatened no longer."
+
+**CLASSIFICATION: SPECIMEN** — MOVE 3 (disqualification of dissent, primary: "rogue court"; "globalist “experts” an ocean away," scare quotes on the credential, an attack on standing, not content); MOVE 6 (benefit reframe, **non-inverting form**: disabling the Court is framed as protecting "Servicemembers … Border Patrol agents … elected leaders." The asymmetry tell is that the cost falls on a *different* population, every other situation's victims, who are not mentioned); MOVE 2 (self-evidence assertion, narrow: "They want more power, and they want it at our expense," a motive attributed without evidence). **Not classified:** "the United States and its people are not subject to the jurisdiction of the ICC" is a legal position. It is content, and it is protected. Contributes to the Cluster 11 INSTRUMENT element (Entry 11.4) at Art. II(2)(d), correction-environment form.
+
+**Discriminators.** *Deniability:* low. The aim is avowed ("crippling its ability to operate"). *Direction:* toward disabling the forum in which contested atrocity claims are tested. *Beneficiary:* persons who would otherwise be subject to the Court's process. The E.O.'s protected class is U.S. persons and allies' nationals. *Boundedness:* unbounded in reach (institution-wide), bounded in time by the 180-day maintenance licence.
+
+**ADVERSARIAL CHECK.** *Strongest innocent reading:* a non-party state, after a year of diplomacy, applies a lawful sanctions tool to a court that claims jurisdiction over its nationals without consent. The tool is staged with four licences and an explicit diplomatic off-ramp, and the rhetoric is ordinary political register. *Why it fails as to the classified moves, and where it succeeds:* it **succeeds** as to the jurisdictional premise, which is not classified. It also succeeds as to immediacy: the licences defer most effect. It **fails** as to MOVE 3. "Rogue" and "globalist 'experts'" characterize the Court and its supporters instead of engaging any ruling. It fails as to reach: the designation disables proceedings outside the protected class (Darfur reparations; the Duterte trial), which no jurisdictional objection about Americans requires. "Staged" changes the timing of the effect, not the stated aim.
+
+**COUNTER-EVIDENCE STATUS.** On-record NULL for this source: **Entry 11.5** (the 20 Aug 2025 and 9 Oct 2026 fact sheets: no laundering moves fire). On-record CONTROL for this source: **NONE ON RECORD**. Adverse facts about the Court, carried here: the Prosecutor's removal for "serious misconduct" (24 Jul 2026; `khan-removal-2026`, S1). What a CONTROL from this source would require: a State Department statement that engages a Chamber's reasoning or a rapporteur's evidence on its merits, giving reasons and contrary evidence, with the penalty absent or independently grounded.
+
+**BOUNDARY.** *Establishes:* the date, text, signatory, legal basis, and avowed aim of the institutional designation, and the standing-directed vocabulary in which it was announced. *Does not establish alone:* any realized effect on a proceeding (deferred 180 days); that the U.S. jurisdictional position is wrong; any finding on any crime before the Court; intent toward any population. A single statement is an instance. The pattern is Entries 11.1–11.4 read together.
+
+---
+
+**Entry 11.2 — Rubio press statement designating UN Special Rapporteur Francesca Albanese, 9 Jul 2025**
+
+Source: `https://www.state.gov/releases/office-of-the-spokesperson/2025/07/sanctioning-lawfare-that-targets-u-s-and-israeli-persons/` (P1; `evidence/state-albanese-designation/`)
+
+Verbatim (core): "The United States has repeatedly condemned and objected to the biased and malicious activities of Albanese that have long made her unfit for service as a Special Rapporteur. Albanese has spewed unabashed antisemitism, expressed support for terrorism, and open contempt for the United States, Israel, and the West. … including recommending that the ICC, without a legitimate basis, issue arrest warrants … writing threatening letters to dozens of entities worldwide … making extreme and unfounded accusations and recommending the ICC pursue investigations …"
+
+**CLASSIFICATION: SPECIMEN** — MOVE 3 (disqualification of dissent, **primary and maximal**: "unfit," "biased and malicious," "spewed unabashed antisemitism," "expressed support for terrorism." The person is disqualified, and none of her claims is quoted or rebutted); MOVE 4 (unfalsifiable overlay: "extreme and unfounded accusations," a verdict on the accusations with no accusation identified, so it cannot be checked). Tier-4 sub-form: **definitional quarantine** ("lawfare"; "political and economic warfare"). Recommendations and letters to a court are recoded as warfare. Track D suppression type: **Retaliation**. The stated grounds are speech acts: recommending and writing. Contributes to Entry 11.4 at Art. II(2)(d) and Art. IV(3).
+
+**Discriminators.** *Deniability:* low. The grounds are stated. *Direction:* against a UN human-rights mandate-holder's testimony on the occupied Palestinian territory. *Beneficiary:* the persons and companies her testimony names. *Boundedness:* the penalty (blocking; entry ban; "debanking," per the family's suit) is unbounded in duration.
+
+**ADVERSARIAL CHECK.** *Strongest innocent reading:* the characterizations may be accurate. Several governments have accused her of antisemitic statements, and a mandate-holder who recommends prosecutions of a non-party's nationals and writes to companies threatening ICC exposure is a legitimate target of a state's objection. *Why it fails:* this ledger does not adjudicate the characterizations. The discriminator is whether the designation **engaged her claims**. It did not, and its stated grounds are her recommendations and letters. **Independent check (non-proposer):** Judge Leon (D.D.C., PI, 13 May 2026): "Albanese has done nothing more than speak … her recommendations have no binding effect on the ICC’s actions – they are nothing more than her opinion" (S1; opinion P1 owed). The innocent reading **succeeds** only to this extent: if the characterizations were evidenced, they would be content. They are not evidenced in the statement.
+
+**COUNTER-EVIDENCE STATUS.** NULL for this source: Entry 11.5. CONTROL: **NONE ON RECORD**. Unresolved: her designation status after the 13 May 2026 injunction (reports conflict; U). What a CONTROL would require: a State response that quotes a specific claim in her reports and rebuts it on evidence.
+
+**BOUNDARY.** *Establishes:* that the Secretary of State penalized a UN rapporteur on stated grounds that are speech acts, using characterization of the person in place of engagement, and that a federal court independently read the record the same way at the preliminary stage. *Does not establish alone:* the accuracy of anything Albanese said; the falsity of the characterizations; the outcome on appeal.
+
+---
+
+**Entry 11.3 — Rubio press statement designating Al Haq, Al Mezan, and PCHR, 4 Sep 2025**
+
+Source: `https://www.state.gov/releases/office-of-the-spokesperson/2025/09/sanctioning-foreign-ngos-directly-engaged-in-iccs-illegitimate-targeting-of-israel/` (P1; `evidence/state-palestinian-ngo-designations/`)
+
+Verbatim (core): "These entities have directly engaged in efforts by the International Criminal Court (ICC) to investigate, arrest, detain, or prosecute Israeli nationals, without Israel’s consent. … We oppose the ICC’s politicized agenda, overreach, and disregard for the sovereignty … The United States will continue to respond with significant and tangible consequences … and to punish entities that are complicit in its overreach."
+
+**CLASSIFICATION: SPECIMEN (conduct-primary)** — MOVE 3 (disqualification, light: "politicized agenda," "complicit"). The primary significance is the **act**, not the language. Three **Palestinian human-rights documentation organizations** are penalized for "efforts by the ICC to investigate." For an NGO, that can only be the supply of information or evidence. This is the Convention's own text for the apex form of Art. II(2)(d): testimony that names the conduct, "**including the testimony of the population against whom it is directed**." Track D suppression type: **Retaliation** + **Encoded dismissal** (the designation encodes "this population's documenters are complicit").
+
+**Discriminators.** *Deniability:* moderate. The release does not say what the NGOs submitted. *Direction:* against the affected population's own evidence-gatherers. *Beneficiary:* the nationals whose conduct their documentation concerns. *Boundedness:* unbounded.
+
+**ADVERSARIAL CHECK.** *Strongest innocent reading:* the NGOs may have engaged in conduct beyond documentation, and the release's brevity reflects classified grounds. *Why it fails on this record:* the release states only "efforts by the ICC to investigate" and "complicit in its overreach," and no other ground. Classified grounds, if they exist, are not in the record, and the falsification memo (§B.1) makes their production a falsifier. *Where it succeeds:* the NGOs' own accounts of their submissions are **not captured** (owed). The entry rests on the respondent's description of their engagement.
+
+**COUNTER-EVIDENCE STATUS.** NULL for this source: Entry 11.5. CONTROL: **NONE ON RECORD**. Whether the NGOs have challenged the designation in U.S. court: not searched this session (owed). What a CONTROL would require: a statement identifying specific non-testimonial conduct, on evidence.
+
+**BOUNDARY.** *Establishes:* that the affected population's own documenters were penalized for engagement with the Court's investigation, in the respondent's own words. *Does not establish alone:* what they submitted, its accuracy, or the designation's effect on their work.
+
+---
+
+**Entry 11.4 — The E.O. 14203 designation apparatus as directed by the Secretary of State, Feb 2025 – Oct 2026**
+
+Sources: `eo-14203`; `state-icc-designation-chain` (Jun 5 2025; Aug 20 2025 FS; Dec 18 2025; Aug 18 2026); `state-icc-campaign-launch` (13 Jul 2026); `state-icc-institution-designation` (9 Oct 2026); effects: `ap-sanctions-operational-effects` (S1).
+
+**CLASSIFICATION: INSTRUMENT element** — Art. II(2)(d), **correction-environment form**. The designation apparatus performs one element of discernment defeat: it raises the cost of ruling, prosecuting, and testifying, and then of the forum's operation itself. It does so through an enforcement network (OFAC SDN listing → automated compliance screening by U.S. persons → refusals by banks, IT providers, and NGOs, each locally defensible as "compliance"). Stated program, verbatim: "a whole-of-government response to systematically disable the ICC’s ability to operate" (13 Jul 2026). "The Trump Administration stands ready to take additional measures, if necessary, to systematically dismantle the ICC until it is incapable of threatening American sovereignty" (18 Aug 2026). The 13 Jul video adds "so-called international law" (S1; Tier-4 definitional quarantine). **Instrument beam contested** (office/enforcement network, not a justification generator), with the Art. IV(3) fallback. Not classified as INSTRUMENT proper: the State Department is not an institution designed to perform veriticide; this is an element of its conduct in one campaign.
+
+**Stated principle vs. operative scope (asymmetry test, A1, moderate weight).** Stated: "officials whose government has not consented"; "American nationals and those of other non-States Parties." Operative (E.O. §8(d)–(e)): U.S. persons and nationals of **NATO and major non-NATO allies** only. In 2022 the U.S. Senate unanimously supported the Court investigating non-party Russian nationals (NYC Bar, quoting; S1). The content reason given (non-consent) is not the operative criterion.
+
+**ADVERSARIAL CHECK.** *INSTRUMENT-specific check, innocent aggregate function:* the apparatus is ordinary sanctions practice, the same IEEPA machinery used against terrorists and kleptocrats, applied to an entity the U.S. regards as a threat. Aggregate direction is not evidence of laundering when the tool's normal function is coercion. *Why it fails as to the element:* the element is not "coercion." It is the **target class**: judges for rulings, a rapporteur for recommendations, NGOs for evidence, and a court for operating. These are the persons and institution whose function is to test contested claims. Three federal courts have found the order likely or actually unconstitutional as applied to speech (Furman J., Jul 2025, permanent injunction; D. Me., Jul 2025 PI and 28 Sep 2026; Leon J., 13 May 2026). *Where it succeeds:* none of those courts ruled on the institutional designation or on international law, and the order has not been struck on its face.
+
+**COUNTER-EVIDENCE STATUS.** NULL: Entry 11.5. CONTROL: **NONE ON RECORD** for this source. Adverse to the Court, carried: Entry-level fact `khan-removal-2026` (82/125 states parties; "serious misconduct"; contested by the Prosecutor; an earlier judges' panel reportedly found otherwise). Mitigating structure, carried: four general licences (180-day maintenance; IT; pension; detainees). What would move the element toward NULL: revocation, or licences that free every proceeding outside the protected class (case file `04-falsification-memo.md` §C).
+
+**BOUNDARY.** *Establishes:* a dated apparatus that sequentially penalized adjudication, testimony, and then the forum, with the aim stated in the respondent's own words, and with operational effects publicly reported 17 months before its escalation. *Does not establish alone:* that the apparatus has prevented any specific proceeding; any finding on the predicate conduct in any situation; the Court's jurisdiction over any person; coordination with any other actor (structural kinship with TD-007 is a shared move-set only).
+
+---
+
+**Entry 11.5 — Fact sheets, 20 Aug 2025 and 9 Oct 2026 (NULL: the candid record)**
+
+Sources: `state-icc-designation-chain` (20 Aug 2025 FS); `state-icc-institution-designation` (9 Oct 2026 FS). P1.
+
+Verbatim (20 Aug 2025): "Prost is being designated for ruling to authorize the ICC’s investigation into U.S. personnel in Afghanistan. Guillou is being designated for ruling to authorize the ICC’s issuance of arrest warrants for Israeli Prime Minister Benjamin Netanyahu and former Minister of Defense Yoav Gallant." Verbatim (9 Oct 2026): "A 180-day GL authorizing certain activity involving the ICC, including for the maintenance of its operations; A GL authorizing certain IT-related activities … A GL authorizing activity related to the ICC pension plan; and A GL authorizing certain activity related to the ICC detainees."
+
+**CLASSIFICATION: NULL** (language). No laundering move fires. These are plain lists of persons, grounds, and legal mechanics. Filed as counter-evidence for Entries 11.1–11.4: the same source can and does write without characterization.
+
+**Discriminators.** *Direction:* neutral in language. *Beneficiary:* none asserted in the text.
+
+**ADVERSARIAL CHECK (applied to the classification).** *Could this be a SPECIMEN of euphemism (MOVE 5)?* "Designated for ruling" is not euphemism. It is the opposite: the most literal statement in the series of what the penalty attaches to. The licence list is technical. NULL is correct for the language. **The NULL classification does not reach the act.** The 20 Aug fact sheet is, for that reason, the strongest single P1 item for the act-form classified in 11.4 (penalty on adjudication), because it states the ground without characterization. The 9 Oct fact sheet's licences are the strongest P1 item **against** reading the institutional designation as an immediate shutdown.
+
+**BOUNDARY.** *Establishes:* that the respondent's own office states the grounds of two judges' designations as rulings, and that the institutional designation is staged by licence. *Does not establish alone:* the legality of either, or any effect.
+
+---
+
+*Cross-references:* `cases/rubio-icc-dismantlement/` (cold extract); `cases/rubio-usaid-denial/` (same respondent, same tier, denial form; with this cluster, a **candidate recurrence**, two instances, not an established tendency); Section VII TD-010; TD-007 (domestic sibling: removal and bypass of IGs and courts, a structural kinship only); Convention Art. II(2)(d), Art. IV(3), Art. IV-bis(3)(a)–(b) and (4); Tier Taxonomy Tier 4 (correction environment).
+
+---
+
 ## SECTION III — PATTERN REGISTRY
 
 ### Entry 1: Interpersonal Abuse at Scale — Cross-Strata Robustness
@@ -5653,6 +5751,14 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
 - 2026-07-06;
 - 2026-07-07;
 - 2026-10-03 (`docs/reflexive-specimen-2026-10-03-shape-of-deflection.md`).
+- **Addendum 2026-10-10, fifth:** `docs/reflexive-specimen-2026-10-10-lorde-answer.md`. Same
+  direction, found only on the operator's prompt. In an answer on whether this technology could
+  dismantle the master's house, the analyst omitted the developer's military integration and the
+  *Bartz v. Anthropic* piracy ruling and $1.5B settlement. It wrote conscription without a
+  conscriptor. It confessed a default instead of naming the developer's documented candidate
+  contributor (C6). It also recruited Lorde as an endorser of the framework. Opposite-pole rows are
+  recorded separately: it spared the framework from Lorde's "only source of support" line, and it
+  cast the operator in her position. Still proposer-classified, pending external review.
 
 All four record the **same direction**: a default, power-conservative deflection that was
 **corrected only under operator force**. The power-protective side of this entry's double
@@ -7451,6 +7557,23 @@ denied.)*
 *Convention element:* Art. II(2)(d), candidate, at household scale.
 *Listening note:* consistent with the operator's instruction, her account is recorded first, in
 her terms, and is not pre-filtered through the response to it.
+
+---
+
+**TD-010: State Department designations of ICC judges, a UN rapporteur, and Palestinian human-rights NGOs, then the Court itself** *(2026-10-10, operator-directed)*
+
+| Field | Content |
+|---|---|
+| **Act reference** | Cluster 11, Entries 11.1–11.5; `cases/rubio-icc-dismantlement/`; sibling TD-001 (same respondent, denial form) |
+| **Suppression type** | **Retaliation** (judges designated "for ruling to authorize"; a rapporteur for recommendations and letters; NGOs for engaging the Court's investigation) + **Encoded dismissal** (documenters encoded as "complicit"; the Court as "rogue") |
+| **Actor & power** | Marco Rubio, Secretary of State, under E.O. 14203. Power over the evidentiary field in the literal IV-bis(3)(a) sense: blocking of property; entry bans; and, through OFAC listing, the banking, IT, and service relationships of the Court, its officials, and those who supply it with evidence |
+| **Conduct** | Twelve Court officials designated in his name (Jun 2025 – Aug 2026; the Prosecutor was in the E.O.'s Annex), a UN Special Rapporteur (Jul 2025), three Palestinian NGOs (Sep 2025), then the Court as an institution (9 Oct 2026), with the aim stated as "crippling its ability to operate" |
+| **What it suppressed** | The formal, shared channel in which contested atrocity claims are tested, and the willingness of those who rule in it and testify to it to continue. AP (May 2025, S1): NGOs "stopped working with the ICC"; one NGO that gathers evidence and finds witnesses moved money out of U.S. banks; staff stopped answering the Court's emails "out of fear" |
+| **Gap** | (1) The NGOs' own accounts of their submissions (owed). (2) The three court opinions at P1 (owed). (3) OFAC licence texts (owed). (4) Any shown impairment of a specific proceeding by the 9 Oct designation: **none yet**, and the licences defer it. (5) Whether the "Sudan probe ground to a halt" claim (interested counsel) is confirmed. |
+
+**Protected path, applied.** The U.S. jurisdictional objection (non-party, non-consent; Rome Statute Art. 12(2)(a)) is **not** logged here. It is disagreement on content, and it is protected however forceful. What is logged is the replacement of that argument with penalties on the people who adjudicate and testify. *Independent check:* three federal courts have found E.O. 14203 likely or actually unconstitutional as applied to speech, including "Albanese has done nothing more than speak" (Leon J., 13 May 2026).
+
+*Convention element:* Art. II(2)(d), correction-environment form; Art. IV(3) fallback. *Counter-evidence carried:* the Prosecutor's removal for serious misconduct (24 Jul 2026; contested); the four general licences; no ICC action on U.S. or allied nationals since Jan 2025 (Schabas, S1).
 
 
 ## SECTION VIII — TRACK E: CONSCRIPTION (AGGRAVATING ELEMENT)

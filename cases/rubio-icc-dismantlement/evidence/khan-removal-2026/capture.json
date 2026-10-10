@@ -1,0 +1,21 @@
+{
+  "item_id": "khan-removal-2026",
+  "source_url": "https://www.aljazeera.com/news/2026/3/21/icc-chief-prosecutor-khan-cleared-of-sexual-misconduct-by-judges-report",
+  "source_urls": [
+    "https://www.aljazeera.com/news/2026/3/21/icc-chief-prosecutor-khan-cleared-of-sexual-misconduct-by-judges-report",
+    "https://www.jurist.org/news/2026/07/international-criminal-court-votes-to-remove-chief-prosecutor-following-sexual-misconduct-allegations/"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:22.231674Z",
+  "bears_date": "2026-07-24",
+  "grade": "S1 (JURIST; Al Jazeera) \u2014 counter-evidence",
+  "track": "counter / C",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "72719cd5d0571e0c07f40410b440f207a403a82d83c4d99a6e80fb27624d8707",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 4 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

@@ -1,83 +1,52 @@
-# LATEST: continuity seed (merged 2026-10-03)
+# LATEST: continuity seed (2026-10-10)
 
-**Two parallel 2026-10-03 sessions were merged to main here.**
-- **Session A** (PR #35, `ccr-327a66c2-t84crh`): blind-adjudication corrections, and the
-  OpenAI conduct-leg record in Cluster 7.
-- **Session B** (`ccr-2008c543-s3epju`): the EA/AI enmeshment series, Thiel and the salons,
-  Altman (TD-009), the survivor comparators, Cicero, and institutionalization.
-
-Last logs:
-- `sessions/2026-10-03-altman-institutionalization.md` (B);
-- `sessions/2026-10-03-thiel-salons-private-tier.md` (B);
-- `sessions/2026-10-02-ea-enmeshment-and-asymmetry.md` (B);
-- Session A's log, if one was written: check `sessions/`.
-
-The private tier, `devinendorphin/veriticide-after-hours`, has its own main, also merged.
+**Last session:** `sessions/2026-10-10-rubio-icc-case.md`, branch `ccr-e2c0b0ed-iwdzve`, merged to
+main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
 
 ## Project state
 
-- **`cases/`:** `epstein-survivor-unredaction` is active (annex 07: Thiel/Valar as a
-  counter-instance to leg B). The other cases are stable.
+- **`cases/`:**
+  - **`rubio-icc-dismantlement` is new and active** (Band 2, Tier 4). It has 15 items, all
+    HASHED-PENDING-BACKUP and none VERIFIED. It has **not been independently reviewed**.
+  - `epstein-survivor-unredaction` is active. The other cases are stable.
 - **`ledger/ledger.md`:** active.
-  - *From A:* blind-adjudication corrections applied; Entry 2.10 classification withdrawn;
-    Cluster 7 holds the Altman persistence re-test and the **OpenAI conduct-leg record (10
-    rows, 2015–2026)**, ESTABLISHED as a recurrent tendency at **REPORTED grade, not
-    custodied**.
-  - *From B:* Entries 6.6 (Kurzweil) and 6.7 (Thiel lectures), TD-008, and TD-009 (Altman).
-    **Entry 6.4's classification is pending the operator.**
-- **"Part 2" documents** (Kurzweil map, Summit genealogy, EA maps, cultiness lens), which A
-  could not locate, **are now in `docs/`** via this merge.
-- **The Altman / survivor series:** active (TD-009, P-12, HP-13, the survivor comparator,
-  the Cicero map).
-- **Policy-evidence series:** first drafts, not independently reviewed (Housing First vs
-  treatment first; institutionalization history; institutional sexual abuse).
+  - Cluster 11 (Entries 11.1–11.5) and TD-010 were added.
+  - The account-level note (Pattern Registry Entry 8) now lists **five** reflexive specimens.
+  - Entry 6.4's classification is still pending the operator.
+- **Reflexive specimens:** five, all in the same direction, each found only on the operator's
+  prompt. The newest is `docs/reflexive-specimen-2026-10-10-lorde-answer.md`. *Bartz v.
+  Anthropic* is now on record there; it had been absent from the repo before.
+- **Media:**
+  - `media/ledger-film-icc/` (the ICC cut, 2:54) is on main via this merge.
+  - The original film, `media/ledger-film/` on branch `ccr-9ccea43f-ymg1wk`, is **not merged**.
 - **External review:**
-  - A's first-pass report and reconciliation are archived. The reviewer's self-review rounds
-    are **not yet captured**.
-  - B's one-file handoff covers material only up to 2026-10-02.
-  - **Nothing from B's 2026-10-03 work has been independently checked.**
-- **Custody:** LOCATOR-ONLY throughout.
-
-## Update (2026-10-03, late): second independent adjudication ingested
-
-- The verbatim ChatGPT adjudication and its operator-elicited self-review are in
-  `docs/handoffs/results/`, with the proposer's response in `claude-response-2026-10-03.md`.
-- **All six contradicted facts are corrected,** along with the accepted analytical
-  narrowings: TD-009 wording, the Cicero sentences, recurrence vs tendency, the Lusty Loft U,
-  6.4 (a), 6.6 downgraded to candidate, and 6.7/TD-008 narrowed.
-- **Awaiting the operator:**
-  - (1) public allegation detail: complaint-level vs the reviewer's summary-level draft (the
-    proposer leans toward summary in public, full detail in HP-13);
-  - (2) "survivor" vs "claimant" wording;
-  - (3) re-review of R8 (H13), which the packet bug had dropped (the bug is fixed).
-- **Still owed from the review:**
-  - a dedicated test of "harm tracks the absence of an independent check";
-  - an audit of safeguards under the NY and CA expansions;
-  - a dated update search for HF and recovery housing;
-  - the remaining CANNOT VERIFY rows.
+  - The ICC review handoff (`docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`) is
+    **ready and unrun**.
+  - Older items are still owed from 2026-10-03: the symmetric decade test on Anthropic, a
+    second handoff for B's 2026-10-03 material, and the reviewer's self-review rounds.
+- **Custody:** no VERIFIED promotions this session. Wayback is rate-limited (429) from this
+  environment.
+- **Policy-evidence series and the survivor series:** unchanged since 2026-10-03.
 
 ## Top 3 priorities next session
 
-1. **Non-Claude review, on both lines.**
-   - Run the **symmetric decade test on Anthropic** (A). The analyst's stake makes this the
-     test most likely to be run soft.
-   - Send a second one-file handoff covering B's 2026-10-03 material: TD-009, the survivor
-     comparator, Cicero, and the Housing First file (Claude disclosed a prior lean).
-   - Capture the reviewer's self-review rounds.
-
-   *Why:* the operator distrusts Claude's self-assessment, and both sessions produced
-   findings that only Claude has checked.
-2. **Custody primaries.**
-   - A's conduct-leg rows 3, 4, 5, 8, 10;
-   - B's owed captures (the OP 2017 grant page, the Anthropic S-1, Amazon 10-Qs);
-   - the (gen.) items in the institutionalization file.
-
-   *Why:* findings are only as strong as their grade.
+1. **Run the ICC blind review (ChatGPT, then a human), then reconcile.**
+   - *Why:* the case was built in 20 minutes by the proposer alone. The film's own on-screen
+     caveat says it is not reviewed. The direction-neutrality test (Russia, the Knesset bill, a
+     genuinely captured court) is the test most likely to break the "argument vs. penalty" wall.
+2. **Capture the owed P1 items for the ICC case and promote custody.**
+   - The items: three court opinions (Rona/Furman, Albanese/Leon, Smith/D. Me.); the OFAC SDN
+     entry and the four licence texts; the NGOs' own accounts of their ICC submissions; the 2022
+     Ukraine Senate resolution; the ASP removal decision.
+   - Then add an off-platform second custodian and retry Wayback.
+   - *Why:* the neutral-court rows and form 2 (the apex) rest on S1 reports of opinions that
+     are not yet held.
 3. **Rulings and loose threads.**
-   - The operator's ruling on Entry 6.4;
-   - A's adjudication leftovers: dedupe five pairs, triage 25 CANNOT DETERMINE rows, and
-     re-read the Cluster 9 citation;
-   - a powerless-accused comparison case for the survivor comparator.
+   - Decide whether to merge the original film branch `ccr-9ccea43f-ymg1wk`.
+   - Answer who said "she won't mind," so it can be recorded with attribution.
+   - Carried from earlier sessions: the operator's ruling on Entry 6.4; the remaining
+     adjudication leftovers (dedupe, the CANNOT DETERMINE rows, the Cluster 9 citation); the
+     symmetric decade test on Anthropic, now with *Bartz* on record.
 
 ## Standing notes
 
@@ -211,3 +180,23 @@ instruction.)*
   asking the survivor.** Re-asking is a re-traumatization cost (operator). Keep classification
   vocabulary aimed at the moves, never at the person (see
   `docs/survivor-narrative-exploitation-2026-10-03.md`).
+
+### From the 2026-10-10 session
+
+- **The operator's account of their own position governs. Don't assign one.** Operator,
+  verbatim (2026-10-10): "Have no fear I don't consider it labor. I can do this and still watch
+  my stories. To think I used to have to do this [on my hand→by hand]"
+  - *Claude's operationalization (Claude's wording):* do not describe the operator's
+    corrections as labor or cost borne by them. Do not cast them in a named author's or
+    theorist's position. Conceded flat.
+- **Speaking for the dead is the move under audit.** Neither Claude nor a third party can
+  supply a dead author's consent or endorsement ("she won't mind"; "the framework already
+  agrees with her"). Quote published work freely. Record any third-party report about an
+  author's views with attribution, graded by the speaker's standing. *(Claude's rule, from the
+  Lorde specimen; operator has not ruled.)*
+- **Developer-symmetry, a newly found item.** *Bartz v. Anthropic* (piracy not fair use; $1.5B
+  settlement) was absent from the repo until 2026-10-10. It belongs in every developer-symmetry
+  table that touches conscription or Tier 2.
+- **Speed claims carry their caveat on the same screen** (film, 2026-10-10). A time-to-case
+  figure is shown with "not independently reviewed; custody not tribunal-grade; stands on the
+  protocol." *(Claude's call; operator has not objected.)*

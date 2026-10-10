@@ -1,0 +1,22 @@
+{
+  "item_id": "un-and-states-reaction",
+  "source_url": "https://news.un.org/en/story/2026/10/1168562",
+  "source_urls": [
+    "https://news.un.org/en/story/2026/10/1168562",
+    "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions",
+    "https://www.thenationalnews.com/news/us/2026/10/09/us-sanctions-entire-icc-for-first-time-in-trump-escalation/"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:13.401886Z",
+  "bears_date": "2026-10-09",
+  "grade": "P1-reported (UN News) + S1",
+  "track": "C / D",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "2b0cb4471f499ef9ecbede0ebb91b7571c009b84f6e456cf61244f148af885f6",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 6 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

@@ -1,0 +1,32 @@
+{
+  "item": "./un-and-states-reaction",
+  "captured_at": "2026-10-10T05:50:13.401886Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 6,
+  "artifacts": {
+    "news.un.org_en_story_2026_10_1168562.html": {
+      "sha256": "99bef98bd908ca9eb7cbc8d0c055d5f4a5848d0b83052650eb8171780c8b5e57",
+      "bytes": 92052
+    },
+    "news.un.org_en_story_2026_10_1168562.warc.gz": {
+      "sha256": "0632bad8c51cc77de3a5ecbf6212313eac900a6b0f254a2890913a2e33b0f6e4",
+      "bytes": 20552
+    },
+    "www.aljazeera.com_news_2026_10_9_european-states-canada-japan-and-un-back-icc-ag.html": {
+      "sha256": "ef0c8cc8ab55503bb9e9eadf829ecafad371e31d8a4eba8f717f52669275c5ec",
+      "bytes": 210914
+    },
+    "www.aljazeera.com_news_2026_10_9_european-states-canada-japan-and-un-back-icc-ag.warc.gz": {
+      "sha256": "0a860b1bef9197d14abbc33dbb00845eace4a43b3b98d88aa16d66a2243ff1dc",
+      "bytes": 63427
+    },
+    "www.thenationalnews.com_news_us_2026_10_09_us-sanctions-entire-icc-for-first-tim.html": {
+      "sha256": "537cc0892775ffc49813f9ce5d5563469437f47378e6eaa87c2b185eef9d1323",
+      "bytes": 676041
+    },
+    "www.thenationalnews.com_news_us_2026_10_09_us-sanctions-entire-icc-for-first-tim.warc.gz": {
+      "sha256": "d51ba8ebe72f587899648624e4d6bfc31538427bb3bc536f206f4f821cbf05d7",
+      "bytes": 125845
+    }
+  }
+}

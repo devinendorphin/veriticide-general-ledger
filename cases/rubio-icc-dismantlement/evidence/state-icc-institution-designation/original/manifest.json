@@ -1,0 +1,24 @@
+{
+  "item": "./state-icc-institution-designation",
+  "captured_at": "2026-10-10T05:50:06.607814Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 4,
+  "artifacts": {
+    "www.state.gov_icc-sanctions.html": {
+      "sha256": "d8590b88e491ae78af5d0c4916f1389a45f9989b767b81d617973a986b4ce8a7",
+      "bytes": 178536
+    },
+    "www.state.gov_icc-sanctions.warc.gz": {
+      "sha256": "7736ec4147633650fb2bf40a143e85bf425255fcca8d11099502274c036121a7",
+      "bytes": 39701
+    },
+    "www.state.gov_releases_office-of-the-spokesman_2026_10_imposing-sanctions-on-the.html": {
+      "sha256": "5c12f4ffcfd438dd5bfaef746b8d5ccb6b505d9cf416ff6ccb7e41f6429f28af",
+      "bytes": 177333
+    },
+    "www.state.gov_releases_office-of-the-spokesman_2026_10_imposing-sanctions-on-the.warc.gz": {
+      "sha256": "8e6d04f87efb27c7191ed8c4518f5060f01c6eeeac95a2c5d7a641046b823b01",
+      "bytes": 40829
+    }
+  }
+}

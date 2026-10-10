@@ -1,0 +1,20 @@
+{
+  "item_id": "icc-palestine-warrants-2024",
+  "source_url": "https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges",
+  "source_urls": [
+    "https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges"
+  ],
+  "capture_method": "Open-egress capture via Claude Code agent proxy: wget WARC (request+response) + response body per URL, hashed into original/manifest.json. Verbatim text extracted from the captured body into transcript.md.",
+  "captured_by": "Claude Code session (operator: Endorphin)",
+  "captured_at": "2026-10-10T05:50:18.603497Z",
+  "bears_date": "2024-11-21",
+  "grade": "P1 (ICC press release; decisions not captured)",
+  "track": "C",
+  "custody_state": "HASHED-PENDING-BACKUP",
+  "sha256_transcript": "7df85db8631241743dfd654391652bcfe6835ead3843f84c58af8e289ee9fe88",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "CAPTURED: 2 artifact(s) in original/ (manifest.json). Content checked against extracted text 2026-10-10 (not interstitials). VERIFIED requires a 2nd custodian + off-platform backup.",
+  "notes": "rubio-icc-dismantlement packet. No screenshot/PDF render; WARC + body only."
+}

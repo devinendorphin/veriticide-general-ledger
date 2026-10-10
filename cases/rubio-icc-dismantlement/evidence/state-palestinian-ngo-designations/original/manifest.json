@@ -1,0 +1,16 @@
+{
+  "item": "./state-palestinian-ngo-designations",
+  "captured_at": "2026-10-10T05:50:11.152515Z",
+  "capture_tool": "wget (WARC + response body) via Claude Code agent proxy, open egress",
+  "artifact_count": 2,
+  "artifacts": {
+    "www.state.gov_releases_office-of-the-spokesperson_2025_09_sanctioning-foreign-ng.html": {
+      "sha256": "40a09c2e238959045b54c531f7f17bc6c8f4b8f174d502b9ce4d543edf47d595",
+      "bytes": 176825
+    },
+    "www.state.gov_releases_office-of-the-spokesperson_2025_09_sanctioning-foreign-ng.warc.gz": {
+      "sha256": "63c8d2bf6aa51e0a6d2ee96a2ee1c4f943ee6a3926c07b16cfed95bc68dcee32",
+      "bytes": 40479
+    }
+  }
+}
