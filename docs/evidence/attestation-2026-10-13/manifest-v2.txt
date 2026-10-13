@@ -1,1 +1,1 @@
-19f957b10099b90cadd505cd7c4561538f8d298adffb27452a17dbf4253ac28b  docs/election-disruption-preregistration-v2-2026-10-13.md
+775d4755c0f6744f0a02683a228d996c2b8f3de282ae5ab2d545ff0f7686cdc7  docs/election-disruption-preregistration-v2-2026-10-13.md
