@@ -164,7 +164,8 @@ the election that she "had never seen before."
 and election officials repeatedly debunked claims that Starlink touched the 2024 count. His lawyer
 wrote that Starlink was not connected to vote tabulation. A source close to him called the texts
 a "three-dimensional chess metaphor" that she misunderstood. The director says the film does not
-claim that he changed votes. What the texts do establish is narrower: the owner of the largest
+claim that he changed votes. Officials have also said that Starlink did provide connectivity for electronic poll books in
+some jurisdictions. What the texts do establish is narrower: the owner of the largest
 satellite network privately tied his satellites to an election outcome, a month before that
 election.
 
@@ -192,6 +193,56 @@ election.
 - Whether any election office relied on the network in October and November 2024. This includes
   counties hit by Hurricane Helene, where satellite service was being provided at the time.
 - The same questions for 2026-11-03, asked now.
+
+## The inference: what "lasers in space" most plausibly points to
+
+*This is the analyst's inference, dated 2026-10-13. It is reasoning from public facts. It is not a
+finding.*
+
+**The question power answers is the wrong one.** The public rebuttal to the 2024 texts answers
+this question: *did satellites change the vote count?* The answer is no. Tabulators are not on
+the network, ballots are paper, and officials confirmed both. That answer is true, and it is
+aimed at the least plausible version of the suspicion. Then "space lasers" ridicule spreads from
+that version onto every other one. The plausible versions sit in the information layer around
+the vote, and the debunk does not reach them.
+
+**What the owner held in October 2024, all public:**
+- **X:** distribution, plus real-time behavioural data on tens of millions of U.S. users.
+- **America PAC's petition:** registered swing-state voters' names and contact details, gathered
+  with a $47 referral payment announced on 2024-10-07 (some reports put it on the 6th).
+- **Starlink:** connectivity, including electronic poll books in some jurisdictions, and service
+  in hurricane-hit western North Carolina.
+
+By 2026, X, Grok and Starlink sit inside one company, SpaceX. Separately, the film's producers say
+the federal data DOGE accessed was "given to a third party," and that its fate is unknown.
+
+**Four hypotheses, graded:**
+
+| | Hypothesis | Grade | What would support it | What would weaken it |
+|---|---|---|---|---|
+| **H1** | **A closed loop of measurement and steering.** Voter data from the petition is matched to platform accounts. That gives a private, real-time picture of swing-state voters that polls cannot see, which is "the anomaly in the matrix." The same people are then steered through ranking, the owner's own reach, canvassing and cash giveaways. The loop's measurements would also explain the "degree of certainty." | **Plausible.** Every part was publicly in place. Whether the parts were joined is unknown. | Any data sharing or matching between the PAC and X. Ranking or reach changes aimed at swing-state users. Vendor contracts for modelling. | Records showing the petition data stayed with the PAC and was never matched to platform data. No ranking changes. |
+| **H2** | **The satellite network as an instrument.** Connectivity given or withheld where it matters, as in disaster zones. Or visibility of traffic in places where poll books run over the network. | **Possible, small in scale.** | Which jurisdictions ran poll books over the network. What traffic data the operator can see and use. Service changes in specific areas around election dates. | No jurisdiction dependent on it in contested areas. No area-specific changes. |
+| **H3** | **Satellites altered vote counts.** | **Implausible.** Tabulation is offline and on paper, and officials have confirmed this. | — | Already contradicted by the record. |
+| **H4** | **Bravado or metaphor**, which was his side's account ("three-dimensional chess"). | **Live.** It is the null hypothesis. | No data joins, no steering, no area-specific changes found. | Evidence for H1 or H2. |
+
+**The "tomorrow" in the text and the petition launch fall on adjacent days.** No source connects
+them. They are offered here as a line of inquiry, not as a link.
+
+**Pre-registered signatures for 2026-11-03.** If an H1-type loop runs this cycle, expect some of
+the following:
+- (a) a data drive tied to the owner that collects verified voter identities in contested
+  districts;
+- (b) platform or AI features that ask users about their voting status, registration or location
+  in targeted states;
+- (c) public statements of unusual certainty from the owner before the result;
+- (d) gaps in reach for election content that line up with electoral geography.
+
+If none of these appear, H1 is weaker for 2026. That will be recorded as well.
+
+**A warning about fabricated evidence.** On 2026-10-09 Snopes debunked a fabricated screenshot of
+a Musk post about a midterm "plan." Fabrications like that get debunked, and the debunk is then
+used to ridicule every suspicion, including the reasonable ones. Do not pass on screenshots you
+cannot trace to their source. Preserve the source, the time and the link.
 
 ---
 
@@ -250,7 +301,10 @@ Precedents in Scenarios 1–5 are summarised from the analyst's prior knowledge 
 re-checked for this version. Scenario 6 rests on NPR's reporting (npr.org, 2026-09-10 and
 2026-09-11; 2026-10-07). This session located that reporting through search and through
 HuffPost's account of it. NPR's own pages could not be fetched (HTTP 503), so the quotes above
-should be checked against NPR's text before anyone relies on them. That satellite service was
+should be checked against NPR's text before anyone relies on them. The inference section rests
+on reporting located this session: the petition date (Loyola compliance blog; NBC); the poll-book
+connectivity (AP fact check, via search summary); the SpaceX–xAI merger (secondary reporting); the
+statements from the film's producers (HuffPost, 2026-10-10); and Snopes, 2026-10-09. That satellite service was
 being provided in Helene-hit counties in October 2024 is from the analyst's prior knowledge.
 
 ## Developer-symmetry check

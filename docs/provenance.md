@@ -665,3 +665,10 @@ included, and the developer-symmetry lint passes. Sources are search-located, no
   record does not show: no vote shown changed, tabulation is offline, and the director says no
   such claim is made. NPR's pages could not be fetched this session (HTTP 503), so the quotes are
   marked for checking. Developer-symmetry check added. The v2 stamp was regenerated.
+- Same day, before merge: v2 gains **"The inference."** It is the operator's actual aim: to infer,
+  ahead of the event, a mechanism from technologies the public does not know, so that reasonable
+  suspicion cannot later be ridiculed. It holds four graded hypotheses for the 2024 texts: H1, a
+  closed loop of measurement and steering (plausible); H2, the satellite network as an instrument
+  (possible); H3, altered counts (implausible); and H4, bravado (the null). It names pre-registered
+  signatures for 2026 and gives a warning about fabricated evidence. The facts were discovered by
+  search this session rather than chosen beforehand. The v2 stamp was regenerated.
