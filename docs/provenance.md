@@ -616,3 +616,21 @@ included, and the developer-symmetry lint passes. Sources are search-located, no
   coverage, and the Kramer civil default judgment. The Scenario 4 tech link is struck and named as
   a missing evidentiary step. The pretext loop no longer suppresses warnings. v1 is kept as filed,
   and its hash still verifies. v1.1 is stamped separately (`manifest-v1.1.txt.ots`, PENDING).
+- Same day: **v1.2**, `docs/election-disruption-preregistration-v1.2-2026-10-13.md`. The operator
+  asked whether the instrument would detect actors who work outside company procedure, through
+  informal intermediaries. As v1.1 was written, it mostly would not: its attribution falsifiers
+  treated clean change records as evidence against, and an actor working outside procedure passes
+  those automatically. The changes:
+  - **Off-procedure action** is now a decision rule. A measured effect that no record explains is
+    a finding. Only an independent, verified alternative cause counts against attribution.
+  - **Capture, not coordination**, recording the operator's correction of the analyst's
+    in-conversation error. Bad faith has a small set of shapes; coordination does not. Bad faith
+    recruits more capable, sincere people, and its shapes show in the brief, not in the
+    execution.
+  - **Scenario 6**, the commissioned network, which is off-platform.
+  - A **guardrail on the payment chain**: intermediaries are instruments, not suspects.
+
+  Two rows were added to the notify table, and a developer-symmetry row. On that row, Claude is
+  the capable entity the capture section describes. A matching note was added to
+  `READINGS.md` §X in the dextromethorphan archive. v1 and v1.1 are kept as filed. v1.2 is stamped
+  (`manifest-v1.2.txt.ots`, PENDING).
