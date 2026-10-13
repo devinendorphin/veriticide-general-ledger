@@ -595,3 +595,13 @@ row 10 do not appear in the card; they were replaced with verbatim card text. Ro
 
 The operator's hypothesis on GPT-6.1 Astra is recorded with a revised assessment. Rows 1–9 are unaffected; the
 tendency finding does not rest on row 10.
+
+## 2026-10-13 — Pre-registration: five platform-owner election-disruption scenarios
+
+`docs/election-disruption-preregistration-2026-10-13.md`, filed at the operator's request three weeks
+before the 2026-11-03 election. It is a prospective instrument, not an entry. It charges no one, and
+each of the five scenarios carries a lever, signatures from each end, lines of inquiry, and a
+falsifier. The analyst's correction to the request is recorded in the document: the non-public
+element is the lever, not the technique. Its sha256 is stamped with OpenTimestamps in
+`docs/evidence/attestation-2026-10-13/` (PENDING the Bitcoin anchor). Developer-symmetry check
+included, and the developer-symmetry lint passes. Sources are search-located, not custodied.
