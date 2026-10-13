@@ -651,10 +651,10 @@ included, and the developer-symmetry lint passes. Sources are search-located, no
   cloning, AI-generated paper floods, purchased location data). Each scenario covers the method,
   described without enabling it, what each side sees, lines of inquiry, who to notify, and
   prevention. Stamped (`manifest-v2.txt.ots`, PENDING).
-- Same day, before merge: v2 amended in place to add **Scenario 6, editing what the AI knows**. The
-  operator flagged it as omitted ("Musks verified tweets to an ex" `[?to an ex→on X]`). It is built
-  on the owner's own posts of 2025-06-18 and 2025-06-21 (verified 2026-08-16) and on the October
-  2025 launch of Grokipedia. A developer-symmetry check was added. The v2 stamp was regenerated over
-  the amended file. Separately, the `READINGS.md` note mentioned in the v1.2 and v1.3 entries above
-  was **removed before merge at the operator's instruction** ("don't mix things into my repos"),
-  so nothing from this work was added to the dextromethorphan archive.
+- Same day, before merge: a Scenario 6 ("editing what the AI knows") was added to v2 and then
+  **withdrawn**. The analyst built it on its own rewrite of the operator's typed words ("Musks
+  verified tweets to an ex"), which it wrongly treated as a dictation error. The operator replied:
+  "No. I typed what I said". v2 and its stamp are restored to the earlier state (`1e31357`).
+  Separately, the `READINGS.md` note mentioned in the v1.2 and v1.3 entries above was **removed
+  before merge at the operator's instruction** ("don't mix things into my repos"), so nothing from
+  this work was added to the dextromethorphan archive.
