@@ -644,3 +644,10 @@ included, and the developer-symmetry lint passes. Sources are search-located, no
   scenario. In the dextromethorphan archive, the `READINGS.md` §X note was cut back to what was
   said, removing the link to the monstrous-hybrid thesis and the general advice. v1.3 is stamped
   (`manifest-v1.3.txt.ots`, PENDING). v1.2 is kept as filed.
+- Same day: **v2**, `docs/election-disruption-preregistration-v2-2026-10-13.md`, written at the
+  operator's instruction ("Get back to basics"). It replaces v1–v1.3 for use; they stay as filed.
+  It answers the request as it was asked: five scenarios built on technology the general
+  population does not know about (persona fleets, ad-delivery engines, live voice and face
+  cloning, AI-generated paper floods, purchased location data). Each scenario covers the method,
+  described without enabling it, what each side sees, lines of inquiry, who to notify, and
+  prevention. Stamped (`manifest-v2.txt.ots`, PENDING).

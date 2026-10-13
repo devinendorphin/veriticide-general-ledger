@@ -10,6 +10,7 @@ Fixes the bytes of `docs/election-disruption-preregistration-2026-10-13.md` (v1,
 | `manifest-v1.1.txt` / `.ots` | sha256 of v1.1 (`docs/election-disruption-preregistration-v1.1-2026-10-13.md`), the revision after external review; OpenTimestamps proof submitted 2026-10-13 | **PENDING** Bitcoin anchor | same as above, for `manifest-v1.1.txt.ots` |
 | `manifest-v1.2.txt` / `.ots` | sha256 of v1.2 (`docs/election-disruption-preregistration-v1.2-2026-10-13.md`), which adds the off-procedure rule, capture, and Scenario 6; OpenTimestamps proof submitted 2026-10-13 | **PENDING** Bitcoin anchor | `ots upgrade manifest-v1.2.txt.ots`, then `ots verify` |
 | `manifest-v1.3.txt` / `.ots` | sha256 of v1.3 (`docs/election-disruption-preregistration-v1.3-2026-10-13.md`), which is v1.1 plus Scenario 6 and supersedes v1.2; OpenTimestamps proof submitted 2026-10-13 | **PENDING** Bitcoin anchor | `ots upgrade manifest-v1.3.txt.ots`, then `ots verify` |
+| `manifest-v2.txt` / `.ots` | sha256 of v2 (`docs/election-disruption-preregistration-v2-2026-10-13.md`), the current version; OpenTimestamps proof submitted 2026-10-13 | **PENDING** Bitcoin anchor | `ots upgrade manifest-v2.txt.ots`, then `ots verify` |
 | Git push | GitHub's server-side push record for the commit that adds this directory | recorded on push | the repo's activity / branch history |
 
 **Does:** once the proof upgrades, it shows the pre-registration's exact text existed no later than
