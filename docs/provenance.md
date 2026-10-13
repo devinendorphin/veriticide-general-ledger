@@ -634,3 +634,13 @@ included, and the developer-symmetry lint passes. Sources are search-located, no
   the capable entity the capture section describes. A matching note was added to
   `READINGS.md` §X in the dextromethorphan archive. v1 and v1.1 are kept as filed. v1.2 is stamped
   (`manifest-v1.2.txt.ots`, PENDING).
+- Same day: **v1.3**, `docs/election-disruption-preregistration-v1.3-2026-10-13.md`. It is v1.1
+  plus Scenario 6, and it **withdraws v1.2 for use**. v1.2 took findings from one question
+  (capture, and action outside procedure, both raised about informal intermediaries) and wrote
+  them into every scenario and into the global decision rules, without a showing for any of them.
+  The operator named this as the error (verbatim in `sessions/LATEST.md`, standing notes). In v1.3
+  those findings sit inside Scenario 6 only. The decision rules and Scenarios 1–5 match v1.1 word
+  for word. Whether the findings bear on each of Scenarios 1–5 is listed as untested, scenario by
+  scenario. In the dextromethorphan archive, the `READINGS.md` §X note was cut back to what was
+  said, removing the link to the monstrous-hybrid thesis and the general advice. v1.3 is stamped
+  (`manifest-v1.3.txt.ots`, PENDING). v1.2 is kept as filed.

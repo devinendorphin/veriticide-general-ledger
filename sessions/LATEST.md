@@ -61,6 +61,9 @@ kept as written.)*
 - Endorphin, verbatim (2026-10-03): "Anything that you're saying is supposedly in my words do not smuggle your wording in after it."
   - *Claude's operationalization (Claude's wording):* quote verbatim, in full, with no ellipsis. Mark any dictation repair inside a quote as `[original→repair]`. Put any gloss on its own labeled line, never in the same sentence or bullet as the quote.
 
+- Endorphin, verbatim (2026-10-13): "I need you to not take one finding one thing and then apply to the all the other things that is not epistemically hygienic and that runs the risk of subjecting any framework to such convoluted tasking that it paralyzes any effort to try to neutralize future harm"
+  - *Claude's operationalization (Claude's wording):* a finding stays where it was shown. Carrying it to another scenario, case or document needs a showing specific to that item. Until then, the carry-over is listed as untested and not written in. Earned by pre-registration v1.2, which wrote one question's findings into all six scenarios and was withdrawn the same day.
+
 ### From session B
 
 *(This section persists across regenerations. Never delete a note without explicit
