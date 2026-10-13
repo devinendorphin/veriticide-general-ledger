@@ -658,3 +658,10 @@ included, and the developer-symmetry lint passes. Sources are search-located, no
   Separately, the `READINGS.md` note mentioned in the v1.2 and v1.3 entries above was **removed
   before merge at the operator's instruction** ("don't mix things into my repos"), so nothing from
   this work was added to the dextromethorphan archive.
+- Same day, before merge: v2 amended to add **Scenario 6, the satellite network**. It is built on
+  the event the operator named ("NPR verified tweets to an ex"): the text messages Musk sent
+  Ashley St. Clair on 2024-10-06 ("unleash the anomaly in the matrix"; "over 10 thousand lasers in
+  space right now"), which NPR reports it obtained and authenticated. The scenario states what the
+  record does not show: no vote shown changed, tabulation is offline, and the director says no
+  such claim is made. NPR's pages could not be fetched this session (HTTP 503), so the quotes are
+  marked for checking. Developer-symmetry check added. The v2 stamp was regenerated.
