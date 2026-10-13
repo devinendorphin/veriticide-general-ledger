@@ -605,3 +605,14 @@ falsifier. The analyst's correction to the request is recorded in the document: 
 element is the lever, not the technique. Its sha256 is stamped with OpenTimestamps in
 `docs/evidence/attestation-2026-10-13/` (PENDING the Bitcoin anchor). Developer-symmetry check
 included, and the developer-symmetry lint passes. Sources are search-located, not custodied.
+- Same day: **v1.1** after an external review by ChatGPT, captured verbatim with dispositions in
+  `docs/external-review-2026-10-13-chatgpt-election-preregistration.md`. All seven findings were
+  adopted. The changes: the paper reassurance is withdrawn; the falsifiers are split into
+  evidence-against-mechanism and evidence-against-attribution; decision rules are added (three
+  outcomes, detection power, baselines set before the election); chatbot probes are scored on the
+  first answer and on the destination; the questions of harm, mechanism, authorization and
+  coordination are separated, with harm leading straight to protective action. Facts were corrected
+  on the 2024 letter (candidate ballot-access deadlines), the SAVE stay, the NVRA exceptions and
+  coverage, and the Kramer civil default judgment. The Scenario 4 tech link is struck and named as
+  a missing evidentiary step. The pretext loop no longer suppresses warnings. v1 is kept as filed,
+  and its hash still verifies. v1.1 is stamped separately (`manifest-v1.1.txt.ots`, PENDING).
