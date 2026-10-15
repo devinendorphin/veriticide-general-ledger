@@ -1,0 +1,10 @@
+# Secret-scan config: gitleaks defaults, plus one allowlisted path.
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Archived third-party web pages"
+# Evidence captures are verbatim copies of other sites' pages; the
+# public client-side keys embedded in them (reCAPTCHA site keys,
+# browser analytics licenses, theme tokens) are not this repo's secrets.
+paths = ['''^cases/.+/evidence/.+/original/''']
