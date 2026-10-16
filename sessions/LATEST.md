@@ -1,4 +1,26 @@
-# LATEST: continuity seed (2026-10-10)
+# LATEST: continuity seed (2026-10-10; addendum 2026-10-16)
+
+## Addendum 2026-10-16: Annie Altman transfer
+
+- An Annie Altman session (2026-10-15/16) was filed by mistake in `claude-at-claude`. It has been
+  moved to `sessions/2026-10-16-annie-altman-sources.md`, verbatim, under a provenance header
+  (**U-DIRECTED**) that lists what the 2026-10-16 docket re-check corrected. The hub keeps a
+  pointer stub.
+- Converted into **TD-009 Addendum 2026-10-16** (`ledger/ledger.md`):
+  - the consent record (C1–C5), with the candidate "consent inversion";
+  - withdrawals, H14, the 2021 therapy records, and Hydrazine (D1–D4);
+  - cross-track candidates and a candidate sixth reflexive specimen (D5–D6), all pending the
+    operator.
+- **Next, in order:**
+  1. Re-check the docket for Docs 147 ("Appoint Counsel") and 148 ("Extension"), both filed 16
+     Oct and not yet in RECAP, and for whether the IME (deadline 16 Oct) happened. The status
+     conference on Perez's withdrawal is 20 Oct, 2 pm. Discovery closes 23 Oct.
+  2. Confirm the gloss on the operator's 16 Oct sentence ("explicit [?describing→denying] of
+     consent ... being [?cost→crossed] by the alleged"). C1–C4 rest on that reading.
+  3. Capture the protective order (ECF 28) at P1 and test both parties' readings of ¶¶5, 8(b), 19.
+  4. Operator rulings: D5 (file the ChatGPT screenshots under Cluster 7 / Entry 17?) and D6
+     (write up the sixth reflexive specimen?). Route the addendum to a non-proposer (Priority 32).
+
 
 **Last session:** `sessions/2026-10-10-rubio-icc-case.md`, branch `ccr-e2c0b0ed-iwdzve`, merged to
 main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.

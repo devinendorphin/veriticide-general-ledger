@@ -7785,6 +7785,8 @@ The foreseeability structure here is distinct from TC-001 (where Rubio's denial 
     (expired 2008), but allowed her to proceed under Missouri's child-sexual-abuse statute.
   - Apr 2026: she refiled under that statute.
   - Her attorneys **moved to withdraw** (Reuters); the order granting withdrawal was not retrieved.
+    *[Superseded 2026-10-16 from P1: granted at the 22 May 2026 status conference. A third
+    counsel moved to withdraw on 13 Oct 2026. See Addendum 2026-10-16, item D1.]*
 - **The diamond, the operator's core detail, from her own account** (S1 relay of P2):
   - In **June 2020**, while she was work-trading on a rural farm in financial precarity, Sam
     messaged her for her address to send a **memorial diamond made from some of their
@@ -7954,6 +7956,202 @@ denied.)*
 *Convention element:* Art. II(2)(d), candidate, at household scale.
 *Listening note:* consistent with the operator's instruction, her account is recorded first, in
 her terms, and is not pre-filtered through the response to it.
+
+#### TD-009 Addendum 2026-10-16: the docket record, and consent over her own account
+
+*Operator-directed: the 2026-10-15/16 session was filed by mistake in the hub repo and has been
+moved here for conversion (`sessions/2026-10-16-annie-altman-sources.md`, graded **U-DIRECTED**).
+The operator's reason for the update, verbatim: "I'm seeing items that suggesting explicit
+describing of consent in regards to Annie's account that are currently being cost by the
+alleged."*
+*Gloss (Claude's reading, unconfirmed): "explicit [?describing→denying] of consent ... being
+[?cost→crossed] by the alleged [abuser]." On that reading the items are C1–C4 below.*
+
+**Sources.** P1 = filings and docket text in *Altman v. Altman*, 4:25-cv-00017-ZMB (E.D. Mo.),
+read 2026-10-16 from the CourtListener RECAP mirror (Docs 92–148), plus Form ADV 332160 (SEC
+IAPD). S1 = her own public posts and GoFundMe, as read in the imported session. Every party
+position below is **that party's claim in its own filing**. Court orders are the only findings.
+
+**Testimony first** (her public account, as of the imported session): a 13 Oct 2026 collaborative
+carousel titled "ANN ALTMAN IS BEING SILENCED" petitions for release of her full deposition. Her
+GoFundMe (created 18 Jun 2026) says: "I was fired by previous counsel after my insistence that the
+trust needed the full information about Hydrazine." (S1.)
+
+**C. The consent record.** The question in each item is who controls the disclosure of her
+account and her medical information: she does, or the party she accuses does.
+
+- **C1. Her account, held in at the defendant's designation.** (P1: Doc 105, joint motion, 17 Sep
+  2026.)
+  - *Her position:* on 29 Aug 2026 "defendants designated plaintiff's deposition testimony, as
+    well as her answers to interrogatories and initial disclosures, as CONFIDENTIAL, which plaintiff
+    disputes." She cites protective-order ¶19 (a party "may use or disclose her 'own Discovery
+    Material'") and ¶5 (only a "Producing Party" designates). She calls the designation "a
+    continuation of defendant's modus operandi of controlling and silencing plaintiff — for
+    economic benefit." Pending a ¶16 challenge, the material stays CONFIDENTIAL.
+  - *His position:* the protective order lets the defense designate deposition passages (¶8(b)).
+    The passages "concern deeply personal and sensitive allegations that Mr. Altman denies," which
+    are "personal…information" under ¶5, and their disclosure "could cause reputational…harm."
+    In the alternative, he argues good cause to modify the order.
+  - *Related:* her counsel posted the first 42 minutes of the deposition on YouTube. The defense
+    filed it as an exhibit (Doc 126, Ex. B) in support of dismissal (imported session).
+  - *The protective order itself* was a **consent** motion by the defendant (filed 28 Apr 2025),
+    entered 30 Apr 2025 as ECF 28. Her prior counsel agreed to it.
+  - *Status:* **U.** The 2 Oct minute entry says the "five remaining discovery issues, see Docs.
+    105, 107-1 ... were effectively uncontested, as discussed on the record." That does not say
+    which way the designation went. The hearing transcript (Doc 137) is restricted until 5 Jan
+    2027.
+- **C2. Her medical confidences, put out in the defendant's filing.** (P1: Docs 97, 100, 101,
+  104, 105, 133.)
+  - *Her position:* the defense made an "unlawful disclosure of her private medical confidences on
+    September 10, 2026." Her IME statements were "confidential pursuant to ¶8(d)," and the
+    defense "themselves had classified her deposition and interrogatories as confidential – which
+    include her medical records." She says the disclosure triggered "severe acute physical
+    symptoms," a physician visit on 15 Sep, and her missed IME.
+  - *His position:* the material reached the defense "late yesterday evening" (9 Sep). It was
+    filed to show that her request to limit the IME was "disingenuous, seriously misleading" and
+    suggested "a lack of candor to the Court."
+  - *Observed by the analyst:* Doc 97 (Defendant's Notice, 10 Sep) is still served by the RECAP
+    mirror. The redacted refiling, Doc 100 (11 Sep), removes a block of about 12 words that Doc 97
+    contains, and a "Notice Regarding Plaintiff's Request to Seal" followed (Doc 101). **The
+    removed words were not read into this record and are not reproduced** (her medical details are
+    excluded, as is everything else she has not chosen to publish).
+  - *Whether the 10 Sep filing breached ¶8(d):* **U.** No ruling was found.
+  - *Use made of it:* on 14 Sep the court denied her request to limit the IME (Doc 104). It cited
+    her failure "to dispute his claim that she has invoked additional mental conditions." It also
+    said it would have denied the request regardless.
+- **C3. The scope of the examination.** (P1: Docs 92, 100, 104, 132.)
+  - She asked that the Rule 35 IME by the defense's expert be confined to PTSD. This was denied
+    on 14 Sep and again on 2 Oct.
+  - The court found her failure to attend "knowing." It ordered an in-person IME by 16 Oct, "conducted
+    by Sam's expert, but with a female medical professional present and Annie allowed to knit for
+    her comfort." Her counsel agreed on the record that a miss means dismissal with prejudice.
+  - *The actor here is the court, applying Rule 35.* It is not logged as the defendant's
+    conduct; it sets the stakes for C2.
+- **C4. Authorizations.** (P1: Doc 133, unsealed 2 Oct.)
+  - The defense seeks records authorizations for further therapy providers and for her
+    elementary-school records. It argues that her deposition testimony put them at issue.
+  - Her side says she "has not refused" the school authorization outright and calls it overbroad.
+    It asks for "a reasonable accommodation, e.g. time to recover, before signing yet another
+    authorization which targets her privacy – having previously signed dozens." It states: "It is
+    my understanding that a subpoena has been served on the school district without the
+    authorization." (Counsel's understanding; **U**.)
+- **C5. Correction to the imported session.** Doc 138, cited there as her own sealing request,
+  sought to seal **Defendant's** information (Doc 142). It was granted "for the reasons stated in
+  Defendant Sam Altman's Response, Doc. 144", which is itself sealed (Doc 146). Both sides have
+  sealed heavily (Docs 90, 93, 106, 112, 118, 127). The court: "the parties have filed far too much
+  under seal." The imported inference ("she wants her account out, but not everything out")
+  therefore no longer rests on 138. It rests on 90 and 118, whose contents are sealed. **U.**
+
+**Candidate structure: the consent inversion** *(proposer's reading; candidate, not a finding)*.
+Across C1 and C2, control runs opposite to her stated wishes at both ends:
+- what she asks to have out (her own account, which she is petitioning publicly to release) is
+  held in at the designation of the party she accuses, on the ground that it is her "personal"
+  information;
+- what she asked to have held (her IME statements, under ¶8(d)) went out on the public docket in
+  that party's filing, and was used to impeach her candour.
+
+This is the **reversed causal arrow** (above) carried into procedure. Her mental-health record is
+the injury she claims, and it is also the instrument against her credibility. The disclosure of
+that record now runs on the accused party's terms, not hers.
+
+| Field | Content |
+|---|---|
+| **Suppression type (candidate)** | **Withholding** (C1: her own testimony held CONFIDENTIAL against her objection). **Encoded dismissal / disqualification** (C2: medical confidences filed to establish "lack of candor"). Purpose **U** for both |
+| **Actor & power** | Defendant and his counsel (eight attorneys of record across three firms, all still appearing), with designation power under a protective order her prior counsel consented to. She has had seven lawyers across three firms (imported session), with three withdrawal motions |
+| **What it suppressed (candidate)** | Her control over the public form of her own account. Her consent, both to its release and to the privacy of her medical information |
+| **Gap** | (1) The designation ruling (Doc 137 transcript, restricted to 5 Jan 2027). (2) Any ruling on whether Doc 97 breached ¶8(d). (3) Docs 147 and 148 (16 Oct), not yet in RECAP, and whether the IME happened. (4) Doc 144's reasons (sealed). (5) The protective order text (Doc 28) at P1, held here, to test both readings of ¶¶5, 8(b), 19 |
+
+**ADVERSARIAL CHECK** *(proposer-adjudicated; pending a non-proposer, Priority 32)*
+- **Strongest innocent reading:**
+  - Protective orders routinely let either side designate sensitive testimony. Designating
+    abuse allegations as confidential can protect the plaintiff as well as the defendant. The
+    defense's ¶8(b) reading is a live legal argument.
+  - The 10 Sep filing was made the day after receipt, and the redacted version came the next
+    day. That is consistent with a hurried redaction failure, not a deliberate disclosure.
+  - A plaintiff who claims mental injury submits to examination of it. The court, not the
+    defendant, ordered the IME, granted accommodations, and found her non-attendance knowing.
+  - She has missed deadlines on the court's own findings (Docs 124, 132).
+- **Outcome:**
+  - On **intent: CANNOT BE DETERMINED.**
+  - On **whether ¶8(d) or ¶19 was breached:** for the court; **U** here.
+  - On **the form, the innocent reading does not dissolve it.** Each act may be lawful and
+    routine. The *combination* still holds, as P1 shows it: the accused party controls the
+    release of her account in one direction, and her medical confidences went the other way in
+    its filing. That is the item. A tribunal decides whether it was wrongful.
+
+**D. Other material converted from the imported session**
+- **D1. Withdrawals** (P1: Docs 57, 58, 143, 145; minute entry of 22 May 2026).
+  - Mahoney and Simon withdrew citing "general breakdown in the attorney-client relationship."
+    This was granted on 22 May, when she told the court she preferred to proceed pro se.
+  - Perez (13 Oct) cites trust breakdown, "professional disagreements," interference by personal
+    counsel, and an unpaid cost advance. He is ordered to continue until the 20 Oct status
+    conference "given the potential 'material adverse effect' that the loss of counsel could have
+    for Annie."
+  - Her account (S1): she was fired for insisting on the Hydrazine information.
+  - No filing cites outside pressure, and none was found. Under the symmetric burden, this is
+    **U**, not absent.
+- **D2. Operator hypothesis H14** (stated in the operator's form, verbatim): "No one standing in
+  their trurth needs so many lawyers."
+  - *Status:* UNVERIFIED. The proposer disagreed in-session: lawyer count tracks resources and
+    stakes. Not resolved.
+  - *Data now on record (P1 signature blocks):* the defense has eight attorneys of record across
+    three firms, with no turnover. Hers came serially, with withdrawals. The contrast in the
+    record is **stability against attrition**, not headcount.
+  - *Upgrades if* the defense's staffing or discovery tempo is shown to be aimed at exhausting
+    an under-resourced plaintiff (attrition), for example through motions whose relief is
+    exhaustion rather than information.
+  - *Downgrades if* the defense's volume is shown to be proportionate to her filings and to the
+    discovery failures the court has found.
+  - *Adjacent P1 point:* the counterclaim seeks $1, "as Sam Altman does not want to harm his sister
+    financially but does want a verdict in his favor that the statements by Plaintiff are not
+    true" (Docs 18, 73, per the imported session). That supports an inference about his **goal** (a public falsity verdict), not
+    about the underlying allegations.
+- **D3. Withholding candidate: the 2021 therapy records** (P1: Docs 105, 140).
+  - *Her position:* a five-year-old text message produced on 26 Aug 2026 references "'sexual
+    assault' therapy by Mr. Altman." The therapist was not identified until 14 Sep, and the
+    records "no longer existed, although applicable record-retention laws mandated retention until
+    2028."
+  - *His position:* she has known of the session since August 2021. He agreed to be questioned
+    about it, and the provider will declare that he holds no notes "pursuant to his record
+    retention practices."
+  - *Status:* what the text refers to is **U**. The retention-law claim is hers, and **U**.
+- **D4. Hydrazine** (P1: Form ADV, 25 Mar 2026). Sam Altman owns 75% or more of Hydrazine
+  Capital Management. It has seven Delaware funds, about $1.95B gross combined (vehicles may
+  overlap), and lists no portfolio holdings. The public record therefore cannot confirm the trust
+  petition's "Hydrazine owns OpenAI shares" (¶24), and it answers none of that petition's record
+  requests directly.
+- **D5. Cross-track candidates, not filed** (operator ruling needed):
+  - The ChatGPT 3.5/4 screenshots in her 2024 reel (S1) deny she is Sam's sibling and invent a
+    harmless biography. This is a candidate Cluster 7 / Entry 17 (performed ignorance) item.
+  - The imported session's "court filings as training data" point now has a concrete instance in
+    C2: a filing her side calls an unlawful disclosure persists in a public mirror. That is
+    observed effect; intent is **U**.
+- **D6. Reflexive record.** The imported session logs seven proposer errors. Five ran toward the
+  more powerful party:
+  - a false "knowledge gap *or* suppression" binary;
+  - asymmetric caveats;
+  - attribution-checks called "source checks";
+  - his filings presented as neutral context;
+  - the withdrawals first answered from the lawyers' filings alone.
+
+  Each was found on the operator's prompt. Candidate **sixth reflexive specimen**, same
+  direction as the five on record (Pattern Registry Entry 8). It is not yet written up as a
+  `docs/reflexive-specimen-*` file.
+
+**BOUNDARY**
+- *Establishes:* from the docket, the defense designated her deposition and discovery answers
+  CONFIDENTIAL over her objection. A defense filing she calls an unlawful disclosure of her
+  medical confidences was replaced the next day by a redacted version, and the original is still
+  publicly mirrored. Her request to limit the IME was denied, partly on that filing's contents.
+  The form recorded above (the consent inversion) is present in the record.
+- *Does NOT establish:* that any designation or filing breached the protective order; that
+  anything was done with retaliatory or silencing intent; that the IME order was improper; or
+  anything about the truth of the underlying allegations, which are denied and unadjudicated.
+  This is one case. The consent inversion becomes a pattern only if the same form recurs across
+  survivor litigation against powerful defendants (`docs/survivor-comparator-2026-10-03.md`
+  is the place to test it).
+- *Step one, not step two:* this supports a basis to ask for the designation ruling, the ¶8(d)
+  question, and the 2021 records' retention to be examined. It finds nothing.
 
 ---
 
