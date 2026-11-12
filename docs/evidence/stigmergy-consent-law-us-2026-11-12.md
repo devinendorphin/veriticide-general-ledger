@@ -603,22 +603,22 @@ and marked. The printed page number is not visible, so p. 2391 (relayed) is not 
 > 6. "Mentally incapacitated" means that a person is [rendered] temporarily incapable of appraising or
 > controlling his [conduct] owing to the influence of a narcotic or intoxicating s[ubstance] administered to
 > him without his consent, or to any other ac[t commit]ted upon him without his consent.
-> 7. "Physically helpless" means that a person is uncon[scious or] for any other reason is physically unable
-> to communicate u[nwilling]ness to an act.
-> 8. "Forcible compulsion" means physical force that [overcomes] **earnest resistance**; or a threat, express
-> or implied, that [places a] person in fear of immediate death or serious physical i[njury to] himself or
-> another person, or in fear that he or another pe[rson will] immediately be kidnapped.
+> 7. "Physically helpless" means that a person is unconscious or for any other reason is physically unable
+> to communicate unwillingness to an act.
+> 8. "Forcible compulsion" means physical force that overcomes **earnest resistance**; or a threat, express
+> or implied, that places a person in fear of immediate death or serious physical injury to himself or
+> another person, or in fear that he or another person will immediately be kidnapped.
 
 **§130.05 Sex offenses; lack of consent (as printed):**
-> 1. Whether or not specifically stated, it is an element [of every] offense defined in this article that the
-> sexual act was c[ommitted] without consent of the victim.
+> 1. Whether or not specifically stated, it is an element of every offense defined in this article that the
+> sexual act was committed without consent of the victim.
 > 2. **Lack of consent results from:**
 > (a) Forcible compulsion; or
 > (b) Incapacity to consent; or
-> (c) Where the offense charged is sexual abuse, an[y circum]stances, in addition to forcible compulsion or
-> inca[pacity to] consent, in which the victim does not expressly or [impliedly] acquiesce in the actor's
+> (c) Where the offense charged is sexual abuse, any circumstances, in addition to forcible compulsion or
+> incapacity to consent, in which the victim does not expressly or impliedly acquiesce in the actor's
 > conduct.
-> 3. A person is deemed incapable of consent when he i[s]
+> 3. A person is deemed incapable of consent when he is:
 > (a) less than seventeen years old; or
 > (b) mentally defective; or
 > (c) mentally incapacitated; or
@@ -631,8 +631,15 @@ required, except for sexual abuse in the third degree), and the opening of §130
 compulsion", "physically helpless", "mentally defective", "mentally incapacitated") are in the 1965
 enactment. The relayed claims in the last step are confirmed `[ESTABLISHED]`.
 
+
+**Update, same day: full-width image.** The operator supplied the uncropped HathiTrust view (scan #589,
+p. 2391; "Digitized by Google · Original from New York Public Library"), saved as
+`sources/ny-laws-1965-ch1030-p2391-full.jpg` (hashed). Every bracketed completion above was confirmed and
+the brackets in §130.00(7)–(8) and §130.05 have been removed. The relayed page citation (L.1965 c.1030,
+p. 2391) is confirmed. §130.00(5)–(6) are only partly visible in this view, so the brackets there remain.
+
 **New for Test 3, the burden-shifting lineage.** New York's 1965 "forcible compulsion" meant "physical
-force that [overcomes] **earnest resistance**". So the New York root itself carried a resistance requirement.
+force that overcomes **earnest resistance**". So the New York root itself carried a resistance requirement.
 - Washington's current "physical force which overcomes resistance" is that definition with "earnest" dropped.
   The burden-shifting element traveled down the New York family, and Washington still carries a reduced form.
 - New York's current definition ("to compel by either: a. use of physical force…") no longer has it. Oregon
