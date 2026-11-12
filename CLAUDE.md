@@ -18,8 +18,11 @@ capture and protocol-grade analysis of institutional harm laundering. The delive
   does *not* establish alone. A single item is an instance; pattern is the proof.
 - **Step one, never step two.** Case files assert a basis to demand preservation,
   disclosure, audit, and inquiry. A finding of guilt is for a tribunal.
-- **Structural identity is not coordination.** The "one mechanism" claim is about a shared
-  move-set, not collusion. Do not let drafting language blur that.
+- **Structural identity is not collusion.** The "one mechanism" claim is about a shared
+  move-set produced by shared incentives and stigmergic coordination (actors responding to each other's
+  traces), not about agreement or communication. Do not allege collusion without evidence of it, and do
+  not write "not coordination" as if the only alternative were coincidence (Pattern Registry Entry 2
+  Addendum).
 - **The Reflexivity Clause applies to you.** Analyst-as-subject discipline is not decorative;
   corpus-level deference is the failure mode this repo studies.
 

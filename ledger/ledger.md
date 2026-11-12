@@ -6073,6 +6073,64 @@ What would falsify it: Evidence that the layers do not reinforce each other as d
 
 ---
 
+### Entry 2 — Addendum: Convergence Without Collusion — Shared Incentives and Stigmergy
+
+*Added 2026-11-12, at the operator's correction: "coordination is a straw man … all [it] needs is a set of
+incentives and they don't need to communicate if they share those incentives … a whole group of people …
+[can] act as though they're working as one organism because they are all operating under the same
+incentives of keeping power … and they can act stigmergically." Drafted by a Claude instance.*
+
+**The correction.** The ledger has disclaimed "coordination" (CLAUDE.md; the Cluster 6 EA entry's BOUNDARY;
+Entry 19). The disclaimer was meant to rule out **collusion**: an agreement or communication among actors.
+Stated as "not coordination", it implied the only alternative is coincidence, and left the actual mechanism
+unnamed. There are three distinct claims, and the ledger makes only the second and third:
+
+1. **Collusion** — actors agree or communicate to act together. *Not alleged unless separately evidenced.*
+2. **Incentive convergence** — actors facing the same incentives (keeping power, avoiding liability,
+   protecting the institution's standing) arrive at the same moves independently. Organizational sociology
+   has an established name for this: **institutional isomorphism**, organizations converging in form through
+   coercive, mimetic and normative pressures without agreeing to (DiMaggio & Powell, 1983)
+   `[ESTABLISHED]`. Symbolic compliance (Edelman), cited in the coercive-harm-framework source notes, is a
+   case of it.
+3. **Stigmergic coordination** — actors coordinate *through the environment*: each responds to the traces
+   others left there, with no direct communication. The term comes from the study of social insects
+   (Grassé, 1959) `[ESTABLISHED]`; applied to institutions it is `[HYPOTHESIS]`. The traces here are
+   public artifacts: a statute another state copies, a regulation's preamble, a precedent, a training
+   module sold to many schools ("report equals support"), a viral post that sets a frame. An actor who acts
+   on a trace coordinates with its author without ever speaking to them.
+
+Claims 2 and 3 make the "one organism" description literal at the level of behavior: many actors, one
+move-set, sustained by shared incentives and a shared environment.
+
+**The test (so the claim cannot become an unfalsifiable overlay, Ledger Move 4):**
+- *Incentive variation:* the move should appear where the incentive is present and weaken or vanish where
+  it is absent. A move that appears equally where no one gains from it is not explained by incentive.
+- *Incentive change:* when the incentive shifts, behavior should shift with it, even with the same people.
+  (The coercive-harm-framework source notes record one such sequence: Title IX practice tightening under
+  federal enforcement and loosening when enforcement was reversed.)
+- *Traces:* stigmergy leaves a record. Later actors should reuse identifiable artifacts (wording, templates,
+  cited precedents) from earlier ones. No traceable reuse, no stigmergy claim.
+
+**Guard (both-victims lens; behavior, not people).** Sharing an incentive does not make a person a
+participant. The claim attaches to documented conduct that performs the move, never to membership in a
+group that shares the incentive. Step one only: a basis to demand disclosure (which templates, which
+precedents, which incentives), not a finding against anyone.
+
+**BOUNDARY**
+
+What this establishes: the ledger's convergence claim, stated precisely as incentive convergence plus
+stigmergic coordination, with three observable tests and a guard. What it does NOT establish: that any
+specific set of actors converged this way (each case needs the tests run); collusion anywhere; or that
+shared incentives are themselves wrongful.
+
+**Cross-references:** Entry 2 (this entry's thesis); Entry 18 (Fragmenting Violence) and Entry 19 (False-
+Claim Pretext) — procedural moves that spread across institutions in exactly this way; Entry 15 (Manufactured
+Consensus — the bot-swarm habitat as an engineered stigmergic environment); coercive-harm-framework standing
+note S-6 (mechanism-homology and causal continuity across scale), for which stigmergy is a candidate
+mechanism.
+
+---
+
 ### Entry 3: Care-Vocabulary Capture — Institutional Identity as Epistemic Closure Device
 
 *Entry completed June 18, 2026. Draws on all five INSTRUMENT clusters; adds a linguistic layer to the structural analysis in Entry 2.*
@@ -7740,7 +7798,8 @@ What it does NOT establish: that any particular measure was adopted in bad faith
 the structure); exact current rates (the figures are as read, not re-checked here); that false claims are
 harmless; or anything about any individual (step one only: a basis to demand disclosure of the rate cited,
 how it was counted, and what the measure costs genuine claimants). Structural identity across the two
-domains is a shared move, not coordination.
+domains is a shared move. No collusion is alleged; the convergence is consistent with shared incentives and
+stigmergic coordination (Pattern Registry Entry 2 Addendum, which states the tests; not run here).
 
 **Cross-references:** Protocol conduct move 6 (Discrediting testimony) and the crosswalk (Ledger Move 6,
 benefit reframe; Move 1, care-register); Convention Art. IV-bis(3)(e) (asymmetric proof standard) and
