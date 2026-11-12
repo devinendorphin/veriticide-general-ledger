@@ -420,3 +420,19 @@ Washington's 1974 draft (quoted in *State v. Lynch*); New York's original §130.
 
 **Next source.** Bienen, *Rape IV* (1980), which has a state-by-state chart, for the remaining undated New
 York carriers.
+
+### Adoption-year test, step 3: case-law bound for the remaining New York carriers (design fixed before running)
+
+Bienen's *Rape IV* (1980) is not reachable from this container. It is a printed supplement with no
+online copy found, NCJRS has not digitized *Rape III*, and the Cambridge and CORE copies of later surveys
+are blocked. **Substitute measure:** for each remaining New York-family carrier (AR, CO, CT, IN, KY, MD,
+MS, PA) and each New York marker it carries, the **earliest published opinion of that state's courts**
+on CourtListener containing the exact phrase (HTML search, oldest first).
+- This gives an upper bound: the term was in use in that state by that date. It is not an adoption year.
+- **Counter-example rule** (unchanged in substance): a state is a counter-example only if its earliest
+  hit is before L.1965 c.1030 (July 20, 1965) **and** reading the hit shows the state's own sex-offense
+  statute using the term. Hits that quote New York law, or use the phrase outside a sex-offense statute
+  (e.g. "mentally defective" in commitment law), do not count. Those hits are read, and the next hit is
+  taken.
+- Limits: CourtListener's coverage of old state opinions is incomplete. A missing early hit is weak
+  evidence of absence.
