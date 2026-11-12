@@ -436,3 +436,47 @@ on CourtListener containing the exact phrase (HTML search, oldest first).
   taken.
 - Limits: CourtListener's coverage of old state opinions is incomplete. A missing early hit is weak
   evidence of absence.
+
+### Step 3 results: case-law bound (2026-11-12)
+
+*Bienen's* Rape IV *was not reached (see the design note above).* Raw results:
+`results/courtlistener_any_context.json`, `results/courtlistener_sex_context.json`; scripts `tools/cl.py`,
+`tools/cl_sex.py`.
+
+**Pass 1, any context.** Pre-1966 hits exist for the generic terms in AR, CT, IN, KY, MD and MS. **All were
+read, and none is a sex-offense statute.** They are ordinary English in wills, deeds, contracts, injury,
+pension and workers' compensation cases ("mentally incapacitated to execute a will", 1910; "physically
+helpless and constantly ill", 1917; "physically or mentally incapacitated from earning", 1918–1942). One MS
+hit (*Horton v. State*, 1944, "mentally defective") showed no usable snippet; it does not appear in the
+sex-offense-context pass. So none counts under the rule.
+
+**Pass 2, restricted to opinions that also mention rape, sexual intercourse, sexual assault or sodomy.**
+Earliest hit per state and term:
+
+| State | Term | Earliest sex-context opinion |
+|---|---|---|
+| AR | forcible compulsion | 1968 (*Randle v. State*; context not readable, see below) |
+| AR | physically helpless / mentally defective / mentally incapacitated | 1978 / 1977 / 1991 |
+| CO | physically helpless | 1981 |
+| CT | physically helpless / mentally incapacitated | 1978 / 1982 |
+| IN | mentally disabled | 1979 |
+| KY | forcible compulsion / physically helpless / lack of consent results from | 1977 / 1977 / 1993 |
+| MD | physically helpless | 1979 |
+| MS | mentally incapacitated / physically helpless | 1969 (*Wilson v. State*; context not readable) / 1983 |
+| PA | forcible compulsion | 1978 |
+
+**Verdict.** No remaining New York-family carrier shows the term in a sex-offense context before 1968, and
+none before L.1965 c.1030. **No counter-example; the New York-source prediction holds for all carriers
+checked** `[SUPPORTED, weak for these eight]`. The bound is weak: these are upper bounds from court
+coverage, not enactment years. The two earliest (AR 1968, MS 1969) predate those states' own reform
+codes as commonly dated, and their pages did not render here, so what the courts were quoting is
+unknown. Both are after 1965, so neither can refute.
+
+**Overall direction result.**
+- **New York family:** spreads outward from 1965 with no counter-example across all carriers (dated by
+  enactment, by relayed session laws, or bounded by case law).
+- **Michigan family:** holds for "criminal sexual conduct" and "force or coercion"; refuted for "personal
+  injury" (Florida enacted first, relayed).
+- **At least one route ran through a model statute** (Philadelphia 1976, relayed).
+
+Bienen's chart remains the right source to turn the eight case-law bounds into enactment years.
