@@ -651,3 +651,49 @@ This joins the Model Penal Code "ordinary resolution" line (OH, PA, WY). **Both 
 modern statutes carried a resistance requirement in their 1960s texts. The descendants show the requirement
 being shed branch by branch, with survivals.** `[SUPPORTED: texts read for NY 1965, WA, OR, HI; dates of
 removal partly unverified]`
+
+### When New York dropped "earnest resistance" (2026-11-12)
+
+The coder's recollection ("dropped around 1982") was **partly wrong**: there were two steps, and the first
+one softened the requirement without deleting it. Sources: New York appellate and trial opinions, from
+CourtListener search snippets and web-search excerpts. The session laws themselves were not read.
+
+| Version | Source | "Forcible compulsion" (physical-force branch) |
+|---|---|---|
+| **1965** | L.1965 c.1030 (page read, p. 2391) | "physical force that overcomes **earnest resistance**" |
+| **1977** | L.1977 c.692, quoted in *People v. Walstatter* (1980), *People v. Dorsey* (1980), *People v. Jackson* (1981), *People v. Kranitz* (1984) | "physical force which is **capable of overcoming** earnest resistance", with "earnest resistance" defined as resistance "**reasonably to be expected from a person who genuinely refuses to participate** in sexual intercourse, deviate…" (quoted to the point the snippets show) |
+| **1982** | L.1982 c.560 (July 1982, per an Appellate Division opinion found by web search) | resistance requirement **deleted**. *Kranitz* (1984): "The deletion… [of] earnest resistance in 1982… left only a requirement of physical force" (the second phrase is from a web-search excerpt) |
+| **1983** | L.1983 c.449 | threat branch broadened from "serious physical injury" to "physical injury" (*Quackenbush* 1983, *Flores* 1984, *Gomez* 1985 cite "as amd by L 1982, ch 560 and L 1983, ch 449") |
+
+The case law agrees with this sequence. "Overcomes earnest resistance" is quoted in New York opinions from
+1975 to 1987, the late ones applying pre-1982 law to pre-1982 crimes. The shortened "overcomes resistance"
+never appears in a New York opinion. `[SUPPORTED: secondary, consistent across many opinions]`
+
+**What this does to the descendant states.** The New York definition went through three stages:
+1. the 1965 resistance requirement;
+2. the 1977 rescaling to reasonable, "genuine" refusal;
+3. the 1982 deletion.
+
+Descendants seem to have frozen at different stages:
+- **Washington (1975)**, "physical force which overcomes resistance": the 1965 text with "earnest" removed,
+  adopted before New York's own changes, and still in force. Washington's step was its own. New York never
+  used that wording. `[SUPPORTED as to the texts]`
+- **Delaware and Nebraska** carry a resistance duty rescaled in the 1977 manner:
+  - DE: "need resist only to the extent that it is reasonably necessary to make the victim's refusal to
+    consent known";
+  - NE: "need only resist… so as to make the victim's refusal to consent **genuine** and real".
+
+  Nebraska's section dates from Laws 1977, LB 38, the same year as New York's c.692. Whether either
+  borrowed from New York, or both drew on a shared source, is **not established**. "Genuine" and
+  "reasonably" are thin as markers `[HYPOTHESIS]`.
+- **Oregon (1971)** and **New York (since 1982)** carry no resistance condition. Hawaii deleted its condition
+  in 1986.
+
+**Reading.** The resistance requirement did not leave all at once. The source amended it twice in five
+years, and copies taken at different moments kept whichever version they took. So the pattern is a lineage
+plus **staggered shedding**: an old burden-shifting form persists where a branch copied it before the
+parent dropped it. The Washington case is documented. The Delaware/Nebraska stage-match is a lead, not a
+finding.
+
+**To verify:** the session-law texts of L.1977 c.692 and L.1982 c.560 (effective dates and full wording);
+the source of Nebraska's 1977 "genuine and real" clause.
