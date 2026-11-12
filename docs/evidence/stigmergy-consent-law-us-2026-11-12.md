@@ -232,3 +232,63 @@ IN 35-42-4-1, -8 · KY 510.010, .020, .040, .050, .060, .070, .110, .130 · LA 1
 **Text handling.** Only the statute body is kept: from "Updated by FindLaw Staff" up to FindLaw's closing
 notice. **Analysis.** Unchanged and rerun on all jurisdictions collected. Results are reported for both the
 original 35 and the extended set.
+
+---
+
+## Extended results: 49 of 51 jurisdictions (2026-11-12, after Deviation 3)
+
+Collected with headless Chromium from FindLaw: AL, AR, CT, GA, IL, IN, KY, LA, MS, NJ, NM, PA, TN, WI. The
+"current as of" dates run from January 2023 (LA) to January 2026 (IN, PA); see `SOURCES.tsv`. AL 13A-6-70
+(lack of consent) is not on FindLaw: the URL returns a landing page, which was dropped. **Still missing:
+NH, OK** (no FindLaw page found; official sites unreachable). Because FindLaw can lag the official text, any
+amendment after a page's date is not reflected.
+
+| Test | 35 jurisdictions | 49 jurisdictions |
+|---|---|---|
+| 1. Family markers travel together (φ within − between) | 0.32, p = 0.0001 | **0.31, p = 0.0001** |
+| — by family: NY / MI / AFF / MPC / FED | 0.54 / 0.37 / 0.27 / 0.22 / −0.01 | 0.38 / 0.29 / **0.33** / 0.22 / 0.00 |
+| 1-robust: range across all cuts | 0.27–0.37 | 0.27–0.36, all p ≈ 0.0002 |
+| 2. States alike beyond chance | z = 3.7 | **z = 4.4**, p = 0.0001 |
+| Codebook-free rare text, same family vs other pairs | 8.1 vs 3.0, p = 0.007 | 4.8 vs 2.3, p = 0.010 |
+
+**Both pre-registered criteria still fail to refute. The result strengthens with the added states.**
+Adding IL and WI, the core of the agreement family, raised that family's internal association from 0.27 to
+0.33. The common-law family still has only one usable marker ("carnal knowledge" survives only in GA).
+
+**New lineages the codebook-free check found (not in the pre-set families):**
+- IL–NY 97 shared runs: custodial and care-facility offenses ("who provides direct care services… or
+  direct supervision of the residents"; "detained or otherwise in the custody of a police officer"). A
+  newer wave of reform travelling the same way.
+- CT–MN 47: a psychotherapist module ("therapeutic deception means a representation by a psychotherapist
+  that sexual contact… is consistent with or part of the patient's treatment").
+- CA–IL 64: fraud as to professional purpose ("was not aware, knowing, perceiving, or cognizant of the
+  essential characteristics of the act due to the perpetrator's fraudulent representation…").
+- KY–NY 71 and MI–TN 59 fit the pre-set New York and Michigan families.
+
+All were checked by reading the shared runs; none is mirror boilerplate.
+
+**Test 3 additions (hand reading).**
+- *Resistance expressly not required:* AL ("forcible compulsion does not require proof of resistance"),
+  KY, IL ("lack of verbal or physical resistance… shall not constitute consent"), NM, PA (§3107).
+- *A burden-shifting construction with a lineage:* **"prevent resistance by a [person / victim] of
+  [ordinary / reasonable] resolution"**, found in OH, PA and WY. It descends from the 1962 MPC's "woman of
+  ordinary resolution" standard, which reform critics singled out as a resistance requirement in
+  disguise (Fischel, Harvard J. Law & Gender, 2025) `[SUPPORTED]`. Three states carry it in paraphrase
+  (the gender neutralised, "ordinary" turned to "reasonable" in PA). **This is the first Test 3 finding
+  that is a lineage rather than an instance: one burden-shifting form, one documented source, three
+  descendants.**
+- LA 14:42.1 keeps resistance at the centre of second-degree rape: "prevented from resisting… where the
+  victim reasonably believes that such resistance would not prevent the rape".
+- *Marital:* GA ("the wife of the defendant shall not be a defense"; rape is still defined as "carnal
+  knowledge" of "a female"); WI ("Marriage not a bar to prosecution"); MS (anti-exemption in one
+  subsection). Spouse carve-outs within particular offenses remain in AR, IL, KY, NM, PA (custodial or
+  age-based).
+
+**Verdict, updated.** Stigmergic lineage in US consent law: `[SUPPORTED]` on 49 of 51 jurisdictions.
+Burden-shifting forms persisting by lineage: one documented lineage (the "ordinary resolution" standard,
+3 states) plus instances (WA "overcomes resistance"; DE/NE "need only resist… to make refusal known"; LA).
+Upgraded from instances only to **one lineage plus instances** `[SUPPORTED]` for the lineage. Still not a
+pattern across families.
+
+**Boundary unchanged** except the coverage: still no adoption dates, so no direction; FindLaw currency
+caveat; NH and OK missing.
