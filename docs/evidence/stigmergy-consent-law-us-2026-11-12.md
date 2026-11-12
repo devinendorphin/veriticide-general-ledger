@@ -82,3 +82,131 @@ WA 9A.44.010–9A.44.12x, WY 6-2-301–6-2-3xx. Script: `tools/trim.py`, then th
    hand before being reported.
 3. Test 3 keyword codes: *force* = "forcib" / "by force" / "physical force" / "forcible compulsion";
    *resistance* = "resist". Both are spot-checked by reading before being reported.
+
+**Deviation 2 (found while checking the results; it does not change them).** The four public.law mirror
+pages carry a shared help note ("Blank Outline Levels…"). It created spurious shared text among CA, CO, NY
+and TX in the codebook-free check. Each mirror page was cut at "Up to date", where the site's own matter
+begins (it remains in CO, where no other text shares it). All tests were rerun. The marker tests were
+identical before and after, so the note never triggered a marker.
+
+---
+
+## Results (2026-11-12)
+
+Data, scripts, source URLs and hashes: `docs/evidence/stigmergy-consent-law-us-2026-11-12/`.
+35 of 51 jurisdictions (16 missing, listed above).
+
+### Marker prevalence (how many of the 35 carry each marker)
+
+| Family | Markers (n of 35) |
+|---|---|
+| MPC 1962 | gross sexual imposition 2 · deviate sexual intercourse 3 · compels…to submit 6 · substantially impaired…power to appraise or control 4 |
+| Michigan 1974 | criminal sexual conduct 4 · however slight 23 · personal injury 5 · force or coercion 5 |
+| New York art. 130 | lack of consent results from 1 · forcible compulsion 5 · clearly expressed 1 · physically helpless 15 · mentally disabled/defective 7 · mentally incapacitated 12 |
+| Affirmative / agreement | freely given agreement 4 · words or overt actions 3 · actual words or conduct 1 · manner of dress 3 · lack of verbal or physical resistance 2 · withdraws consent 0 |
+| Federal 1986 | sexual act 14 · aggravated sexual abuse 2 · renders…unconscious 1 · knowingly engages 3 |
+| Common law | carnal knowledge 0 · against the will 6 · ravish 1 |
+| Unassigned | no matter how slight 0 · sexual battery 7 · intimate parts 14 · earnest/utmost resistance 0 |
+
+20 assigned markers vary enough to enter Test 1 (rule 1). The common-law family has only one usable
+marker, so it contributes no within-family pairs. That is expected with most of the Deep South missing.
+
+### Test 1 — do a family's markers travel together? **Yes.**
+Mean association between markers of the same family is φ = 0.31; between families it is −0.02
+(difference 0.32, permutation p = 0.0001). By family: New York 0.54, Michigan 0.37, affirmative 0.27,
+MPC 0.22, federal −0.01. **The federal family shows no lineage**: "sexual act" is too generic to be a
+marker.
+
+Robustness (all p ≈ 0.0002):
+- dropping each family in turn: difference 0.29–0.37;
+- merging the New York incapacity trio into one marker, in case it is one list counted three times: 0.27;
+- dropping markers carried by more than half the states: 0.34;
+- keeping only the 28 states whose text includes a definitions section: 0.37.
+
+**Pre-registered criterion: not refuted.** `[SUPPORTED]`
+
+### Test 2 — are states more alike than chance, without using family labels? **Yes.**
+The observed sharing statistic is 2,383, against a null of 2,110 ± 73 that preserves how common each
+marker is and how many markers each state has. z = 3.7, p = 0.0005. **Not refuted.** `[SUPPORTED]`
+
+### Codebook-free check (added; it removes the analyst's marker choices)
+The coder who chose the markers knows a lot of state law. The markers could therefore have been chosen
+because they were already known to cluster, and Test 2 depends on that choice too. The added check counts
+rare 8-word runs (shared by 2–4 jurisdictions), with no codebook at all.
+- State pairs in the same dominant family share 8.1 such runs on average; other pairs share 3.0
+  (permutation p = 0.007). The state grouping still uses the markers, but the text measure does not.
+- The strongest pairs, found mechanically:
+  - Colorado–Wyoming 95 (identical "intrusion, however slight…", "causes submission… by threatening to
+    retaliate" and "intimate parts" definitions);
+  - **Michigan as a hub**: SC 87, RI 66, NC 45, MN 40 (the "criminal sexual conduct" degree structure and
+    "mentally incapacitated means…" definitions);
+  - Oregon–Washington 56, Iowa–Oregon 31, New York–Washington 28 (the New York family).
+- Direction of copying is not tested: adoption years were not collected. That Michigan's 1974 reform is
+  the root rests on the coder's background knowledge `[HYPOTHESIS]`. That Michigan's text is shared with
+  four states is measured `[SUPPORTED]`.
+
+### Test 3 — do burden-shifting features run in families? **Measure failed; hand reading instead.**
+The keyword "resist" mostly hits text saying the victim was *unable* to resist, or that resistance is
+*not* required, so the keyword code is unusable. The force keyword hits 29 of 35, too common to separate
+families. Hand reading of every "resist" hit:
+- **Resistance expressly not required:** AK, DC, FL, ME, MI (§750.520i), MN, MT, OR (§163.315).
+  HI's own annotation records the 1986 deletion of the requirement that force "overcome resistance".
+- **Resistance still carries weight:**
+  - **WA**: "forcible compulsion means physical force which overcomes resistance". This is the New York-family
+    term with a resistance condition attached. NY's and OR's current definitions of the same term carry
+    no resistance condition, and HI deleted it. *Within the New York family, the burden-shifting variant
+    survives in one branch.*
+  - **NE** "need only resist, either verbally or physically, so as to make the victim's refusal to consent
+    genuine and real and so as to reasonably make known to the actor…"; **DE** "need resist only to the
+    extent that it is reasonably necessary to make the victim's refusal to consent known to the defendant".
+    The same construction in different words: resistance downgraded to a duty to signal. **This is the
+    paraphrase-level trace the 12-gram method cannot count.** Two states cannot establish lineage.
+  - **ID** "where the victim resists but the resistance is overcome by force" (one route among several).
+  - **WY** "by any means that would prevent resistance by a victim of ordinary resolution".
+- **Marital flag, read by hand:**
+  - *Explicit anti-exemption:* IA, MI (§520l), NC (§14-27.34), NV (§200.373), VA ("whether or not his or her
+    spouse").
+  - *Spouse carved out of particular offenses:* CO (age-based offenses), ME (age- and supervision-based
+    offenses), MI (professional–client contact). OH and RI define "spouse" with exceptions, which means some
+    provision still distinguishes spouses; where it applies was not read here.
+  - *False positives:* ND (adultery and bigamy), and the HI and MN definitions.
+
+## Verdict
+
+**The casserole has a family tree.** Arbitrary features of US consent law travel in bundles that trace to
+identifiable sources (New York, Michigan, the MPC, the agreement statutes). The bundles show up both with
+the codebook (Tests 1 and 2) and without it (shared rare text). Both pre-registered refutation criteria
+failed. **Stigmergic lineage in state consent law: `[SUPPORTED]`.** The policy-diffusion literature
+predicts this, and finds bill-to-bill text reuse at scale (Burgess et al., KDD 2016; Linder et al., PSJ 2018).
+So the finding is a replication in this domain, not a discovery.
+
+The part that bears on the ledger (protocol conduct move 5, attribution to victim) is thinner. A
+burden-shifting variant can persist inside a family while other branches drop it (WA's "overcomes
+resistance"). And a resistance duty can travel in paraphrase (DE/NE). Both are **instances, not a pattern**
+`[HYPOTHESIS]`.
+
+## Boundary
+
+What this establishes:
+- in 35 jurisdictions, arbitrary statutory features cluster by source family well beyond chance, under
+  every robustness cut tried and in a codebook-free check;
+- Michigan's text recurs in four other states;
+- named residual resistance and marital provisions exist as quoted.
+
+What it does NOT establish:
+- **who copied whom, or when** (no adoption dates);
+- that the families are the true sources rather than intermediaries;
+- that the 16 missing jurisdictions follow the same structure (the Deep South and two core
+  agreement-family states are missing);
+- that any legislature acted in bad faith;
+- that argument forms in everyday speech travel the same way. This is statute text. The everyday
+  argument-form test (e.g. on the *Something Was Wrong* corpus) is still to be run.
+
+Single provisions are instances; pattern is the proof.
+
+## Next tests with power
+1. Adoption years from session laws for the MI and NY markers, to test direction and timing.
+2. Hand or browser collection of the 16 missing states, above all AL, GA, MS, TN, LA (the common-law family)
+   and IL, WI, NJ (the agreement family).
+3. A paraphrase codebook for burden-shifting constructions (residual resistance, "genuine and real",
+   "ordinary resolution"), coded blind by a second coder, to turn the Test 3 instances into a count.

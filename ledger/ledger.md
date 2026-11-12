@@ -6134,7 +6134,10 @@ shared incentives are themselves wrongful.
 Claim Pretext) — procedural moves that may spread across institutions this way (traces test run on Title IX policy wording,
 2026-11-12, `docs/evidence/stigmergy-trace-test-titleix-2026-11-12.md`: broadly shared wording there was federal,
 so it spread by mandate, i.e. coercive isomorphism; non-mandated reuse was real but thin and pairwise, so
-stigmergy survives the test without being shown to be the main mechanism); Entry 15 (Manufactured
+stigmergy survives the test without being shown to be the main mechanism; lineage test on US consent statutes, 2026-11-12, `docs/evidence/stigmergy-consent-law-us-2026-11-12.md`:
+arbitrary features travel in source-family bundles beyond chance in 35 of 51 jurisdictions, with and without
+a codebook, so stigmergic lineage there is SUPPORTED; burden-shifting variants persisting by lineage are
+instances only); Entry 15 (Manufactured
 Consensus — the bot-swarm habitat as an engineered stigmergic environment); coercive-harm-framework standing
 note S-6 (mechanism-homology and causal continuity across scale), for which stigmergy is a candidate
 mechanism.
