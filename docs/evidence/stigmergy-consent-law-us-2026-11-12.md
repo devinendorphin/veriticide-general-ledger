@@ -589,3 +589,58 @@ it.
 - Montana 1973 (relayed annotation).
 
 **Still open:** a verbatim transcription of the enacted §130.05 page (L.1965 p. 2391).
+
+### Step 5, closed: the enacted text, read from the page (2026-11-12)
+
+*Source: an image of the page headed "1030] LAWS OF NEW YORK, 1965" (Google-digitized; "Original from…" is cut
+off), supplied by the operator and saved as `sources/ny-laws-1965-ch1030-s130.00-130.05.jpg` (hashed). The
+scan is cropped at the right margin. Words lost there are given in [brackets] as the evident completion,
+and marked. The printed page number is not visible, so p. 2391 (relayed) is not confirmed from the image.*
+
+**§130.00 (definitions, subdivisions 5–8, as printed):**
+> 5. "Mentally defective" means that a person suffer[s from a] mental disease or defect which renders him
+> incapable of a[ppraising] the nature of his conduct.
+> 6. "Mentally incapacitated" means that a person is [rendered] temporarily incapable of appraising or
+> controlling his [conduct] owing to the influence of a narcotic or intoxicating s[ubstance] administered to
+> him without his consent, or to any other ac[t commit]ted upon him without his consent.
+> 7. "Physically helpless" means that a person is uncon[scious or] for any other reason is physically unable
+> to communicate u[nwilling]ness to an act.
+> 8. "Forcible compulsion" means physical force that [overcomes] **earnest resistance**; or a threat, express
+> or implied, that [places a] person in fear of immediate death or serious physical i[njury to] himself or
+> another person, or in fear that he or another pe[rson will] immediately be kidnapped.
+
+**§130.05 Sex offenses; lack of consent (as printed):**
+> 1. Whether or not specifically stated, it is an element [of every] offense defined in this article that the
+> sexual act was c[ommitted] without consent of the victim.
+> 2. **Lack of consent results from:**
+> (a) Forcible compulsion; or
+> (b) Incapacity to consent; or
+> (c) Where the offense charged is sexual abuse, an[y circum]stances, in addition to forcible compulsion or
+> inca[pacity to] consent, in which the victim does not expressly or [impliedly] acquiesce in the actor's
+> conduct.
+> 3. A person is deemed incapable of consent when he i[s]
+> (a) less than seventeen years old; or
+> (b) mentally defective; or
+> (c) mentally incapacitated; or
+> (d) physically helpless.
+
+The page also prints §130.10 (affirmative defence of not knowing of the incapacity), §130.15 (corroboration
+required, except for sexual abuse in the third degree), and the opening of §130.20.
+
+**Verified from the page:** all five New York-family markers ("lack of consent results from", "forcible
+compulsion", "physically helpless", "mentally defective", "mentally incapacitated") are in the 1965
+enactment. The relayed claims in the last step are confirmed `[ESTABLISHED]`.
+
+**New for Test 3, the burden-shifting lineage.** New York's 1965 "forcible compulsion" meant "physical
+force that [overcomes] **earnest resistance**". So the New York root itself carried a resistance requirement.
+- Washington's current "physical force which overcomes resistance" is that definition with "earnest" dropped.
+  The burden-shifting element traveled down the New York family, and Washington still carries a reduced form.
+- New York's current definition ("to compel by either: a. use of physical force…") no longer has it. Oregon
+  (1971) never had it. Hawaii deleted "overcome resistance" in 1986, per its own annotation.
+- When New York dropped "earnest resistance" was not checked here. Background recollection says 1982, but
+  that is `[HYPOTHESIS]`.
+
+This joins the Model Penal Code "ordinary resolution" line (OH, PA, WY). **Both founding sources of the
+modern statutes carried a resistance requirement in their 1960s texts. The descendants show the requirement
+being shed branch by branch, with survivals.** `[SUPPORTED: texts read for NY 1965, WA, OR, HI; dates of
+removal partly unverified]`
