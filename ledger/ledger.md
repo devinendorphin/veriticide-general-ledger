@@ -7651,6 +7651,107 @@ framework `research/sww-corpus/results/DATA-POINTS.md` (source notes, the four l
 
 ---
 
+### Entry 19: The False-Claim Pretext — A Rare Error Rate Converted Into a Class-Wide Presumption
+
+*Entry completed 2026-11-12, at the operator's direction. Source: the* Something Was Wrong *Data Points
+episodes "False Reporting and Its Impact on Survivors" and the voting history episode (S21 E17, rebroadcast
+in S26), read in full in the coercive-harm-framework study (`research/sww-corpus/results/DATA-POINTS.md`
+§4), with S25 E7 (Dr. Katherine Holland) on the 2020 Title IX regulation. The structural parallel was
+noticed by the mapping Claude instance; the episodes make each half separately and do not name it.
+Figures are as read on air unless marked checked. A named sub-form of **Protocol conduct move 6
+(Discrediting testimony)**, implemented in language by **Ledger Move 6 (Benefit reframe)** and **Move 1
+(Care-register reframing)**: "integrity", "fairness", "due process".*
+
+---
+
+**Thesis**
+
+*Definition — the False-Claim Pretext:* a move in which a **real but small** rate of false claims is
+invoked to justify treating **everyone who comes forward** (to report a harm, or to use a right) as
+presumptively false: raising the burden on all claimants, adding tests of credibility or eligibility, or
+narrowing access. The cost lands on the much larger group of genuine claimants. The move is laundered as
+protection of the process ("integrity", "fair elections", "protecting the accused").
+
+The small rate is not denied; it is **scaled up into a presumption**. The genuine harm done by false claims
+(which is real and is part of the move's credibility) is borrowed to authorize suspicion of people who made
+no false claim.
+
+---
+
+**Two specimens, one structure**
+
+| Component | Sexual-assault reports | Voting |
+|---|---|---|
+| The real, small rate | False reports estimated at **2–8 %** (LAPD 2008: 4.5 %; the eight-community MAD study: 7 %, 140 of 2,059 cases) | Voter fraud and impersonation "extremely rare"; most allegations "turn out to be baseless" (Brennan Center, as read) |
+| Inflation by the invoking body | NSVRC: false-report figures are inflated by police failure to follow guidelines; the IACP and FBI say a report is false only when evidence shows no crime, and that insufficient evidence, delay, non-cooperation or inconsistency are **not** grounds | Allegations counted as fraud are mostly "mistakes by voters, administrators, or … election misconduct" (Brennan Center, as read) |
+| Class-wide presumption | "The notion that a false report can occur leaves some responders highly critical when actual survivors … come forward"; 18 % of US adults oppose #MeToo "because of the potential of false allegations" (Pew 2022, as read) | 34 laws restricting voting access in 19 states in 2021, "the most in any year in at least the past decade" (Brennan Center, as read) |
+| Built into rule | The 2020 Title IX regulation's rationale for mandatory live cross-examination treats complaints as not credible and cross-examination as the way "to test victim credibility" (Holland's co-authored analysis of the regulation's preamble) | Voter-ID requirements, mail-voting obstacles, limits on officials' outreach (as read) |
+| Laundering register | Due process, protecting the accused (Move 6) | "Fair elections", "integrity" (Moves 1 and 6) |
+| Ledger cross-specimen | — | Cluster 3 Track A record, @elonmusk, posted 2026-06-08: "The real reason they don't want voter ID is to commit voting fraud. That is the obvious truth." (8.7M views; classified SPECIMEN) |
+
+---
+
+**Diagnostic (falsifiable, three parts)**
+
+1. A false-claim rate is invoked or implied, and on the evidence it is **small** relative to genuine claims.
+2. On that basis a measure is applied to **all** claimants: a raised burden, a credibility or eligibility
+   test, a narrowed path.
+3. **Asymmetry:** the measure is not weighed against the harm it does to genuine claimants (wrongful
+   disbelief, wrongful exclusion), or the cited rate is inflated by the invoking body's own classification,
+   or the body applies no comparable scrutiny to the opposite error. This is Convention Art. IV-bis(3)(e)
+   applied to claimants: a standard of proof the body "does not itself meet and would not accept if met."
+
+Parts 1–2 alone can be prudent verification. The **conjunction with 3** is the named move.
+
+---
+
+**ADVERSARIAL CHECK**
+
+*Strongest good-faith reading:* false claims do real harm. A teenager falsely accused of rape pleaded no
+contest under threat of a long sentence and was later exonerated (Brian Banks, public record); a 2021 study
+reports PTSD, depression and loss of reputation among the falsely accused (as read). Verification of
+specific claims is legitimate, voter ID is widely supported, and the coercive-harm-framework's own
+both-victims lens requires that a mechanism strong enough to protect victims be checked against misuse.
+
+*Why it does not dispose of the entry:* the entry does not object to investigating a specific claim, to
+penalties for false reports, or to verification as such. It names the **scaling of a small rate into a
+presumption against everyone** and the **asymmetry** of part 3. The coercive-harm-framework corpus holds the
+contrast that marks the line: in S18, police disbelieved a woman's report because of **her own documented
+record** of false reports, and that protected a falsely accused partner. That is suspicion grounded in the
+individual's record, not a class-wide presumption. It is recorded below as counter-register, and it
+shows the diagnostic does not condemn all disbelief.
+
+**COUNTER-EVIDENCE STATUS**
+
+CONTROL-type practice on record: the IACP and FBI guidance quoted above, under which a report is classified
+false only on evidence that no crime occurred, is an institution limiting its own inflation of the rate.
+S18 (*Something Was Wrong*), above: individual, record-based disbelief that was correct. No CONTROL entry
+exists for the Cluster 3 voter-ID specimen's source. *Falsification conditions:* for a given measure, a
+showing that the false-claim rate it cites is large relative to genuine claims, or that its cost to genuine
+claimants was measured and weighed, or that the body applies equal scrutiny to wrongful disbelief or
+exclusion.
+
+**BOUNDARY**
+
+What this establishes: a named sub-form of Protocol Move 6 with a three-part falsifiable diagnostic,
+anchored in two domains whose figures were read on air from named sources (false-report estimates and their
+classification guidance; voter-fraud rarity and restrictive-law counts) and in one prior ledger specimen.
+What it does NOT establish: that any particular measure was adopted in bad faith (intent open; the charge is
+the structure); exact current rates (the figures are as read, not re-checked here); that false claims are
+harmless; or anything about any individual (step one only: a basis to demand disclosure of the rate cited,
+how it was counted, and what the measure costs genuine claimants). Structural identity across the two
+domains is a shared move, not coordination.
+
+**Cross-references:** Protocol conduct move 6 (Discrediting testimony) and the crosswalk (Ledger Move 6,
+benefit reframe; Move 1, care-register); Convention Art. IV-bis(3)(e) (asymmetric proof standard) and
+IV-bis(3)(a) (amplification by an actor with power over the field); Pattern Registry Entry 18 (Fragmenting
+Violence — sibling procedural move: one isolates the claims, the other presumes against them); Cluster 3
+Track A voter-ID specimen (@elonmusk, 2026-06-08); coercive-harm-framework `research/sww-corpus/results/
+DATA-POINTS.md` §4 and the S25 E7 notes (source), `docs/07-civil-liberties-safeguards.md` (the both-victims
+lens this entry is checked against).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
