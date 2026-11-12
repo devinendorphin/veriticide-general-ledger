@@ -49,3 +49,36 @@ features, beyond the codebook.
 second-hand (from a neighbour, a later model, a court). The test can show a family structure exists. It
 cannot by itself name who copied whom. Shared structure from a mandate (there is no federal mandate for
 state consent definitions) would be coercion, not stigmergy; none is expected here.
+
+---
+
+## Deviation 1, fixed after collection and before any marker was counted
+
+**Coverage: 35 of 51.**
+- *Official sites (26):* AZ, DE, FL, IA, ID, KS, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NV, OH, OR, RI, SC, VA,
+  VT, WA, WV, WY. Also DC (code.dccouncil.gov), HI (data.capitol.hawaii.gov), AK (akleg.gov print view), SD
+  (sdlegislature.gov API) and UT (le.utah.gov, current version file).
+- *Recorded mirror, public.law (4):* CA, NY, TX, CO. The official sites sit behind a Cloudflare check
+  (CA, NY) or render by script (TX), and CO's official code is on Lexis.
+- **Missing, not replaced (16):** AL, AR, CT, GA, IL, IN, KY, LA, MS, NH, NJ, NM, OK, PA, TN, WI. Causes:
+  the TLS connection was refused at this container's network edge (CT, IL, NH, WI; IL also returned 503 to
+  the page-fetch tool); the official code is on Lexis or script-only with no reachable mirror (AL, AR, GA,
+  IN, KY, LA, MS, NJ, NM, OK, TN); PA's official page returned no statute text. Justia and FindLaw both
+  returned 403.
+
+**Known bias from the gap.** The missing set includes most of the Deep South (common-law family) and three
+of the states named as sources for the affirmative/agreement family (IL, WI) or close to it (NJ). Both
+families are under-sampled, which weakens Test 1 for them.
+
+**Trimming.** Whole-chapter downloads were cut to the sexual-offense sections, so that unrelated offenses
+cannot trigger markers: DE §§761–780, NV NRS 200.364–200.37x, OR 163.305–163.4xx, SC 16-3-651–16-3-6xx,
+WA 9A.44.010–9A.44.12x, WY 6-2-301–6-2-3xx. Script: `tools/trim.py`, then the WY/SC re-cut in the run log.
+
+**Mechanical rules fixed now.**
+1. A marker present in fewer than 2 jurisdictions, or in all of them, cannot co-vary. It is reported but
+   dropped from Tests 1 and 2.
+2. Marital-remnant flag: "spouse" with "not", "exception" or "defense" within 40 characters either side.
+   This also catches anti-exemption wording ("whether or not his or her spouse"), so the flag is read by
+   hand before being reported.
+3. Test 3 keyword codes: *force* = "forcib" / "by force" / "physical force" / "forcible compulsion";
+   *resistance* = "resist". Both are spot-checked by reading before being reported.
