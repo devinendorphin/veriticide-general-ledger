@@ -370,3 +370,53 @@ Michigan wave is fast: MN within a year, then SC and NE in 1977.
 
 **Next.** Session-law text for the four undated Michigan carriers (DE, TN, NJ, NM) and for FL ch. 74-121.
 That is where a counter-example would have to be.
+
+### Adoption-year results, revised with relayed external research (2026-11-12)
+
+*Source: a ChatGPT research run, relayed verbatim by the operator. Provenance: external model, citing
+session laws and court opinions this container could not reach. Claude's own searches could neither
+confirm nor contradict the signing dates or the Philadelphia route. Claims are entered as **relayed**,
+and the pre-registered rule is applied to them as relayed.*
+
+**Florida breaks the 1974 tie, against the prediction.** Ch. 74-121 already used "serious personal injury"
+when signed on **May 31, 1974**. Michigan's PA 266 was signed **August 12, 1974**. Under the rule fixed in
+advance (enactment years; "refuted for a family if any other carrier's confirmed year… precedes the
+putative source's year"), **the Michigan-source prediction is refuted for "personal injury"**. The
+relayed report adds that Michigan's bill (introduced February 28, 1974) already used the phrase, so the
+direction of borrowing between the two is open. That fact does not change the verdict under the
+design, which measures enactment. "Personal injury" leaves the Michigan family as a source-attributed
+marker. Its status is now **"Michigan/Florida 1974, direction open"**.
+
+**The other Michigan markers survive.** Relayed dates for the previously undated carriers are all later
+than Michigan:
+- NM: Laws 1975, ch. 109 ("force or coercion", "personal injury"); the NM Supreme Court names Michigan's
+  act as an influence.
+- TN: 1978 Pub. Acts ch. 937, May 11, 1978 (all three Michigan markers).
+- NJ: P.L. 1978, ch. 95, Aug. 10, 1978 ("physical force or coercion", "severe personal injury").
+- DE: 70 Del. Laws ch. 124, 1995 ("criminal sexual conduct" as an umbrella phrase, a literal hit only).
+
+For "criminal sexual conduct" and "force or coercion": **no counter-example; prediction holds**
+`[SUPPORTED, partly on relayed dates]`.
+
+**A named intermediary.** The relayed report says the NJ Supreme Court traces New Jersey's statute to the
+**1976 Philadelphia Center for Rape Concern model statute**, which drew on Michigan, New Mexico,
+Minnesota and Wisconsin. This is the "common source or intermediary" the boundary warned about, and a
+textbook stigmergic trace: a model statute deposited in the environment and taken up by a legislature
+with no direct contact with Michigan. It weakens "NJ copied MI" and strengthens the lineage claim.
+`[relayed; consistent with Claude's background recollection of State in Interest of M.T.S., 1992; not
+verified here]`
+
+**New York, upgraded.** The relayed report found a historical printing of §130.00 containing "forcible
+compulsion" and all three incapacity terms, with a history note to L.1965 c.1030, effective September 1,
+1967. The four NY markers move from `[HYPOTHESIS]` to `[SUPPORTED, relayed]`. WY: 1977 ch. 70 (Feb. 24,
+1977) defines "physically helpless", after NY. "Lack of consent results from" is verified only in
+Washington's 1974 draft (quoted in *State v. Lynch*); New York's original §130.05(2) wording is still open.
+
+**Revised verdict.**
+- New York family: spreads outward from 1965, no counter-example.
+- Michigan family: holds for "criminal sexual conduct" and "force or coercion"; **refuted for "personal
+  injury"** (Florida enacted first).
+- At least one route ran through a model statute, not state to state.
+
+**Next source.** Bienen, *Rape IV* (1980), which has a state-by-state chart, for the remaining undated New
+York carriers.
