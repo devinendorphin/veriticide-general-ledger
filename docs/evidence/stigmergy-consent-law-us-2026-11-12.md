@@ -210,3 +210,25 @@ Single provisions are instances; pattern is the proof.
    and IL, WI, NJ (the agreement family).
 3. A paraphrase codebook for burden-shifting constructions (residual resistance, "genuine and real",
    "ordinary resolution"), coded blind by a second coder, to turn the Test 3 instances into a count.
+
+---
+
+## Deviation 3 (operator direction: use the browser), fixed before the new texts were collected
+
+The 35-jurisdiction results above stand as reported. This extension collects the missing jurisdictions with
+the container's headless Chromium (Playwright). The same network proxy applies: CT, IL, NH and WI official
+sites still fail at the network edge, and Justia still shows a bot check. **FindLaw codes** (codes.findlaw.com)
+render in the browser, so FindLaw is the recorded mirror for the missing states. Its pages carry a
+"Current as of" date, which is recorded per section. FindLaw warns that its codes may lag the official text.
+
+**Sections taken (offense sections plus definitions and consent provisions, as for the original 35):**
+AL 13A-6-60, -61, -62, -66, -67, -70 · AR 5-14-101, -103, -124, -125 · CT 53a-65, -70, -70a, -71, -72a,
+-73a · GA 16-6-1, -2, -22.1, -22.2 · IL 720 ILCS 5/11-0.1, 11-1.20, 11-1.30, 11-1.50, 11-1.60, 11-1.70 ·
+IN 35-42-4-1, -8 · KY 510.010, .020, .040, .050, .060, .070, .110, .130 · LA 14:41, 14:42, 14:42.1, 14:43
+· MS 97-3-65, -95, -97 · NJ 2C:14-1, -2, -3 · NM 30-9-10, -11, -12, -13 · PA 18 §§3101, 3107, 3121,
+3124.1, 3125, 3126 · TN 39-13-501, -502, -503, -505 · WI 940.225. NH (632-A:1–4) and OK (21 §§1111, 1111.1,
+1114) only if a FindLaw page is found, otherwise missing.
+
+**Text handling.** Only the statute body is kept: from "Updated by FindLaw Staff" up to FindLaw's closing
+notice. **Analysis.** Unchanged and rerun on all jurisdictions collected. Results are reported for both the
+original 35 and the extended set.
