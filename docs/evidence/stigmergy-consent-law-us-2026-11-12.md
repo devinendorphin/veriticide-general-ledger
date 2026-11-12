@@ -292,3 +292,33 @@ pattern across families.
 
 **Boundary unchanged** except the coverage: still no adoption dates, so no direction; FindLaw currency
 caveat; NH and OK missing.
+
+---
+
+## Adoption-year test (direction), design fixed 2026-11-12 before any year was collected
+
+**Question.** Did the Michigan- and New York-family markers start in Michigan and New York and spread
+outward? Or did they appear elsewhere first, which would make the family labels wrong?
+
+**Scope.** Every jurisdiction carrying a Michigan marker ("criminal sexual conduct", "personal injury",
+"force or coercion"; "however slight" included as a check) or a New York marker ("lack of consent results
+from", "forcible compulsion", "physically helpless", "mentally disabled/defective", "mentally
+incapacitated"), in the 49-jurisdiction set.
+
+**Year measured.** The **enactment year of the section that now carries the marker**, read from the
+session-law history note attached to that section (in the collected text, or on the official site where
+the collected text lacks one). Where a history note shows the marker arriving by a later amendment, and
+the amendment text confirms it, that year is used instead. Otherwise the year is recorded as **"section
+year"**: the marker was present by that year *if* it was in the original enactment, which the note alone
+does not prove. A year from a secondary source (case law, a law-review survey) is labelled as such. No
+year is guessed. A missing year is reported as missing.
+
+**Prediction (source-and-spread).**
+- MI markers: Michigan's year (1974 Act 266 by the coder's background knowledge, to be confirmed from
+  the note) is the earliest among carriers.
+- NY markers: New York's year (Penal Law of 1965, by background knowledge, to be confirmed) is the
+  earliest among carriers, MPC 1962 excepted.
+
+**Refuted for a family if** any other carrier's confirmed year for that family's distinctive markers
+precedes the putative source's year. "However slight" is expected to fail as a Michigan marker, because
+the phrase is older common-law language. If it fails, that marker leaves the Michigan family.
