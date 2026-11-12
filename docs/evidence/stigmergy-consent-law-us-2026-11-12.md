@@ -697,3 +697,57 @@ finding.
 
 **To verify:** the session-law texts of L.1977 c.692 and L.1982 c.560 (effective dates and full wording);
 the source of Nebraska's 1977 "genuine and real" clause.
+
+### Where Nebraska's "genuine and real" clause came from (2026-11-12)
+
+**The New York-1977 lead is refuted.** The clause is Nebraska's own, from case law to statute:
+
+1. **Case law, 1973.** *State v. Campbell* (Neb. Mar. 30, 1973): resistance need only "be such as to make
+   nonconsent and actual opposition genuine and real". The opinion goes on: "To the extent that State v.
+   Hunt, 178 Neb. …", partly overruling the stricter *Hunt* standard. Repeated in *State v. Smith* (1974),
+   *State v. Pierce* (1976), *State v. Mason* (1978: "only required to make reasonable resistance in good
+   faith under all the… circumstances") and *State v. Pankey* (1979: "Where resistance would obviously be
+   useless, fruitless, or foolhardy…"). Across every court CourtListener indexes, *Campbell* is the
+   earliest opinion with the formula. It appears to be a Nebraska Supreme Court coinage, four years
+   before New York's 1977 amendment.
+2. **Not in the 1975 reform.** Bienen's 1980 chart (p. 33) summarises the 1975 reform as first degree
+   "when victim overcome by force, express or implied threat of force, coercion, or deception", with no
+   resistance clause.
+3. **Statute, 1995.** **Legislative Bill 371, approved by the Governor June 13, 1995**, slip-law pp. 564–565.
+   Read from the page image, saved as `sources/ne-LB371-1995-p564.png` and hashed. New (underlined) text in
+   §28-318:
+   > (8) Without consent means: (a)(i) The victim was compelled to submit due to the use of force or threat
+   > of force or coercion, or (ii) the victim expressed a lack of consent through words, or (iii) the victim
+   > expressed a lack of consent through conduct, or (iv) the consent, if any was actually given, was the
+   > result of the actor's deception as to the identity of the actor or the nature or purpose of the act on
+   > the part of the actor; (b) The victim need only resist, either verbally or physically, so as to make
+   > the victim's refusal to consent **genuine and real** and so as to reasonably make known to the actor
+   > the victim's refusal to consent; and (c) A victim need not resist verbally or physically where it
+   > would be useless or futile to do so; and
+   > (9) Force or threat of force means (a) the use of physical force which **overcomes the victim's
+   > resistance** or (b) the threat of physical force…
+
+   The same act struck the old element of §28-319 and §28-320 ("overcomes the victim by force, threat of
+   force, express or implied, coercion, or deception") and substituted "without consent of the victim".
+   The first opinion quoting the statutory clause is *State v. Koperski* (1998), consistent with a 1995
+   origin.
+
+**What this shows.**
+- **A vertical lineage, not a horizontal one.** The trace runs from Nebraska's own Supreme Court (1973) to
+  Nebraska's legislature (1995): judge-made doctrine written down as statute 22 years later. The "useless
+  or futile" subsection likewise codifies *Pankey* (1979). This is still trace-following (a later actor
+  building on an earlier actor's text), inside one state's institutions rather than across states.
+  `[ESTABLISHED as to the texts and dates]`
+- **A reform that codified a resistance duty.** In 1995 Nebraska moved to a "without consent" element and
+  recognised non-consent expressed "through words" or "through conduct", a pro-complainant step. **The same
+  act also wrote two resistance constructions into statute for the first time**: the "need only
+  resist… genuine and real" duty, and force defined as force "which overcomes the victim's resistance". So
+  the burden-shifting form was not just a relic carried over from an older text. It was re-encoded into
+  statute during a reform, 13 years after New York had deleted its own resistance requirement. That
+  qualifies the "staggered shedding" reading above: shedding is not one-directional. A burden-shifting
+  form can move from case law into statute late, inside an otherwise pro-complainant reform. `[ESTABLISHED as
+  to Nebraska; whether this happened elsewhere is untested]`
+- **Delaware is still open.** DE's "need resist only to the extent that it is reasonably necessary to make
+  the victim's refusal to consent known to the defendant" shares the "make… refusal to consent known"
+  construction with Nebraska's 1995 (b). Which came first, and whether either borrowed, is not established
+  (DE's section date not read). `[HYPOTHESIS]`
