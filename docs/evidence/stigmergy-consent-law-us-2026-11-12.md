@@ -555,3 +555,37 @@ original wording reads.
 
 **Where it can be read:** *Laws of New York 1965*, ch. 1030 §130.05 and ch. 1038 (session laws, likely full
 view on HathiTrust), or McKinney's Penal Law pamphlet (1967), opened in an ordinary browser.
+
+### Step 5, closed with relayed external research (2026-11-12)
+
+*Source: a ChatGPT research run, relayed by the operator. It used HathiTrust page-level full-text search and
+read the 1964 draft page, which this container cannot reach (Cloudflare check). The link targets did not
+survive the paste. Entered as **relayed**.*
+
+- **1964 study bill**, §135.05(2), p. 81: reads "Lack of consent results from" and lists forcible
+  compulsion, incapacity to consent, and a third ground for specified sexual-abuse offences where the
+  victim did not "expressly or impliedly acquiesce". *Read on the page.*
+- **L.1965 c.1030, §130.05(2)**, printed p. 2391 (scan 589): exact-phrase hits for "lack of consent results
+  from" and "the victim does not expressly or impliedly acquiesce in the actor's conduct". *Verified by
+  search hit only; the full enacted page has not been transcribed.*
+- **L.1965 c.1038, §130.05(1)**, p. 2684 (scan 882): added the exception for consensual sodomy to
+  subdivision 1.
+
+**Corrections to Step 5.**
+- New York's wording dates to **1964 in draft and 1965 in law** `[SUPPORTED, relayed]`.
+- Step 5's weak negative ("impliedly acquiesce" possibly later than 1965) is **wrong**. The acquiescence
+  wording was in the 1965 enactment. Its absence from 1965–77 case-law snippets meant only that no court
+  quoted it.
+- The second 1965 chapter changed subdivision 1, not the "lack of consent results from" clause.
+
+**New lineage link (relayed): New York → Montana.** Montana's annotated 1973 code names N.Y. Penal Law
+§130.05 (1965) as the source of its own definition of "without consent", substantially reworked. That is a
+parentage statement, not just order. Montana's dated marker in this test ("physically helpless", 1973) fits
+it.
+
+**Named derivations from New York now on record:**
+- Connecticut 1969 (Bienen, read here);
+- Arkansas 1975 (Bienen, read here);
+- Montana 1973 (relayed annotation).
+
+**Still open:** a verbatim transcription of the enacted §130.05 page (L.1965 p. 2391).
