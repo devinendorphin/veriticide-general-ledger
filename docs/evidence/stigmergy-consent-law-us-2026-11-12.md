@@ -480,3 +480,41 @@ unknown. Both are after 1965, so neither can refute.
 - **At least one route ran through a model statute** (Philadelphia 1976, relayed).
 
 Bienen's chart remains the right source to turn the eight case-law bounds into enactment years.
+
+### Step 4: Bienen, *Rape IV* charts (1980), read for the eight case-law-bounded states (2026-11-12)
+
+Source: "Charts," 6(3) *Women's Rights Law Reporter* 1–235 (1980), HeinOnline scan hosted on the author's
+site, URL supplied by the operator (hash in `SOURCES.sha256`). The text layer is uncorrected OCR noise, so
+the pages were rendered to images and read. Quotations are from the DERIVATION / HISTORY and STATUTORY
+STRUCTURE rows. PDF page numbers are given.
+
+| State | Bienen's history (quoted) | New York-family term by | Before NY 1965? |
+|---|---|---|---|
+| **AR** (p. 6) | "1967 changed force to forcible compulsion…; **1975 followed New York Penal Code and Model Penal Code**." The 1979 chart lists forcible compulsion, physically helpless, mentally defective, mentally incapacitated (§§ 41-1803 to -1809). | 1967 (forcible compulsion); 1975 (the rest) | No |
+| **CO** (pp. 8–9) | "1971 enacted Model Penal Code definitions…; 1975 enacted rape reform legislation." The 1978 chart's summary does not mention "physically helpless". | after 1975, possibly after 1978 (earliest case 1981) | No |
+| **CT** (p. 10) | "1969 repealed, **introduced new chapter on sex offenses based on Model Penal Code and New York Code**…; added rape 1st degree where by force or if female **physically helpless**." | 1969 | No |
+| **IN** (p. 18) | "1975 rape evidence reform statute passed; new formulations of offenses 1977." The chart reads "so mentally disabled or deficient that consent cannot be given". | 1977 | No |
+| **KY** (p. 21) | "in 1974 revised criminal code enacted"; present law a "Model Penal Code formulation". The chart reads "1st degree rape – sexual intercourse by **forcible compulsion**". | 1974 | No |
+| **MD** (p. 24) | "1976 penalty statutes replaced by statute defining 2 degrees of rape and 4 degrees of sexual offenses." | 1976 | No |
+| **MS** (p. 29) | Present law (1979): "**traditional formulation** of rape" (carnal knowledge only). | after 1979 (the 1969 case hit was not statutory) | No |
+| **PA** (pp. 46–47) | "Model Penal Code rape statute passed 1972, eff. 1973; 1976 major amendments." The 1980 chart reads "by **forcible compulsion**, by threat of forcible compulsion that would prevent resistance by **person of reasonable resolution**." | 1972 | No |
+
+**Verdict: the New York-family prediction holds for every carrier, now dated by enactment.** No state
+carries a New York term before L.1965 c.1030. The earliest after New York are CT 1969 and AR 1967.
+`[SUPPORTED]`
+
+**Beyond chronology: two attributions to New York in a contemporary source.** Bienen states that
+Connecticut's 1969 chapter was "based on Model Penal Code and New York Code" and that Arkansas's 1975 code
+"followed New York Penal Code and Model Penal Code". These are statements of derivation, not only order.
+With the New Jersey route through the Philadelphia model statute (relayed), three lineage links now rest on
+a source that names the parent. `[SUPPORTED]`
+
+**Side result for Test 3.** Pennsylvania's "prevent resistance by a person of reasonable resolution" is in
+the 1980 chart, so the Model Penal Code "ordinary resolution" descendant was present in Pennsylvania by
+1980 and dates from the 1972 Model Penal Code-type statute or its 1976 amendments.
+
+**The direction test is complete.**
+- **New York family:** no counter-example; two named derivations (CT, AR).
+- **Michigan family:** holds for "criminal sexual conduct" and "force or coercion"; refuted for "personal
+  injury" (Florida, relayed).
+- **Still open:** New York's original 1965 wording of "lack of consent results from" (§130.05(2)).
