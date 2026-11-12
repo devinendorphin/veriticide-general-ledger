@@ -126,6 +126,11 @@ Examples of substantive shared drafting:
 
 ### 3. Verdict against the pre-registered criteria
 
+**Scope correction (operator, same day; conceded).** The stigmergy claim is about argument forms that travel in
+paraphrase. Verbatim wording is the narrowest kind of trace. This test therefore does not test the claim as
+stated, and the opening line of the chat report ("came out against the strong form") overreached. The
+verdict below applies to verbatim wording only.
+
 - *Refuted if shared text is essentially only rule text:* **not met.** About half the words in shared clusters
   have no federal source.
 - *Refuted if non-mandated overlap is limited to generic boilerplate:* **not met.** 358 words of substantive

@@ -6108,8 +6108,15 @@ move-set, sustained by shared incentives and a shared environment.
 - *Incentive change:* when the incentive shifts, behavior should shift with it, even with the same people.
   (The coercive-harm-framework source notes record one such sequence: Title IX practice tightening under
   federal enforcement and loosening when enforcement was reversed.)
-- *Traces:* stigmergy leaves a record. Later actors should reuse identifiable artifacts (wording, templates,
-  cited precedents) from earlier ones. No traceable reuse, no stigmergy claim.
+- *Traces:* stigmergy leaves a record. Later actors should reuse identifiable artifacts from earlier ones:
+  wording, templates and cited precedents, but mainly **argument forms and structures** that travel in
+  paraphrase ("maybe you're the problem", "you're projecting", "don't take it personally", the
+  consent-element package a statute adopts). Verbatim reuse is the narrowest kind of trace (the 2026-11-12
+  Title IX wording test measured only this kind and could not test the claim as stated). **Discriminator:**
+  shared *arbitrary* features. A form that works will be invented independently many times (that is claim 2).
+  Lineage shows when actors share features that have no function of their own: an odd enumeration, a
+  specific framing or a specific error that travels with the form. This is the shared-error method of
+  textual criticism. No co-travelling arbitrary features, no stigmergy claim.
 
 **Guard (both-victims lens; behavior, not people).** Sharing an incentive does not make a person a
 participant. The claim attaches to documented conduct that performs the move, never to membership in a
