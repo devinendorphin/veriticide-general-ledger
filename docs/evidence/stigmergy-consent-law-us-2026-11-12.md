@@ -322,3 +322,51 @@ year is guessed. A missing year is reported as missing.
 **Refuted for a family if** any other carrier's confirmed year for that family's distinctive markers
 precedes the putative source's year. "However slight" is expected to fail as a Michigan marker, because
 the phrase is older common-law language. If it fails, that marker leaves the Michigan family.
+
+### Adoption-year results (2026-11-12)
+
+Table: `results/adoption_years.csv`; raw extraction: `results/adoption_years_raw.json`, `tools/years.py`.
+Every year is a **section year**: the enactment year of the section that now carries the marker, from its
+history note. No amendment text was read, so none of these proves the marker was in the original enactment.
+Three automatic readings were corrected by hand (MT "1947" was the code name R.C.M. 1947, so 1973; HI 1981
+came from an annotation, so 1972; WY 2019 belonged to a neighbouring section, so WY is undated).
+
+**Michigan family** (criminal sexual conduct; force or coercion; personal injury): **MI 1974** → MN 1975 →
+NE 1977, SC 1977 → NC 1979, RI 1979. **FL 1974** ties MI at section level for "personal injury" only, and
+whether the marker was in Florida's 1974 text is unconfirmed. Undated: DE, TN, NJ, NM. **No dated carrier
+precedes Michigan. Prediction not refuted.** `[SUPPORTED]`
+- Michigan's 1974 act is independently confirmed by a 1975 Nevada Legislative Counsel Bureau background
+  paper: "Michigan in 1974 enacted what many persons hail as a model rape law… Criminal sexual conduct is
+  defined by degree".
+
+**New York family** (lack of consent results from; forcible compulsion; physically helpless; mentally
+defective/incapacitated): **NY 1965** → OR 1971 → HI 1972 → MT 1973 → FL, MI 1974 → MN, WA 1975 → AL, MO,
+SC 1977 → IA, NC, RI 1979. Undated: AR, CO, CT, IN, KY, MD, MS, NJ, NM, PA, TN, WY. **No dated carrier
+precedes New York. Prediction not refuted.** `[SUPPORTED]`
+- The year is New York's enactment of the whole Penal Law (L.1965 c.1030). That each marker was in the
+  1965 text is background knowledge, not read here `[HYPOTHESIS]`.
+- Note the order: the NY-family terms reach Michigan's 1974 act. **The Michigan model itself carries New
+  York-family incapacity language**, so the two families are not independent roots. Michigan grafted New
+  York's incapacity terms onto its own degree-and-coercion structure. That is consistent with the
+  MI-family states (MN, SC, NC, RI) also carrying the NY incapacity trio. `[SUPPORTED as to the order]`
+
+**Check marker "however slight": fails as a Michigan marker, as predicted.** Four carriers' sections predate
+1974: SD (SDC 1939), OR 1971, HI 1972, ID 1972. Under the design it leaves the Michigan family. Test 1
+without it was already run (the "drop markers in >50% of states" cut): difference 0.33, p = 0.0002, so the
+lineage result is unchanged.
+
+**What this adds.** Direction is now partly established. Within the dated carriers, both families spread
+outward in time from their putative source, over about 14 years (1965–1979), with no counter-example. The
+Michigan wave is fast: MN within a year, then SC and NE in 1977.
+
+**Boundary.**
+- **Section years only.** A marker could have arrived by a later amendment. That would make spread later,
+  not earlier, so it cannot by itself produce a counter-example. It could hide one only if a carrier's
+  *predecessor* section (older than its current section) had the marker, and that was not checked.
+- **Undated carriers** (4 Michigan, 12 New York) could still hold a counter-example.
+- **Florida–Michigan order** within 1974 is unresolved.
+- **Copying is not shown.** Temporal order is necessary for copying, not sufficient: a later state could
+  have taken the term from an intermediary or a common source, such as a draft both states saw.
+
+**Next.** Session-law text for the four undated Michigan carriers (DE, TN, NJ, NM) and for FL ch. 74-121.
+That is where a counter-example would have to be.
