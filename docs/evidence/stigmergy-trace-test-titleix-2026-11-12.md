@@ -57,3 +57,116 @@ USC and Wisconsin. Causes: the TLS connection was refused through this container
 Purdue), access denied (UC), 404 or moved (USC, Wisconsin, Oregon), or JavaScript-only pages (Michigan State,
 Maryland). Copies were available elsewhere (FIRE, the Wayback Machine, whose page server also reset), but the
 design says the university's own site, so none were used.
+
+---
+
+## Results (2026-11-12)
+
+Data, scripts and source hashes: `docs/evidence/stigmergy-trace-titleix-2026-11-12/`. Sample: 10 of 18 schools
+(see Coverage above). Everything below is about **wording**: whether identical 12-word runs recur.
+
+### 1. How much policy text is federal text, word for word
+
+| School | Share of policy that is federal text (A → C) | Shared with another school, not federal (C) |
+|---|---|---|
+| Nebraska | 13.1% → 17.9% | 4.9% |
+| Ohio State | 5.5% → 8.0% | 1.6% |
+| Illinois | 3.3% → 6.2% | 3.7% |
+| Minnesota | 1.2% → 3.4% | 1.2% |
+| Rutgers | 1.9% → 2.3% | 0.9% |
+| Iowa | 1.3% → 1.9% | 1.2% |
+| Washington | 0.7% → 1.8% | 1.1% |
+| Michigan (procedures) | 1.4% → 1.5% | 0.3% |
+| Indiana | 0.3% → 1.3% | 1.5% |
+| Northwestern | 0.6% → 0.9% | 0.5% |
+
+Policies match the 2020 rule far more than the 2024 rule's wording (Nebraska: 12.4% vs 1.2%). That fits the
+2024 rule being vacated in January 2025: the policies track the rule in force. `[SUPPORTED]` (10 schools).
+Most of each policy is the school's own drafting. The right-hand column is an upper bound: it still includes
+federal text edited past exact matching (section 2).
+
+### 2. What the shared text is
+
+| Level | Shared non-federal 12-word runs | Clusters | Clusters in 3+ schools (words) |
+|---|---|---|---|
+| A (as registered) | 956 | 114 | 27 (700) |
+| B (noun normalisation) | 850 | 108 | 24 (597) |
+| C (B + by-reference federal text) | 665 | 110 | 17 (322) |
+
+**Wording shared by three or more schools is federal.** Of the 17 level-C clusters in 3+ schools, a looser
+6-word match traces 14 to federal text. Reading the other three: one is federal with a tense change
+("exercised" → "exercises", §106.44(a)), one is the VAWA domestic-violence definition (34 USC 12291), and one
+is not federal. That one (Iowa, Nebraska, Ohio State, 21 words) is aspirational boilerplate: "all members of the
+university community are expected to conduct themselves in a manner that maintains an environment free from
+sexual [misconduct]". No public source was found for it. `[SUPPORTED]`
+
+**Wording shared by only two schools is mixed.** 93 two-school clusters: 35 trace to federal text, 6 partly,
+52 not at all. Claude's reading of the 53 non-federal clusters (the reading is in `tools/classify.py`):
+
+| Category (Claude's reading) | Clusters | Words | Largest pairs |
+|---|---|---|---|
+| Substantive definitions (consent, coercion, incapacitation, exploitation) | 16 | 358 | Indiana+Nebraska 123, Illinois+Iowa 78, Indiana+Iowa 52 |
+| Procedural drafting | 16 | 231 | Indiana+Northwestern 71, Michigan+Rutgers 56 |
+| Boilerplate (law names, OCR contacts, aspirations) | 15 | 244 | spread thinly |
+| Federal law or guidance, edited past the matcher | 6 | 85 | — |
+
+Examples of substantive shared drafting:
+- Illinois + Iowa, 50 words: "in evaluating whether coercion was used the university will consider (1) the frequency, intensity and
+  duration of the pressure, (2) the degree of isolation of the person being pressured, and (3) any actual or
+  perceived power differential…". No public source found.
+- Indiana + Nebraska, 37 words: "intoxication and/or impairment is not presumptively equivalent to incapacitation…". No public source
+  found.
+- Iowa + Ohio State: "cannot make rational, reasonable decisions because they lack the capacity to give knowing consent (e.g., to
+  understand the who, what, when, where, why or how of their sexual interaction)". This phrasing appears at many
+  institutions outside the sample (Case Western, Central Community College, Coker, among others), and
+  identically titled "Understanding Consent Workshop" decks are hosted by at least four (Columbus State,
+  Florida Tech, Mount Sinai, Nebraska–Lincoln). That points to a shared upstream artifact `[SUPPORTED]`.
+  Claude's recollection is that the wording comes from ATIXA's model policy. That has **not** been verified
+  `[HYPOTHESIS]`.
+
+### 3. Verdict against the pre-registered criteria
+
+- *Refuted if shared text is essentially only rule text:* **not met.** About half the words in shared clusters
+  have no federal source.
+- *Refuted if non-mandated overlap is limited to generic boilerplate:* **not met.** 358 words of substantive
+  definitions and 231 of procedure are shared, and runs this long and specific do not recur by chance.
+- *Prediction (clusters of non-mandated text shared across institutions, traceable to common artifacts):*
+  **met only in a weak form.** Shared drafting is pairwise; no non-federal substantive wording reaches three
+  schools in this sample. One strand (the incapacitation wording) has an outside footprint that points to a
+  common artifact, and its author is unconfirmed.
+
+**Reading.** At the level of wording, Title IX policies across these ten schools converge mainly through
+**coercion**, meaning federal text adopted as written or with nouns swapped. Beyond that there is a thin layer of
+**traceable non-mandated reuse**, drafting that travelled between pairs of schools or from a common upstream.
+That layer is real evidence of stigmergic reuse, small in size. The stigmergy hypothesis survives this test,
+but the test does not make it the main mechanism. `[SUPPORTED]` for reuse; `[HYPOTHESIS]` for stigmergy as a
+major mechanism here.
+
+### 4. What this test cannot see
+
+- **Paraphrase and structure.** Schools can adopt the same move (e.g. the same hearing design or the same
+  consent framework) in their own words. Verbatim 12-gram matching misses that, so this test underestimates
+  convergence of every kind, stigmergic convergence included.
+- **Direction.** A pair sharing text may have copied each other or a common source. Both count as acting on a
+  trace, but the test cannot say which.
+- **Sample.** Eight schools are missing (unreachable, not replaced). Document types differ (Michigan is a
+  procedures document; Minnesota's is a short regents policy). Rutgers' version may be out of date.
+- **Federal sources.** VAWA and older OCR guidance (e.g. "prevent its recurrence… remedy its effects", from 2001
+  and 2011 guidance) were not in the mandated set. Including them would shift a little more text to federal.
+- **Meaning.** As the design states, nothing here says whether any shared wording performs a laundering move.
+
+### 5. Consequence for the ledger
+
+The Entry 2 Addendum cross-reference said the procedural moves in Entries 18 and 19 "spread across
+institutions in exactly this way". In Title IX wording, the broadly shared procedural text is federal, so it
+spread by mandate (coercive isomorphism), not by stigmergy. The cross-reference is corrected to say so (ledger,
+Entry 2 Addendum).
+
+### 6. Next tests that would have power
+
+- A structural (non-verbatim) comparison: code each policy for the same set of procedural features (formal
+  complaint gate, live hearing, cross-examination, standard of evidence, consent definition type) and see
+  which features spread beyond what the rule in force required.
+- Obtain model policies and vendor materials (ATIXA, NACUA, consultancies) and run the same 12-gram match
+  against them. That is the direct test of the "common artifact" half of the prediction.
+- Fill the eight missing schools by hand from a browser, from the universities' own sites.

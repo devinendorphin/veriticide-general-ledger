@@ -6124,7 +6124,10 @@ specific set of actors converged this way (each case needs the tests run); collu
 shared incentives are themselves wrongful.
 
 **Cross-references:** Entry 2 (this entry's thesis); Entry 18 (Fragmenting Violence) and Entry 19 (False-
-Claim Pretext) — procedural moves that spread across institutions in exactly this way; Entry 15 (Manufactured
+Claim Pretext) — procedural moves that may spread across institutions this way (traces test run on Title IX policy wording,
+2026-11-12, `docs/evidence/stigmergy-trace-test-titleix-2026-11-12.md`: broadly shared wording there was federal,
+so it spread by mandate, i.e. coercive isomorphism; non-mandated reuse was real but thin and pairwise, so
+stigmergy survives the test without being shown to be the main mechanism); Entry 15 (Manufactured
 Consensus — the bot-swarm habitat as an engineered stigmergic environment); coercive-harm-framework standing
 note S-6 (mechanism-homology and causal continuity across scale), for which stigmergy is a candidate
 mechanism.

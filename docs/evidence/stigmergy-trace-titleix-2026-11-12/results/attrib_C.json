@@ -1,0 +1,1358 @@
+[
+ {
+  "i": 0,
+  "n": 6,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Iowa",
+   "Nebraska",
+   "Ohio State",
+   "Rutgers",
+   "Washington"
+  ],
+  "words": 22,
+  "text": "a current or former spouse or intimate partner of the complainant by a person with whom the complainant shares a child in"
+ },
+ {
+  "i": 1,
+  "n": 6,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Iowa",
+   "Nebraska",
+   "Ohio State",
+   "Rutgers",
+   "Washington"
+  ],
+  "words": 22,
+  "text": "has cohabitated with the complainant as a spouse or intimate partner by a person similarly situated to a spouse of the complainant"
+ },
+ {
+  "i": 2,
+  "n": 6,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Indiana",
+   "Iowa",
+   "Minnesota",
+   "Nebraska",
+   "Rutgers"
+  ],
+  "words": 17,
+  "text": "offensive that it effectively denies a person equal access to the universitys education program or activity sexual"
+ },
+ {
+  "i": 3,
+  "n": 5,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Michigan",
+   "Nebraska",
+   "Northwestern",
+   "Ohio State",
+   "Rutgers"
+  ],
+  "words": 23,
+  "text": "whether remedies designed to restore or preserve equal access to the universitys education program or activity will be provided by the university to"
+ },
+ {
+  "i": 4,
+  "n": 5,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Iowa",
+   "Nebraska",
+   "Ohio State",
+   "Rutgers"
+  ],
+  "words": 22,
+  "text": "a person with whom the complainant shares a child in common by a person who is cohabitating with or has cohabitated with"
+ },
+ {
+  "i": 5,
+  "n": 5,
+  "fed": 0.4,
+  "cat": "partial",
+  "schools": [
+   "Iowa",
+   "Nebraska",
+   "Ohio State",
+   "Rutgers",
+   "Washington"
+  ],
+  "words": 20,
+  "text": "locations events or circumstances over which the university exercises substantial control over both the respondent and the context in which"
+ },
+ {
+  "i": 6,
+  "n": 5,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Iowa",
+   "Nebraska",
+   "Ohio State",
+   "Rutgers",
+   "Washington"
+  ],
+  "words": 19,
+  "text": "a felony or misdemeanor crime of violence committed by a current or former spouse or intimate partner of the"
+ },
+ {
+  "i": 7,
+  "n": 4,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Indiana",
+   "Iowa",
+   "Northwestern"
+  ],
+  "words": 26,
+  "text": "at a specific person that would cause a reasonable person to fear for their safety or the safety of others or suffer substantial emotional distress for"
+ },
+ {
+  "i": 8,
+  "n": 4,
+  "fed": 0.43,
+  "cat": "partial",
+  "schools": [
+   "Iowa",
+   "Nebraska",
+   "Ohio State",
+   "Rutgers"
+  ],
+  "words": 26,
+  "text": "complainant under the domestic or family violence laws of the jurisdiction receiving grant monies or by any other person against an adult or youth complainant who"
+ },
+ {
+  "i": 9,
+  "n": 3,
+  "fed": 0.5,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Ohio State",
+   "Washington"
+  ],
+  "words": 23,
+  "text": "social relationship of a romantic or intimate nature with the complainant the existence of such a relationship will be determined based on the"
+ },
+ {
+  "i": 10,
+  "n": 3,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Iowa",
+   "Nebraska",
+   "Ohio State"
+  ],
+  "words": 21,
+  "text": "all members of the university community are expected to conduct themselves in a manner that maintains an environment free from sexual"
+ },
+ {
+  "i": 11,
+  "n": 3,
+  "fed": 0.5,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Minnesota",
+   "Washington"
+  ],
+  "words": 15,
+  "text": "by a student organization that is officially recognized by the university title ix sexual harassment"
+ },
+ {
+  "i": 12,
+  "n": 3,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Minnesota",
+   "Ohio State",
+   "Washington"
+  ],
+  "words": 15,
+  "text": "a course of conduct directed at a specific individual that would cause a reasonable person"
+ },
+ {
+  "i": 13,
+  "n": 3,
+  "fed": 0.83,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Nebraska",
+   "Ohio State"
+  ],
+  "words": 13,
+  "text": "any disciplinary sanctions or other actions that are not supportive measures against a"
+ },
+ {
+  "i": 14,
+  "n": 3,
+  "fed": 0.6,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Iowa",
+   "Nebraska"
+  ],
+  "words": 13,
+  "text": "stalking means engaging in a course of conduct directed at a specific person"
+ },
+ {
+  "i": 15,
+  "n": 3,
+  "fed": 0.6,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Iowa",
+   "Rutgers"
+  ],
+  "words": 13,
+  "text": "the purpose of interfering with any right or privilege secured by title ix"
+ },
+ {
+  "i": 16,
+  "n": 3,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Northwestern",
+   "Ohio State"
+  ],
+  "words": 12,
+  "text": "explicitly or implicitly a term or condition of an individuals employment or"
+ },
+ {
+  "i": 17,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Illinois",
+   "Iowa"
+  ],
+  "words": 50,
+  "text": "in evaluating whether coercion was used the university will consider 1 the frequency intensity and duration of the pressure 2 the degree of isolation of the person being pressured and 3 any actual or perceived power differential between the parties in the context of their respective roles within the university"
+ },
+ {
+  "i": 18,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Illinois",
+   "Ohio State"
+  ],
+  "words": 40,
+  "text": "purpose of sexual degradation sexual gratification or sexual humiliation the forced touching by the complainant of the actors clothed or unclothed body parts without consent of the complainant for the purpose of sexual degradation sexual gratification or sexual humiliation this"
+ },
+ {
+  "i": 19,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 37,
+  "text": "law with respect to alcohol and drugs intoxication and or impairment is not presumptively equivalent to incapacitation consent does not exist when the individual initiating sexual activity knew or should have known of the other individuals incapacitation"
+ },
+ {
+  "i": 20,
+  "n": 2,
+  "fed": 0.04,
+  "cat": "partial",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 34,
+  "text": "purpose examples of sexual exploitation include but are not limited to non consensual streaming audio or video recording photographing or transmitting intimate or sexual utterances sounds or images without consent of all parties involved"
+ },
+ {
+  "i": 21,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Nebraska",
+   "Rutgers"
+  ],
+  "words": 34,
+  "text": "shall be determined based on a consideration of the following factors i the length of the relationship ii the type of relationship iii the frequency of interaction between the persons involved in the relationship"
+ },
+ {
+  "i": 22,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Nebraska",
+   "Northwestern"
+  ],
+  "words": 32,
+  "text": "the department of educations office for civil rights regarding an alleged violation of title ix by visiting www2 ed gov about offices list ocr complaintintro html or calling 1 800 421 3481"
+ },
+ {
+  "i": 23,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Illinois",
+   "Iowa"
+  ],
+  "words": 28,
+  "text": "a decision not to participate in a particular sexual activity a decision to stop or a decision not to go beyond a certain sexual interaction continued pressure can"
+ },
+ {
+  "i": 24,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Northwestern"
+  ],
+  "words": 27,
+  "text": "respondent is not a member of the university community or is no longer affiliated with the university at the time of the report or at the time"
+ },
+ {
+  "i": 25,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 25,
+  "text": "consent cannot be assumed based on silence the absence of no or stop the existence of a prior or current relationship or prior sexual activity"
+ },
+ {
+  "i": 26,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 25,
+  "text": "allowing others to view sexual acts whether in person or via a video camera or other recording device without the consent of all parties involved"
+ },
+ {
+  "i": 27,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Indiana"
+  ],
+  "words": 22,
+  "text": "to or about a person or interferes with a persons property reasonable person means a reasonable person under similar circumstances and with"
+ },
+ {
+  "i": 28,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Iowa"
+  ],
+  "words": 22,
+  "text": "relationship of a romantic or intimate nature with the complainant and where the existence of such a relationship shall be determined based"
+ },
+ {
+  "i": 29,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Ohio State"
+  ],
+  "words": 22,
+  "text": "to sexual or physical abuse or the threat of such abuse dating violence does not include acts covered under the definition of"
+ },
+ {
+  "i": 30,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 22,
+  "text": "of the university on an individuals participation in unwelcome sexual conduct unwelcome conduct determined by a reasonable person to be so severe"
+ },
+ {
+  "i": 31,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 21,
+  "text": "unable to understand the facts nature extent or implications of the situation due to drugs alcohol a mental disability being asleep"
+ },
+ {
+  "i": 32,
+  "n": 2,
+  "fed": 0.5,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Rutgers"
+  ],
+  "words": 20,
+  "text": "complainant notifies the title ix coordinator in writing that they would like to withdraw the formal complaint or any allegations"
+ },
+ {
+  "i": 33,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Illinois",
+   "Northwestern"
+  ],
+  "words": 20,
+  "text": "consent to engage in sexual activity with one person does not constitute consent to engage in sexual activity with another"
+ },
+ {
+  "i": 34,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Northwestern",
+   "Rutgers"
+  ],
+  "words": 20,
+  "text": "this means that the investigation determines whether it is more likely than not that a violation of the policy occurred"
+ },
+ {
+  "i": 35,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 19,
+  "text": "that satisfies one or more of the following an employee of the university conditioning the provision of an aid"
+ },
+ {
+  "i": 36,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Iowa",
+   "Ohio State"
+  ],
+  "words": 19,
+  "text": "this policy defines expectations for the university community and establishes mechanisms for determining when those expectations have been violated"
+ },
+ {
+  "i": 37,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Northwestern"
+  ],
+  "words": 17,
+  "text": "when there is not enough information to proceed with a formal resolution process against a known respondent"
+ },
+ {
+  "i": 38,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 17,
+  "text": "faculty member university official or any other individual employed by or acting on behalf of the university"
+ },
+ {
+  "i": 39,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Iowa",
+   "Ohio State"
+  ],
+  "words": 17,
+  "text": "consent e g to understand the who what when where why or how of their sexual interaction"
+ },
+ {
+  "i": 40,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Iowa",
+   "Michigan"
+  ],
+  "words": 17,
+  "text": "affected the outcome of the matter new evidence that was not reasonably available at the time the"
+ },
+ {
+  "i": 41,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Michigan"
+  ],
+  "words": 16,
+  "text": "the scope of the universitys education program or activity how to conduct an investigation and grievance"
+ },
+ {
+  "i": 42,
+  "n": 2,
+  "fed": 0.75,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Ohio State"
+  ],
+  "words": 16,
+  "text": "intimidation threats coercion or discrimination against any individual for the purpose of interfering with any right"
+ },
+ {
+  "i": 43,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 16,
+  "text": "employees and other members of the university community to promote awareness of the problems caused by"
+ },
+ {
+  "i": 44,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Washington"
+  ],
+  "words": 16,
+  "text": "vii of the civil rights act of 1964 title ix of the education amendments of 1972"
+ },
+ {
+  "i": 45,
+  "n": 2,
+  "fed": 0.56,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Washington"
+  ],
+  "words": 16,
+  "text": "more acts including but not limited to acts in which the respondent directly indirectly or through"
+ },
+ {
+  "i": 46,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Iowa",
+   "Ohio State"
+  ],
+  "words": 16,
+  "text": "harassment and sexual misconduct preventing its recurrence eliminating any hostile environment and remedying its discriminatory effects"
+ },
+ {
+  "i": 47,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Michigan",
+   "Rutgers"
+  ],
+  "words": 16,
+  "text": "discuss any technology that will be used at the hearing and how to operate such technology"
+ },
+ {
+  "i": 48,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Nebraska",
+   "Ohio State"
+  ],
+  "words": 16,
+  "text": "unreasonably interferes with an individuals work performance or creates an intimidating hostile or offensive work environment"
+ },
+ {
+  "i": 49,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Nebraska",
+   "Northwestern"
+  ],
+  "words": 16,
+  "text": "measures designed to protect the safety of all parties or the universitys educational environment or deter"
+ },
+ {
+  "i": 50,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 15,
+  "text": "reasonably believes that the actor has the present or future ability to execute the threat"
+ },
+ {
+  "i": 51,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Iowa",
+   "Ohio State"
+  ],
+  "words": 15,
+  "text": "members of the university community have the right to be free from all forms of"
+ },
+ {
+  "i": 52,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Michigan",
+   "Rutgers"
+  ],
+  "words": 15,
+  "text": "repairing harm to the extent possible experienced by the complainant and or the university community"
+ },
+ {
+  "i": 53,
+  "n": 2,
+  "fed": 0.62,
+  "cat": "federal",
+  "schools": [
+   "Northwestern",
+   "Rutgers"
+  ],
+  "words": 15,
+  "text": "education programs or activities without unreasonably burdening the other party including measures designed to protect"
+ },
+ {
+  "i": 54,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Ohio State",
+   "Rutgers"
+  ],
+  "words": 15,
+  "text": "consent can be given by words or actions as long as those words or actions"
+ },
+ {
+  "i": 55,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Northwestern"
+  ],
+  "words": 14,
+  "text": "is initiated including when the respondent has graduated or left the university the university"
+ },
+ {
+  "i": 56,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Northwestern"
+  ],
+  "words": 14,
+  "text": "subjective belief that behavior is intimidating hostile or offensive does not make that behavior"
+ },
+ {
+  "i": 57,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Northwestern"
+  ],
+  "words": 14,
+  "text": "the context nature scope frequency duration and location of incidents as well as the"
+ },
+ {
+  "i": 58,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Rutgers"
+  ],
+  "words": 14,
+  "text": "notify the other party in writing that an appeal has been filed and the"
+ },
+ {
+  "i": 59,
+  "n": 2,
+  "fed": 0.4,
+  "cat": "partial",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 14,
+  "text": "this policy against a respondent and requesting that the university investigate the allegation confidential"
+ },
+ {
+  "i": 60,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 14,
+  "text": "consent of all parties involved engaging in any form of voyeurism e g peeping"
+ },
+ {
+  "i": 61,
+  "n": 2,
+  "fed": 0.14,
+  "cat": "partial",
+  "schools": [
+   "Iowa",
+   "Rutgers"
+  ],
+  "words": 14,
+  "text": "any witness except as permitted by the family educational rights and privacy act ferpa"
+ },
+ {
+  "i": 62,
+  "n": 2,
+  "fed": 0.5,
+  "cat": "federal",
+  "schools": [
+   "Iowa",
+   "Nebraska"
+  ],
+  "words": 14,
+  "text": "or sexual misconduct but arise out of the same facts or circumstances as a"
+ },
+ {
+  "i": 63,
+  "n": 2,
+  "fed": 0.25,
+  "cat": "partial",
+  "schools": [
+   "Iowa",
+   "Michigan"
+  ],
+  "words": 14,
+  "text": "parties if known the date and location of the alleged incident s if known"
+ },
+ {
+  "i": 64,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Michigan",
+   "Ohio State"
+  ],
+  "words": 14,
+  "text": "the availability of information or evidence suggesting that a policy violation may have occurred"
+ },
+ {
+  "i": 65,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Michigan",
+   "Northwestern"
+  ],
+  "words": 14,
+  "text": "names of additional witnesses or any other information they deem relevant to the investigator"
+ },
+ {
+  "i": 66,
+  "n": 2,
+  "fed": 0.5,
+  "cat": "federal",
+  "schools": [
+   "Minnesota",
+   "Northwestern"
+  ],
+  "words": 14,
+  "text": "are or have been in a social relationship of a romantic or intimate nature"
+ },
+ {
+  "i": 67,
+  "n": 2,
+  "fed": 0.67,
+  "cat": "federal",
+  "schools": [
+   "Nebraska",
+   "Ohio State"
+  ],
+  "words": 14,
+  "text": "the university will maintain as confidential any supportive measures provided to the complainant or"
+ },
+ {
+  "i": 68,
+  "n": 2,
+  "fed": 0.5,
+  "cat": "federal",
+  "schools": [
+   "Nebraska",
+   "Rutgers"
+  ],
+  "words": 14,
+  "text": "as required by law or to carry out the purposes of title ix including"
+ },
+ {
+  "i": 69,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Illinois",
+   "Rutgers"
+  ],
+  "words": 13,
+  "text": "to comply with title ix of the education amendments of 1972 title ix"
+ },
+ {
+  "i": 70,
+  "n": 2,
+  "fed": 0.67,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Nebraska"
+  ],
+  "words": 13,
+  "text": "title ix sexual harassment means conduct on the basis of sex that satisfies"
+ },
+ {
+  "i": 71,
+  "n": 2,
+  "fed": 0.75,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Indiana"
+  ],
+  "words": 13,
+  "text": "instances where the complainant is incapable of giving consent because of age or"
+ },
+ {
+  "i": 72,
+  "n": 2,
+  "fed": 0.75,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Indiana"
+  ],
+  "words": 13,
+  "text": "incest nonforcible sexual intercourse between persons who are related to each other within"
+ },
+ {
+  "i": 73,
+  "n": 2,
+  "fed": 0.67,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Ohio State"
+  ],
+  "words": 13,
+  "text": "does not include acts covered under the definition of domestic violence domestic violence"
+ },
+ {
+  "i": 74,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Illinois",
+   "Ohio State"
+  ],
+  "words": 13,
+  "text": "any person or group within the scope of this policy who engages in"
+ },
+ {
+  "i": 75,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Illinois",
+   "Iowa"
+  ],
+  "words": 13,
+  "text": "university policy and can be subject to disciplinary action for failure to comply"
+ },
+ {
+  "i": 76,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Northwestern"
+  ],
+  "words": 13,
+  "text": "resolution if a complaint is later made or additional information is received by"
+ },
+ {
+  "i": 77,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Rutgers"
+  ],
+  "words": 13,
+  "text": "the jeanne clery disclosure of campus security policy and campus crime statistics act"
+ },
+ {
+  "i": 78,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 13,
+  "text": "in fear of death or in fear of serious personal injury to the"
+ },
+ {
+  "i": 79,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 13,
+  "text": "for any purpose including sexual gratification financial gain personal benefit or any other"
+ },
+ {
+  "i": 80,
+  "n": 2,
+  "fed": 0.75,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Ohio State"
+  ],
+  "words": 13,
+  "text": "or limits an individuals ability to participate in or benefit from the universitys"
+ },
+ {
+  "i": 81,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 13,
+  "text": "from the perspective of a reasonable person in the same or similar circumstances"
+ },
+ {
+  "i": 82,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Iowa",
+   "Ohio State"
+  ],
+  "words": 13,
+  "text": "including third parties when the respondent is a member of the university community"
+ },
+ {
+  "i": 83,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Iowa",
+   "Ohio State"
+  ],
+  "words": 13,
+  "text": "cannot make rational reasonable decisions because they lack the capacity to give knowing"
+ },
+ {
+  "i": 84,
+  "n": 2,
+  "fed": 0.67,
+  "cat": "federal",
+  "schools": [
+   "Iowa",
+   "Ohio State"
+  ],
+  "words": 13,
+  "text": "complainant including instances where the complainant is incapable of giving consent sexual assault"
+ },
+ {
+  "i": 85,
+  "n": 2,
+  "fed": 0.8,
+  "cat": "federal",
+  "schools": [
+   "Iowa",
+   "Nebraska"
+  ],
+  "words": 13,
+  "text": "or discriminating against any individual for the purpose of interfering with any right"
+ },
+ {
+  "i": 86,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Iowa",
+   "Rutgers"
+  ],
+  "words": 13,
+  "text": "complainant does not wish to make a formal complaint the title ix coordinator"
+ },
+ {
+  "i": 87,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Michigan",
+   "Rutgers"
+  ],
+  "words": 13,
+  "text": "including the number of witnesses and volume of information provided by the parties"
+ },
+ {
+  "i": 88,
+  "n": 2,
+  "fed": 0.4,
+  "cat": "partial",
+  "schools": [
+   "Michigan",
+   "Rutgers"
+  ],
+  "words": 13,
+  "text": "the investigation that is directly related to the allegations in the formal complaint"
+ },
+ {
+  "i": 89,
+  "n": 2,
+  "fed": 0.5,
+  "cat": "federal",
+  "schools": [
+   "Nebraska",
+   "Ohio State"
+  ],
+  "words": 13,
+  "text": "title ix against a respondent and requesting that the university investigate the allegation"
+ },
+ {
+  "i": 90,
+  "n": 2,
+  "fed": 0.75,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Ohio State"
+  ],
+  "words": 12,
+  "text": "process before the imposition of any disciplinary sanctions or other actions that"
+ },
+ {
+  "i": 91,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Indiana"
+  ],
+  "words": 12,
+  "text": "rape penetration no matter how slight of the vagina or anus with"
+ },
+ {
+  "i": 92,
+  "n": 2,
+  "fed": 0.8,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Indiana"
+  ],
+  "words": 12,
+  "text": "nonforcible sexual intercourse with a person who is under the statutory age"
+ },
+ {
+  "i": 93,
+  "n": 2,
+  "fed": 0.8,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Iowa"
+  ],
+  "words": 12,
+  "text": "means violence committed by a person who is or has been in"
+ },
+ {
+  "i": 94,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Ohio State"
+  ],
+  "words": 12,
+  "text": "conduct by an individual is used as the basis for employment or"
+ },
+ {
+  "i": 95,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Illinois",
+   "Ohio State"
+  ],
+  "words": 12,
+  "text": "retaliation is subject to a separate complaint of retaliation under this policy"
+ },
+ {
+  "i": 96,
+  "n": 2,
+  "fed": 0.86,
+  "cat": "federal",
+  "schools": [
+   "Illinois",
+   "Northwestern"
+  ],
+  "words": 12,
+  "text": "are non disciplinary non punitive individualized services offered as appropriate as reasonably"
+ },
+ {
+  "i": 97,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Michigan"
+  ],
+  "words": 12,
+  "text": "based on an assessment of whether the previous or subsequent conduct was"
+ },
+ {
+  "i": 98,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 12,
+  "text": "consent cannot be coerced or compelled by force threat deception or intimidation"
+ },
+ {
+  "i": 99,
+  "n": 2,
+  "fed": 0.5,
+  "cat": "federal",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 12,
+  "text": "by a respondent and requesting that the university investigate the allegation s"
+ },
+ {
+  "i": 100,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Nebraska"
+  ],
+  "words": 12,
+  "text": "an individuals status in a particular situation shall be determined by the"
+ },
+ {
+  "i": 101,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Indiana",
+   "Iowa"
+  ],
+  "words": 12,
+  "text": "800 421 3481 fax 202 453 6012 tdd 877 521 2172 email"
+ },
+ {
+  "i": 102,
+  "n": 2,
+  "fed": 0.67,
+  "cat": "federal",
+  "schools": [
+   "Iowa",
+   "Rutgers"
+  ],
+  "words": 12,
+  "text": "absence increased security and monitoring of certain areas of the campus any"
+ },
+ {
+  "i": 103,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Michigan",
+   "Rutgers"
+  ],
+  "words": 12,
+  "text": "who has no affiliation with the university the universitys ability to take"
+ },
+ {
+  "i": 104,
+  "n": 2,
+  "fed": 0,
+  "cat": "none",
+  "schools": [
+   "Nebraska",
+   "Ohio State"
+  ],
+  "words": 12,
+  "text": "a an employee of the university conditioning the provision of an aid"
+ },
+ {
+  "i": 105,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Nebraska",
+   "Ohio State"
+  ],
+  "words": 12,
+  "text": "b unwelcome conduct determined by a reasonable person to be so severe"
+ },
+ {
+  "i": 106,
+  "n": 2,
+  "fed": 1.0,
+  "cat": "federal",
+  "schools": [
+   "Nebraska",
+   "Rutgers"
+  ],
+  "words": 12,
+  "text": "person that would cause a reasonable person to a fear for their"
+ },
+ {
+  "i": 107,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Northwestern",
+   "Washington"
+  ],
+  "words": 12,
+  "text": "university is committed to fostering an environment in which all members of"
+ },
+ {
+  "i": 108,
+  "n": 2,
+  "fed": 0.33,
+  "cat": "partial",
+  "schools": [
+   "Northwestern",
+   "Ohio State"
+  ],
+  "words": 12,
+  "text": "will provide the respondent with notice and an opportunity to challenge the"
+ },
+ {
+  "i": 109,
+  "n": 2,
+  "fed": 0.0,
+  "cat": "none",
+  "schools": [
+   "Northwestern",
+   "Rutgers"
+  ],
+  "words": 12,
+  "text": "sanctions imposed on the respondent that directly relate to the complainant and"
+ }
+]

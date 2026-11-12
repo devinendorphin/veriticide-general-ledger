@@ -1,0 +1,183 @@
+{
+ "A": {
+  "level": "A",
+  "sources": [
+   "reg2020.txt",
+   "reg2025.txt"
+  ],
+  "shared_nonmandated_shingles": 956,
+  "n_clusters": 114,
+  "clusters_by_breadth": {
+   "2": 87,
+   "3": 11,
+   "4": 3,
+   "5": 5,
+   "6": 7,
+   "7": 1
+  },
+  "words_in_clusters_3plus": 700,
+  "per_school": {
+   "Illinois": {
+    "pct_mandated": 3.3,
+    "pct_shared_nonmandated": 5.52
+   },
+   "Indiana": {
+    "pct_mandated": 0.3,
+    "pct_shared_nonmandated": 2.25
+   },
+   "Iowa": {
+    "pct_mandated": 1.3,
+    "pct_shared_nonmandated": 1.57
+   },
+   "Michigan": {
+    "pct_mandated": 1.4,
+    "pct_shared_nonmandated": 0.33
+   },
+   "Minnesota": {
+    "pct_mandated": 1.2,
+    "pct_shared_nonmandated": 3.37
+   },
+   "Nebraska": {
+    "pct_mandated": 13.1,
+    "pct_shared_nonmandated": 7.68
+   },
+   "Northwestern": {
+    "pct_mandated": 0.6,
+    "pct_shared_nonmandated": 0.64
+   },
+   "Ohio State": {
+    "pct_mandated": 5.5,
+    "pct_shared_nonmandated": 3.01
+   },
+   "Rutgers": {
+    "pct_mandated": 1.9,
+    "pct_shared_nonmandated": 1.18
+   },
+   "Washington": {
+    "pct_mandated": 0.7,
+    "pct_shared_nonmandated": 2.18
+   }
+  }
+ },
+ "B": {
+  "level": "B",
+  "sources": [
+   "reg2020.txt",
+   "reg2025.txt"
+  ],
+  "shared_nonmandated_shingles": 850,
+  "n_clusters": 108,
+  "clusters_by_breadth": {
+   "2": 84,
+   "3": 11,
+   "4": 2,
+   "5": 4,
+   "6": 6,
+   "7": 1
+  },
+  "words_in_clusters_3plus": 597,
+  "per_school": {
+   "Illinois": {
+    "pct_mandated": 4.1,
+    "pct_shared_nonmandated": 5.66
+   },
+   "Indiana": {
+    "pct_mandated": 0.4,
+    "pct_shared_nonmandated": 2.19
+   },
+   "Iowa": {
+    "pct_mandated": 1.4,
+    "pct_shared_nonmandated": 1.58
+   },
+   "Michigan": {
+    "pct_mandated": 1.5,
+    "pct_shared_nonmandated": 0.26
+   },
+   "Minnesota": {
+    "pct_mandated": 1.9,
+    "pct_shared_nonmandated": 2.62
+   },
+   "Nebraska": {
+    "pct_mandated": 15.3,
+    "pct_shared_nonmandated": 6.66
+   },
+   "Northwestern": {
+    "pct_mandated": 0.7,
+    "pct_shared_nonmandated": 0.64
+   },
+   "Ohio State": {
+    "pct_mandated": 6.6,
+    "pct_shared_nonmandated": 2.64
+   },
+   "Rutgers": {
+    "pct_mandated": 2.0,
+    "pct_shared_nonmandated": 1.11
+   },
+   "Washington": {
+    "pct_mandated": 0.8,
+    "pct_shared_nonmandated": 2.14
+   }
+  }
+ },
+ "C": {
+  "level": "C",
+  "sources": [
+   "reg2020.txt",
+   "reg2025.txt",
+   "clery_subD.txt",
+   "eeoc.txt"
+  ],
+  "shared_nonmandated_shingles": 665,
+  "n_clusters": 110,
+  "clusters_by_breadth": {
+   "2": 93,
+   "3": 8,
+   "4": 2,
+   "5": 4,
+   "6": 3
+  },
+  "words_in_clusters_3plus": 322,
+  "per_school": {
+   "Illinois": {
+    "pct_mandated": 6.2,
+    "pct_shared_nonmandated": 3.74
+   },
+   "Indiana": {
+    "pct_mandated": 1.3,
+    "pct_shared_nonmandated": 1.49
+   },
+   "Iowa": {
+    "pct_mandated": 1.9,
+    "pct_shared_nonmandated": 1.17
+   },
+   "Michigan": {
+    "pct_mandated": 1.5,
+    "pct_shared_nonmandated": 0.26
+   },
+   "Minnesota": {
+    "pct_mandated": 3.4,
+    "pct_shared_nonmandated": 1.2
+   },
+   "Nebraska": {
+    "pct_mandated": 17.9,
+    "pct_shared_nonmandated": 4.86
+   },
+   "Northwestern": {
+    "pct_mandated": 0.9,
+    "pct_shared_nonmandated": 0.49
+   },
+   "Ohio State": {
+    "pct_mandated": 8.0,
+    "pct_shared_nonmandated": 1.64
+   },
+   "Rutgers": {
+    "pct_mandated": 2.3,
+    "pct_shared_nonmandated": 0.89
+   },
+   "Washington": {
+    "pct_mandated": 1.8,
+    "pct_shared_nonmandated": 1.14
+   }
+  }
+ }
+}
