@@ -80,7 +80,7 @@ A complete record has six tracks. You do not need all six to begin, and a record
 |---|---|
 | 1. Concealment | Euphemism / bureaucratic abstraction; Unfalsifiable overlay (nothing surfaced to check) |
 | 2. Denial | Self-evidence assertion (incl. the bare-verdict form — "no one has died"); Unfalsifiable overlay (self-sealing) |
-| 3. Fragmentation | Euphemism / bureaucratic abstraction (each slice reads as ordinary, locally-defensible routine) |
+| 3. Fragmentation | Euphemism / bureaucratic abstraction (each slice reads as ordinary, locally-defensible routine). *Named sub-form:* **fragmenting violence** — several reports about one actor assessed separately, each barred from the others (Pattern Registry Entry 18) |
 | 4. Reframing as benefit *(core)* | **Care-register reframing + Benefit reframe** — the two language moves that *are* the linguistic form of this conduct; the tightest correspondence in the table |
 | 5. Attribution to the victim | Care-register reframing (reverse variant: pathologizing the harmed / their empathy); Benefit reframe (asymmetry tell) |
 | 6. Discrediting testimony | **Disqualification of dissent** (direct); Self-evidence assertion — **and this is where the thirteen Tier-4 moves live as sub-forms** |

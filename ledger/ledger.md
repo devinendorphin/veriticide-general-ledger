@@ -7538,6 +7538,119 @@ store, original-form captured/hashed 2026-06-29); Section IX Track F entry TF-00
 
 ---
 
+### Entry 18: Fragmenting Violence — One Actor's Pattern Severed Into Individually Dismissable Cases
+
+*Entry completed 2026-11-12, at the operator's direction. Source: Dr. Nicole Bedera's year of fieldwork
+inside one university's Title IX office (published as* On the Wrong Side*), as she described it on*
+Something Was Wrong *S25 E4; the term "fragmenting violence" is hers. Mapped onto the framework by a
+Claude instance from the coercive-harm-framework study (`research/sww-corpus/results/DATA-POINTS.md`).
+Analyst stake declared: the mapping instance earlier discounted this researcher's findings by speaker
+before the operator corrected it (coercive-harm-framework self-audit, lean log 10). Not a new move: a
+named, documented sub-form of **Protocol conduct move 3 (Fragmentation)**, as the thirteen Tier-4 moves
+are sub-forms of row 6.*
+
+---
+
+**Thesis**
+
+*Definition — Fragmenting Violence:* a procedural move in which a body that receives **several reports
+about one actor** (from one person harmed in several ways, or from several people) **assesses each
+report in isolation and bars the evidence of one from the others**, so that a pattern which would be
+plain in aggregate is converted into a series of small, individually insufficient cases, each of which
+can be closed.
+
+It is the procedural refusal of Convention **Article IV(1)** (pattern evidence admissible) inside an
+institution's own process. Article IV exists because laundering is "designed to be undiscernable in any
+single instance"; fragmenting violence is how an institution keeps every instance single.
+
+---
+
+**The anchor specimen — a university Title IX office ("Western University", one year of fieldwork)**
+
+| Component | Move | What the record shows (her fieldwork, `[SUPPORTED]`: published expert field research) |
+|---|---|---|
+| Multiple reports, one actor | predicate | Concerns arrived "from one victim who had been hurt so many different ways by one perpetrator" or "from many victims who had been hurt by the same serial perpetrator." |
+| **Severance** | Protocol Move 3 | Staff "would separate them all off individually and say that any evidence given to one case probably couldn't be used in another case." *The load-bearing element.* |
+| Dismissal in pieces | Ledger Move 5 (euphemism / bureaucratic abstraction) | "Only going to look at one piece at a time … these little tiny, easily dismissable pieces"; each slice reads as routine case-by-case procedure. |
+| Benefit to the actor | outcome | "huge benefits for some of the most prolific perpetrators on a college campus." |
+| **Asymmetry** | II(2)(d) | A star student faced "multiple Title IX cases"; a professor with "no knowledge of the violence at all" submitted statements in his support, "the kind of evidence that shouldn't be admissible at all" (same fieldwork). *Analyst's inference, not her stated finding:* favorable character evidence entered the same process that kept each complainant's evidence to her own case. |
+
+---
+
+**Corroboration across the coercive-harm-framework corpus (instances, not proof of frequency)**
+
+- *Something Was Wrong* S22 (close-read): police "handled victims one at a time until the group pooled
+  them"; the pooled group, not the police, assembled the pattern.
+- S25 E7 (Dr. Katherine Holland): the Nassar case "had been investigated by Title IX. People had already
+  reported. It did not solve that problem." Reports existed; a pattern was not assembled.
+- S19 E13 (Jennifer Khalifa): a rape report kept "on record and on file for him forever", while others
+  in his church community knew of earlier conduct with minors; no body joined them.
+- **Reflexive instance.** The study's own first instrument cut testimony into three-sentence segments
+  judged alone and found institutional responses "appropriate" in 63 % of segments; followed whole, about
+  one person in five ended protected. The coercive-harm-framework self-audit recorded the segmenting as a
+  copy of "treating each report as an isolated incident" before this term was read. *An analyst can
+  perform the move with good intent; the structure, not the motive, is what the entry names.*
+
+---
+
+**Diagnostic (falsifiable, three parts)**
+
+1. More than one report about the same actor reached the **same body**.
+2. That body **assessed them separately and excluded each from the others** as evidence.
+3. The exclusion is **not matched** by an equivalent limit the same body applies to the accused's side
+   (for example, it admits character or reputation evidence *for* the actor), or by a rule the body applies
+   evenhandedly in its other proceedings.
+
+Parts 1–2 alone describe ordinary case management. The **conjunction with 3** is the named move.
+
+---
+
+**ADVERSARIAL CHECK**
+
+*Strongest good-faith reading:* case-by-case adjudication protects the accused from guilt by accumulation;
+propensity is not proof of a particular event (coercive-harm-framework, S22 hard case: a record of
+fabrication must not become automatic disbelief, and the same holds in reverse); several weak reports do
+not make one strong one; and courts limit prior-act evidence for these reasons.
+
+*Why it does not dispose of the entry:* (a) the entry does not claim that several reports prove any one
+event; it names the **refusal to look at them together** when the question is whether a pattern exists,
+which is the question Article IV assigns to aggregate evidence. (b) Courts do not uniformly sever: US
+federal rules admit evidence of other sexual assaults in sexual-assault cases (Federal Rules of Evidence
+413, criminal, and 415, civil) `[ESTABLISHED: rule text]`, and the fieldwork itself contrasts the Title IX
+practice with "the criminal and civil justice systems", which handle such reports "as a collective" more
+commonly. (c) Part 3 (asymmetry) is what separates a fair limit from the move: a body that bars pattern
+evidence against the actor while admitting favorable character evidence for him is not applying a neutral
+rule.
+
+**COUNTER-EVIDENCE STATUS**
+
+Pooling did occur in the corpus: S17 (*Something Was Wrong*) admitted one earlier victim's injuries as
+prior-act evidence; S22's police acted once the group pooled complainants. These are CONTROL-type
+instances for this move (pattern evidence used), recorded here as counter-register. No CONTROL entry exists
+for the anchor institution. *Falsification condition at the anchor:* a showing that the office joined
+multi-report cases about one actor, or applied the same evidentiary isolation to favorable evidence for the
+accused.
+
+**BOUNDARY**
+
+What this establishes: a named sub-form of Protocol Move 3 with a three-part falsifiable diagnostic,
+anchored in one researcher's published fieldwork at one institution and corroborated by instances in the
+*Something Was Wrong* corpus. What it does NOT establish: how common the practice is across institutions;
+intent (the charge is the structure); that any particular accused person was responsible for any
+particular act (step one only: a basis to demand disclosure of how multi-report cases are handled); or that
+pooling evidence is always fair to the accused. No individual is named except Nassar (convicted, public
+record).
+
+**Cross-references:** Protocol conduct move 3 (Fragmentation) and the crosswalk (implemented in language by
+Move 5, euphemism / bureaucratic abstraction); Convention Art. IV(1) (pattern evidence admissible — the
+article this move defeats), Art. IV(3) (dismissal of pattern evidence as a further act), Art. II(2)(d)
+(discernment defeat); Pattern Registry Entry 17 (Performed Ignorance — sibling: unknowability manufactured
+over held evidence) and Entry 16 (Redaction Inversion — sibling procedural inversion); coercive-harm-
+framework `research/sww-corpus/results/DATA-POINTS.md` (source notes, the four long expert episodes) and
+`SELF-AUDIT-2026-11-01.md` (the reflexive instance).
+
+---
+
 ## SECTION IV — GAP REGISTER
 
 ### Open items requiring sourcing or additional capture
