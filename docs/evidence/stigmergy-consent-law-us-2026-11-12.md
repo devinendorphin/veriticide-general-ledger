@@ -518,3 +518,40 @@ the 1980 chart, so the Model Penal Code "ordinary resolution" descendant was pre
 - **Michigan family:** holds for "criminal sexual conduct" and "force or coercion"; refuted for "personal
   injury" (Florida, relayed).
 - **Still open:** New York's original 1965 wording of "lack of consent results from" (§130.05(2)).
+
+### Step 5: New York's original §130.05 wording — searched, not found (2026-11-12)
+
+**Not obtained.** No full text of §130.05 as enacted by L.1965 c.1030 was reachable from this container:
+- CourtListener opinion pages return empty to direct fetch;
+- Google Books' API was over a shared quota;
+- the Internet Archive has no matching printing;
+- HathiTrust's full-text search is behind a Cloudflare JavaScript check, which was not bypassed;
+- web search returns only current and post-2006 texts.
+
+**What the 1965–1977 New York case law (CourtListener search snippets) does establish:**
+- **Subdivision structure by 1968–1972.**
+  - *People v. Bullis* (App. Div., Oct. 31, 1968) quotes "section 130.05 (subd. 3, par. [a]) 'A person is
+    deemed incapable…'".
+  - *People v. Hayden* (1972) cites "§ 130.05, subd. 1" for lack of consent as an element of each degree of
+    sexual abuse.
+  - *People v. McEaddy* (N.Y. 1972) cites "§ 130.05, subd. 2, par. [a]" alongside the forcible-compulsion
+    offense.
+  - So by 1972, subdivision 2 was a lettered list whose paragraph (a) was forcible compulsion, matching the
+    current "Lack of consent results from: (a) Forcible compulsion; (b) Incapacity to consent; …".
+  - The exact lead-in words are **not confirmed** for 1965. `[SUPPORTED as to structure; HYPOTHESIS as to
+    wording]`
+- **Amendments since:**
+  - a second 1965 chapter (c.1038) amended §130.05 before the 1967 effective date (search-result report;
+    contents unread);
+  - paragraph (d), "clearly expressed", was added by L.2000 c.1 §45 (secondary: court opinion and 2025 bill
+    text).
+- **Negative finding:** no New York opinion filed 1965–1977 contains "impliedly acquiesce", the wording of
+  current paragraph (c). Paragraph (c)'s present wording may therefore be later than 1965, but absence from
+  the case-law snippets is weak evidence.
+
+**Effect on the lineage test:** none. Kentucky's "lack of consent results from" dates from its 1974 code
+(Bienen), and the relayed Washington 1974 draft also has it. Both are after 1965 whichever way New York's
+original wording reads.
+
+**Where it can be read:** *Laws of New York 1965*, ch. 1030 §130.05 and ch. 1038 (session laws, likely full
+view on HathiTrust), or McKinney's Penal Law pamphlet (1967), opened in an ordinary browser.
