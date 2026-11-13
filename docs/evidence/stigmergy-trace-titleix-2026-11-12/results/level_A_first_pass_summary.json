@@ -1,0 +1,143 @@
+{
+ "n_schools": 10,
+ "per_school": {
+  "Illinois": {
+   "words": 5422,
+   "shingles": 5162,
+   "pct_rule2020": 3.0,
+   "pct_rule2025": 0.9,
+   "pct_either": 3.3,
+   "pct_clery": 1.6
+  },
+  "Indiana": {
+   "words": 25546,
+   "shingles": 18027,
+   "pct_rule2020": 0.2,
+   "pct_rule2025": 0.1,
+   "pct_either": 0.3,
+   "pct_clery": 0.7
+  },
+  "Iowa": {
+   "words": 24742,
+   "shingles": 24265,
+   "pct_rule2020": 1.1,
+   "pct_rule2025": 0.2,
+   "pct_either": 1.3,
+   "pct_clery": 0.2
+  },
+  "Michigan": {
+   "words": 14971,
+   "shingles": 14088,
+   "pct_rule2020": 1.4,
+   "pct_rule2025": 0.2,
+   "pct_either": 1.4,
+   "pct_clery": 0.0
+  },
+  "Minnesota": {
+   "words": 1516,
+   "shingles": 1334,
+   "pct_rule2020": 1.2,
+   "pct_rule2025": 0.1,
+   "pct_either": 1.2,
+   "pct_clery": 1.0
+  },
+  "Nebraska": {
+   "words": 5031,
+   "shingles": 4793,
+   "pct_rule2020": 12.4,
+   "pct_rule2025": 1.2,
+   "pct_either": 13.1,
+   "pct_clery": 1.7
+  },
+  "Northwestern": {
+   "words": 20217,
+   "shingles": 19798,
+   "pct_rule2020": 0.4,
+   "pct_rule2025": 0.3,
+   "pct_either": 0.6,
+   "pct_clery": 0.0
+  },
+  "Ohio State": {
+   "words": 12940,
+   "shingles": 12375,
+   "pct_rule2020": 5.3,
+   "pct_rule2025": 0.7,
+   "pct_either": 5.5,
+   "pct_clery": 1.0
+  },
+  "Rutgers": {
+   "words": 16302,
+   "shingles": 16125,
+   "pct_rule2020": 1.6,
+   "pct_rule2025": 0.4,
+   "pct_either": 1.9,
+   "pct_clery": 0.3
+  },
+  "Washington": {
+   "words": 4846,
+   "shingles": 4809,
+   "pct_rule2020": 0.5,
+   "pct_rule2025": 0.3,
+   "pct_either": 0.7,
+   "pct_clery": 1.0
+  }
+ },
+ "shared_nonmandated_shingles": 956,
+ "shared_in_clery": 99,
+ "pairs": {
+  "Iowa|Nebraska": 171,
+  "Indiana|Ohio State": 157,
+  "Indiana|Iowa": 134,
+  "Illinois|Iowa": 133,
+  "Nebraska|Ohio State": 132,
+  "Indiana|Nebraska": 131,
+  "Iowa|Ohio State": 117,
+  "Nebraska|Rutgers": 109,
+  "Illinois|Ohio State": 99,
+  "Illinois|Indiana": 92,
+  "Iowa|Rutgers": 81,
+  "Indiana|Washington": 70,
+  "Ohio State|Rutgers": 50,
+  "Ohio State|Washington": 50,
+  "Illinois|Nebraska": 47,
+  "Indiana|Northwestern": 44,
+  "Illinois|Northwestern": 41,
+  "Illinois|Washington": 41,
+  "Nebraska|Northwestern": 41,
+  "Illinois|Minnesota": 36,
+  "Northwestern|Ohio State": 27,
+  "Indiana|Rutgers": 26,
+  "Minnesota|Ohio State": 25,
+  "Indiana|Minnesota": 24,
+  "Iowa|Washington": 19,
+  "Nebraska|Washington": 19,
+  "Iowa|Northwestern": 18,
+  "Illinois|Rutgers": 16,
+  "Michigan|Rutgers": 16,
+  "Michigan|Ohio State": 15,
+  "Minnesota|Washington": 14,
+  "Northwestern|Rutgers": 14,
+  "Iowa|Minnesota": 12,
+  "Minnesota|Nebraska": 12,
+  "Rutgers|Washington": 12,
+  "Illinois|Michigan": 10,
+  "Iowa|Michigan": 9,
+  "Minnesota|Northwestern": 5,
+  "Minnesota|Rutgers": 5,
+  "Michigan|Northwestern": 3,
+  "Northwestern|Washington": 2,
+  "Indiana|Michigan": 1,
+  "Michigan|Minnesota": 0,
+  "Michigan|Nebraska": 0,
+  "Michigan|Washington": 0
+ },
+ "n_clusters": 114,
+ "clusters_by_breadth": {
+  "7": 1,
+  "6": 7,
+  "5": 5,
+  "4": 3,
+  "3": 11,
+  "2": 87
+ }
+}

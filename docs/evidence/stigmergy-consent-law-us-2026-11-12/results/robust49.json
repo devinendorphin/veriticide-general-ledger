@@ -1,0 +1,79 @@
+{
+ "primary": {
+  "n_markers": 21,
+  "n_states": 49,
+  "diff": 0.305,
+  "p": 0.0002
+ },
+ "drop family AFF": {
+  "n_markers": 17,
+  "n_states": 49,
+  "diff": 0.283,
+  "p": 0.0002
+ },
+ "drop family CL": {
+  "n_markers": 20,
+  "n_states": 49,
+  "diff": 0.294,
+  "p": 0.0002
+ },
+ "drop family FED": {
+  "n_markers": 18,
+  "n_states": 49,
+  "diff": 0.347,
+  "p": 0.0002
+ },
+ "drop family MI": {
+  "n_markers": 17,
+  "n_states": 49,
+  "diff": 0.316,
+  "p": 0.0002
+ },
+ "drop family MPC": {
+  "n_markers": 17,
+  "n_states": 49,
+  "diff": 0.306,
+  "p": 0.0002
+ },
+ "drop family NY": {
+  "n_markers": 16,
+  "n_states": 49,
+  "diff": 0.279,
+  "p": 0.0002
+ },
+ "collapse NY incapacity trio to one": {
+  "n_markers": 19,
+  "n_states": 49,
+  "diff": 0.27,
+  "p": 0.0002
+ },
+ "drop markers in >50% of states": {
+  "n_markers": 20,
+  "n_states": 49,
+  "diff": 0.331,
+  "p": 0.0002
+ },
+ "only states whose text includes a definitions section": {
+  "n_markers": 20,
+  "n_states": 34,
+  "diff": 0.359,
+  "p": 0.0002
+ },
+ "  (states lacking one)": [
+  "AR",
+  "CT",
+  "FL",
+  "GA",
+  "ID",
+  "IN",
+  "KS",
+  "LA",
+  "MA",
+  "MD",
+  "MS",
+  "NM",
+  "SD",
+  "TN",
+  "UT"
+ ]
+}

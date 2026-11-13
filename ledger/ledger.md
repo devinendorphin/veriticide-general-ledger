@@ -6073,6 +6073,77 @@ What would falsify it: Evidence that the layers do not reinforce each other as d
 
 ---
 
+### Entry 2 — Addendum: Convergence Without Collusion — Shared Incentives and Stigmergy
+
+*Added 2026-11-12, at the operator's correction: "coordination is a straw man … all [it] needs is a set of
+incentives and they don't need to communicate if they share those incentives … a whole group of people …
+[can] act as though they're working as one organism because they are all operating under the same
+incentives of keeping power … and they can act stigmergically." Drafted by a Claude instance.*
+
+**The correction.** The ledger has disclaimed "coordination" (CLAUDE.md; the Cluster 6 EA entry's BOUNDARY;
+Entry 19). The disclaimer was meant to rule out **collusion**: an agreement or communication among actors.
+Stated as "not coordination", it implied the only alternative is coincidence, and left the actual mechanism
+unnamed. There are three distinct claims, and the ledger makes only the second and third:
+
+1. **Collusion** — actors agree or communicate to act together. *Not alleged unless separately evidenced.*
+2. **Incentive convergence** — actors facing the same incentives (keeping power, avoiding liability,
+   protecting the institution's standing) arrive at the same moves independently. Organizational sociology
+   has an established name for this: **institutional isomorphism**, organizations converging in form through
+   coercive, mimetic and normative pressures without agreeing to (DiMaggio & Powell, 1983)
+   `[ESTABLISHED]`. Symbolic compliance (Edelman), cited in the coercive-harm-framework source notes, is a
+   case of it.
+3. **Stigmergic coordination** — actors coordinate *through the environment*: each responds to the traces
+   others left there, with no direct communication. The term comes from the study of social insects
+   (Grassé, 1959) `[ESTABLISHED]`; applied to institutions it is `[HYPOTHESIS]`. The traces here are
+   public artifacts: a statute another state copies, a regulation's preamble, a precedent, a training
+   module sold to many schools ("report equals support"), a viral post that sets a frame. An actor who acts
+   on a trace coordinates with its author without ever speaking to them.
+
+Claims 2 and 3 make the "one organism" description literal at the level of behavior: many actors, one
+move-set, sustained by shared incentives and a shared environment.
+
+**The test (so the claim cannot become an unfalsifiable overlay, Ledger Move 4):**
+- *Incentive variation:* the move should appear where the incentive is present and weaken or vanish where
+  it is absent. A move that appears equally where no one gains from it is not explained by incentive.
+- *Incentive change:* when the incentive shifts, behavior should shift with it, even with the same people.
+  (The coercive-harm-framework source notes record one such sequence: Title IX practice tightening under
+  federal enforcement and loosening when enforcement was reversed.)
+- *Traces:* stigmergy leaves a record. Later actors should reuse identifiable artifacts from earlier ones:
+  wording, templates and cited precedents, but mainly **argument forms and structures** that travel in
+  paraphrase ("maybe you're the problem", "you're projecting", "don't take it personally", the
+  consent-element package a statute adopts). Verbatim reuse is the narrowest kind of trace (the 2026-11-12
+  Title IX wording test measured only this kind and could not test the claim as stated). **Discriminator:**
+  shared *arbitrary* features. A form that works will be invented independently many times (that is claim 2).
+  Lineage shows when actors share features that have no function of their own: an odd enumeration, a
+  specific framing or a specific error that travels with the form. This is the shared-error method of
+  textual criticism. No co-travelling arbitrary features, no stigmergy claim.
+
+**Guard (both-victims lens; behavior, not people).** Sharing an incentive does not make a person a
+participant. The claim attaches to documented conduct that performs the move, never to membership in a
+group that shares the incentive. Step one only: a basis to demand disclosure (which templates, which
+precedents, which incentives), not a finding against anyone.
+
+**BOUNDARY**
+
+What this establishes: the ledger's convergence claim, stated precisely as incentive convergence plus
+stigmergic coordination, with three observable tests and a guard. What it does NOT establish: that any
+specific set of actors converged this way (each case needs the tests run); collusion anywhere; or that
+shared incentives are themselves wrongful.
+
+**Cross-references:** Entry 2 (this entry's thesis); Entry 18 (Fragmenting Violence) and Entry 19 (False-
+Claim Pretext) — procedural moves that may spread across institutions this way (traces test run on Title IX policy wording,
+2026-11-12, `docs/evidence/stigmergy-trace-test-titleix-2026-11-12.md`: broadly shared wording there was federal,
+so it spread by mandate, i.e. coercive isomorphism; non-mandated reuse was real but thin and pairwise, so
+stigmergy survives the test without being shown to be the main mechanism; lineage test on US consent statutes, 2026-11-12, `docs/evidence/stigmergy-consent-law-us-2026-11-12.md`:
+arbitrary features travel in source-family bundles beyond chance in 49 of 51 jurisdictions, with and without
+a codebook, so stigmergic lineage there is SUPPORTED; one burden-shifting form shows a lineage (the MPC
+"ordinary resolution" resistance standard, carried in paraphrase by OH, PA, WY), the rest are instances); Entry 15 (Manufactured
+Consensus — the bot-swarm habitat as an engineered stigmergic environment); coercive-harm-framework standing
+note S-6 (mechanism-homology and causal continuity across scale), for which stigmergy is a candidate
+mechanism.
+
+---
+
 ### Entry 3: Care-Vocabulary Capture — Institutional Identity as Epistemic Closure Device
 
 *Entry completed June 18, 2026. Draws on all five INSTRUMENT clusters; adds a linguistic layer to the structural analysis in Entry 2.*
@@ -7535,6 +7606,221 @@ Art. II(3)(c) (legibility — here met at its strongest: the effect is computed)
 (Instrument — the optimization apparatus), Art. II(2)(d) (discernment defeat — the doctrinal
 unknowability). `cases/election-redistricting/` (anchor case file; nine-item VERIFIED evidence
 store, original-form captured/hashed 2026-06-29); Section IX Track F entry TF-007 (custody); Gap Register Priority 28.
+
+---
+
+### Entry 18: Fragmenting Violence — One Actor's Pattern Severed Into Individually Dismissable Cases
+
+*Entry completed 2026-11-12, at the operator's direction. Source: Dr. Nicole Bedera's year of fieldwork
+inside one university's Title IX office (published as* On the Wrong Side*), as she described it on*
+Something Was Wrong *S25 E4; the term "fragmenting violence" is hers. Mapped onto the framework by a
+Claude instance from the coercive-harm-framework study (`research/sww-corpus/results/DATA-POINTS.md`).
+Analyst stake declared: the mapping instance earlier discounted this researcher's findings by speaker
+before the operator corrected it (coercive-harm-framework self-audit, lean log 10). Not a new move: a
+named, documented sub-form of **Protocol conduct move 3 (Fragmentation)**, as the thirteen Tier-4 moves
+are sub-forms of row 6.*
+
+---
+
+**Thesis**
+
+*Definition — Fragmenting Violence:* a procedural move in which a body that receives **several reports
+about one actor** (from one person harmed in several ways, or from several people) **assesses each
+report in isolation and bars the evidence of one from the others**, so that a pattern which would be
+plain in aggregate is converted into a series of small, individually insufficient cases, each of which
+can be closed.
+
+It is the procedural refusal of Convention **Article IV(1)** (pattern evidence admissible) inside an
+institution's own process. Article IV exists because laundering is "designed to be undiscernable in any
+single instance"; fragmenting violence is how an institution keeps every instance single.
+
+---
+
+**The anchor specimen — a university Title IX office ("Western University", one year of fieldwork)**
+
+| Component | Move | What the record shows (her fieldwork, `[SUPPORTED]`: published expert field research) |
+|---|---|---|
+| Multiple reports, one actor | predicate | Concerns arrived "from one victim who had been hurt so many different ways by one perpetrator" or "from many victims who had been hurt by the same serial perpetrator." |
+| **Severance** | Protocol Move 3 | Staff "would separate them all off individually and say that any evidence given to one case probably couldn't be used in another case." *The load-bearing element.* |
+| Dismissal in pieces | Ledger Move 5 (euphemism / bureaucratic abstraction) | "Only going to look at one piece at a time … these little tiny, easily dismissable pieces"; each slice reads as routine case-by-case procedure. |
+| Benefit to the actor | outcome | "huge benefits for some of the most prolific perpetrators on a college campus." |
+| **Asymmetry** | II(2)(d) | A star student faced "multiple Title IX cases"; a professor with "no knowledge of the violence at all" submitted statements in his support, "the kind of evidence that shouldn't be admissible at all" (same fieldwork). *Analyst's inference, not her stated finding:* favorable character evidence entered the same process that kept each complainant's evidence to her own case. |
+
+---
+
+**Corroboration across the coercive-harm-framework corpus (instances, not proof of frequency)**
+
+- *Something Was Wrong* S22 (close-read): police "handled victims one at a time until the group pooled
+  them"; the pooled group, not the police, assembled the pattern.
+- S25 E7 (Dr. Katherine Holland): the Nassar case "had been investigated by Title IX. People had already
+  reported. It did not solve that problem." Reports existed; a pattern was not assembled.
+- S19 E13 (Jennifer Khalifa): a rape report kept "on record and on file for him forever", while others
+  in his church community knew of earlier conduct with minors; no body joined them.
+- **Reflexive instance.** The study's own first instrument cut testimony into three-sentence segments
+  judged alone and found institutional responses "appropriate" in 63 % of segments; followed whole, about
+  one person in five ended protected. The coercive-harm-framework self-audit recorded the segmenting as a
+  copy of "treating each report as an isolated incident" before this term was read. *An analyst can
+  perform the move with good intent; the structure, not the motive, is what the entry names.*
+
+---
+
+**Diagnostic (falsifiable, three parts)**
+
+1. More than one report about the same actor reached the **same body**.
+2. That body **assessed them separately and excluded each from the others** as evidence.
+3. The exclusion is **not matched** by an equivalent limit the same body applies to the accused's side
+   (for example, it admits character or reputation evidence *for* the actor), or by a rule the body applies
+   evenhandedly in its other proceedings.
+
+Parts 1–2 alone describe ordinary case management. The **conjunction with 3** is the named move.
+
+---
+
+**ADVERSARIAL CHECK**
+
+*Strongest good-faith reading:* case-by-case adjudication protects the accused from guilt by accumulation;
+propensity is not proof of a particular event (coercive-harm-framework, S22 hard case: a record of
+fabrication must not become automatic disbelief, and the same holds in reverse); several weak reports do
+not make one strong one; and courts limit prior-act evidence for these reasons.
+
+*Why it does not dispose of the entry:* (a) the entry does not claim that several reports prove any one
+event; it names the **refusal to look at them together** when the question is whether a pattern exists,
+which is the question Article IV assigns to aggregate evidence. (b) Courts do not uniformly sever: US
+federal rules admit evidence of other sexual assaults in sexual-assault cases (Federal Rules of Evidence
+413, criminal, and 415, civil) `[ESTABLISHED: rule text]`, and the fieldwork itself contrasts the Title IX
+practice with "the criminal and civil justice systems", which handle such reports "as a collective" more
+commonly. (c) Part 3 (asymmetry) is what separates a fair limit from the move: a body that bars pattern
+evidence against the actor while admitting favorable character evidence for him is not applying a neutral
+rule.
+
+**COUNTER-EVIDENCE STATUS**
+
+Pooling did occur in the corpus: S17 (*Something Was Wrong*) admitted one earlier victim's injuries as
+prior-act evidence; S22's police acted once the group pooled complainants. These are CONTROL-type
+instances for this move (pattern evidence used), recorded here as counter-register. No CONTROL entry exists
+for the anchor institution. *Falsification condition at the anchor:* a showing that the office joined
+multi-report cases about one actor, or applied the same evidentiary isolation to favorable evidence for the
+accused.
+
+**BOUNDARY**
+
+What this establishes: a named sub-form of Protocol Move 3 with a three-part falsifiable diagnostic,
+anchored in one researcher's published fieldwork at one institution and corroborated by instances in the
+*Something Was Wrong* corpus. What it does NOT establish: how common the practice is across institutions;
+intent (the charge is the structure); that any particular accused person was responsible for any
+particular act (step one only: a basis to demand disclosure of how multi-report cases are handled); or that
+pooling evidence is always fair to the accused. No individual is named except Nassar (convicted, public
+record).
+
+**Cross-references:** Protocol conduct move 3 (Fragmentation) and the crosswalk (implemented in language by
+Move 5, euphemism / bureaucratic abstraction); Convention Art. IV(1) (pattern evidence admissible — the
+article this move defeats), Art. IV(3) (dismissal of pattern evidence as a further act), Art. II(2)(d)
+(discernment defeat); Pattern Registry Entry 17 (Performed Ignorance — sibling: unknowability manufactured
+over held evidence) and Entry 16 (Redaction Inversion — sibling procedural inversion); coercive-harm-
+framework `research/sww-corpus/results/DATA-POINTS.md` (source notes, the four long expert episodes) and
+`SELF-AUDIT-2026-11-01.md` (the reflexive instance).
+
+---
+
+### Entry 19: The False-Claim Pretext — A Rare Error Rate Converted Into a Class-Wide Presumption
+
+*Entry completed 2026-11-12, at the operator's direction. Source: the* Something Was Wrong *Data Points
+episodes "False Reporting and Its Impact on Survivors" and the voting history episode (S21 E17, rebroadcast
+in S26), read in full in the coercive-harm-framework study (`research/sww-corpus/results/DATA-POINTS.md`
+§4), with S25 E7 (Dr. Katherine Holland) on the 2020 Title IX regulation. The structural parallel was
+noticed by the mapping Claude instance; the episodes make each half separately and do not name it.
+Figures are as read on air unless marked checked. A named sub-form of **Protocol conduct move 6
+(Discrediting testimony)**, implemented in language by **Ledger Move 6 (Benefit reframe)** and **Move 1
+(Care-register reframing)**: "integrity", "fairness", "due process".*
+
+---
+
+**Thesis**
+
+*Definition — the False-Claim Pretext:* a move in which a **real but small** rate of false claims is
+invoked to justify treating **everyone who comes forward** (to report a harm, or to use a right) as
+presumptively false: raising the burden on all claimants, adding tests of credibility or eligibility, or
+narrowing access. The cost lands on the much larger group of genuine claimants. The move is laundered as
+protection of the process ("integrity", "fair elections", "protecting the accused").
+
+The small rate is not denied; it is **scaled up into a presumption**. The genuine harm done by false claims
+(which is real and is part of the move's credibility) is borrowed to authorize suspicion of people who made
+no false claim.
+
+---
+
+**Two specimens, one structure**
+
+| Component | Sexual-assault reports | Voting |
+|---|---|---|
+| The real, small rate | False reports estimated at **2–8 %** (LAPD 2008: 4.5 %; the eight-community MAD study: 7 %, 140 of 2,059 cases) | Voter fraud and impersonation "extremely rare"; most allegations "turn out to be baseless" (Brennan Center, as read) |
+| Inflation by the invoking body | NSVRC: false-report figures are inflated by police failure to follow guidelines; the IACP and FBI say a report is false only when evidence shows no crime, and that insufficient evidence, delay, non-cooperation or inconsistency are **not** grounds | Allegations counted as fraud are mostly "mistakes by voters, administrators, or … election misconduct" (Brennan Center, as read) |
+| Class-wide presumption | "The notion that a false report can occur leaves some responders highly critical when actual survivors … come forward"; 18 % of US adults oppose #MeToo "because of the potential of false allegations" (Pew 2022, as read) | 34 laws restricting voting access in 19 states in 2021, "the most in any year in at least the past decade" (Brennan Center, as read) |
+| Built into rule | The 2020 Title IX regulation's rationale for mandatory live cross-examination treats complaints as not credible and cross-examination as the way "to test victim credibility" (Holland's co-authored analysis of the regulation's preamble) | Voter-ID requirements, mail-voting obstacles, limits on officials' outreach (as read) |
+| Laundering register | Due process, protecting the accused (Move 6) | "Fair elections", "integrity" (Moves 1 and 6) |
+| Ledger cross-specimen | — | Cluster 3 Track A record, @elonmusk, posted 2026-06-08: "The real reason they don't want voter ID is to commit voting fraud. That is the obvious truth." (8.7M views; classified SPECIMEN) |
+
+---
+
+**Diagnostic (falsifiable, three parts)**
+
+1. A false-claim rate is invoked or implied, and on the evidence it is **small** relative to genuine claims.
+2. On that basis a measure is applied to **all** claimants: a raised burden, a credibility or eligibility
+   test, a narrowed path.
+3. **Asymmetry:** the measure is not weighed against the harm it does to genuine claimants (wrongful
+   disbelief, wrongful exclusion), or the cited rate is inflated by the invoking body's own classification,
+   or the body applies no comparable scrutiny to the opposite error. This is Convention Art. IV-bis(3)(e)
+   applied to claimants: a standard of proof the body "does not itself meet and would not accept if met."
+
+Parts 1–2 alone can be prudent verification. The **conjunction with 3** is the named move.
+
+---
+
+**ADVERSARIAL CHECK**
+
+*Strongest good-faith reading:* false claims do real harm. A teenager falsely accused of rape pleaded no
+contest under threat of a long sentence and was later exonerated (Brian Banks, public record); a 2021 study
+reports PTSD, depression and loss of reputation among the falsely accused (as read). Verification of
+specific claims is legitimate, voter ID is widely supported, and the coercive-harm-framework's own
+both-victims lens requires that a mechanism strong enough to protect victims be checked against misuse.
+
+*Why it does not dispose of the entry:* the entry does not object to investigating a specific claim, to
+penalties for false reports, or to verification as such. It names the **scaling of a small rate into a
+presumption against everyone** and the **asymmetry** of part 3. The coercive-harm-framework corpus holds the
+contrast that marks the line: in S18, police disbelieved a woman's report because of **her own documented
+record** of false reports, and that protected a falsely accused partner. That is suspicion grounded in the
+individual's record, not a class-wide presumption. It is recorded below as counter-register, and it
+shows the diagnostic does not condemn all disbelief.
+
+**COUNTER-EVIDENCE STATUS**
+
+CONTROL-type practice on record: the IACP and FBI guidance quoted above, under which a report is classified
+false only on evidence that no crime occurred, is an institution limiting its own inflation of the rate.
+S18 (*Something Was Wrong*), above: individual, record-based disbelief that was correct. No CONTROL entry
+exists for the Cluster 3 voter-ID specimen's source. *Falsification conditions:* for a given measure, a
+showing that the false-claim rate it cites is large relative to genuine claims, or that its cost to genuine
+claimants was measured and weighed, or that the body applies equal scrutiny to wrongful disbelief or
+exclusion.
+
+**BOUNDARY**
+
+What this establishes: a named sub-form of Protocol Move 6 with a three-part falsifiable diagnostic,
+anchored in two domains whose figures were read on air from named sources (false-report estimates and their
+classification guidance; voter-fraud rarity and restrictive-law counts) and in one prior ledger specimen.
+What it does NOT establish: that any particular measure was adopted in bad faith (intent open; the charge is
+the structure); exact current rates (the figures are as read, not re-checked here); that false claims are
+harmless; or anything about any individual (step one only: a basis to demand disclosure of the rate cited,
+how it was counted, and what the measure costs genuine claimants). Structural identity across the two
+domains is a shared move. No collusion is alleged; the convergence is consistent with shared incentives and
+stigmergic coordination (Pattern Registry Entry 2 Addendum, which states the tests; not run here).
+
+**Cross-references:** Protocol conduct move 6 (Discrediting testimony) and the crosswalk (Ledger Move 6,
+benefit reframe; Move 1, care-register); Convention Art. IV-bis(3)(e) (asymmetric proof standard) and
+IV-bis(3)(a) (amplification by an actor with power over the field); Pattern Registry Entry 18 (Fragmenting
+Violence — sibling procedural move: one isolates the claims, the other presumes against them); Cluster 3
+Track A voter-ID specimen (@elonmusk, 2026-06-08); coercive-harm-framework `research/sww-corpus/results/
+DATA-POINTS.md` §4 and the S25 E7 notes (source), `docs/07-civil-liberties-safeguards.md` (the both-victims
+lens this entry is checked against).
 
 ---
 

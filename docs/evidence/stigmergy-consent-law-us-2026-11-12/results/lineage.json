@@ -1,0 +1,855 @@
+{
+ "jurisdictions": [
+  "AK",
+  "AZ",
+  "CA",
+  "CO",
+  "DC",
+  "DE",
+  "FL",
+  "HI",
+  "IA",
+  "ID",
+  "KS",
+  "MA",
+  "MD",
+  "ME",
+  "MI",
+  "MN",
+  "MO",
+  "MT",
+  "NC",
+  "ND",
+  "NE",
+  "NV",
+  "NY",
+  "OH",
+  "OR",
+  "RI",
+  "SC",
+  "SD",
+  "TX",
+  "UT",
+  "VA",
+  "VT",
+  "WA",
+  "WV",
+  "WY"
+ ],
+ "n": 35,
+ "prevalence": {
+  "gross sexual imposition": {
+   "family": "MPC",
+   "n": 2,
+   "kept": true,
+   "states": [
+    "ND",
+    "OH"
+   ]
+  },
+  "deviate sexual intercourse": {
+   "family": "MPC",
+   "n": 3,
+   "kept": true,
+   "states": [
+    "HI",
+    "MO",
+    "TX"
+   ]
+  },
+  "compels ... to submit": {
+   "family": "MPC",
+   "n": 6,
+   "kept": true,
+   "states": [
+    "CO",
+    "DE",
+    "MA",
+    "ND",
+    "OH",
+    "TX"
+   ]
+  },
+  "substantially impaired ... power to appraise or control": {
+   "family": "MPC",
+   "n": 4,
+   "kept": true,
+   "states": [
+    "CO",
+    "DE",
+    "ME",
+    "ND"
+   ]
+  },
+  "criminal sexual conduct": {
+   "family": "MI",
+   "n": 4,
+   "kept": true,
+   "states": [
+    "DE",
+    "MI",
+    "MN",
+    "SC"
+   ]
+  },
+  "however slight": {
+   "family": "MI",
+   "n": 23,
+   "kept": true,
+   "states": [
+    "CA",
+    "CO",
+    "DC",
+    "DE",
+    "HI",
+    "ID",
+    "MD",
+    "MI",
+    "MN",
+    "MO",
+    "NC",
+    "ND",
+    "NE",
+    "NV",
+    "OH",
+    "OR",
+    "RI",
+    "SC",
+    "SD",
+    "UT",
+    "VT",
+    "WA",
+    "WY"
+   ]
+  },
+  "personal injury": {
+   "family": "MI",
+   "n": 5,
+   "kept": true,
+   "states": [
+    "FL",
+    "MI",
+    "MN",
+    "NC",
+    "NE"
+   ]
+  },
+  "force or coercion": {
+   "family": "MI",
+   "n": 5,
+   "kept": true,
+   "states": [
+    "MI",
+    "MN",
+    "NE",
+    "RI",
+    "SC"
+   ]
+  },
+  "lack of consent results from": {
+   "family": "NY",
+   "n": 1,
+   "kept": false,
+   "states": [
+    "NY"
+   ]
+  },
+  "forcible compulsion": {
+   "family": "NY",
+   "n": 5,
+   "kept": true,
+   "states": [
+    "HI",
+    "MO",
+    "NY",
+    "OR",
+    "WA"
+   ]
+  },
+  "clearly expressed": {
+   "family": "NY",
+   "n": 1,
+   "kept": false,
+   "states": [
+    "NY"
+   ]
+  },
+  "physically helpless": {
+   "family": "NY",
+   "n": 15,
+   "kept": true,
+   "states": [
+    "CO",
+    "FL",
+    "HI",
+    "IA",
+    "MD",
+    "MI",
+    "MN",
+    "MT",
+    "NC",
+    "NY",
+    "OR",
+    "RI",
+    "SC",
+    "WA",
+    "WY"
+   ]
+  },
+  "mentally disabled/defective": {
+   "family": "NY",
+   "n": 7,
+   "kept": true,
+   "states": [
+    "FL",
+    "HI",
+    "MI",
+    "NY",
+    "RI",
+    "SC",
+    "WA"
+   ]
+  },
+  "mentally incapacitated": {
+   "family": "NY",
+   "n": 12,
+   "kept": true,
+   "states": [
+    "FL",
+    "HI",
+    "IA",
+    "MD",
+    "MI",
+    "MN",
+    "NC",
+    "NY",
+    "OR",
+    "RI",
+    "SC",
+    "WA"
+   ]
+  },
+  "freely given agreement": {
+   "family": "AFF",
+   "n": 4,
+   "kept": true,
+   "states": [
+    "DC",
+    "ME",
+    "MT",
+    "WA"
+   ]
+  },
+  "words or overt actions": {
+   "family": "AFF",
+   "n": 3,
+   "kept": true,
+   "states": [
+    "DC",
+    "MN",
+    "MT"
+   ]
+  },
+  "actual words or conduct": {
+   "family": "AFF",
+   "n": 1,
+   "kept": false,
+   "states": [
+    "WA"
+   ]
+  },
+  "manner of dress": {
+   "family": "AFF",
+   "n": 3,
+   "kept": true,
+   "states": [
+    "FL",
+    "MT",
+    "ND"
+   ]
+  },
+  "lack of verbal or physical resistance": {
+   "family": "AFF",
+   "n": 2,
+   "kept": true,
+   "states": [
+    "DC",
+    "OR"
+   ]
+  },
+  "withdraws consent": {
+   "family": "AFF",
+   "n": 0,
+   "kept": false,
+   "states": []
+  },
+  "sexual act": {
+   "family": "FED",
+   "n": 14,
+   "kept": true,
+   "states": [
+    "AK",
+    "DC",
+    "DE",
+    "MD",
+    "ME",
+    "MN",
+    "MO",
+    "NC",
+    "ND",
+    "NY",
+    "OR",
+    "UT",
+    "VA",
+    "VT"
+   ]
+  },
+  "aggravated sexual abuse": {
+   "family": "FED",
+   "n": 2,
+   "kept": true,
+   "states": [
+    "NY",
+    "UT"
+   ]
+  },
+  "renders ... unconscious": {
+   "family": "FED",
+   "n": 1,
+   "kept": false,
+   "states": [
+    "WA"
+   ]
+  },
+  "knowingly engages": {
+   "family": "FED",
+   "n": 3,
+   "kept": true,
+   "states": [
+    "HI",
+    "SD",
+    "WY"
+   ]
+  },
+  "carnal knowledge": {
+   "family": "CL",
+   "n": 0,
+   "kept": false,
+   "states": []
+  },
+  "against her/his/the will": {
+   "family": "CL",
+   "n": 6,
+   "kept": true,
+   "states": [
+    "CA",
+    "IA",
+    "MA",
+    "NC",
+    "NV",
+    "VA"
+   ]
+  },
+  "ravish": {
+   "family": "CL",
+   "n": 1,
+   "kept": false,
+   "states": [
+    "SC"
+   ]
+  },
+  "no matter how slight": {
+   "family": "UN",
+   "n": 0,
+   "kept": false,
+   "states": []
+  },
+  "sexual battery": {
+   "family": "UN",
+   "n": 7,
+   "kept": true,
+   "states": [
+    "CA",
+    "FL",
+    "NC",
+    "OH",
+    "SC",
+    "VA",
+    "WY"
+   ]
+  },
+  "intimate parts": {
+   "family": "UN",
+   "n": 14,
+   "kept": true,
+   "states": [
+    "CO",
+    "HI",
+    "MI",
+    "MN",
+    "NC",
+    "ND",
+    "NE",
+    "NY",
+    "OR",
+    "RI",
+    "SC",
+    "VA",
+    "WA",
+    "WY"
+   ]
+  },
+  "earnest/utmost resistance": {
+   "family": "UN",
+   "n": 0,
+   "kept": false,
+   "states": []
+  },
+  "marital flag (read by hand)": {
+   "family": "UN",
+   "n": 12,
+   "kept": true,
+   "states": [
+    "CO",
+    "HI",
+    "IA",
+    "ME",
+    "MI",
+    "MN",
+    "NC",
+    "ND",
+    "NV",
+    "OH",
+    "RI",
+    "VA"
+   ]
+  }
+ },
+ "test1": {
+  "markers": 20,
+  "within_pairs": 27,
+  "between_pairs": 163,
+  "mean_phi_within": 0.308,
+  "mean_phi_between": -0.016,
+  "diff": 0.324,
+  "p_one_sided": 0.0001,
+  "within_by_family": {
+   "AFF": 0.267,
+   "FED": -0.008,
+   "MI": 0.367,
+   "MPC": 0.223,
+   "NY": 0.535
+  }
+ },
+ "test2": {
+  "statistic": 2383,
+  "null_mean": 2110.1,
+  "null_sd": 73.4,
+  "z": 3.72,
+  "p_one_sided": 0.0005
+ },
+ "test3": {
+  "AK": {
+   "dominant": "FED",
+   "force": 0,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "AZ": {
+   "dominant": "none",
+   "force": 0,
+   "resistance": 0,
+   "marital_flag": 0
+  },
+  "CA": {
+   "dominant": "mixed:CL/MI",
+   "force": 0,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "CO": {
+   "dominant": "MPC",
+   "force": 1,
+   "resistance": 0,
+   "marital_flag": 1
+  },
+  "DC": {
+   "dominant": "AFF",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "DE": {
+   "dominant": "mixed:MI/MPC",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "FL": {
+   "dominant": "NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "HI": {
+   "dominant": "NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "IA": {
+   "dominant": "NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "ID": {
+   "dominant": "MI",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "KS": {
+   "dominant": "none",
+   "force": 1,
+   "resistance": 0,
+   "marital_flag": 0
+  },
+  "MA": {
+   "dominant": "mixed:CL/MPC",
+   "force": 1,
+   "resistance": 0,
+   "marital_flag": 0
+  },
+  "MD": {
+   "dominant": "NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "ME": {
+   "dominant": "mixed:AFF/FED/MPC",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "MI": {
+   "dominant": "MI",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "MN": {
+   "dominant": "MI",
+   "force": 0,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "MO": {
+   "dominant": "mixed:FED/MI/MPC/NY",
+   "force": 1,
+   "resistance": 0,
+   "marital_flag": 0
+  },
+  "MT": {
+   "dominant": "AFF",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "NC": {
+   "dominant": "mixed:MI/NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "ND": {
+   "dominant": "MPC",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "NE": {
+   "dominant": "MI",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "NV": {
+   "dominant": "mixed:CL/MI",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "NY": {
+   "dominant": "NY",
+   "force": 1,
+   "resistance": 0,
+   "marital_flag": 0
+  },
+  "OH": {
+   "dominant": "MPC",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 1
+  },
+  "OR": {
+   "dominant": "NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "RI": {
+   "dominant": "NY",
+   "force": 1,
+   "resistance": 0,
+   "marital_flag": 1
+  },
+  "SC": {
+   "dominant": "mixed:MI/NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "SD": {
+   "dominant": "mixed:FED/MI",
+   "force": 0,
+   "resistance": 0,
+   "marital_flag": 0
+  },
+  "TX": {
+   "dominant": "MPC",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "UT": {
+   "dominant": "FED",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "VA": {
+   "dominant": "mixed:CL/FED",
+   "force": 1,
+   "resistance": 0,
+   "marital_flag": 1
+  },
+  "VT": {
+   "dominant": "mixed:FED/MI",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "WA": {
+   "dominant": "NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  },
+  "WV": {
+   "dominant": "none",
+   "force": 0,
+   "resistance": 0,
+   "marital_flag": 0
+  },
+  "WY": {
+   "dominant": "mixed:FED/MI/NY",
+   "force": 1,
+   "resistance": 1,
+   "marital_flag": 0
+  }
+ },
+ "phi_pairs": {
+  "physically helpless | mentally incapacitated": 0.834,
+  "mentally disabled/defective | mentally incapacitated": 0.692,
+  "criminal sexual conduct | force or coercion": 0.623,
+  "physically helpless | mentally disabled/defective": 0.577,
+  "compels ... to submit | substantially impaired ... power to appraise or control": 0.551,
+  "gross sexual imposition | compels ... to submit": 0.541,
+  "personal injury | force or coercion": 0.533,
+  "freely given agreement | words or overt actions": 0.532,
+  "deviate sexual intercourse | forcible compulsion": 0.458,
+  "force or coercion | mentally disabled/defective": 0.408,
+  "forcible compulsion | mentally disabled/defective": 0.408,
+  "personal injury | mentally incapacitated": 0.393,
+  "force or coercion | mentally incapacitated": 0.393,
+  "forcible compulsion | mentally incapacitated": 0.393,
+  "criminal sexual conduct | personal injury": 0.367,
+  "gross sexual imposition | manner of dress": 0.364,
+  "words or overt actions | lack of verbal or physical resistance": 0.364,
+  "criminal sexual conduct | mentally incapacitated": 0.308,
+  "personal injury | physically helpless": 0.306,
+  "force or coercion | physically helpless": 0.306,
+  "forcible compulsion | physically helpless": 0.306,
+  "lack of verbal or physical resistance | sexual act": 0.302,
+  "sexual act | aggravated sexual abuse": 0.302,
+  "gross sexual imposition | substantially impaired ... power to appraise or control": 0.298,
+  "freely given agreement | lack of verbal or physical resistance": 0.298,
+  "however slight | force or coercion": 0.295,
+  "deviate sexual intercourse | knowingly engages": 0.271,
+  "words or overt actions | manner of dress": 0.271,
+  "criminal sexual conduct | mentally disabled/defective": 0.269,
+  "criminal sexual conduct | however slight": 0.259,
+  "substantially impaired ... power to appraise or control | sexual act": 0.257,
+  "forcible compulsion | lack of verbal or physical resistance": 0.251,
+  "forcible compulsion | aggravated sexual abuse": 0.251,
+  "criminal sexual conduct | physically helpless": 0.233,
+  "however slight | knowingly engages": 0.221,
+  "substantially impaired ... power to appraise or control | manner of dress": 0.211,
+  "criminal sexual conduct | words or overt actions": 0.211,
+  "freely given agreement | manner of dress": 0.211,
+  "personal injury | mentally disabled/defective": 0.204,
+  "mentally disabled/defective | aggravated sexual abuse": 0.185,
+  "gross sexual imposition | however slight": 0.178,
+  "however slight | lack of verbal or physical resistance": 0.178,
+  "personal injury | words or overt actions": 0.167,
+  "personal injury | manner of dress": 0.167,
+  "force or coercion | words or overt actions": 0.167,
+  "forcible compulsion | sexual act": 0.167,
+  "forcible compulsion | knowingly engages": 0.167,
+  "words or overt actions | sexual act": 0.167,
+  "substantially impaired ... power to appraise or control | criminal sexual conduct": 0.153,
+  "substantially impaired ... power to appraise or control | freely given agreement": 0.153,
+  "physically helpless | words or overt actions": 0.147,
+  "physically helpless | manner of dress": 0.147,
+  "physically helpless | knowingly engages": 0.147,
+  "however slight | mentally incapacitated": 0.141,
+  "however slight | physically helpless": 0.139,
+  "deviate sexual intercourse | compels ... to submit": 0.132,
+  "compels ... to submit | manner of dress": 0.132,
+  "however slight | personal injury": 0.123,
+  "however slight | forcible compulsion": 0.123,
+  "forcible compulsion | freely given agreement": 0.11,
+  "deviate sexual intercourse | mentally disabled/defective": 0.102,
+  "mentally disabled/defective | manner of dress": 0.102,
+  "mentally disabled/defective | knowingly engages": 0.102,
+  "however slight | sexual act": 0.098,
+  "mentally incapacitated | lack of verbal or physical resistance": 0.082,
+  "mentally incapacitated | aggravated sexual abuse": 0.082,
+  "compels ... to submit | criminal sexual conduct": 0.075,
+  "criminal sexual conduct | sexual act": 0.073,
+  "freely given agreement | sexual act": 0.073,
+  "substantially impaired ... power to appraise or control | however slight": 0.07,
+  "however slight | mentally disabled/defective": 0.06,
+  "physically helpless | freely given agreement": 0.052,
+  "gross sexual imposition | sexual act": 0.05,
+  "mentally disabled/defective | freely given agreement": 0.045,
+  "physically helpless | lack of verbal or physical resistance": 0.036,
+  "physically helpless | aggravated sexual abuse": 0.036,
+  "personal injury | against her/his/the will": 0.031,
+  "mentally incapacitated | sexual act": 0.025,
+  "compels ... to submit | however slight": 0.009,
+  "deviate sexual intercourse | however slight": 0.006,
+  "however slight | words or overt actions": 0.006,
+  "personal injury | sexual act": 0.0,
+  "compels ... to submit | against her/his/the will": -0.006,
+  "deviate sexual intercourse | mentally incapacitated": -0.006,
+  "mentally incapacitated | words or overt actions": -0.006,
+  "mentally incapacitated | manner of dress": -0.006,
+  "mentally incapacitated | knowingly engages": -0.006,
+  "mentally incapacitated | against her/his/the will": -0.009,
+  "deviate sexual intercourse | sexual act": -0.042,
+  "manner of dress | sexual act": -0.042,
+  "deviate sexual intercourse | physically helpless": -0.059,
+  "gross sexual imposition | lack of verbal or physical resistance": -0.061,
+  "gross sexual imposition | aggravated sexual abuse": -0.061,
+  "lack of verbal or physical resistance | aggravated sexual abuse": -0.061,
+  "compels ... to submit | sexual act": -0.062,
+  "sexual act | against her/his/the will": -0.062,
+  "mentally incapacitated | freely given agreement": -0.07,
+  "gross sexual imposition | deviate sexual intercourse": -0.075,
+  "gross sexual imposition | words or overt actions": -0.075,
+  "gross sexual imposition | knowingly engages": -0.075,
+  "deviate sexual intercourse | lack of verbal or physical resistance": -0.075,
+  "deviate sexual intercourse | aggravated sexual abuse": -0.075,
+  "words or overt actions | aggravated sexual abuse": -0.075,
+  "manner of dress | lack of verbal or physical resistance": -0.075,
+  "manner of dress | aggravated sexual abuse": -0.075,
+  "lack of verbal or physical resistance | knowingly engages": -0.075,
+  "aggravated sexual abuse | knowingly engages": -0.075,
+  "however slight | aggravated sexual abuse": -0.082,
+  "physically helpless | against her/his/the will": -0.088,
+  "gross sexual imposition | criminal sexual conduct": -0.088,
+  "gross sexual imposition | freely given agreement": -0.088,
+  "substantially impaired ... power to appraise or control | lack of verbal or physical resistance": -0.088,
+  "substantially impaired ... power to appraise or control | aggravated sexual abuse": -0.088,
+  "criminal sexual conduct | lack of verbal or physical resistance": -0.088,
+  "criminal sexual conduct | aggravated sexual abuse": -0.088,
+  "freely given agreement | aggravated sexual abuse": -0.088,
+  "deviate sexual intercourse | words or overt actions": -0.094,
+  "deviate sexual intercourse | manner of dress": -0.094,
+  "words or overt actions | knowingly engages": -0.094,
+  "manner of dress | knowingly engages": -0.094,
+  "gross sexual imposition | personal injury": -0.101,
+  "gross sexual imposition | force or coercion": -0.101,
+  "gross sexual imposition | forcible compulsion": -0.101,
+  "personal injury | lack of verbal or physical resistance": -0.101,
+  "personal injury | aggravated sexual abuse": -0.101,
+  "force or coercion | lack of verbal or physical resistance": -0.101,
+  "force or coercion | aggravated sexual abuse": -0.101,
+  "deviate sexual intercourse | substantially impaired ... power to appraise or control": -0.11,
+  "deviate sexual intercourse | criminal sexual conduct": -0.11,
+  "deviate sexual intercourse | freely given agreement": -0.11,
+  "substantially impaired ... power to appraise or control | words or overt actions": -0.11,
+  "substantially impaired ... power to appraise or control | knowingly engages": -0.11,
+  "criminal sexual conduct | manner of dress": -0.11,
+  "criminal sexual conduct | knowingly engages": -0.11,
+  "freely given agreement | knowingly engages": -0.11,
+  "gross sexual imposition | against her/his/the will": -0.112,
+  "compels ... to submit | lack of verbal or physical resistance": -0.112,
+  "compels ... to submit | aggravated sexual abuse": -0.112,
+  "lack of verbal or physical resistance | against her/his/the will": -0.112,
+  "aggravated sexual abuse | against her/his/the will": -0.112,
+  "physically helpless | sexual act": -0.118,
+  "however slight | freely given agreement": -0.119,
+  "gross sexual imposition | mentally disabled/defective": -0.123,
+  "mentally disabled/defective | lack of verbal or physical resistance": -0.123,
+  "deviate sexual intercourse | personal injury": -0.125,
+  "deviate sexual intercourse | force or coercion": -0.125,
+  "personal injury | knowingly engages": -0.125,
+  "force or coercion | manner of dress": -0.125,
+  "force or coercion | knowingly engages": -0.125,
+  "forcible compulsion | words or overt actions": -0.125,
+  "forcible compulsion | manner of dress": -0.125,
+  "criminal sexual conduct | freely given agreement": -0.129,
+  "substantially impaired ... power to appraise or control | physically helpless": -0.13,
+  "deviate sexual intercourse | against her/his/the will": -0.139,
+  "compels ... to submit | words or overt actions": -0.139,
+  "compels ... to submit | knowingly engages": -0.139,
+  "words or overt actions | against her/his/the will": -0.139,
+  "manner of dress | against her/his/the will": -0.139,
+  "knowingly engages | against her/his/the will": -0.139,
+  "substantially impaired ... power to appraise or control | personal injury": -0.147,
+  "substantially impaired ... power to appraise or control | force or coercion": -0.147,
+  "substantially impaired ... power to appraise or control | forcible compulsion": -0.147,
+  "criminal sexual conduct | forcible compulsion": -0.147,
+  "personal injury | freely given agreement": -0.147,
+  "force or coercion | freely given agreement": -0.147,
+  "however slight | against her/his/the will": -0.151,
+  "mentally disabled/defective | words or overt actions": -0.153,
+  "compels ... to submit | freely given agreement": -0.163,
+  "substantially impaired ... power to appraise or control | against her/his/the will": -0.163,
+  "criminal sexual conduct | against her/his/the will": -0.163,
+  "freely given agreement | against her/his/the will": -0.163,
+  "personal injury | forcible compulsion": -0.167,
+  "force or coercion | forcible compulsion": -0.167,
+  "force or coercion | sexual act": -0.167,
+  "gross sexual imposition | mentally incapacitated": -0.178,
+  "substantially impaired ... power to appraise or control | mentally disabled/defective": -0.18,
+  "compels ... to submit | personal injury": -0.186,
+  "compels ... to submit | force or coercion": -0.186,
+  "compels ... to submit | forcible compulsion": -0.186,
+  "force or coercion | against her/his/the will": -0.186,
+  "forcible compulsion | against her/his/the will": -0.186,
+  "however slight | manner of dress": -0.209,
+  "gross sexual imposition | physically helpless": -0.213,
+  "compels ... to submit | mentally disabled/defective": -0.227,
+  "mentally disabled/defective | against her/his/the will": -0.227,
+  "compels ... to submit | physically helpless": -0.241,
+  "sexual act | knowingly engages": -0.25,
+  "substantially impaired ... power to appraise or control | mentally incapacitated": -0.259,
+  "mentally disabled/defective | sexual act": -0.262,
+  "compels ... to submit | mentally incapacitated": -0.329
+ }
+}

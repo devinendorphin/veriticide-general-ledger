@@ -1,0 +1,59 @@
+{
+ "BOILER": {
+  "clusters": 15,
+  "words": 244,
+  "by_schools": {
+   "Indiana+Nebraska": 45,
+   "Iowa+Ohio State": 34,
+   "Nebraska+Northwestern": 32,
+   "Iowa+Nebraska+Ohio State": 21,
+   "Northwestern+Rutgers": 20,
+   "Indiana+Washington": 16,
+   "Illinois+Rutgers": 13,
+   "Illinois+Ohio State": 13,
+   "Illinois+Iowa": 13,
+   "Indiana+Rutgers": 13,
+   "Indiana+Iowa": 12,
+   "Northwestern+Washington": 12
+  }
+ },
+ "SUBST": {
+  "clusters": 16,
+  "words": 358,
+  "by_schools": {
+   "Indiana+Nebraska": 123,
+   "Illinois+Iowa": 78,
+   "Indiana+Iowa": 52,
+   "Illinois+Ohio State": 40,
+   "Iowa+Ohio State": 30,
+   "Illinois+Northwestern": 20,
+   "Ohio State+Rutgers": 15
+  }
+ },
+ "PROC": {
+  "clusters": 16,
+  "words": 231,
+  "by_schools": {
+   "Indiana+Northwestern": 71,
+   "Michigan+Rutgers": 56,
+   "Indiana+Rutgers": 14,
+   "Michigan+Ohio State": 14,
+   "Michigan+Northwestern": 14,
+   "Iowa+Ohio State": 13,
+   "Iowa+Rutgers": 13,
+   "Illinois+Ohio State": 12,
+   "Indiana+Michigan": 12,
+   "Northwestern+Rutgers": 12
+  }
+ },
+ "FEDSOFT": {
+  "clusters": 6,
+  "words": 85,
+  "by_schools": {
+   "Nebraska+Ohio State": 28,
+   "Indiana+Northwestern": 28,
+   "Iowa+Ohio State": 16,
+   "Indiana+Iowa": 13
+  }
+ }
+}

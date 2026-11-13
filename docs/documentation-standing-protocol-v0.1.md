@@ -80,10 +80,10 @@ A complete record has six tracks. You do not need all six to begin, and a record
 |---|---|
 | 1. Concealment | Euphemism / bureaucratic abstraction; Unfalsifiable overlay (nothing surfaced to check) |
 | 2. Denial | Self-evidence assertion (incl. the bare-verdict form — "no one has died"); Unfalsifiable overlay (self-sealing) |
-| 3. Fragmentation | Euphemism / bureaucratic abstraction (each slice reads as ordinary, locally-defensible routine) |
+| 3. Fragmentation | Euphemism / bureaucratic abstraction (each slice reads as ordinary, locally-defensible routine). *Named sub-form:* **fragmenting violence** — several reports about one actor assessed separately, each barred from the others (Pattern Registry Entry 18) |
 | 4. Reframing as benefit *(core)* | **Care-register reframing + Benefit reframe** — the two language moves that *are* the linguistic form of this conduct; the tightest correspondence in the table |
 | 5. Attribution to the victim | Care-register reframing (reverse variant: pathologizing the harmed / their empathy); Benefit reframe (asymmetry tell) |
-| 6. Discrediting testimony | **Disqualification of dissent** (direct); Self-evidence assertion — **and this is where the thirteen Tier-4 moves live as sub-forms** |
+| 6. Discrediting testimony | **Disqualification of dissent** (direct); Self-evidence assertion — **and this is where the thirteen Tier-4 moves live as sub-forms**. *Named sub-form (prospective, class-wide):* **the false-claim pretext** — a small false-claim rate turned into a presumption against all claimants, implemented by Benefit reframe (Pattern Registry Entry 19) |
 
 **The thirteen Tier-4 moves are sub-forms of one cell.** Definitional quarantine, category-error, dilution, specificity demand, reverse-symmetry, medicalization, concern-trolling, empirical hostage, tone tax, historicism, proceduralism, meta-doubt, and exhaustive confession are *all* refinements of row 6 / Disqualification of dissent: none contests the truth of the claim, all contest the standing to make it. This is the same axis as the **asymmetry test** (Tier Taxonomy v0.2) and the Reflexivity Clause discriminator — machinery aimed at the speaker's standing rather than the claim's content. So the framework has *one* standing-attack family, described at three grains: the conduct move (Protocol row 6), the language moves (Ledger disqualification), and the thirteen named refinements (Tier 4). The crosswalk keeps all three; it just shows they are one lineage, so a reader need not re-learn them as three unrelated lists.
 
