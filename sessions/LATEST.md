@@ -1,5 +1,8 @@
 # LATEST: continuity seed (2026-10-10)
 
+> **Since this seed (2026-11-16, branch `claude/ai-researcher-interview-uqimk2`, unmerged):** depraved-indifference
+> test of the Palisade interview. See `sessions/2026-11-16-palisade-depraved-indifference.md`. This seed has not been regenerated.
+
 **Last session:** `sessions/2026-10-10-rubio-icc-case.md`, branch `ccr-e2c0b0ed-iwdzve`, merged to
 main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
 
