@@ -5,25 +5,71 @@
 # Never changes custody_state. VERIFIED still needs a 2nd custodian + off-platform backup.
 # Requires the agent-proxy CA bundle path below; adjust --ca-certificate off-platform.
 # usage: cap.sh <item_dir> <url>...   -> writes <item_dir>/original/{*.html|*.pdf,*.warc.gz,manifest.json,sha256sums.txt}
+#
+# Response validation (added 2026-11-18, ported from cases/doge-usaid-pepfar/evidence/capture.sh):
+# the 2026-10-10 version kept and hashed whatever wget wrote, so a 403/404 body or an empty
+# file counted as an artifact. A URL is now KEPT only if a pre-flight GET returns 2xx AND
+# the WARC's first response record is 2xx AND the body is non-empty; otherwise its
+# artifacts are deleted and it is recorded as not captured. Per-URL outcomes go to
+# original/capture-report.{tsv,json}, which are not hashed into the manifest. See
+# docs/custody-status-2026-07-02.md for why an error page must never count as a capture.
 set -uo pipefail
 item="$1"; shift; out="$item/original"; mkdir -p "$out"
 UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+CA=(--ca-certificate=/root/.ccr/ca-bundle.crt)
+CURL_CA=(--cacert /root/.ccr/ca-bundle.crt)
+[ -f /root/.ccr/ca-bundle.crt ] || { CA=(); CURL_CA=(); }
+
+# final HTTP status after redirects; "000" = the connection never completed
+preflight() {
+  local c
+  c="$(curl -sS -L "${CURL_CA[@]}" -A "$UA" -o /dev/null -w '%{http_code}' \
+       --connect-timeout 20 --max-time 60 "$1" 2>/dev/null)" || c="000"
+  printf '%s' "${c:(-3)}"
+}
+# first HTTP response status recorded in a gzipped WARC (the main document)
+warc_status() {
+  zcat -f "$1" 2>/dev/null | grep -aoE 'HTTP/[0-9.]+ [0-9]{3}' | head -1 | grep -oE '[0-9]{3}$'
+}
+
+: > "$out/capture-report.tsv"   # url<TAB>http_status<TAB>captured(yes|no)
 for u in "$@"; do
   slug=$(printf '%s' "$u" | sed -E 's#^https?://##; s#[^A-Za-z0-9._-]#_#g' | cut -c1-80)
   ext=html; case "$u" in *.pdf) ext=pdf;; esac
-  wget -q --ca-certificate=/root/.ccr/ca-bundle.crt -U "$UA" --timeout=60 --tries=2 \
+  code="$(preflight "$u")"
+  if ! [[ "$code" =~ ^2[0-9][0-9]$ ]]; then
+    rm -f "$out/$slug.$ext" "$out/$slug.warc.gz"
+    printf '%s\t%s\tno\n' "$u" "$code" >> "$out/capture-report.tsv"
+    echo "  UNREACHABLE (http $code) — no artifacts kept: $u"; continue
+  fi
+  wget -q "${CA[@]}" -U "$UA" --timeout=60 --tries=2 \
        --warc-file="$out/$slug" --warc-cdx=off -O "$out/$slug.$ext" "$u"
-  echo "  $? $(wc -c <"$out/$slug.$ext") $u"
+  rc=$?
+  ws="$(warc_status "$out/$slug.warc.gz")"
+  if [[ "$ws" =~ ^2[0-9][0-9]$ ]] && [ -s "$out/$slug.$ext" ]; then
+    printf '%s\t%s\tyes\n' "$u" "$ws" >> "$out/capture-report.tsv"
+    echo "  ok (wget $rc, http $ws) $(wc -c <"$out/$slug.$ext") $u"
+  else
+    rm -f "$out/$slug.$ext" "$out/$slug.warc.gz"
+    printf '%s\t%s\tno\n' "$u" "${ws:-none}" >> "$out/capture-report.tsv"
+    echo "  main document non-2xx/empty (http ${ws:-none}) — discarded: $u"
+  fi
 done
 python3 -I - "$out" <<'PY'
 import sys,os,json,hashlib,datetime
 d=sys.argv[1]; arts={}
+skip={"manifest.json","sha256sums.txt","capture-report.tsv","capture-report.json"}
 for f in sorted(os.listdir(d)):
-    if f in ("manifest.json","sha256sums.txt"): continue
+    if f in skip: continue
     b=open(os.path.join(d,f),"rb").read(); arts[f]={"sha256":hashlib.sha256(b).hexdigest(),"bytes":len(b)}
+rows=[l.rstrip("\n").split("\t") for l in open(os.path.join(d,"capture-report.tsv")) if l.strip()]
+rep={"urls_total":len(rows),"urls_captured":sum(r[2]=="yes" for r in rows),
+     "urls_failed":sum(r[2]!="yes" for r in rows),
+     "results":[{"url":r[0],"http_status":r[1],"captured":r[2]=="yes"} for r in rows]}
+json.dump(rep,open(os.path.join(d,"capture-report.json"),"w"),indent=2)
 m={"item":"./"+os.path.basename(os.path.dirname(os.path.abspath(d))),"captured_at":datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00","Z"),
-   "capture_tool":"wget (WARC + response body) via Claude Code agent proxy, open egress","artifact_count":len(arts),"artifacts":arts}
+   "capture_tool":"wget (WARC + response body) via Claude Code agent proxy, open egress; 2xx-validated","artifact_count":len(arts),"artifacts":arts}
 json.dump(m,open(os.path.join(d,"manifest.json"),"w"),indent=2)
 open(os.path.join(d,"sha256sums.txt"),"w").write("".join(f"{v['sha256']}  ./{k}\n" for k,v in arts.items()))
-print("  manifest:",len(arts),"artifacts")
+print("  manifest:",len(arts),"artifacts; URLs captured",rep["urls_captured"],"/",rep["urls_total"])
 PY

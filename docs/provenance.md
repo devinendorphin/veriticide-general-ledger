@@ -830,3 +830,34 @@ previous section. The operator then ruled: "import doge-mapping as Entry 21".
 
 Cross-references in the imported text were checked against main, and each resolves to the same item:
 Entries 1, 2, 4, 8, 2.5, 2.5a and 3.4, and the Rubio supplementary entry.
+
+## 2026-11-18 — Error-page hardening ported to every case capture script
+
+This supersedes the note in the two sections above that only DOGE's `capture.sh` had the
+error-page gate. The response validation from `cases/doge-usaid-pepfar/evidence/capture.sh`
+(2xx pre-flight; WARC main-document status; Chrome neterror-DOM detection; deletion of a failed
+URL's artifacts; per-URL `capture-report.{tsv,json}`; `--promote` to HASHED-PENDING-BACKUP only
+when every URL captured) is now in all seven other case scripts.
+
+- **palantir-ice-contestability, rubio-usaid-denial, xai-boxtown-turbines.** These were
+  byte-identical copies of DOGE's pre-hardening script, and the patch applied cleanly. They still
+  said "Run this from cases/doge-usaid-pepfar/" and gave DOGE item names as examples, a copy defect
+  that predates this change. That is corrected to each case's own directory and items.
+- **x-bot-swarm, epstein-survivor-unredaction, prediction-markets.** These scripts were
+  3-way-merged. Each keeps its own Playwright-Chromium fallback and its archive.org handling, which
+  accepts both the 200 + `content-location` and the 302 + `location` replies. That handling now
+  runs only for URLs that were actually captured. Each also keeps its own video-URL pattern.
+- **rubio-icc-dismantlement.** A separate wget-only design that never changes custody. It gains
+  the same gate in its own form: a 2xx pre-flight, a 2xx check on the main document in the
+  gzipped WARC, a non-empty body, failed URLs' artifacts deleted, and a capture report excluded
+  from the manifest.
+
+**Tested** in scratch copies, against a dead host, a live 404 and a live 200. All eight scripts
+keep no artifacts for the first two and capture the third; the seven `--promote` scripts leave
+custody unchanged on failure and set HASHED-PENDING-BACKUP on success. The Chrome detector was
+called directly: it rejects Chrome's error page (`id="main-frame-error"`) and accepts a real page.
+**Not tested:** the archive.org submission path (Save Page Now now requires a login) and yt-dlp.
+
+Out of scope, because neither writes web pages into an evidence store: `scraper/capture.py`
+(no network access; custody is assigned by the case process) and
+`experiments/base-model-capture/capture.py` (API responses).
