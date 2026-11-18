@@ -137,10 +137,13 @@ What it supplies for each edit:
   remove its binding pause commitment. That was the clause that made finding a problem obligate
   action. Chang's line is "if they found out there was a problem, they would have to do something
   about it." The RSP change removed the "have to." (Source: veriticide ledger Entry 7.2; verify
-  against Anthropic's published RSP versions before you put it on screen.) Carry the innocent
-  reading the ledger records with it: a pause by one lab while others proceed may be judged less
-  safe. Carry the counter-evidence too: the documented refusals on autonomous weapons and mass
-  surveillance.
+  against Anthropic's published RSP versions before you put it on screen.) Carry the context the
+  ledger records with it:
+  - The change followed an ultimatum from Defense Secretary Hegseth: roll back AI safeguards or
+    lose a $200 million Pentagon contract. The pressure came from the state, and the company gave
+    way on the RSP.
+  - The innocent reading: a pause by one lab while others proceed may be judged less safe.
+  - The counter-evidence: the refusals on autonomous weapons and mass surveillance.
 - **The third-party regret line.** Jerry Taylor (Cato), Part Two: "If I had known at the time what
   Exxon Mobil internally knew … I would definitely have been in a different place." Outside voices
   argue from what insiders disclose. Individual interviews do not substitute for institutional
@@ -183,11 +186,14 @@ Show the power on each side, and the party that is neither:
   both ways and should be shown both ways:
   - its early investor funds the safety network, and its letter shaped the weakening;
   - its documented refusals of Pentagon uses for autonomous weapons and mass surveillance are
-    real counter-evidence (veriticide ledger, Entry 7.2). They are limits **within** a military
-    integration that is also on record: a $200M-ceiling DoD agreement (July 2025), Claude Gov,
-    integration with Palantir on classified networks, and reported use via Palantir in the 3 Jan
-    2026 Caracas operation (WSJ, Axios; Anthropic declined to say). Show the refusals together
-    with the integration they limit, not instead of it.
+    real counter-evidence (veriticide ledger, Entry 7.2). The ledger records that they cost
+    something: federal contracts were cancelled, and the Department of Defense designated Anthropic
+    an "ESG supply chain risk." They were limits on a military integration that is also on record
+    (Anthropic's own July 2025 announcement): a $200M-ceiling DoD prototype agreement, Claude Gov,
+    and integration with Palantir on classified networks. Claude's reported use via Palantir in the
+    3 Jan 2026 Caracas operation is also on record (WSJ, Axios; Anthropic declined to say). How
+    much of the integration survives the cancellations is not established. Show all three
+    together: the integration, the refusals, and what the refusals cost.
 
   Do not file it under "safety" on its say-so, or strip the label against the record.
 - **The public the video addresses** ("from the sidewalk") is neither camp. The fight between the
