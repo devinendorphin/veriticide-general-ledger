@@ -291,7 +291,9 @@ Show the power on each side, and the party that is neither:
       - Anthropic, as a company, gave $20M in February 2026 to Public First Action, a 501(c)(4)
         that does not disclose its donors and funds two allied super PACs backing candidates the
         group describes as favouring AI safeguards. A second $20M was reported later in 2026
-        (Axios, Bloomberg Law, 12 Feb 2026).
+        (Axios, Bloomberg Law, 12 Feb 2026). The group does not disclose its donors, so Anthropic
+        is the only publicly known one. Per the group's co-lead, its gift raised the target from
+        $50M to $75M. Whether it controls the group is not established.
       - Meta, from its corporate treasury, launched two super PACs in 2025 to fight state AI
         rules. One is a California PAC backing "innovation first" candidates (about $20M reported).
         The other is the national American Technology Excellence Project (about $45M reported);
