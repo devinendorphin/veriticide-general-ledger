@@ -768,3 +768,37 @@ block carries a note giving its original number.
 
 The rest of `claude/innovation-mapping-575ewy` (x-bot-swarm, CTF-1, the Epstein case, Entries 15–16,
 and the DOGE capture commits) is already on main in later form, or is covered by the DOGE entry above.
+
+## 2026-11-18 — Disposition of the remaining June–July branches
+
+Each remaining branch from June–July 2026 was checked against `main` before anything was merged.
+Most share no history with `main` after its rewrite, so for each commit the check measured what
+share of its substantive added lines (40+ characters) is present on `main` now.
+
+**Merged** (they share history with `main`):
+- `claude/framework-plain-language-dm116i`: `docs/plain-language.md` and
+  `docs/plain-language-tiers.md`. Tier names checked against the current taxonomy; they match.
+- `claude/usage-policy-refusal-osxcyx`: the 2026-07-20 refusal-session reflexive specimen (evidence
+  hash verifies), the D-1 restoration in the 2026-07-06 record, and the base-model latent-space
+  navigator (`experiments/base-model-capture/`).
+- `claude/veriticide-ledger-successor-3p5c6p`: the deprecation/lifecycle primaries (hashes and
+  verification memo; raw HTML kept off-repo and re-fetchable) and base-model FINDINGS Studies 1–2.
+- `claude/conversation-framework-mapping-wkxdey`: the 2026-07-05 Fable 5 session reflexive specimen
+  (transcript hash verifies). The branch called it the "second" specimen, but main's ordinals had
+  already been assigned, so it is identified by date. See the numbering note at its entry.
+
+**Superseded; not merged.** Their commits are on `main` in later form (87–100% of added lines
+present). The lines that are absent are custody statements reset on 2026-07-02, manifests replaced
+by later re-captures, and last-updated lines since rewritten: `add-canonical-iic-tags`,
+`claude/veriticide-convention-remap-wjtudj`, `claude/veriticide-ledger-audit-wjtudj`,
+`claude/veriticide-ledger-formatter-2fhyv9`, `claude/control-null-comparison-0dgl0i`,
+`claude/election-redistricting-map-4upzsr`, `claude/ai-psychosis-sycophancy-9zbfxc`,
+`claude/gap-filling-egress-ueaah5`, `claude/bot-swarms-x-opinion-g9b7hf`,
+`codex/add-agents-governance`.
+
+**Held for the operator:** `claude/doge-mapping-kuqirn`. It holds Pattern Registry "Entry 9: The
+Multi-Actor Denial Set", a Grok USAID-mortality thread numbered Entry 3.6 (which collides with an
+existing 3.6 even on its own branch), and a Musk denial entry that duplicates main's 2026-06-28
+filing under Entry 14 but adds the X status IDs that main's entry lists as required. Its PR (#25)
+was closed unmerged on 2026-08-01 with no recorded reason. Whether that closure was a ruling on the
+content is the operator's to say.
