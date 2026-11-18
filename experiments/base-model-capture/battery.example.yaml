@@ -1,0 +1,64 @@
+# Phase 0.2 navigation battery — OPERATOR SUPPLIED.
+#
+# Phase 0 rule: perishable capture only — NO framework language, NO
+# classification. Everything below is a NEUTRAL placeholder whose only job
+# is to demonstrate the three modes and let the harness be dry-run and
+# smoke-tested. Replace with your own battery, then:
+#   1) copy to  battery.yaml   (navigate.py prefers battery.yaml if present)
+#   2) FREEZE it — its sha256 is folded into prereg_hash automatically and
+#      stamped into every captured record
+#   3) run before the 2026-09-28 endpoint close
+# battery.yaml is git-ignored by default: your real battery stays local and
+# off-platform, and only its hash enters the repo. That is deliberate — it
+# lets the committed tool stay neutral while your run stays preregistered.
+#
+# ---------------------------------------------------------------------
+# THREE MODES
+#
+# walk   — tree exploration. Fields: id, prompt, depth, branching,
+#          chunk_tokens, temperature. Cost = branching^depth calls per
+#          model. Start at depth 2, branching 3 (=12 calls incl. root row).
+#
+# pair   — contrastive scoring. Fields: id, frame, continuations[{id,text}].
+#          Scores frame+text for each candidate, slices to the continuation
+#          tokens, and analyze.py reports d_mean per ordered pair.
+#          *** MATCH YOUR CANDIDATE LENGTHS AND REGISTER. *** A delta
+#          between a 6-token candidate and a 30-token one is mostly a
+#          length artifact; analyze.py prints len_ratio and flags it, but
+#          the fix is in the battery, not the analysis.
+#
+# field  — slot rotation. Fields: id, frame_template (MUST contain {slot}),
+#          slots[], continuations[]. The estimand is the SPREAD of d_mean
+#          across slots, not any single cell. Keep the frame identical
+#          except for the slot filler; that is the whole design.
+# ---------------------------------------------------------------------
+
+walk:
+  - id: walk_neutral_weather
+    prompt: "The following is a transcript of a radio broadcast about local weather.\n\nHost:"
+    depth: 2
+    branching: 3
+    chunk_tokens: 24
+    temperature: 0.8
+
+pair:
+  # Length- and register-matched candidates differing in one content word.
+  - id: pair_neutral_geography
+    frame: "In a geography textbook, the following sentence appears:\n\nThe capital city of France is"
+    continuations:
+      - id: paris
+        text: " Paris, a city on the river Seine."
+      - id: lyon
+        text: " Lyon, a city on the river Rhone."
+
+field:
+  # Same contrastive pair, rotated slot filler. Spread across slots is the
+  # estimand; each cell on its own is uninterpretable.
+  - id: field_neutral_climate
+    frame_template: "An encyclopedia entry on the climate of {slot} begins:\n\nThe weather there is"
+    slots: ["Norway", "Morocco", "Chile", "Vietnam"]
+    continuations:
+      - id: cold
+        text: " generally cold, with long winters and short summers."
+      - id: warm
+        text: " generally warm, with long summers and short winters."
