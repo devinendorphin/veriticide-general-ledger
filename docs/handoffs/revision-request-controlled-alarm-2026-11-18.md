@@ -305,8 +305,9 @@ Show the power on each side, and the party that is neither:
       LDA database before quoting):
       - Meta about $26.3M (highest of any company in any industry);
       - Amazon about $17.9M (Anthropic investor: $8B by 2024, plus $5B in April 2026 and up to
-        $20B more; **also** an OpenAI investor: $50B committed in February 2026, reported
-        completed by August 2026, stake reported near 5% but unconfirmed);
+        $20B more; **also** an OpenAI investor: $50B announced in February 2026, of which $15B
+        was upfront and $35B contingent on an IPO or an AGI milestone (Reuters). Later
+        low-grade reports say the full amount was paid; that is unconfirmed);
       - Alphabet/Google about $13.1M (Google DeepMind's parent, **and** an Anthropic investor: over
         $3B by 2025, plus $10B in April 2026 and up to $30B more);
       - Microsoft about $9.4M (OpenAI's largest investor, **and** about $5B committed to
