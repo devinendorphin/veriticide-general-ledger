@@ -1,0 +1,93 @@
+{
+  "item": "./secondary-doge-savings-witnesses",
+  "urls_total": 17,
+  "urls_captured": 15,
+  "urls_failed": 2,
+  "results": [
+    {
+      "url": "https://abcnews.com/US/doge-website-now-saved-105-billion-backtracked-earlier/story?id=119408347",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://fortune.com/2025/02/11/usaid-no-track-8-billion-unspent-aid-trump-froze-foreign-funding-idled-staffers/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://thehill.com/homenews/administration/5162621-doge-wall-of-receipts-savings/",
+      "http_status": "403",
+      "captured": false
+    },
+    {
+      "url": "https://theintercept.com/2025/02/20/doge-social-security-cuts-musk-receipts/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2025/6/6/has-doge-really-saved-the-us-government-180bn",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.cato.org/news-releases/doge-cut-jobs-not-spending-heres-why",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.cbsnews.com/news/doge-cuts-contracts-grants-leases-searchable-list/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.cbsnews.com/news/doge-wall-of-receipts-more-discrepancies/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/doges-big-illusion-the-heavy-costs-of-the-trump-administrations-so-called-efficiency/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.cnn.com/2025/02/19/politics/doge-canceled-contracts-8-billion-invs/index.html",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.npr.org/2025/03/01/nx-s1-5313853/doge-savings-receipts-musk-trump",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-trump-and-musks-claims-that-they-are-cutting-government-fraud-and-abuse",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.pbs.org/newshour/show/a-look-at-the-misleading-and-incorrect-claims-on-doges-wall-of-receipts",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/watchdog-trumps-dismantling-of-usaid-means-billions-in-unspent-aid-now-lack-oversight",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.tiktok.com/@nytimes/video/7477627559505710378",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/2025/02/22/doge-savings-found-list-analysis/",
+      "http_status": "000",
+      "captured": false
+    }
+  ]
+}

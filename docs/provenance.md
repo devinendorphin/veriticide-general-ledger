@@ -861,3 +861,46 @@ called directly: it rejects Chrome's error page (`id="main-frame-error"`) and ac
 Out of scope, because neither writes web pages into an evidence store: `scraper/capture.py`
 (no network access; custody is assigned by the case process) and
 `experiments/base-model-capture/capture.py` (API responses).
+
+## 2026-11-18 — DOGE / USAID–PEPFAR re-captured with the hardened script; originals placed in Drive
+
+The hardened `capture.sh` was run from this session (open egress, no `--promote`, no `--archive-org`) over
+all 15 items, 89 URLs. The originals (3,275,271,636 bytes, 320 files) were uploaded to the operator's
+Drive at `the veriticide suite/case-evidence/doge-usaid-pepfar/capture-2026-11-18/`. That is the first time
+this case's raw bytes have left the capture environment: the July receipt was text only. The upload used
+the Drive v3 API with an operator-issued OAuth token, injected by the environment proxy. **Every file's md5
+matched what Drive reported (320/320).** All 260 non-empty artifacts listed in the committed
+`sha256sums.txt` match the sha256 computed in the same read as the Drive upload. Receipt:
+`cases/doge-usaid-pepfar/evidence/custody-receipt-drive-2026-11-18.{md,json}`, also placed in the Drive
+run folder.
+
+**Per-URL outcome** (`content-check-2026-11-18.json`):
+- **REAL-CONTENT: 65.** A transcript quotation appears in the page, or the page's own title matches the article.
+- **NOT-CONTENT: 6.** These passed the capture gate but hold no source content:
+  - two Cato pages are obfuscated-JavaScript bot challenges served with **HTTP 200**;
+  - the TikTok page is an app shell;
+  - three PMC papers are blank Chrome renders (print header only).
+- **NOT-CAPTURED: 18.** Refused by the gate: 403, connection failure (000), 404 or 406. Nothing was kept.
+
+Five items have every URL as real content: `gawande-democracynow`, `meeks-demands`,
+`propublica-internal-memos`, `rubio-hfac-testimony`, `schatz-record`. `tamlyn-cable` captured nothing.
+
+**The capture gate has two gaps, now on record.** It judges by HTTP status and recognises Chrome's own
+error page. It does **not** catch a bot challenge served with 200, or a blank render. The
+content check above caught all six; the gate did not. Closing these gaps in `capture.sh` is open.
+
+**Integrity records replaced.** Each item's `original/manifest.json` and `sha256sums.txt` now describe
+the 2026-11-18 capture. The 2026-06-28 records stay in git history. The bytes they hashed were never
+backed up and no longer exist anywhere known, while the new records describe bytes held in Drive.
+`capture-report.json` is now tracked (`.gitignore` exception). In the same change, `xargs -r` was added
+to every case `capture.sh`: an item with no artifacts was hashing empty stdin, which wrote a bogus `-`
+line (seen in `tamlyn-cable`; that line is removed).
+
+**Custody state unchanged.** No `capture.json` was edited. The custody index still reads
+0 VERIFIED · 13 HASHED-PENDING-BACKUP · 2 LOCATOR-VERIFIED. Moving any item to VERIFIED is a separate,
+logged decision for the operator.
+
+**What this establishes:** for 65 URLs, original-form bytes of the real source page as served on
+2026-11-18, hashed in-repo and held off-platform in the operator's Drive. **What it does not establish:**
+that any page is unchanged since the date the ledger first cited it (these are fresh captures, not the
+June ones), or anything about the 24 URLs classed NOT-CONTENT or NOT-CAPTURED.

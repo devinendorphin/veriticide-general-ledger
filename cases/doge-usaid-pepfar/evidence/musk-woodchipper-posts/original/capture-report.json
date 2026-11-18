@@ -1,0 +1,28 @@
+{
+  "item": "./musk-woodchipper-posts",
+  "urls_total": 4,
+  "urls_captured": 3,
+  "urls_failed": 1,
+  "results": [
+    {
+      "url": "https://healthpolicy-watch.news/trump-and-musks-message-to-usaid-time-to-die/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://prospect.org/2026/05/22/who-died-when-elon-musk-killed-usaid-enrich-review/",
+      "http_status": "403",
+      "captured": false
+    },
+    {
+      "url": "https://www.democracynow.org/2026/4/16/usaid_whistleblower",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://x.com/elonmusk/status/1886307316804263979",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

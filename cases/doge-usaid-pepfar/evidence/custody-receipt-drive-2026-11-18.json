@@ -1,0 +1,2247 @@
+{
+  "files": {
+    "doge-savings-subset/abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.html": {
+      "drive_id": "1AZ3qOCdSfqipXrLQLsh_H8S5Nggk9xEh",
+      "bytes": 14131367,
+      "md5": "b321910d30972bd257f7c037b29a1386",
+      "sha256": "b4e8d14e4b95a3f67603766b21c9b55c5217f196ed24c1f071bd42fbac07e859",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.pdf": {
+      "drive_id": "1kXj3ErJgE5yog3PL5r9FSaGEh2eUxxwk",
+      "bytes": 1158411,
+      "md5": "23f021a808178bcb9156066d0778b608",
+      "sha256": "46bf9de194800c7e1f11973ce3355b82e8c779e566c61f8b41732e10b5f19b71",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.png": {
+      "drive_id": "1EISu26iiW8slmx2b5dg-3VrMAYSOyMOf",
+      "bytes": 508220,
+      "md5": "06d2ae991b1f3b978c73b6a5f9412d3d",
+      "sha256": "8acee7fb2a186a3cb28080fc1568617b18bc236731b641dce30f408c981abde2",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.warc": {
+      "drive_id": "1sx6M6FHufIldpXn03D6Ma2F2JCJWysZO",
+      "bytes": 14607518,
+      "md5": "c01cb18a9abf912855e0422703306f8e",
+      "sha256": "47c907afc9626d96706150ff90f5589ccae0416104d20d305cd156eae124c782",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/capture-report.json": {
+      "drive_id": "1aj6kd2iihHgxoQnsGmEKYWnyDgreq9IK",
+      "bytes": 1041,
+      "md5": "c2cc2301a0a3c9241dc151c22253d60f",
+      "sha256": "1b87948b4d0426e2b0889b41459e885530629162750cf100909f2f06dbe80047",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/capture-report.tsv": {
+      "drive_id": "1c2X9DX7akrdm7gHmrijoWkOfJcQ0X28N",
+      "bytes": 488,
+      "md5": "dcc3f884fce4ebe0ab877a5f079011fe",
+      "sha256": "529e793ef1a056b3c4beba71f43df39d6c9cdb866038b7c8231ccea09b3c7ee7",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/manifest.json": {
+      "drive_id": "1B4dbUMoW1ahZYQkv5APT4lhigc8HaI7A",
+      "bytes": 3530,
+      "md5": "700aff31e1eb55752a050fc8ab2a2a13",
+      "sha256": "41947b6127f2d5b2e87e7d10ee464e3e1c13ace8e1576ba3122d6d1168bef040",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/sha256sums.txt": {
+      "drive_id": "1g2q8AVHEVgKyNLQjGR51lIVD8C2RCFO6",
+      "bytes": 2413,
+      "md5": "5b75401f1d260418a2acf1849f1933a3",
+      "sha256": "4a5c942280c637fd16e903aee4b0b2544d43b89a4187ff8d4a1b2675bfa3811e",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.html": {
+      "drive_id": "1gaXQ2cTQZ5zCoz1HtxkmsZLR1iWrHfL7",
+      "bytes": 4100374,
+      "md5": "eb7a4b6e0cb8ef967534fc813fab7e0f",
+      "sha256": "5fccd832476f9476f5482b26f759f84b490574dffd6b64c7ef98b2962afb75f2",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.pdf": {
+      "drive_id": "1vwJoCphlLDz-OW8G6Ioz3eUOwn4fCiS5",
+      "bytes": 636223,
+      "md5": "6208d8e71a55456908e08eadf540850a",
+      "sha256": "8275e97727d576e97a715d8ecdbd85761467e5cf2b1af3561397b1536ef9ec2e",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.png": {
+      "drive_id": "1beMjyldh858hIHr-nNrFzXJUPvXqd-6O",
+      "bytes": 915078,
+      "md5": "f6d8936391e79c7c92ca47ebe32ebf06",
+      "sha256": "920faf120c022064c9054ca64cbb535fb76ff30d3846406a61fd49e4ef346448",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.warc": {
+      "drive_id": "1JCMexpuZV0wwrlok4r6ob4N2zhi8Q1my",
+      "bytes": 4196598,
+      "md5": "641092e204877e816877c7da4690f4ef",
+      "sha256": "beffb12c4a2e162f057b72543f5baacaa37e25d645e04d9b02f25669be4478e4",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.html": {
+      "drive_id": "1rynzRmuCcvvzZMSjWKWCx-6VACkIyLR8",
+      "bytes": 3913591,
+      "md5": "4253178387539b8937c9051e00c4c27d",
+      "sha256": "4525c5d8250775f91ed9186bb47df6d466defe23d8acba15347bb1daa6f3b1db",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.pdf": {
+      "drive_id": "1JIoypSWFzm3QSK7rGoLPTsSMDxGIIxKS",
+      "bytes": 2619294,
+      "md5": "73953bb92b54a2b7bc91751430c740d9",
+      "sha256": "8c4d3d28028916f113bd73ef7bf762ee447c36c6992759e28078e04fa10a4e31",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.png": {
+      "drive_id": "1WEk4hdSHguaUDsSozQWx0TDLlnhyw1Wn",
+      "bytes": 470705,
+      "md5": "ae6c3c933049a91b01b85a66a66700ea",
+      "sha256": "44336aa13ed90a9e45ce4f335c4e36b6e7b6e12618f6ff26ff6afcf403d08330",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.warc": {
+      "drive_id": "17YXc9NbWI-gT03rWOmVZ56bvoV7Gx-aZ",
+      "bytes": 5110138,
+      "md5": "8567a07cae9c1e9187ce91cb3a92f693",
+      "sha256": "9ec4c61760ca19b6b50d1175304545741d65d718af54a0cbf3d10a7117981199",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.html": {
+      "drive_id": "1s2ct0hK2HAtvZzOMxymIIvmH4GsA7NL3",
+      "bytes": 4084143,
+      "md5": "3080c5e61cc40e06332aa6ead4bac513",
+      "sha256": "b41b5101fc13c2c846168b93fee6e469da6c733eeacf5e7340c036518300618d",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.pdf": {
+      "drive_id": "1WZ_lkj6gxN98GCehxNEuvlLoyS0P8RKM",
+      "bytes": 2261540,
+      "md5": "4ad7533a86964aa15c3ae310c403ade5",
+      "sha256": "a3117909c8c4765c1d78eff374908117cfd40f6692da2cc63affc386c6cd33c5",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.png": {
+      "drive_id": "1ZkGQiFrcQioDpsVm64HMxksyr7DvNxir",
+      "bytes": 559964,
+      "md5": "a235cf049b96c451e28a97274aef60db",
+      "sha256": "fcde2bd836d6fd809c8f5965d3deeed291e5205a39eecfc5cb1227ab744f57ff",
+      "drive_md5_match": true
+    },
+    "doge-savings-subset/www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.warc": {
+      "drive_id": "1rfp9kf6lQapFyJb5m-eTvjdqHQ6Fbnym",
+      "bytes": 5285181,
+      "md5": "6dd5538cb6bb2d82e22e17245f36881b",
+      "sha256": "6a9080dbcaf2f0974442d45ab0976d63e8c50403cbe1d888fbc0fdde5aff25f1",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/capture-report.json": {
+      "drive_id": "1tEpKbObp67EO-Z3Mz7Ka9C-UkZGLBxoZ",
+      "bytes": 413,
+      "md5": "80cad18827f7f4bf6da7f10f1e476441",
+      "sha256": "c1426a1c6539cda00d7f8c4959e4b735df4b5c56bc7c350b0bef45519152d63b",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/capture-report.tsv": {
+      "drive_id": "18pRCEZ2pqZIKoXRdEGIB9jj9WrahmTGq",
+      "bytes": 151,
+      "md5": "23b0ff788627dda4f419a0f7508fc287",
+      "sha256": "e9de5c3c59ae378d277065cf1e94eb256e1493e74d3cf36d0fee67e6179aa172",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.html": {
+      "drive_id": "1-3recjp3UAUo3rTGxqboK67Gbknrzzyf",
+      "bytes": 8683142,
+      "md5": "86dfd7d325f03f097c0f211ebaa21860",
+      "sha256": "e27599a2815c5241dbe653abfc4bfb96f25c64cbc235e61c4cb4fd372e1406d9",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.pdf": {
+      "drive_id": "1GXokIYDaW7-kjLVZ8t57CoyWQgzFg8Kt",
+      "bytes": 4210796,
+      "md5": "a32aa2b679aa193f1c2eccbdbb3793b4",
+      "sha256": "63a1b791ffb3f44d272a5c2d9e2f491f9a7a837714efae1e38a3280726ec36be",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.png": {
+      "drive_id": "1hNiS97_bD34r7IN0aG7zXQL-E2I9sBHX",
+      "bytes": 483624,
+      "md5": "2f2c82218d9d5afdd75655e78584bd7a",
+      "sha256": "afff3c0a2ac028ac1cd8fbcfad7cbfb2411f703822fdc38fa79514a98e5ac7f6",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.warc": {
+      "drive_id": "1G4L3I8toJyAjaMApjawbhs_qEwau_y3G",
+      "bytes": 15178049,
+      "md5": "111346d5a97fdc33f1f59f6bd90cc0e0",
+      "sha256": "2622cc85bd9802e3160d8b57421c63dd5d1be5e32288ae11e8defa6200e73aad",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/manifest.json": {
+      "drive_id": "1jkQcvtP7xU3Nra5R1OlaELBze5jTuN4O",
+      "bytes": 1811,
+      "md5": "f1eebd96f7ed5bb1cc607b26dbd8f94d",
+      "sha256": "eaba4840f9756611c712305d53bfbb3c1eeebc045da88529ef4daac21f2baa36",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/sha256sums.txt": {
+      "drive_id": "19ycCzF0RCuZr8lQoBJqNraqzixGN46jT",
+      "bytes": 1133,
+      "md5": "5ab7d54b2d56b6df97b7c6b873066de0",
+      "sha256": "c1542e103d7c5ae55561aae3ef353ddfbd3c32333f127f6bb25e798d69258dde",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/www.democracynow.org_2025_11_13_usaid.html": {
+      "drive_id": "1IOpwqD__w-INYOP2hbvtKmubd0eLNWJ1",
+      "bytes": 6229958,
+      "md5": "06acab23903dda3d9d1bd7bdd1fc3f13",
+      "sha256": "c725c64f004a9d33d9af6a9197f976e12c96fb61caeab7bba31acaca69837d68",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/www.democracynow.org_2025_11_13_usaid.pdf": {
+      "drive_id": "1tPKhaGYEFAOfuqr_HFfzMyGID6OTBHPY",
+      "bytes": 255550,
+      "md5": "13d7f9468219f458d67bb1a445cc1031",
+      "sha256": "7603ac934590b0b27a5acec0d768163dd242d3597004b3a2cbf92a7875b5441b",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/www.democracynow.org_2025_11_13_usaid.png": {
+      "drive_id": "1j6u5SQNydUGHaRCl6at4wagFCslm-8a6",
+      "bytes": 966488,
+      "md5": "22c64d913d7a10fc57c2116190f95022",
+      "sha256": "86ce2ebf27f88e21840c4bab12dcacde362987485850ed2793e1a8cc4e2dae98",
+      "drive_md5_match": true
+    },
+    "gawande-democracynow/www.democracynow.org_2025_11_13_usaid.warc": {
+      "drive_id": "1hzpWZq2DcNc4PkGc6oNi-NGicS42IPqk",
+      "bytes": 6467241,
+      "md5": "ec12b36ab0a516363a9b45e2266839a7",
+      "sha256": "6d536c615333c541896373e9db89144b6c8f5aa1a4b0da3360471c3227931f6b",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/capture-report.json": {
+      "drive_id": "1SxfNIVvXqdpi4erbULIu4QTJMe1jh_9L",
+      "bytes": 990,
+      "md5": "e52740bc233ad6d68e1813e60bd73b33",
+      "sha256": "93bf07e9c79b098b633b65b2f1b9c7499df9a9370c40d19946fdac64f3aeec37",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/capture-report.tsv": {
+      "drive_id": "1VYIY_vBDoOijuSB9OOZcym-4u6wtNkVl",
+      "bytes": 585,
+      "md5": "f0a5d0263d3a5de3fd7827733cad71a3",
+      "sha256": "1339e1832a5fd44f5fb3d5c3351eb2843dd7e2d4f3b03aa4a89b8283487febd0",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/democrats-foreignaffairs.house.gov_2025_1_meeks-frankel-urge-secretary-rubio-to-.pdf": {
+      "drive_id": "11-T_z0M58Bzy_VE-p_AhYU00jPP4WRcU",
+      "bytes": 2357579,
+      "md5": "a7c8a4ba9ecc6a87a222dfc9c28d22a5",
+      "sha256": "1d8a30f0de73ac42fea3b786c06eab2c88d78b36d1c8750ffa42cb244669d8e8",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/democrats-foreignaffairs.house.gov_2025_1_meeks-frankel-urge-secretary-rubio-to-.png": {
+      "drive_id": "1lg-W_wclX9SVg-HAsI5aotfuSs4sQASh",
+      "bytes": 765347,
+      "md5": "793f1ef125c28f246b4ad1dc012036a7",
+      "sha256": "8693c81bd62814524ffee215f00cc360c6501d6ff19738baef895e6ba6192fb7",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/manifest.json": {
+      "drive_id": "15tg6goWegCSB5zodGJhNQwrxrxThtwIl",
+      "bytes": 2394,
+      "md5": "448725cbfc33b0ba4cbeb9400bfd15ca",
+      "sha256": "2bc60c9fe827394dfa30b45ef12d1e78959b5d0fab85211e0933b1562ecc6c78",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/pocan.house.gov_media-center_press-releases_pocan-kelly-109-addl-house-democrats.html": {
+      "drive_id": "1FRo2H7fHX9kShO9Fcq3pjB6T_H1768MP",
+      "bytes": 3393329,
+      "md5": "ade85a431e92bdd8db6cf19a970555da",
+      "sha256": "f1456f187683bc45ec6636824c3ff4c1644da3054e05d64e40ab34ce3c429a46",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/pocan.house.gov_media-center_press-releases_pocan-kelly-109-addl-house-democrats.pdf": {
+      "drive_id": "1jOaQOVq3e6UH6iCOMuPzA3X9-CkXik7M",
+      "bytes": 378745,
+      "md5": "67091ddb5b98d691223b59636ef74497",
+      "sha256": "40168cbe90f9338873fa0fdc18e4000e2d1cf01365762ab174307795c0a3c3de",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/pocan.house.gov_media-center_press-releases_pocan-kelly-109-addl-house-democrats.png": {
+      "drive_id": "1RQMWVappo4jjwLrnJXxvfnrF6GGTuobA",
+      "bytes": 483650,
+      "md5": "ab1fbb7c32a86de0eac380b6b037c8df",
+      "sha256": "001a29267f6b7532c6cb4e0676eeede29d4953f8f3ea045a080469cc97d9d6d1",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/pocan.house.gov_media-center_press-releases_pocan-kelly-109-addl-house-democrats.warc": {
+      "drive_id": "1eSagEQw8Un_MeYMHPu8zlYOQYX71-7_G",
+      "bytes": 3507068,
+      "md5": "5160785c069f02056bd8892f98fcaf75",
+      "sha256": "0cda88ea6905fdedb47d213706879708f484d0de30836e3738924289cd46ad3e",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/robinkelly.house.gov_media-center_press-releases_reps-kelly-pocan-109-house-demo.html": {
+      "drive_id": "1DaeVfOglPcw52rmub5ztXA1dL9F0FzHL",
+      "bytes": 3204023,
+      "md5": "6c2360ea91a9f87b8687475a9ccbec9a",
+      "sha256": "3d6fb751481bfe6f12b36e36419957f49445ff9bb339b404fa4fa962911d01e8",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/robinkelly.house.gov_media-center_press-releases_reps-kelly-pocan-109-house-demo.pdf": {
+      "drive_id": "1JepL2JvTqa6Wxqdbx11kbAAURftYtl07",
+      "bytes": 242628,
+      "md5": "ef8a3008884162a54c33e5a7defef8df",
+      "sha256": "a7ec41723f7b8cfd341997b95a5dbb261ad2e7614da9b2e25ad3cbb4c24e6892",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/robinkelly.house.gov_media-center_press-releases_reps-kelly-pocan-109-house-demo.png": {
+      "drive_id": "1yYaHDG9tMNKWbXDoEtpMqumNmR4k-Fqb",
+      "bytes": 671130,
+      "md5": "4e4f8d7890a7c203275a5404c5cac669",
+      "sha256": "35aafccd5be3a71df9764eef9b7c419a9f32ae7bccd68db0c9607b5501405d3e",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/robinkelly.house.gov_media-center_press-releases_reps-kelly-pocan-109-house-demo.warc": {
+      "drive_id": "1aTou9FIcjleQhPkZHgPvYyvRMuSo3dO3",
+      "bytes": 3301609,
+      "md5": "0a8b571bc4ff52fd1052764af59f9067",
+      "sha256": "964887ffb68edd2c14a1541526060d7a7de2111a8830d4a9d74930768d2f4066",
+      "drive_md5_match": true
+    },
+    "hfac-letter-jan24/sha256sums.txt": {
+      "drive_id": "1He0gTumDcbMc_RNRqN3Lz8ZlN8vt51Ph",
+      "bytes": 1611,
+      "md5": "781ce13c4fb47d0e2d6cdb4e0f018bd4",
+      "sha256": "7553aa5bd3700e63046071aa8ec194e414e8410f2aeb102cfd61332770390b76",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/capture-report.json": {
+      "drive_id": "1jqUI8_UO8HqfOpYQ9XeYiBB_1Cr4Wdw0",
+      "bytes": 2214,
+      "md5": "b33bf5a02f3a5643dd3abc7df2325fa8",
+      "sha256": "884d07e35b0ed58b662278652ba86b701c4f63a143880305b47b10bad634f349",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/capture-report.tsv": {
+      "drive_id": "1kbpVo5Sn73o3WEdEfRU42lvrYCB7IF23",
+      "bytes": 1227,
+      "md5": "22aa86929b9f7215ef619c86faced30a",
+      "sha256": "6876cba4584cc64fadd407504329fc094be1807f514a49d91d4b7c6fac599fb7",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/clearinghouse.net_case_46107_.html": {
+      "drive_id": "1TjE22wY-v3lxuO0D_UZ0Dsco6USsBWqO",
+      "bytes": 3349713,
+      "md5": "f8c9204643532242346c56d8cc89bb5e",
+      "sha256": "0d15040bc097954789e54e498955d8d18baf243f8316f0e5d1f2b0490c5e44f1",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/clearinghouse.net_case_46107_.pdf": {
+      "drive_id": "12nIzG2hdc2IhiLRpcSsFGc8uWj4BNQEc",
+      "bytes": 167791,
+      "md5": "7a25fefc56f3bcb19742c59e472fa52d",
+      "sha256": "e337a27ee2becdba564609dfd4578c40f5563632790ea3313964a50462722a8b",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/clearinghouse.net_case_46107_.png": {
+      "drive_id": "1R01hN8uwXKh94nB2KqcLz7xvWA_CDDox",
+      "bytes": 430835,
+      "md5": "0ddc5a13539d075e6b47fa1c9971e940",
+      "sha256": "36b65054626bca16ccd7686ed43f348cd30c71fac980cb4aad31b0045ea13a7f",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/clearinghouse.net_case_46107_.warc": {
+      "drive_id": "1V_Of11XiGyoi-vQLbPXAn80DBBxWHKsB",
+      "bytes": 3523961,
+      "md5": "711be69b01e11412db9fd6184fa3c8e3",
+      "sha256": "add8a3983d585d32f3e444a1a0e134a36dcc3748586fc03767a5a2b4818e12fb",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/en.wikipedia.org_wiki_2025_dismissals_of_U.S._inspectors_general.html": {
+      "drive_id": "1dJvuIIznO5ajMXg9vMTIzCLhei4wnqSb",
+      "bytes": 1267728,
+      "md5": "bab151379e6bfa723acb3c1ef10f2fc0",
+      "sha256": "a6fb1f87c195fa96a34cfa9d6d078485b3d872ab709c56ae3c08bdb3a9b44982",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/en.wikipedia.org_wiki_2025_dismissals_of_U.S._inspectors_general.pdf": {
+      "drive_id": "1QU3SHU13Pb_-8bl1xS7Y9UerEuy3RLsR",
+      "bytes": 415333,
+      "md5": "55db1e093ed585ddb7d4f1d33984613d",
+      "sha256": "7cc8f6b7fec39b5c42beed8945c0f67866a3e372d95f2623f39f4551f3c83858",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/en.wikipedia.org_wiki_2025_dismissals_of_U.S._inspectors_general.png": {
+      "drive_id": "1hyr2qmzOAZFiThms7ovZb3SsupHLClGB",
+      "bytes": 565859,
+      "md5": "49a05e2fac33bed09ce20c9e0d39db5c",
+      "sha256": "1b0a9ff86d5bb875bb0d237de4bb4c46e04036dc7dc348c8cc0a0969c3b31acc",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/en.wikipedia.org_wiki_2025_dismissals_of_U.S._inspectors_general.warc": {
+      "drive_id": "1RoLMOFutbxzzshfWGoAzQWdklYN8F6KG",
+      "bytes": 1716322,
+      "md5": "452741e11bea1c0938c18f9692bb96be",
+      "sha256": "318a28cdc10109534b1d3ba7daf7981d37aaad969343d0e6a146f446519bd9cf",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/federalnewsnetwork.com_agency-oversight_2025_09_trump-unlawfully-fired-17-agency.html": {
+      "drive_id": "1zwNU4ItIr1SxIYiKn0pbqxcbcTcbKmbm",
+      "bytes": 6160729,
+      "md5": "d135bcbdbfc946fb20edc34827b52b88",
+      "sha256": "448b339f41a30a3b071dd575ca4c6cd3ea9936ca04cf63efd51a8cff6dfa615c",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/federalnewsnetwork.com_agency-oversight_2025_09_trump-unlawfully-fired-17-agency.pdf": {
+      "drive_id": "1Iq9RvcfeFZsRF5dWxNuZxSGpm4PTyMdW",
+      "bytes": 650459,
+      "md5": "792bd460953792ec8a33ca26658d494d",
+      "sha256": "0052891549facb98d7ca9c7a1e08ec603e1f2d3c7dbf9f029d570fc4d3ee754c",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/federalnewsnetwork.com_agency-oversight_2025_09_trump-unlawfully-fired-17-agency.png": {
+      "drive_id": "1LWIuo9k5FKH2v42Rsmwi0ehzjDNoThxp",
+      "bytes": 333340,
+      "md5": "d917c44cce4fb2dabda3687694d4d75d",
+      "sha256": "9d447d31775cc2072f1f78a40e251f5cb4e667ade5fd1c968a99d75fd54a76de",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/federalnewsnetwork.com_agency-oversight_2025_09_trump-unlawfully-fired-17-agency.warc": {
+      "drive_id": "1xhHsFuL-4OfOGrzAYuOB2ZhXTlpSRSKy",
+      "bytes": 6624007,
+      "md5": "29fbea3a8816a3228e659c585f2d6881",
+      "sha256": "47b0776b82494048b595aa816c3bbf1fdb8e94f9a257feffa6147cb702c31e2a",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/manifest.json": {
+      "drive_id": "1I0WfInWEFzQCnnOA4yOl_cdonEnKCNHD",
+      "bytes": 6540,
+      "md5": "b19b926ea1943af38341fccb2546f431",
+      "sha256": "ccb4426e048aeecd3752172b42a9ac39eed2354fcbca94225654b49885f2a992",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/sha256sums.txt": {
+      "drive_id": "1aVvnddkn7xP1zpetuKWABZC2uVmcTaNn",
+      "bytes": 4549,
+      "md5": "532a5d1aeed74844c55054483695286f",
+      "sha256": "7928aa873762395331ff2f98d7a6df998b04639f570f99f9f6a490f71555e916",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.cbsnews.com_news_trump-fires-usaid-inspector-general_.html": {
+      "drive_id": "1ZXUCMXQqg5JWX-4DdZzSrs8XgaUyL3B9",
+      "bytes": 4404538,
+      "md5": "3a962dccb77b14494802b3414699d92a",
+      "sha256": "88a83cd1a29eaf155dd121f30b4ca98f149624e732f9df6da9dafce2803c316b",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.cbsnews.com_news_trump-fires-usaid-inspector-general_.pdf": {
+      "drive_id": "1NhMlqMkkq4JcrXNssKK-XluwdYU7v3Fx",
+      "bytes": 2313481,
+      "md5": "3f7f9fc515ca04c54eae7155a984238d",
+      "sha256": "33157d524d9ffbab573c456a7d338b9ed561aa9d33de4745f56430081a4d061d",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.cbsnews.com_news_trump-fires-usaid-inspector-general_.png": {
+      "drive_id": "1aHpL1VEifetvK1wLiyjkDAu6tvIb6cDJ",
+      "bytes": 493993,
+      "md5": "ea607761f7235774f7cf32b5a960be8f",
+      "sha256": "2b68ad2262b086eadbf2cdd38bc929b40e7a9fe78f5d9cabc9730c4e94b55cba",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.cbsnews.com_news_trump-fires-usaid-inspector-general_.warc": {
+      "drive_id": "1WlISq-FTnJP01NXasvJ2G4hcyhc3EdHk",
+      "bytes": 5601524,
+      "md5": "c258e4992e50e2f5888f582c3b3c539f",
+      "sha256": "13d60492595e8272ce122330526d2dfa337a8fe0b6b6c8579560c8adf0723976",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.cnn.com_2025_01_25_politics_trump-fires-inspectors-general_index.html.html": {
+      "drive_id": "1gttu_Jkz9cmGnFmdK2DLvl8dE3bzeSkw",
+      "bytes": 10172018,
+      "md5": "4b15dde7f31375007bd4cf208a578f37",
+      "sha256": "d0c54b56691a4093b1c66d7928dd6c5ab5cfa871f5a5e023cf9c9afe657eabb1",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.cnn.com_2025_01_25_politics_trump-fires-inspectors-general_index.html.warc": {
+      "drive_id": "1FB01_QxSQjGvYWJ1nP4fY7dHaBxTMY1T",
+      "bytes": 15013195,
+      "md5": "a07dd4fc6b6cb388c24f8d1dc1e54e95",
+      "sha256": "d047a303bebd4fd7f5d5519d7b349e173742a306cc45b5f7b91509ae5cbe3f72",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.cnn.com_2025_02_11_politics_usaid-inspector-general-fired-trump_index.html.html": {
+      "drive_id": "1VYO4ZhH9mbHtf8LZo2A_IbQsub1WCOPf",
+      "bytes": 8639674,
+      "md5": "841c7b4fe230ebbf1e8523230af58459",
+      "sha256": "0badf6caf71ee091dc2557ed60a43e5bb21a35dd7f54c9dccb5d562ed911ab08",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.cnn.com_2025_02_11_politics_usaid-inspector-general-fired-trump_index.html.warc": {
+      "drive_id": "1S3uc5yVaUDhTnj_R2uffjkEY1K6V_S3s",
+      "bytes": 13387779,
+      "md5": "a5391025a2edc4459a077712aef73054",
+      "sha256": "c7b521d8334aa3fdd5bd8eb164ba20de226b22475aff29c1cb307b6637c7e55a",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.govexec.com_oversight_2025_09_fired-watchdogs-cant-be-reinstated-despite-tru.html": {
+      "drive_id": "1DWiQhww2M2jJ3satBjwqm4vdzRvNOMVi",
+      "bytes": 3493348,
+      "md5": "353f4bca2ad35d50984036b09e5acd59",
+      "sha256": "1f44aba79521ce83cf4e6df59e25051132b9974f9b997aeaefb4b8075801adbb",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.govexec.com_oversight_2025_09_fired-watchdogs-cant-be-reinstated-despite-tru.pdf": {
+      "drive_id": "1OHAlPFl1YKjBD_-CprYdWZnv3wvM-PW-",
+      "bytes": 611521,
+      "md5": "e2ff336ee7208f691de2a436e7cf7a4d",
+      "sha256": "61ad2ffec5a7d0551a38321b70aefbba914dcb3f727636786927182140ee116f",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.govexec.com_oversight_2025_09_fired-watchdogs-cant-be-reinstated-despite-tru.png": {
+      "drive_id": "128JE7mKNWTMLMRHFrxFC733YhCP5MCOL",
+      "bytes": 428775,
+      "md5": "5f7afceb2a773f4582e161725c49ecc2",
+      "sha256": "ab207125ce2069bd71f18fae9e7ed401b0a4c2eb6a13cf09f028a8b116327741",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.govexec.com_oversight_2025_09_fired-watchdogs-cant-be-reinstated-despite-tru.warc": {
+      "drive_id": "1hMLf2mEys6lxo7lCNd8QIeLTuk13BwOG",
+      "bytes": 3648848,
+      "md5": "494cf6099a88559c410ab1b4b8576cff",
+      "sha256": "7a4d904c23dba164379c75301aab79842ae81023a3d4c47f2486916f71c922b9",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.nbcnews.com_politics_politics-news_usaid-inspector-general-fired-releasing-r.html": {
+      "drive_id": "1KHjLignvj2tHNhFGAnaZQb7UbrQ1psek",
+      "bytes": 7727981,
+      "md5": "9a343e006f391530ae7c2b68efe1486f",
+      "sha256": "fb859960f2326676649f7755163779d049a85876ab37f725f630290426d52653",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.nbcnews.com_politics_politics-news_usaid-inspector-general-fired-releasing-r.pdf": {
+      "drive_id": "1mQk68vrbHXdpOOh8czb7zL62LH5CgR-J",
+      "bytes": 2404632,
+      "md5": "b3852f853cff181ea9ddb7b154e71abc",
+      "sha256": "73a3b4c4d53bb9248f03f133b8b19c60eaf449ab89fa7f6fd390afb5e40433da",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.nbcnews.com_politics_politics-news_usaid-inspector-general-fired-releasing-r.png": {
+      "drive_id": "19vFanGLgpde5h0PtZUj2nzWab3PVQNXc",
+      "bytes": 674968,
+      "md5": "7e061bb60d4868380ba83ae037e2e1d8",
+      "sha256": "eff83c014b38fb2c6a3bb4f5c5324404c628eedb0e9c85dfa4afd519e3657d1b",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.nbcnews.com_politics_politics-news_usaid-inspector-general-fired-releasing-r.warc": {
+      "drive_id": "1AbHdiAZwgHfKx4EUtL6VuJm8eQpv_-o5",
+      "bytes": 8061590,
+      "md5": "5457f43a0c2ce0302a424c0bbb2191d3",
+      "sha256": "99521bd4e3346fc07d6a287160e4f467ef4579fe9fdc9d2282df5e677b205601",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.npr.org_2025_01_25_g-s1-44771_trump-fires-inspectors-general.html": {
+      "drive_id": "16ppbM6ISKmemQHhwCYkqzR1U5E8G7M_S",
+      "bytes": 3159058,
+      "md5": "49d83c0ea30ac4cc17375113dcd5607d",
+      "sha256": "7d1ef745ac8b97ad05da1caa76160c503009564ddc36850d7885e7bf6a80dff6",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.npr.org_2025_01_25_g-s1-44771_trump-fires-inspectors-general.pdf": {
+      "drive_id": "1b5xyS-QNdYop3WeP7pDNpcXnyYShOdme",
+      "bytes": 470649,
+      "md5": "b99838f9700445366fad2394dd25442a",
+      "sha256": "098b6551740f0e8a0aaf1b0d89339eced4307c75da7fd469719262adaa75e05d",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.npr.org_2025_01_25_g-s1-44771_trump-fires-inspectors-general.png": {
+      "drive_id": "1N4blYWx6snkQsO8hWjTgxXQZoTGLfO2E",
+      "bytes": 773660,
+      "md5": "244bcd4e0bc7582dad43cc40402a212c",
+      "sha256": "2bacf08d319523cf285e716af8eefca23cb790c8ac37fab0d1dbc6c6f3b4de0c",
+      "drive_md5_match": true
+    },
+    "ig-firings-jan2025/www.npr.org_2025_01_25_g-s1-44771_trump-fires-inspectors-general.warc": {
+      "drive_id": "1OoeAhjOpeSdaHlr623UnXysNeVQXfn9R",
+      "bytes": 3297613,
+      "md5": "eaa651425aaae56819faa2d0a519677e",
+      "sha256": "868c965a8a954165a02d36dbbb06739437bd4eb34987b31a14351a1552ac13fe",
+      "drive_md5_match": true
+    },
+    "meeks-demands/capture-report.json": {
+      "drive_id": "1Q2cKvYfh57KcKnlqAo3-9Ao-BSM35lct",
+      "bytes": 1034,
+      "md5": "400e06a4a997ff856d549c22eb4752d9",
+      "sha256": "c764d53b15ca28f57a661f625d30fed50484eeaf76fa4772bd21b86926d7792b",
+      "drive_md5_match": true
+    },
+    "meeks-demands/capture-report.tsv": {
+      "drive_id": "1Tvp3lt5DprmXIHOyz8FN4G0i_VcoS9o4",
+      "bytes": 635,
+      "md5": "526e3a8335ffe6957d1160461992ef78",
+      "sha256": "1486cb8c712a70b83b6fd7e77101765a5bb4fdae9551604a2f6ea1cdbb2ea5e5",
+      "drive_md5_match": true
+    },
+    "meeks-demands/democrats-foreignaffairs.house.gov_2025_10_meeks-again-demands-answers-from-secr.pdf": {
+      "drive_id": "1ZPIgeQXxGJqa20hEkSEErRcToUyOQmfu",
+      "bytes": 2370634,
+      "md5": "2c6bb16c0d983bd4b93836c0d26c5273",
+      "sha256": "14d96a29ac8645822fe685194af3342713f453fe29dbc8a06f2c3aeca0951d6c",
+      "drive_md5_match": true
+    },
+    "meeks-demands/democrats-foreignaffairs.house.gov_2025_10_meeks-again-demands-answers-from-secr.png": {
+      "drive_id": "1_iqLhhXCtHOdX7OLY4A6GzDVyPNYn3--",
+      "bytes": 849243,
+      "md5": "c07c6e79dceca2c3587e03547754f1df",
+      "sha256": "cf8e487829bdd1e25566c98b92c64cfe3e8a501fa1a3ef626effa5be1e61fd48",
+      "drive_md5_match": true
+    },
+    "meeks-demands/democrats-foreignaffairs.house.gov_2025_6_meeks-requests-answers-from-secretary-.pdf": {
+      "drive_id": "1qlN2RzUosmeYzyxKhRIO9sq9-lRFmJ0q",
+      "bytes": 2568542,
+      "md5": "942479a33818d865b954a20a4355e59d",
+      "sha256": "8ab0c5bb9b805f3199380b67c318115764524dbb1cc0d4fc80c24ba8dab53fc6",
+      "drive_md5_match": true
+    },
+    "meeks-demands/democrats-foreignaffairs.house.gov_2025_6_meeks-requests-answers-from-secretary-.png": {
+      "drive_id": "1M4wSuiVhHo4fKYMaODdGzKJYFhuOhMyl",
+      "bytes": 853044,
+      "md5": "518134e03cca78237a0d8fb25c61cb2b",
+      "sha256": "a8e4aa167295e60e43981899bff56db6a1d6e18b5d3471b87dcf34c199dff6a8",
+      "drive_md5_match": true
+    },
+    "meeks-demands/democrats-foreignaffairs.house.gov_2025_8_meeks-demands-answers-on-reports-of-tr.pdf": {
+      "drive_id": "1MsIot8n6kZ9tVm0IV_wKOnZ3-x_scZPS",
+      "bytes": 1625494,
+      "md5": "9fe42d5788074c14539e6f2a493cd154",
+      "sha256": "bed494d1c11b3b313dd0aaf39bf904bff97516c8dc0d604803fe1eac732c69bd",
+      "drive_md5_match": true
+    },
+    "meeks-demands/democrats-foreignaffairs.house.gov_2025_8_meeks-demands-answers-on-reports-of-tr.png": {
+      "drive_id": "1t06zWkJrtd9klHbS5LG3IdLlAclv2X4r",
+      "bytes": 847971,
+      "md5": "5d7d71921da11dca1c429e16f9f764d4",
+      "sha256": "9ddfc9b3c118c49d209d97f11332d2c6fb8b36de6bddd97e062658c9eef7db79",
+      "drive_md5_match": true
+    },
+    "meeks-demands/manifest.json": {
+      "drive_id": "1y4BAO6G4vTXEJz9VzqqoFyQjVGa1ABOi",
+      "bytes": 2388,
+      "md5": "c69c762d6aa8a346d87d3fb4d1cf2b0d",
+      "sha256": "6654c07ee7696205869bb20daf7566bfa7cfee1ae8f5f263be4dd1ece2fd1a40",
+      "drive_md5_match": true
+    },
+    "meeks-demands/sha256sums.txt": {
+      "drive_id": "1B6RaABblwFo9RPAPt7_UZlu61riG_Z7i",
+      "bytes": 1609,
+      "md5": "fe89288a94e274231a8a354dae06f216",
+      "sha256": "dd0959ae27c9d6182d77efb6ba275b3be46c678fde6dae16f652cfa4f7e95d65",
+      "drive_md5_match": true
+    },
+    "meeks-demands/sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.html": {
+      "drive_id": "1LH1FgrNojFFs9LsniNi_ee5N_UF5fI7l",
+      "bytes": 3063156,
+      "md5": "476a67c366b0b0e7063eaa4d9be748fa",
+      "sha256": "a1bd86c6fb6a7bbd147880b8c3ff27b05d672be555667e85d57aff1e04665960",
+      "drive_md5_match": true
+    },
+    "meeks-demands/sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.pdf": {
+      "drive_id": "1TGrlCt8jRxxX4xDR-Piy6MVGqiuebwb7",
+      "bytes": 257403,
+      "md5": "f7272bba85f8051d2fbceb70176f15a3",
+      "sha256": "fd0b9247ae5d5efb84efc26ad35ae8e8b17cd61f4ed453c56d8efef69c30cd84",
+      "drive_md5_match": true
+    },
+    "meeks-demands/sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.png": {
+      "drive_id": "1A8Ed037nay6pIkrBUAbHOM7yWNzSCY5t",
+      "bytes": 400928,
+      "md5": "2bceed713c1ab8814f16265470c5842b",
+      "sha256": "1a0e98a1489afde72f92d3df4fe361338c01d5466d8972ff9df0bc667c5e34a3",
+      "drive_md5_match": true
+    },
+    "meeks-demands/sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.warc": {
+      "drive_id": "14aM4iBPFRfswDmjK7qsbSgIfyHs_4Pbv",
+      "bytes": 3175055,
+      "md5": "5f21180260f1c494c5ac4a3451fb0787",
+      "sha256": "277dc092d13b729152814fe0003a3de187663d5f17f91d7cefcd0a161f0bd958",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/capture-report.json": {
+      "drive_id": "185ZwnB9roNa__TfBkk_WPSWJQitcLiKv",
+      "bytes": 712,
+      "md5": "51737130c89a696b531fea84fcb95aed",
+      "sha256": "f3ece89066f85a21a2bffc4875a155430211be5ed247410d532312d59a66774f",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/capture-report.tsv": {
+      "drive_id": "1Oao8A1jh_mkt43bVVdjgIj0gR9KElbXL",
+      "bytes": 302,
+      "md5": "35d5d8db04673b4aab5d96ed02c6afd2",
+      "sha256": "c47cfdcd31349b094dc4150dd8f2026a6d5dee21f6d307c743d61b29efd30769",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/healthpolicy-watch.news_trump-and-musks-message-to-usaid-time-to-die_.html": {
+      "drive_id": "1Z-F_Pk_YOJkhWuN0VAbjngjrzPpi1038",
+      "bytes": 11529988,
+      "md5": "b970809bfe0093d8e1b05feaff0aba41",
+      "sha256": "ca3e01e06124c281e82bc5949524d7f09942e22cc85b9813c71eb1f7b16d263e",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/healthpolicy-watch.news_trump-and-musks-message-to-usaid-time-to-die_.pdf": {
+      "drive_id": "1M5Co7teRhZvcfXCsXd1y2jS8vOOx5-aV",
+      "bytes": 3320202,
+      "md5": "c13a7ecf89434d3ba8ba73b8ebf1c67e",
+      "sha256": "4034bb43c4787b0af6a65188843467fef1dd72ceeed8b9c884a94a7a42ec8eda",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/healthpolicy-watch.news_trump-and-musks-message-to-usaid-time-to-die_.png": {
+      "drive_id": "1i-GDJmv5MNv7_YQkIchZ5rvuA3kPf_Pp",
+      "bytes": 913894,
+      "md5": "266bc0e522d6e610baec63e4696695cf",
+      "sha256": "49354ca6161685e0daa2dd5a9dfc19b9670b3324e4516a7fc8f4d2579859b9c3",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/healthpolicy-watch.news_trump-and-musks-message-to-usaid-time-to-die_.warc": {
+      "drive_id": "1XRtdCfoKkXq6d0adZJsbCbCIBa0k2SaT",
+      "bytes": 12709337,
+      "md5": "6f765063a30b7b61cbe96361f322981f",
+      "sha256": "923a4666caef3b186ac2f73bb07462a04e1da177519d77119d1aa95fc9e7fab4",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/manifest.json": {
+      "drive_id": "1GlH0QRZ9-bIz0mADDa8RkLVJaLMHIBf6",
+      "bytes": 2163,
+      "md5": "5744a3c1945959e1b98c02fb9d0ea06d",
+      "sha256": "58caa5995d074ba3656e86c72300bf8c6c41da66a898b350bde8a5f10ab19b69",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/sha256sums.txt": {
+      "drive_id": "1WMD-4Bx26JnrZ-OxqZ2dZFZEpKR58I2c",
+      "bytes": 1371,
+      "md5": "3745732bfbbefbb4645678840ab55496",
+      "sha256": "5d177deb9dfc0dc354721dd13a20141df83311d53a8b13778683f9563f92ef7f",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/www.democracynow.org_2026_4_16_usaid_whistleblower.html": {
+      "drive_id": "1FV-w1PxlLdZ9cPHwZ67_sU2AlhnJlQM0",
+      "bytes": 6231679,
+      "md5": "8f346ba58f83faa45de91c8ded3d29eb",
+      "sha256": "abeb612abb08bf8186c78a833ba79800388bbff48a0d6917e518277680a4d076",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/www.democracynow.org_2026_4_16_usaid_whistleblower.pdf": {
+      "drive_id": "1vZp0yqmO0FwTWZjAAuQLHZ3m15cG_DAM",
+      "bytes": 255434,
+      "md5": "d7d8496533b1b8c31171db8e23097657",
+      "sha256": "5349c70d5b0e69d927511c0486fca058934183563b23c628e5f83527c3d31991",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/www.democracynow.org_2026_4_16_usaid_whistleblower.png": {
+      "drive_id": "11uXABaDBE4pKYhwBcwjpR0Ky6d9RF88t",
+      "bytes": 975587,
+      "md5": "137cd0513fecda8029630879d505580b",
+      "sha256": "e5918fb6f498e2a3ef43e157ccbd114d054f3f599de9d4253846ef2809dfa6de",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/www.democracynow.org_2026_4_16_usaid_whistleblower.warc": {
+      "drive_id": "1rBneU38uVSDG38JMGHN1y59MzChKtPZX",
+      "bytes": 6469315,
+      "md5": "0977aa0bf233ab4d79e059ff0b2745af",
+      "sha256": "297bb96de926226e0f7aabfb9b268dde20ec75ea291f040e61ef21ecd54c407a",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/x.com_elonmusk_status_1886307316804263979.html": {
+      "drive_id": "1P4OGVSEeLvD67kbbJIG1DHyXX_ccJVOS",
+      "bytes": 1035821,
+      "md5": "59e9535da99b47aac1d3b969571b8687",
+      "sha256": "af52e7bf2e26d6d92768c3f96ddfa061b45dfbdd3c9894d1de4d22fb91529dc7",
+      "drive_md5_match": true
+    },
+    "musk-woodchipper-posts/x.com_elonmusk_status_1886307316804263979.warc": {
+      "drive_id": "1EI1DSzvf7sWFX1AZOo4AdBmtOsBOqVtQ",
+      "bytes": 1127393,
+      "md5": "98d56cbb902ebec3147682ec7496606b",
+      "sha256": "9a986f6ecc8c93ecf3f531666dff752caea2b535ce3b4aa809b27383137acf2e",
+      "drive_md5_match": true
+    },
+    "named-deaths/capture-report.json": {
+      "drive_id": "1pHLrrF51AdbaFwgFyF9EdQZOd4vI1r4r",
+      "bytes": 1204,
+      "md5": "9c66b19f0ac8a381a43c7df28ebf770c",
+      "sha256": "af6d3ce5bfbe93a8c335ed79fbfd36a4462ae0be290ea7dade68a90909587e20",
+      "drive_md5_match": true
+    },
+    "named-deaths/capture-report.tsv": {
+      "drive_id": "1lZ2A86EkC4j3WqEu53AHnakMIzMyoe4q",
+      "bytes": 658,
+      "md5": "ebf6258fa3d2b3958e29d57fcafba37d",
+      "sha256": "d20768f1d887b72830c5c222a2687967b7dbcd753a0b307ffd1d5d8c6827d6a1",
+      "drive_md5_match": true
+    },
+    "named-deaths/manifest.json": {
+      "drive_id": "1BGQE53YVebwv9erDoAX_W2pMzkf6-xJu",
+      "bytes": 3654,
+      "md5": "e837ba21047377ec2bde502eba7aa592",
+      "sha256": "c6a730218c7387b458982dd49cb6cb2b48e1b1dde5e0ca350a1f2ba1dd4b8a32",
+      "drive_md5_match": true
+    },
+    "named-deaths/sha256sums.txt": {
+      "drive_id": "1ZVNpwcIV_0kATja_ZU-j6PO59khWalx6",
+      "bytes": 2533,
+      "md5": "ccfa02cd7e3d6ff917f0b778d2dcabbe",
+      "sha256": "4da60f4a16e8a2093da0dbe673bb9ee06394baf3c273bca0239d89217f33df32",
+      "drive_md5_match": true
+    },
+    "named-deaths/sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.html": {
+      "drive_id": "1escEuNVL3o78RHo-Kkb-5ZGEVqPXcrGH",
+      "bytes": 3063156,
+      "md5": "799de9b54cfe0bc2309aa69deed9c4d5",
+      "sha256": "89b549507a744a97eb9c9ce11f20fa26de99d96144a79dbc5d7c9dbb80c72293",
+      "drive_md5_match": true
+    },
+    "named-deaths/sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.pdf": {
+      "drive_id": "1lK9mBLHXVPu_E8sMh8oSN-PVMTfIbh1p",
+      "bytes": 257737,
+      "md5": "65d4014204da8aa65af4e4d9029b678b",
+      "sha256": "0f6604aca552da1b4d67fa24625c5f49ca8406139832ab4e80abb62dec03a325",
+      "drive_md5_match": true
+    },
+    "named-deaths/sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.png": {
+      "drive_id": "18j8p1Im0ov6J1BqhyoNvuB7QTPC5eROJ",
+      "bytes": 400928,
+      "md5": "2bceed713c1ab8814f16265470c5842b",
+      "sha256": "1a0e98a1489afde72f92d3df4fe361338c01d5466d8972ff9df0bc667c5e34a3",
+      "drive_md5_match": true
+    },
+    "named-deaths/sherman.house.gov_media-center_press-releases_one-year-after-trumps-usaid-shutdo.warc": {
+      "drive_id": "1Lc-IFitWSGibevVC2YHyP7Xlr34HM8nX",
+      "bytes": 3175060,
+      "md5": "483bf527c8a79afeb31c7b6fdf44e81b",
+      "sha256": "9746269c0a9f16f3edf74ff25c7cfd8398d5c6e36569c559f0645512e1f040a3",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.html": {
+      "drive_id": "14pLttH7ogXdpYWnhiwQB5GVSz16pYu5w",
+      "bytes": 3582646,
+      "md5": "9b47c1a3e6577e49003c035ffa31a85e",
+      "sha256": "5d71af303e48b9f70176ef32c5ff6b662cafbec7da5c68da8357dff3271ec348",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.pdf": {
+      "drive_id": "13HlKcQKbIP46UYgAdvJ2EyHWA6Mr_FeR",
+      "bytes": 3402188,
+      "md5": "7579f238e839f97556b6770a4a8429aa",
+      "sha256": "97253e2a770c03f4a986afef2655cc3253fa0d4da541e9427ef51208f0584a81",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.png": {
+      "drive_id": "1TQWa2U8ctsMxWkVlpHF7lkTT0fm8vp9r",
+      "bytes": 1286396,
+      "md5": "fa416d5f5916ef597088bb9245053246",
+      "sha256": "39493286dc0f8b9c8f715424279654032403c58f92c9ef4df19cb47e792af592",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.warc": {
+      "drive_id": "15qYiQ6O6R_yadIr153XgRQxwdPPm3wUS",
+      "bytes": 3724346,
+      "md5": "f4d8d4d605702a33036fe93d2002f6d1",
+      "sha256": "d0978fe0c01dba66aabe9444820692619157df75965d074540e0a9553bd50644",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.html": {
+      "drive_id": "1iy_9kbqIVmXgobFg3CiGwQ1GLGddwDLM",
+      "bytes": 186453418,
+      "md5": "17489e8a277064cc60bfef1e20f85295",
+      "sha256": "1bb036c372f8db4374abb9d5e75c5678a66b8823d96cd30d9a3ced15dfe51d0f",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.pdf": {
+      "drive_id": "1yuKxtXhY7V6J9LeGzDHt-P4Ahh4r0bIQ",
+      "bytes": 60627131,
+      "md5": "101f08310a99f1e86a86d02c625c10f4",
+      "sha256": "ce12554a326be5551b767bf1c6d0273a548d48c993e0f24e86099d055ca5c13c",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.png": {
+      "drive_id": "1UrjETngKhSnbsLKkp2AxjStIoIDYnLM8",
+      "bytes": 1791017,
+      "md5": "e6f972ff5d8d33a533779af18dd55f31",
+      "sha256": "b5280d9137156ff3ab7da15c990017fdcd0a781e64a1b5a27ff00a2a2b62ac60",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.warc": {
+      "drive_id": "1t-GCcPXwqtUfucSbfWBXzbYcQDFVbXTd",
+      "bytes": 188482167,
+      "md5": "22983f25e02ce411ada344fb2954f2b5",
+      "sha256": "a1bff227644d08579aa2e154464e54f056b941d329d69ad53ba2ffc37c34b8f6",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.html": {
+      "drive_id": "1_xqqxE6W5ps-oKlxy38fQetKpwSvaSqS",
+      "bytes": 239664870,
+      "md5": "e9fed644982ce111471f77b3ea854714",
+      "sha256": "40328d213625dca7f6b0b064f559a05c908ed808d125a2bb6173974d733dc8aa",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.pdf": {
+      "drive_id": "1GK-GcTN3zt6zS_5AIsFnDWpnCwLCOUO8",
+      "bytes": 64719530,
+      "md5": "81997e14f3fdd1bb050082dbfc3443ec",
+      "sha256": "22578430d28b81f83560d83d7c3b5abf7000855fe51d14de947615393370448b",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.png": {
+      "drive_id": "1cjPB72vXBowknyoijmdmES2xdxgrBddo",
+      "bytes": 1290808,
+      "md5": "08e2d0767d4447faf4428dbd1df45e84",
+      "sha256": "06e35cd856b32c44b386e7cb7d16316d7ddcce1c9e5c46ed5d7870c47d3c2244",
+      "drive_md5_match": true
+    },
+    "named-deaths/www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.warc": {
+      "drive_id": "1ejR7u2aBM91Z-f5UhjabzqWfLINMr5b0",
+      "bytes": 242056909,
+      "md5": "776e13d357a5bf400b2b6206fce1e28e",
+      "sha256": "8095e01608fedabc9e6c7023ddbafaddb66977e383e175935774961aaf5a64c7",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/capture-report.json": {
+      "drive_id": "14ETaCtC5VIWVhpJ0BoCEQfaqgHGmXhdt",
+      "bytes": 941,
+      "md5": "f63268d73a4aa14026239f942cbef5fb",
+      "sha256": "f453dd0a6e3f117365ef14e52d99528d92192f08854885ed55287cfa9830c05b",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/capture-report.tsv": {
+      "drive_id": "18fzu5sKjiN-2VEol1kwTDK4zFfJA5EVC",
+      "bytes": 458,
+      "md5": "e3b3b971d452896edb942588eacd5514",
+      "sha256": "1b9afee173dc4733deb438a33759f28f3e51977bde237ccbac046beb57f011b7",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/manifest.json": {
+      "drive_id": "1_qXkprKiw0TKLy4XwZrqIzyNLSsloZDb",
+      "bytes": 4280,
+      "md5": "74a3c130d08f65770f92ca422e79cb31",
+      "sha256": "1cfdd4a4acf79fb248711d043b23e6a633479c3a3e17094bc17e2d2c456e7f01",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/sha256sums.txt": {
+      "drive_id": "1xfUbluXd-5H3DytFNK17B4M4A6jsLSoR",
+      "bytes": 2923,
+      "md5": "fc20d186f9afdb7bdce9eb17b22f83f4",
+      "sha256": "13bcb98e7f007b42e0b1a8c35345fbb80efd39d75b6ee697dd84ebffed428514",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.democracynow.org_2025_3_6_usaid_memo_disease_nicholas_enrich.html": {
+      "drive_id": "19_7nf_Lx3yB9CuvoUAa4trXylQ1uZCJS",
+      "bytes": 6232424,
+      "md5": "3c304312e5228d7eb88a531ecb939743",
+      "sha256": "3f734c5bd40919040c4ea479a4fafe18eef2808b241aea53125f3607d4d45517",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.democracynow.org_2025_3_6_usaid_memo_disease_nicholas_enrich.pdf": {
+      "drive_id": "1FnYhyaoVTYF28UX10XkZn2MPOpGh7kuV",
+      "bytes": 280825,
+      "md5": "71e83dff32dd91e8370e74e2e41102e2",
+      "sha256": "2983f04c2dc6bfde9d6c5e4a91b7b449dc985cbb7dadb46821305c0a288e182e",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.democracynow.org_2025_3_6_usaid_memo_disease_nicholas_enrich.png": {
+      "drive_id": "1suvsqYn_d1p1k_AY0W6CzL-gZSIU6aM2",
+      "bytes": 949947,
+      "md5": "6de031536b99dfa0a4123bd45b75c226",
+      "sha256": "6e03ad03c05fb6070f8146a8362dede63ea8e6536d6bdc6c269996dd3e31d8d2",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.democracynow.org_2025_3_6_usaid_memo_disease_nicholas_enrich.warc": {
+      "drive_id": "1vnjkLyPNItZXRDlrv7asxdI1e92LoVgF",
+      "bytes": 6470368,
+      "md5": "785d63b93745bf44697744f0bc22120f",
+      "sha256": "4c9206f8c18f2d0b389430ccfe8f42450d8d40c5256281b073db9292011d8957",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.html": {
+      "drive_id": "1jmRKcB5YM_x2Ef39N7zY7b6dYbni8_kX",
+      "bytes": 186301815,
+      "md5": "e915f9833c586d7cdba7ca3d723d25a8",
+      "sha256": "4c17b6908950809521cc734767958f1d6aa05ee044394d7d297e553221263f72",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.pdf": {
+      "drive_id": "1hJ6N1NLkeH9yqvtjROb0xAfPC1dII0fR",
+      "bytes": 61182985,
+      "md5": "feb9d4e1234f9c3ace9e1fbe9b148b40",
+      "sha256": "d6988d041746518e42a514cb9b6c62342843dd781bf6e48cdf515e96ae0bfa08",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.png": {
+      "drive_id": "1RULhdv5Mm2do29gJRdcUIvaddP3X65Br",
+      "bytes": 1791063,
+      "md5": "349ffb7a46b46ee1e525c631f60ee5fe",
+      "sha256": "5eb98068386a3f872d96002e977b290c4348011a783c765916c5055dc6fd86a1",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_kenya-trump-usaid-world-food-program-starvation-child.warc": {
+      "drive_id": "1nzdSo8iEmKrPXiaNcSp8ZZaghNKO26rD",
+      "bytes": 188329553,
+      "md5": "d93bcb4409762a1022dbf06253635878",
+      "sha256": "b6bc105d0c195f43b49afb14c0d87b3a24a5520d8358f644abf4fd5f6aa1cabc",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_trump-doge-rubio-usaid-musk-death-toll-malaria-polio-.html": {
+      "drive_id": "1BLIO7pyPmJm81BCzZEoadjyzevCMwBvo",
+      "bytes": 89219221,
+      "md5": "121211bd540371a8f323db483aa8ee6c",
+      "sha256": "e5680c2b6d6d69a1ef8ee20cfad87267f5347e31ddd198cba7bfaa11b09303d2",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_trump-doge-rubio-usaid-musk-death-toll-malaria-polio-.pdf": {
+      "drive_id": "1srwU9TbaYKh01rawxdjBmSFENmR6jqcW",
+      "bytes": 3701553,
+      "md5": "1c36b28ec2aaa7c00ccd3972ac40a705",
+      "sha256": "0716d35615817b1f56f5cb9f52bc7a1db0f1db7825358230d9c7e523fe89670b",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_trump-doge-rubio-usaid-musk-death-toll-malaria-polio-.png": {
+      "drive_id": "11bkqdOLS-vyau45oK__b62ELrEOKAU3X",
+      "bytes": 631907,
+      "md5": "018bd2a695a3677cd901904fb600ec59",
+      "sha256": "07c6377e387ef3fbeb4414015cf6f4ff1a68f4c764c9abe964a56e84c8a68210",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_trump-doge-rubio-usaid-musk-death-toll-malaria-polio-.warc": {
+      "drive_id": "1zJq9Omilm5-bKe9yDAjh4d8rGlh15AEJ",
+      "bytes": 90581289,
+      "md5": "1266c28dd217432f82ef9af82caf3588",
+      "sha256": "d8eac3253b3524a5a974c97aee9c8cbc5f5d17a041dea99a60b4eedcc6f5f603",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.html": {
+      "drive_id": "1wx9j2CLyaFMac40jXlOm1_2U3vZoOxBo",
+      "bytes": 232284166,
+      "md5": "62319482764f88ac32f580a1bf82b27b",
+      "sha256": "0b98c27c97913755b6cadcfb0b56f996066d4534935a9f502ea0290293e9e63b",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.pdf": {
+      "drive_id": "14xqIQyUghhWDo748T0jTElopig55Kd9J",
+      "bytes": 64719521,
+      "md5": "5b91e3f96bfb8537cbe6b8125f5d4f40",
+      "sha256": "8d41fe5a5f36121c27f21c67eeaa9cda501e2c72c518142b15fdec8211a4a238",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.png": {
+      "drive_id": "1I3ohm3t9RFTSnfZOjZOROYk36X6TKb7J",
+      "bytes": 1290806,
+      "md5": "fa4bfddb7cb92754ec3c70c3e726a034",
+      "sha256": "369cefef144e113095ed6db0f20de1344467eb56b9067acfefc54f943d85ff20",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_article_usaid-cholera-deaths-trump-humanitarian-aid-cuts-sout.warc": {
+      "drive_id": "1ahC5KY2wnTweXIBUFEsYfQHcevJQEAPM",
+      "bytes": 234629208,
+      "md5": "0357930e4186a71361a1d822d9bc8c1e",
+      "sha256": "fa8a9434e0f4ea25b0c2b7c44a8169bdb5577f1fae64b4b8ced920bd6fa0e7eb",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_series_the-end-of-aid.html": {
+      "drive_id": "11QAZrtjqOLKzJLso-IAzk6gHluJcDeyy",
+      "bytes": 62086638,
+      "md5": "295e2921f11dbcb2f11b952048ac912a",
+      "sha256": "3a066d3ddfc5a0aac78f1ae2538adc2cbd809225e95e5a271d7d0dc8f30946e6",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_series_the-end-of-aid.pdf": {
+      "drive_id": "1_Q6p18-MRieJ9XFWhDl6l6qXE90tZPdd",
+      "bytes": 5356535,
+      "md5": "a1cf0be8b3654c8d728522f3c50ae5a5",
+      "sha256": "80a73fb7172036baa13027895f4654753d7045d790610cdb6a0583aea1d3306b",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_series_the-end-of-aid.png": {
+      "drive_id": "1AbkHPQryst82_B_a9YA9-uKLmsgn_-o4",
+      "bytes": 1482352,
+      "md5": "368fa992ae414cc18be9f5975da9842e",
+      "sha256": "fc9dcb08fb6467777011976aa0fafe2df1b721daac8eb4c4008a470555fd2266",
+      "drive_md5_match": true
+    },
+    "propublica-internal-memos/www.propublica.org_series_the-end-of-aid.warc": {
+      "drive_id": "1l83-6yM9gGwwz1Amz5Z94uVZYJgU_uIZ",
+      "bytes": 63080076,
+      "md5": "9bde9a02bde95938cca0b0b0c1c5120c",
+      "sha256": "dafc1dcec868f8874841fb86bf3fd05b4caddf08fb65724365598c60905557a3",
+      "drive_md5_match": true
+    },
+    "rubio-hfac-testimony/capture-report.json": {
+      "drive_id": "1NNe3Jw4hNDtxHwuZlucJew8EZq3efyQX",
+      "bytes": 308,
+      "md5": "f539e2a6bbdb4504c1c2f37430751cbb",
+      "sha256": "3413c2abc50ffb56172d6302c6d774b0b5ea4c54afe51d72c260d6d5fc51ed8e",
+      "drive_md5_match": true
+    },
+    "rubio-hfac-testimony/capture-report.tsv": {
+      "drive_id": "1z3Y1HmNgJkYMlwnBGi_ahb0-emsn-2Om",
+      "bytes": 118,
+      "md5": "4a84db3b5ce9929c55ba5b6269d6ce3a",
+      "sha256": "e463f2339311fdf227811532ade059a8b75c24b8b2aa810c3349a950bdbd4ac9",
+      "drive_md5_match": true
+    },
+    "rubio-hfac-testimony/manifest.json": {
+      "drive_id": "1eT9Og7-no7-gMGpcL2DrReCJKvBGY3r8",
+      "bytes": 1151,
+      "md5": "8206ff2f5b2414003613fa9c0c34d165",
+      "sha256": "bcb1885fa455a1c9a9c0044e45a1caeab31e678cc6070e3a24e6425f8664e01a",
+      "drive_md5_match": true
+    },
+    "rubio-hfac-testimony/sha256sums.txt": {
+      "drive_id": "18LpbfuQd6Jz6UdstHy0ldOHuiUdKujBN",
+      "bytes": 691,
+      "md5": "553cafa0aa36797a1e156a0c70475388",
+      "sha256": "328db46e46cde08c0e9cda8fbbf3b7274871149716ae32f1b1cde0504d3d6294",
+      "drive_md5_match": true
+    },
+    "rubio-hfac-testimony/www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.html": {
+      "drive_id": "1PpX_pZOZtprJoEiH1cbkyvdaKRTtfei1",
+      "bytes": 3578323,
+      "md5": "39905613e8dbabf7d36b415d5266cb1d",
+      "sha256": "4002c21b5d02edf3cf390e92d8e1ea0f2097c8bd493c3dfb03cd2889d81be012",
+      "drive_md5_match": true
+    },
+    "rubio-hfac-testimony/www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.pdf": {
+      "drive_id": "1ryD7DHgm5JHIKNSGmckDwIx5dhpa8Q1e",
+      "bytes": 3400170,
+      "md5": "b34cc7cd0a43c70a6cd9be796641089f",
+      "sha256": "01eec3f5730f2cb7b8163d9974358ed8fe1959db12e319a73800ffea97502592",
+      "drive_md5_match": true
+    },
+    "rubio-hfac-testimony/www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.png": {
+      "drive_id": "1EF1meIKu1pKRk6cWkkd4mJ0MNnmgGfvT",
+      "bytes": 1089048,
+      "md5": "4226fce70209cab1ec6df0a7e0e5755d",
+      "sha256": "ada2e9dd93695064446da9ec61b1eba9a806ad7e273ee15e6c454cae02db0e4e",
+      "drive_md5_match": true
+    },
+    "rubio-hfac-testimony/www.npr.org_sections_goats-and-soda_2025_05_28_g-s1-69186_marco-rubio-usaid-deat.warc": {
+      "drive_id": "1OZ0ZQn_jCcMRN8ur8Uj_1AiMY4T97FVY",
+      "bytes": 3720644,
+      "md5": "59a574e2bad2bbc7c3c91d7f7bbddf29",
+      "sha256": "0103aa46bd9a81f5f6e220390528c845ac1a19e9326d9c59f22527e107fbcf0a",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/capture-report.json": {
+      "drive_id": "14fXfyLf-MmYAltPFSGJmxrPfJfrvgMD8",
+      "bytes": 1339,
+      "md5": "ba6dcbc72da0824a924b09319d05c3f9",
+      "sha256": "b4affd413e69d8e12e8c270b1ddadb99614fcfbc54063abf2a5c2518979819e9",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/capture-report.tsv": {
+      "drive_id": "1a28X0HUCiqUtns6bXKhpZA7jJJ2C_-sA",
+      "bytes": 706,
+      "md5": "492da866dcb10390a3e1a5c0990c19a4",
+      "sha256": "ba0dd410ad22e72510aa773f5d866675bc00b410113d86c76f12645fbd54662f",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/manifest.json": {
+      "drive_id": "1VSVb1RodIGH6YXW0sXkxfGgVXUoyJ6Z_",
+      "bytes": 4390,
+      "md5": "db08a21520c9eaf3a221b8dc56ad1d38",
+      "sha256": "076b2ee10d5f87bfeabbbc37c954659ddd232d2a91a2804bb3f91698395becff",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/sha256sums.txt": {
+      "drive_id": "1P6cAZ28aeLFWgZV5YEQvXDoHrBWzYKFr",
+      "bytes": 3043,
+      "md5": "a110fba92fe83a197f00023f0f2054fc",
+      "sha256": "391d3d79fb88c505ec6244ceaa2d8976dbe174aa981f25b57364fd6cd9f48159",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/thedispatch.com_article_pepfar-state-department-funds-waivers-rubio_.html": {
+      "drive_id": "1Cg_LyZK9WRwo_IgyPjDLELZ2siWuXJFI",
+      "bytes": 3230312,
+      "md5": "d9c3b6f4ff7b11c840138e6562552b58",
+      "sha256": "ccddd55d0092e05fb3d84bfd393bcf1ac9a8730124ac6e3310b9e3e33d2c136d",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/thedispatch.com_article_pepfar-state-department-funds-waivers-rubio_.pdf": {
+      "drive_id": "1eMsaDQzThY0yyNI1jW2wCO_XOEjjO0-O",
+      "bytes": 2554572,
+      "md5": "01639b0d770ca448bfe73d8f6ef29334",
+      "sha256": "753152cb992e84f4685b24ceff2b60aa11f6cc45b790c9d5703ea6fcd83c5a9a",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/thedispatch.com_article_pepfar-state-department-funds-waivers-rubio_.png": {
+      "drive_id": "1CwO1Vje2lbzXCXgrwUlyOyDhdP7YDpy1",
+      "bytes": 871279,
+      "md5": "4e8e96ee9b1b3859cbd894aab00c7b7b",
+      "sha256": "8aaa3501180983cb2dc3c7027d4b4573233be14729d9333e57821ab0bb2b5972",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/thedispatch.com_article_pepfar-state-department-funds-waivers-rubio_.warc": {
+      "drive_id": "1BzItMm3x-ri_tYExTiW0lCcDmIuWABJp",
+      "bytes": 3327821,
+      "md5": "c44a99d16cb33b3ebe73da748203a8db",
+      "sha256": "1c9905bbf40b6a25f47372a72f23b021ce5ae5eb69a3bba6f063ab34af9e9151",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/theintercept.com_2025_02_06_marco-rubio-usaid-humanitarian-waiver_.html": {
+      "drive_id": "1Sr6c-8VMmes93rc2uEEQ5LaYDeBspogw",
+      "bytes": 21969191,
+      "md5": "689520e8fef5e0f54324a619ee0981f4",
+      "sha256": "c50991fe3359cd522c39ebc0a1b23d8acfc1ad987cc6858e69d48367956fd846",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/theintercept.com_2025_02_06_marco-rubio-usaid-humanitarian-waiver_.pdf": {
+      "drive_id": "1nhcTpeO5cDy5MpQx5nkEmesK2XL3OGlR",
+      "bytes": 2663636,
+      "md5": "eac063f255c32a39426240a894894659",
+      "sha256": "668b4c7cc0c7c313acbf54a6236103bfbd2bac14e3273dadbe98f61c323a53a1",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/theintercept.com_2025_02_06_marco-rubio-usaid-humanitarian-waiver_.png": {
+      "drive_id": "1F5G-rgb9TnQLcWo-NmDWvBrRhSBJYz7U",
+      "bytes": 903033,
+      "md5": "f1f546c7c6d7a2340de46b8e31c64af5",
+      "sha256": "02f77c2b2d17064eadaeb948faaf226bf7e906425bfe7354fcc55549b0196fed",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/theintercept.com_2025_02_06_marco-rubio-usaid-humanitarian-waiver_.warc": {
+      "drive_id": "1A1m4kSSn0plWFd8kPA4Pjo2LchRIY7Yi",
+      "bytes": 22095169,
+      "md5": "3df3d75eb41a9bad261fa863f82bcff6",
+      "sha256": "f492c98896dd515e509dfcc1c06323fb7039e06c24ac68f2a48ea7a423d1325f",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.hrw.org_news_2025_02_10_us-lifesaving-programs-remain-suspended-despite-waiv.html": {
+      "drive_id": "1Lry-lB3ocy4dIOgaF4HN3FInanvP37qJ",
+      "bytes": 1222057,
+      "md5": "fb0b3def48737202335463f444f71104",
+      "sha256": "e6a67f9eb106f88cc86ef891c1c4b89ac50d31a902ea12c82bb52a9ad9437ba1",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.hrw.org_news_2025_02_10_us-lifesaving-programs-remain-suspended-despite-waiv.pdf": {
+      "drive_id": "1iitDwicnRIPub1_7IDtVsGu7fq655mqU",
+      "bytes": 3899723,
+      "md5": "ee682f60ae2e7c615ce36a8fcce61678",
+      "sha256": "384c91e3dd91cbe3bea276914a27def84fd15aba32f7092fecc42a1d061ef740",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.hrw.org_news_2025_02_10_us-lifesaving-programs-remain-suspended-despite-waiv.png": {
+      "drive_id": "1GlV97o0iHYqgenwDcxB7Fx-sE9ZqRag2",
+      "bytes": 827068,
+      "md5": "434d68eab2c2a07623ad46a1f6f71b44",
+      "sha256": "afbc51b1c0701fdcdd256d45f98e63f8550f50bd22e34b0795b09eb630ac3fda",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.hrw.org_news_2025_02_10_us-lifesaving-programs-remain-suspended-despite-waiv.warc": {
+      "drive_id": "13nnQ5bJFR078MGKlBwSm_o9wyXhVbDB8",
+      "bytes": 1354009,
+      "md5": "e4fa749291cee896e1172e1134a09875",
+      "sha256": "c80370eacc49b4a2ea1d5c9ea30eb800300b3a814e7939145ecf1b11633c202b",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.kff.org_global-health-policy_the-trump-administrations-foreign-aid-review-st.html": {
+      "drive_id": "1gMDq9Z80GC9xedXJCv0COZFqjz886nyS",
+      "bytes": 7597840,
+      "md5": "817791dbe7fbcacda59505d62be6f669",
+      "sha256": "c0ce6d028a16e85d9507c72944053408a571dfc76530848b5a57fd93ea13be48",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.kff.org_global-health-policy_the-trump-administrations-foreign-aid-review-st.pdf": {
+      "drive_id": "1qdXQrgtBz-860SErUgyX0ZgjEc3LyrO9",
+      "bytes": 130651,
+      "md5": "04e7c30d06f5e31590ba869cb82eb926",
+      "sha256": "0977bffc5fb4312e12227192c527893f6114c7bc97a61cc3f48d7c325664f158",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.kff.org_global-health-policy_the-trump-administrations-foreign-aid-review-st.png": {
+      "drive_id": "1OS0SPzd5bb3Ot5WPpfZ7K9TBov-p3ofh",
+      "bytes": 521178,
+      "md5": "c248839ae6121227efba98a9f6e20673",
+      "sha256": "53fbd44b6097c28587197da429138443f2056df5a0dfbe978402235083449304",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.kff.org_global-health-policy_the-trump-administrations-foreign-aid-review-st.warc": {
+      "drive_id": "1s4hpkuCkUHXf6YQkJKb57KVVvBACZ2EX",
+      "bytes": 7797857,
+      "md5": "e926c4b408d6b59c9feb25e5a82d5f50",
+      "sha256": "a68c475b4a6c9301d19cdbd32b8549cd6f238b7565489f7afca57b124bd1093d",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.propublica.org_article_trump-usaid-rubio-marocco-canceled-programs-gaza-syri.html": {
+      "drive_id": "1ahXmA04hM04WBJh5YEsYHN-sMzd8NER6",
+      "bytes": 85246554,
+      "md5": "d875a689c9c7b7555804942e693ffe83",
+      "sha256": "82d5cfdfa5d9d01119c7fd7010030a9d0f91b2ab69335c817527617e590a17f0",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.propublica.org_article_trump-usaid-rubio-marocco-canceled-programs-gaza-syri.pdf": {
+      "drive_id": "10RDY0--Z4gIri6kenATBaGNwyu0rYb14",
+      "bytes": 3490024,
+      "md5": "27e307a46052b0da576453d18a609030",
+      "sha256": "0d04d273148051c3920728749652b20beac1a74764dbc2f9ce9ee0fe2f2fd9d9",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.propublica.org_article_trump-usaid-rubio-marocco-canceled-programs-gaza-syri.png": {
+      "drive_id": "1JLvsFnWxTUCUgBLXC0LpPpwSl9wxOd80",
+      "bytes": 1387915,
+      "md5": "21bd58af8993ded499c2492ad93be1f7",
+      "sha256": "0a2915bbd66898cea17ccd52fbe7655b1694965b2877c830280af88f5c8b52a8",
+      "drive_md5_match": true
+    },
+    "rubio-waivers-nonfunctional/www.propublica.org_article_trump-usaid-rubio-marocco-canceled-programs-gaza-syri.warc": {
+      "drive_id": "1uy_G3HCefpgmiUI37IkTLrUlAxEs9KXL",
+      "bytes": 86550482,
+      "md5": "dda3463f6959d55e9e7af7c50fbe2fe3",
+      "sha256": "b1fac9d14a4c6c1c2ba1bc982e3b20a82dc1079349923a5eaaccf7213e8c61ef",
+      "drive_md5_match": true
+    },
+    "schatz-record/capture-report.json": {
+      "drive_id": "1TMtdsCVEZroJ0xpsIg0Mp2HdjlvYpgD3",
+      "bytes": 632,
+      "md5": "8360e5fe3b61139277bc38d2d4ffa705",
+      "sha256": "bfef333162898203f22f48aac4ec33e6bf370d47f0f7bfbb3a9626e1052d92aa",
+      "drive_md5_match": true
+    },
+    "schatz-record/capture-report.tsv": {
+      "drive_id": "129Cud0osiUPMODHj6Qd0CUaV_pdlggCY",
+      "bytes": 377,
+      "md5": "ca4b631de6ffe9480926e8b77e7abf8f",
+      "sha256": "89dabf755f4392a70083c1a08174ca9df39a39d66e69611edcccd542072617bf",
+      "drive_md5_match": true
+    },
+    "schatz-record/manifest.json": {
+      "drive_id": "1tUWyJWjWaRY8uqYmukl0kQc3S3ceSE55",
+      "bytes": 1973,
+      "md5": "9dbc29daaab29afa7082d72e079a4bd4",
+      "sha256": "928528dac3404141de891f5a06bd76f657f1466e8b3c15a7d6c2add33f43a02a",
+      "drive_md5_match": true
+    },
+    "schatz-record/sha256sums.txt": {
+      "drive_id": "1l9-FSst6tndz5E-6C6DKDSznmVM1CERr",
+      "bytes": 1305,
+      "md5": "43bbe6788fc75956ab5c44fd20885328",
+      "sha256": "66324c197ed7a44159085772228e3958c5097f710762809a2faa6f96083dda21",
+      "drive_md5_match": true
+    },
+    "schatz-record/www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.html": {
+      "drive_id": "1Ji7OFLWhs6yTjGh5yLzvWZWXUPb0srQk",
+      "bytes": 4890406,
+      "md5": "b045329ecb6246912660d579ee60bee1",
+      "sha256": "8e152345bf5ef700f09a2a5b1da1a4b09e1b0ddc52f25a90fe6c21360dfb5139",
+      "drive_md5_match": true
+    },
+    "schatz-record/www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.pdf": {
+      "drive_id": "1llQlwhKgRiobCNsQyPwSQg78w0-jVUJO",
+      "bytes": 90227,
+      "md5": "a7bddfa4a05bcbfe045bc92e7bbdb9f4",
+      "sha256": "e52aa4d623d44f426ecc4a7147f5edccd6dea9e179a4aaad1e4e7374b44a8b74",
+      "drive_md5_match": true
+    },
+    "schatz-record/www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.png": {
+      "drive_id": "1rqDIi7-WpX-zJSVufnGqkoelulWLDAjC",
+      "bytes": 540828,
+      "md5": "a1a9106c3438c7e70ea5320ce983808d",
+      "sha256": "70cffba10202b063fc09279f23ea778e7c821972c6ae7949aa7729fe673cf853",
+      "drive_md5_match": true
+    },
+    "schatz-record/www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.warc": {
+      "drive_id": "16GUvDf6U0soyh0pJ-HyqzYi0A7XPm68U",
+      "bytes": 4939883,
+      "md5": "26d07d200ea66f00d197a7442f0a232c",
+      "sha256": "27a5b2ba2e3605ac80b9546b05c08a77dd737deeb1fed8ccf995ed5abad375ec",
+      "drive_md5_match": true
+    },
+    "schatz-record/www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.html": {
+      "drive_id": "1yJVhsnnDeMK5jPc2VBxlfVjFZPJDTFKN",
+      "bytes": 4915184,
+      "md5": "031b0f9aab436c6642690885e43c167b",
+      "sha256": "54764f5bd83515515a47056a5244bd68eebfe064d40cf5b733245e90b06cfa95",
+      "drive_md5_match": true
+    },
+    "schatz-record/www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.pdf": {
+      "drive_id": "1QMRsOmMRJomUIaaiRKJU8JoFau10eOQG",
+      "bytes": 155251,
+      "md5": "a7cfcbc6e01004beb56b1efce75debb9",
+      "sha256": "ef13525a945e1073144c1377c5256c7f08e79cc08375339724dc27bead86e8c8",
+      "drive_md5_match": true
+    },
+    "schatz-record/www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.png": {
+      "drive_id": "1fDRH6OaQmJRlRnn3dlzwiDZU3tf2IP52",
+      "bytes": 548743,
+      "md5": "af2c1bdd6c0a4e9b5f011b457bdd0b5f",
+      "sha256": "ec10cc7cf48a0b26a6edb23adab15818ca5885f4d7ef52483ebf9fcbb64f2aee",
+      "drive_md5_match": true
+    },
+    "schatz-record/www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.warc": {
+      "drive_id": "1MciL770DIFI-1w5vW2b81zjSzYpavt3E",
+      "bytes": 4965633,
+      "md5": "979c058cfece218ba4e8763315e853e8",
+      "sha256": "0133776b937970da82d3bf4e238001e47e8ca8baf060dbcd9115cee89bc229b2",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/abcnews.com_Politics_judge-denies-effort-reinstate-us-institute-peace-board_stor.html": {
+      "drive_id": "1NDRbKRJQGsrGvbSdrWBHmrbS9SdyAT1u",
+      "bytes": 17828346,
+      "md5": "74b7ea268a5b89789c0bdbbced9133da",
+      "sha256": "7caa5e093c6a4bcb7c7d0105c7ccaff0e4515cf0bdabc33e4135bb0d487b7459",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/abcnews.com_Politics_judge-denies-effort-reinstate-us-institute-peace-board_stor.pdf": {
+      "drive_id": "1cHuqVYs_ZdmqoA-jiyxcbihKy3IEU7rG",
+      "bytes": 2657120,
+      "md5": "06a872f15d9c599078a708975dd0ab8a",
+      "sha256": "4fa5e1419eb219b0cea4bb34876edf4048d380dcc246a231ab27e2bdca348ef9",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/abcnews.com_Politics_judge-denies-effort-reinstate-us-institute-peace-board_stor.png": {
+      "drive_id": "1NRFNnJehQ3yvJwGCa-f-kIDRpOrx9znZ",
+      "bytes": 817352,
+      "md5": "fc39057ed1905681dc4c597c48bdd30a",
+      "sha256": "b6eb34ca060690ef29eb70c15e0ffc03f4a964de1da813557bef006c052e517b",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/abcnews.com_Politics_judge-denies-effort-reinstate-us-institute-peace-board_stor.warc": {
+      "drive_id": "1zAT6VqBKLtbdhdTki0IeoPkOR_j8graK",
+      "bytes": 18309886,
+      "md5": "6508364dcd8b49cc08ff082ac423848b",
+      "sha256": "2fd15eaee1622cff788e63769aac6c809c02ba907aa8ac81a06ffbba7054c876",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/capture-report.json": {
+      "drive_id": "1jIl9oAvKsodHa4t3F0CzGfkYQDlYNJO3",
+      "bytes": 1825,
+      "md5": "9b441a0f895b2e82bb86d47d26ba7f76",
+      "sha256": "e2c28b70ee59a541fa27ac467e7433d25f65a7cebf2ec5d98be05f3cd30f5ca5",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/capture-report.tsv": {
+      "drive_id": "1oZeAgSaa2RdJ0ifBHF6r0r7d0ZdpA8tD",
+      "bytes": 1043,
+      "md5": "ec6c0b1ac50fb0ffcdf342e003822be5",
+      "sha256": "9ab0b46663723504443686ad146180e46badcda411e8bb5c5493cd3f2481911d",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/fortune.com_article_consumer-financial-protection-bureau-doge-elon-musk-layoffs-.html": {
+      "drive_id": "1z8jfJsb2Si8vXwQ7trxy-WyUVdxTkpYF",
+      "bytes": 5747968,
+      "md5": "c3a4a456af3332e7b3d48e03f3f530ef",
+      "sha256": "ded275e1fad2ffde742367d071f5fbebfa9fc0546a46eb589f48a3a322467aa0",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/fortune.com_article_consumer-financial-protection-bureau-doge-elon-musk-layoffs-.pdf": {
+      "drive_id": "1NzJwjo8-phJa762DymV-r2xbO7u5Yl0I",
+      "bytes": 5236571,
+      "md5": "d51e2175d165fabd9b8ef5f79c5cca4c",
+      "sha256": "79136362a0c9357af1de8e11e9c495e4e333ec903209612b1c3a03f94aff202e",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/fortune.com_article_consumer-financial-protection-bureau-doge-elon-musk-layoffs-.png": {
+      "drive_id": "1hCVVXbWAM7YslBF-B6XBg4v2QYd-51G3",
+      "bytes": 309108,
+      "md5": "297598744a74b02d1250ffedd09acf7c",
+      "sha256": "ebcf1058189d6d5c032865c1d4dff881c210f8a814e3b9e64723175b037299ca",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/fortune.com_article_consumer-financial-protection-bureau-doge-elon-musk-layoffs-.warc": {
+      "drive_id": "1CQrHK9FWgs4yBHMrnpRmkD6O_O9FM6vw",
+      "bytes": 6161944,
+      "md5": "f6d1ba5bb26454f08b2b581eac69b109",
+      "sha256": "7c6475ab702e702b52493092db07f1f926f431c9beea5585aa85aee79ed958b2",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/manifest.json": {
+      "drive_id": "1IOxYeUhzqjgGYTwFtrJ6PAbvjThJ1GIK",
+      "bytes": 6089,
+      "md5": "c26832aaf2185e145a176b1756888647",
+      "sha256": "e4818da607219e286dc9d69f7e9995908bac60a1b5bcbc69400e6cecadbe3a25",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/sha256sums.txt": {
+      "drive_id": "1QIB5OTsGU1hDF1aLqGNm_Ux3TRmGwe2F",
+      "bytes": 4307,
+      "md5": "15d37ce5345b41656eccb181efc5cc1d",
+      "sha256": "09746d3d883f4835589c29fb686c2874e968b95852b5f01f9d0f66c277e49a1d",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.citizensforethics.org_legal-action_lawsuits_crew-sues-multiple-departments-f.html": {
+      "drive_id": "1VoEuaSTUpd4r1VNAC09Is1HLs78oTRjK",
+      "bytes": 707488,
+      "md5": "266c748cabc6a4b1d79c47b59b73af9e",
+      "sha256": "7959a0a418c4b87aa2eb38b496ae6159cb23c6e8c886d6bd1e20ef041f2eb691",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.citizensforethics.org_legal-action_lawsuits_crew-sues-multiple-departments-f.pdf": {
+      "drive_id": "17URusHWZJvWspgE2-OuS3XGG0xQulWtD",
+      "bytes": 53589,
+      "md5": "ae89e000da66f0f1cbe908206d34b1c5",
+      "sha256": "00770ffd1fca7a7cc766772e5daa475079eaa31063f714c437059a8e75293f18",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.citizensforethics.org_legal-action_lawsuits_crew-sues-multiple-departments-f.png": {
+      "drive_id": "1n6P9UBaTQrlAmlJReF1seQy0CNuIsrPb",
+      "bytes": 286923,
+      "md5": "78c645fc1f6ffab4e9648ee3e555003a",
+      "sha256": "bf634b67d37520d08ca2c454fc5ffb82e87a57ecd5a77239d12caeb8e0023c2c",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.citizensforethics.org_legal-action_lawsuits_crew-sues-multiple-departments-f.warc": {
+      "drive_id": "1WnObGyO_ftm7IRer5gsjbovtYpx-dobi",
+      "bytes": 762372,
+      "md5": "2569c0729a573ab7070f38dd9c4ddd11",
+      "sha256": "5d165cf388909d96e789db818610f4670b23fec325fc3e2e7dbf579601375ad9",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.nbcnews.com_politics_national-security_usaid-security-leaders-removed-refusi.html": {
+      "drive_id": "13JTquPg_Brw7yObiuRpRcB7LlWvDCQM_",
+      "bytes": 7630075,
+      "md5": "d1c78f8d0fe08fcf056b6d2c89dda9f4",
+      "sha256": "c9fdec3b5d4a2c9f19a2903f8a78ed6f03b6093133131256576ef5963f24c863",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.nbcnews.com_politics_national-security_usaid-security-leaders-removed-refusi.pdf": {
+      "drive_id": "1IEEtQLDF8G4kk3uw3OAm1nZ9DQXy8cY_",
+      "bytes": 1265454,
+      "md5": "b0172a648d1b9a70794902b78f14890b",
+      "sha256": "3ff156c6837900af6b38853e32cdef9950a0fd702d4f1b41b7bafe3cd2bb0549",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.nbcnews.com_politics_national-security_usaid-security-leaders-removed-refusi.png": {
+      "drive_id": "1GAyqQ5oe-Q64eX98IrkfqMJJobDNjLhN",
+      "bytes": 585427,
+      "md5": "c31cb337464ed7c86eee6b3caed7dd66",
+      "sha256": "a62e0e604b20780663e4c16a1c2e3c785784fc0d5fe89f148259654f2f2f7db5",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.nbcnews.com_politics_national-security_usaid-security-leaders-removed-refusi.warc": {
+      "drive_id": "1_7dSqm04vCb36bwjwpwie1_olSZgvlwR",
+      "bytes": 7967019,
+      "md5": "5838b110415f1a73aa194a24119e280b",
+      "sha256": "6cf52a85b32e5536b6c1330f25ad0f3b1831668afe22e6101c2ee1747c640680",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.nbcnews.com_politics_trump-administration_us-institute-peace-sues-block-doge.html": {
+      "drive_id": "141U1OszTCfQkcnOloXdVjW6TuH0KlodJ",
+      "bytes": 7539179,
+      "md5": "1ed37b468b7bb205bbad431bfa7172ec",
+      "sha256": "44220442c1e761903b04365b638a7548492d85c45ed4e7120c1bcaf948e2360f",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.nbcnews.com_politics_trump-administration_us-institute-peace-sues-block-doge.pdf": {
+      "drive_id": "1ZSvwJX_mz1OfIIA7gIU-_KD-EGOBd6Kz",
+      "bytes": 1697921,
+      "md5": "0078da2df77b445aeb28764bcd813ac8",
+      "sha256": "c1502ae3abc04b2e8fe854263d2f156314fbb9d635ca1c514c7b25bb8a5c32de",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.nbcnews.com_politics_trump-administration_us-institute-peace-sues-block-doge.png": {
+      "drive_id": "1uXUsIVIsDRQ-pw-s2R8vkZXZ6vJnYWak",
+      "bytes": 827790,
+      "md5": "dff16c490dc2caf0c50b4b3fc9791dc4",
+      "sha256": "2d0f430e1eedad9ecacdb541ee4408be933d665a1063e43b95e1d100756cc7ec",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.nbcnews.com_politics_trump-administration_us-institute-peace-sues-block-doge.warc": {
+      "drive_id": "1FpKukM2KLLMEyrX8uMjD_yoJUEsE0Is3",
+      "bytes": 7870399,
+      "md5": "e9b51585b2b6819cc35606a57bc580d5",
+      "sha256": "2f0b86a1fb5d870e860c99eb417f3716db47ee3d486200d68a8595cc332081a2",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.npr.org_2025_03_28_nx-s1-5315118_cfpb-shuttering-trump-doge.html": {
+      "drive_id": "1VfovXeXL79Q2kzY97i45ZhmCIpV3nJ0A",
+      "bytes": 3287943,
+      "md5": "a81838c06f375ee697272efe39936a45",
+      "sha256": "8cd02d85d285e596285238fec1d7638e78cfe4a3e6e02c3d04be4be9b60207a3",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.npr.org_2025_03_28_nx-s1-5315118_cfpb-shuttering-trump-doge.pdf": {
+      "drive_id": "1UbrGjDbtACZ4pBXR4d4UiWReH_q2thAl",
+      "bytes": 893051,
+      "md5": "3b7a8247c22ea5029fc58bc1cfa8dcc4",
+      "sha256": "66d2aadf47bf069c72a392511151d87caf65f23fbd1eb62aaa44255c8968df46",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.npr.org_2025_03_28_nx-s1-5315118_cfpb-shuttering-trump-doge.png": {
+      "drive_id": "1uqpCK8zLWMcSkydbECHw4NM4q13vnG3X",
+      "bytes": 931813,
+      "md5": "eb3aa80da9985e8d4738a40e4954abb4",
+      "sha256": "6a0b5047656fa60110903a714b3283fbaf3242525f8ca569f2cbe8db5544e740",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.npr.org_2025_03_28_nx-s1-5315118_cfpb-shuttering-trump-doge.warc": {
+      "drive_id": "1-BiZq8hvLgVadUXMWnOWDMB-NpxoWUnD",
+      "bytes": 3416211,
+      "md5": "fbf4e3df85d72c69aff214e843b51e53",
+      "sha256": "48bae1ffacabcc6f75e5412a6c83ba9bfc772675115346bd83c0d908272ea39c",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.pbs.org_newshour_politics_usaid-security-chiefs-put-on-leave-after-trying-to.html": {
+      "drive_id": "1XK-CHoqeMpRCp4NTiAgM7u0N9rTe844-",
+      "bytes": 8283029,
+      "md5": "19a08a739949f500f854fc093f367aa5",
+      "sha256": "60337c3094ac560c057c5d4e8c2636d3cff3b4e7b0cf695cbcffc821ec254759",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.pbs.org_newshour_politics_usaid-security-chiefs-put-on-leave-after-trying-to.pdf": {
+      "drive_id": "1USeuQpv_OgO2EYcW9VJgpMieVwT3AwkN",
+      "bytes": 171442,
+      "md5": "722f56a93a008a099091bff8bcd70ad8",
+      "sha256": "1509210bace08cf2de0cc657b0d2251ea8d834222d7048ef273b46ebe8e7aed6",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.pbs.org_newshour_politics_usaid-security-chiefs-put-on-leave-after-trying-to.png": {
+      "drive_id": "13MdllRIgWc9G5w5Nphe30wUvyx0FJyq8",
+      "bytes": 909864,
+      "md5": "32cae63642ac72492d733931234550ee",
+      "sha256": "d2c52e5eeb102a94afef0d9c5e3b96a532e0f9de02f6d535cf89c2b10b5ede3b",
+      "drive_md5_match": true
+    },
+    "secondary-accountability-removal/www.pbs.org_newshour_politics_usaid-security-chiefs-put-on-leave-after-trying-to.warc": {
+      "drive_id": "1eMu9WGev8jNVFtAel3_T7ohS9YknRu6o",
+      "bytes": 8500497,
+      "md5": "55e49cc07f6724b4f4a38f39ca0c42ce",
+      "sha256": "ce7982734a4560672e5b45f9fd825c0fee9695c4f0dc0420da9b1a38f0d49eb9",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.html": {
+      "drive_id": "1MU306HNxzaL-XMUYbFtv9LTOcUp6C_TQ",
+      "bytes": 14105099,
+      "md5": "7198f6cc5c0f5311b2c59c23ef02dba1",
+      "sha256": "96a54465465d043714c948a1c874ebb4fc0ae00dec238e79399246ec7af9f0c2",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.pdf": {
+      "drive_id": "1jm3-zHfRCnk5-W3YFI7ugxeZJw9rvzNL",
+      "bytes": 762060,
+      "md5": "d48cc2b0911da4f4e68eb81a624264a6",
+      "sha256": "0c699e796140d807e476a3359a3bf48f547cb3465e1fb7d96580b1b896c31cb7",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.png": {
+      "drive_id": "1ANcppQxVWyIBpRmR5WEPNn0W6nXpxLlB",
+      "bytes": 669767,
+      "md5": "12c9626dacb12dcd26ff8f6fbf6b7bb3",
+      "sha256": "5e9546940bdfcce5d6ca7b18dda2e72b289cd815e73ab80040af497805aaba10",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/abcnews.com_US_doge-website-now-saved-105-billion-backtracked-earlier_story_id_1.warc": {
+      "drive_id": "1QaXmsJVRNEIp5OiQZoWbYMJm6AACFrFD",
+      "bytes": 14578118,
+      "md5": "ac52a7edac433969e1e0662695993da5",
+      "sha256": "9e3d2afde0de1ed7c64893cd7d5fc479331684e92e9b6624de3fed283ff0d3f0",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/capture-report.json": {
+      "drive_id": "1vlkoran9mEMOdaF5CdlnSKQLqAwBcQ7P",
+      "bytes": 3092,
+      "md5": "d6e124511c05f7e8d5836421ea9e401e",
+      "sha256": "03c16238b43dae91491774c4a791114cafee7932e8786e096abbd9bd394bf7b7",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/capture-report.tsv": {
+      "drive_id": "1mcJZ4UWjsctrfn1P9imwYfNUL4a3fhyK",
+      "bytes": 1732,
+      "md5": "570878bb6b8dd2add8d2d69cc19ab9b3",
+      "sha256": "9d9f17f407febee005f3d91268ff17d714dfe22daee893a8554c3559d9ce4dd7",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/fortune.com_2025_02_11_usaid-no-track-8-billion-unspent-aid-trump-froze-foreign-.html": {
+      "drive_id": "1tbToPv1Y-ybsQdYiAT8UP3r6XrTf-vJ4",
+      "bytes": 6211881,
+      "md5": "853b7def9b7d54effdaa3cf3ddfafa7f",
+      "sha256": "bcc206839908342f409a11a5d7e4e882de6e9ed409a3586f48f952b5a8ea810b",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/fortune.com_2025_02_11_usaid-no-track-8-billion-unspent-aid-trump-froze-foreign-.pdf": {
+      "drive_id": "1mleRq93pIclKg8qKqd_tDcu7TWrr0_RP",
+      "bytes": 6750428,
+      "md5": "cf5f586067d4bb1f83bd80aafa2a86a2",
+      "sha256": "4e1f33e59ebd34cb9fb5443606ff13b188be158929360d0548ef9491e851baac",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/fortune.com_2025_02_11_usaid-no-track-8-billion-unspent-aid-trump-froze-foreign-.png": {
+      "drive_id": "1T6GBCRtrfL0qNY2kjAQeyqvHQzW_OvmK",
+      "bytes": 532559,
+      "md5": "6e429d3432778a532fc35b1b92c46b43",
+      "sha256": "7092a7d5750f05c05912851f3f5cb731b510f370ac88a1bfd438b386ba4cb457",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/fortune.com_2025_02_11_usaid-no-track-8-billion-unspent-aid-trump-froze-foreign-.warc": {
+      "drive_id": "1dxs5Hi5ruTHZOl-D2jlI6lzuNaEdxy6S",
+      "bytes": 6625337,
+      "md5": "6c77855578e25cee6b1838504c0f7b12",
+      "sha256": "c94f92acd859499681cb56a776067b633c6f9c017128c39377678c28a47ace32",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/manifest.json": {
+      "drive_id": "1Pnd1wygesLrm2UU_NOqq0bdwckWaFIf4",
+      "bytes": 11618,
+      "md5": "9573efe1aa82c089a5c74dbdc4809d51",
+      "sha256": "822181d6bd5dc54fcef6f7fca4c47ae95cd7e5fe6b3cf08d7d9e0c24ff119b81",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/sha256sums.txt": {
+      "drive_id": "1Ra5jMR1yZxUTQ2Q8kiitrgrwRP7ZNeEk",
+      "bytes": 8305,
+      "md5": "7a205afa9054361beb2759ea31c118f1",
+      "sha256": "a8e79e0f5490c7d906e946c110bae24ea56e480cdc06b10d889da4270d97dcbf",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/theintercept.com_2025_02_20_doge-social-security-cuts-musk-receipts_.html": {
+      "drive_id": "1zv0TZf3nrd5OhY3UwOPgYjlGy1Y9OY62",
+      "bytes": 9278106,
+      "md5": "57e8457bee046ddf04e329e2b7c55df0",
+      "sha256": "c4113555e3c059dbd40f82525af5afb995ea4fe87af9b05b900dd5bd69b584e3",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/theintercept.com_2025_02_20_doge-social-security-cuts-musk-receipts_.pdf": {
+      "drive_id": "1JeB-k2N19rD3aMyR-wTLB2_lXr0_awQ9",
+      "bytes": 3329529,
+      "md5": "1202399885d679c9c89e715e8a8a803d",
+      "sha256": "9b27ad322e2be21a35c08f0e1056bf502c19f9e2429d48c7ac0ac7d0637a1b97",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/theintercept.com_2025_02_20_doge-social-security-cuts-musk-receipts_.png": {
+      "drive_id": "1ytWMctpZEj5SUdzqNh0MHIEVqXshXOmC",
+      "bytes": 1030365,
+      "md5": "6a480bb736acc1ee62752bc9f933c737",
+      "sha256": "c6eb80ae8906f754493822508c3a2728bf9b01a1a6e9a31c3416cf7613806f2b",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/theintercept.com_2025_02_20_doge-social-security-cuts-musk-receipts_.warc": {
+      "drive_id": "1uudV0kO-6sVe3D6N2iGNWCxq74as0sSG",
+      "bytes": 9385991,
+      "md5": "d3bc2a67c731c928235935d6bd939831",
+      "sha256": "de0da4eef051f269f4f9525aa81c70f2a5c1b7e1672e101224e5769ed2031be2",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.html": {
+      "drive_id": "1Po09zE1oQb7OmGvo5DqitHEwk0wxVJjx",
+      "bytes": 4104829,
+      "md5": "e8a47530f231c75c33963c3fecceb596",
+      "sha256": "25ccf866fd8467a8c9919e4d291022ce017f1f169237113b4c5ecbfd3f3e74b8",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.pdf": {
+      "drive_id": "1TrjLKgxuRvz2YlCi00ztkuEPwnHBRp08",
+      "bytes": 641646,
+      "md5": "9e76ba07c427d94e6adaf5887a4a5f93",
+      "sha256": "ae274fe766d8113881eb4286139589a0912b7f5efb93e4c7d3150f89f00d36f3",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.png": {
+      "drive_id": "15RR9_lqzeC9T_ay37hSFycyzXgwV1FTl",
+      "bytes": 955327,
+      "md5": "07f12c4d8af48d82b1ff529ca4e70c02",
+      "sha256": "f0b1578606d8fb4b3984d235a75249da6fea109d92ab7a1696279e85b05de508",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.aljazeera.com_news_2025_6_6_has-doge-really-saved-the-us-government-180bn.warc": {
+      "drive_id": "1UpD9uEJJfA5sVXlOHufrROoja1VSo-Bi",
+      "bytes": 4200924,
+      "md5": "5366b71b13cdd862b8a5b6496c8ef6e1",
+      "sha256": "36fecc76d41912547834ab812286c37f9dc30cc029238d05ca036c0f1dd8bc29",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cato.org_blog_doge-produced-largest-peacetime-workforce-cut-record-spending-.html": {
+      "drive_id": "1vb2OXjj9ybjcRhxBp_wW5sxLTx9J4eR6",
+      "bytes": 108561,
+      "md5": "feb4c6c425164de776723f1ddc1e3a44",
+      "sha256": "b11846d1a3cfe0c389dfd6fae5f4a84782ee2ab5a3f24245cfbd7c61a65ff2ca",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cato.org_blog_doge-produced-largest-peacetime-workforce-cut-record-spending-.pdf": {
+      "drive_id": "18wqYHCGJYXQXtF6mhih0uiJwL2N1elUk",
+      "bytes": 934212,
+      "md5": "a153bc378022d3bd4d27e7dbb7fb0b7d",
+      "sha256": "8e01dc2af4456d5b9704b10f21727f104ea6806606b92818c8ccea0b0378492b",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cato.org_blog_doge-produced-largest-peacetime-workforce-cut-record-spending-.png": {
+      "drive_id": "1GC0qXVDacoQnPQkWWaipJaxMDimeFELi",
+      "bytes": 515888,
+      "md5": "768c23853d19f0c982832ef598d1c8e2",
+      "sha256": "f236094833c50e3469f9e675f531fe58d317924bc2bf8f0705ecba3c2cc5fb42",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cato.org_blog_doge-produced-largest-peacetime-workforce-cut-record-spending-.warc": {
+      "drive_id": "1YulEfI_DH3Ta4xWeD7BJzdrfdMzO0fWy",
+      "bytes": 115415,
+      "md5": "0c8bd47728349f107ff8366d5e28bd29",
+      "sha256": "e1595c16f4e158180472a4e9b4f6551afe9b80ef4dd32029d0c4b85c9cbea773",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cato.org_news-releases_doge-cut-jobs-not-spending-heres-why.html": {
+      "drive_id": "1ANgysZKXnBZWKp0zy-0lftdNVxrAdI_e",
+      "bytes": 111419,
+      "md5": "14218e7d83844ece2004d9d244e663fa",
+      "sha256": "b90110109ea4e0dbb5f94a83f9ca3c78697d2ec0dd5bb8e631935ca56089cffe",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cato.org_news-releases_doge-cut-jobs-not-spending-heres-why.warc": {
+      "drive_id": "1jZgCnXE7i7PxjaTDM85BUpX_k0Aq3htS",
+      "bytes": 118149,
+      "md5": "c22be85337254b844020ca00e21b63d4",
+      "sha256": "6e516230329b19571ea891f2bf84f8032172045facd73883d243856ebd76ddc3",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.html": {
+      "drive_id": "1MJmQuOM_gjUUfTYCJ3uVRrNYKKZGiGcC",
+      "bytes": 3913591,
+      "md5": "4253178387539b8937c9051e00c4c27d",
+      "sha256": "4525c5d8250775f91ed9186bb47df6d466defe23d8acba15347bb1daa6f3b1db",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.pdf": {
+      "drive_id": "1z_jqIWvQxsqR-EDyfGIhUxJ_N0nNZHCc",
+      "bytes": 1506072,
+      "md5": "f912274cf4177efcb3c09628ff679f15",
+      "sha256": "03e31d9c810481db5a30a2fd53110111f2b77230bb55c8b14c1375073c740ddf",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.png": {
+      "drive_id": "1Q1xQx_S7YI_25mFyo5KFYygfEBLE8kHn",
+      "bytes": 470705,
+      "md5": "ae6c3c933049a91b01b85a66a66700ea",
+      "sha256": "44336aa13ed90a9e45ce4f335c4e36b6e7b6e12618f6ff26ff6afcf403d08330",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cbsnews.com_news_doge-cuts-contracts-grants-leases-searchable-list_.warc": {
+      "drive_id": "1GTPFr87pIBYkszBZfajTXCmXi6x1dxwf",
+      "bytes": 5110273,
+      "md5": "a4ff6f3bfd16fb1e9ca8ebd5a6d64cb4",
+      "sha256": "472e1e3ac00c431dab6c46ea3376243c3ef67a1355ac6bbc5e5e6b180865e14a",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.html": {
+      "drive_id": "1_WuT3bf93xUar9TPPqv4aCH5ecuk3vSt",
+      "bytes": 4084143,
+      "md5": "3080c5e61cc40e06332aa6ead4bac513",
+      "sha256": "b41b5101fc13c2c846168b93fee6e469da6c733eeacf5e7340c036518300618d",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.pdf": {
+      "drive_id": "17yBbdOOhh5RK9SOY4bxh5fsT1N-eRSQM",
+      "bytes": 3562949,
+      "md5": "2a306163d228318951dd6e6cc7c513bc",
+      "sha256": "50e1b0861d7ad0c66e7fcd2f36409abb4325723703e66aefc9b37cf264a73c93",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.png": {
+      "drive_id": "1Oe8MkyQZMjeLqtR7mMh6BSDQ-ElWzM8_",
+      "bytes": 560071,
+      "md5": "d41df7171c60fcb79b286243c66cf491",
+      "sha256": "e69a2aeac83ef11f96549766bdef1ab15300ee4e43b1dd0c3dfcdbbcb353e5b6",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cbsnews.com_news_doge-wall-of-receipts-more-discrepancies_.warc": {
+      "drive_id": "1CJS9PnvZ9yXnYPFTc1su7kvnK4stxlEY",
+      "bytes": 5285319,
+      "md5": "fd0ee39c08074ac90037f980fcbb6300",
+      "sha256": "ec2834bb6c3948e5dfebe3ed38e949a2c3270365a6ba46f036c57569f083f875",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.citizensforethics.org_reports-investigations_crew-reports_doges-big-illusion.html": {
+      "drive_id": "177WKE9JeZgvekrUzb-P8S1CUWHmBUef3",
+      "bytes": 748075,
+      "md5": "212e534fca90c7909572fe96b2119755",
+      "sha256": "c74b468b252acf9e86415b853e50e3cf4001cd4e123fd4e19b80dd437fb9ba6b",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.citizensforethics.org_reports-investigations_crew-reports_doges-big-illusion.pdf": {
+      "drive_id": "1D8R8S_cl6p7KdpYodBc4aube-wJP7hko",
+      "bytes": 54922,
+      "md5": "f3fe55c3663e527f689cbc6c1b9231b8",
+      "sha256": "49a11f9050a3cd2f17e3b6845c6500d88b37ff76d2ec7462704ad75c6c114ae2",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.citizensforethics.org_reports-investigations_crew-reports_doges-big-illusion.png": {
+      "drive_id": "1aKIp04V_DCa_IchwevfU3GQm1fVu9TEg",
+      "bytes": 243365,
+      "md5": "1c25617dd1998f4c999ad9e6e622ffa4",
+      "sha256": "8f1b185167f96fac960bac836f3022e7f15e1cd0e9af2c5a77f6e4f82d8512b7",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.citizensforethics.org_reports-investigations_crew-reports_doges-big-illusion.warc": {
+      "drive_id": "1lhNhsmpxkPT-NdxPfoGHbOAD04nZ6q1-",
+      "bytes": 804197,
+      "md5": "bffad26092f2f1a9aae3756b7325f7d9",
+      "sha256": "bc4bc5336234cff17d6147df2c8f87f618e60e398ecb3fa7dfc6c2d14e098421",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cnn.com_2025_02_19_politics_doge-canceled-contracts-8-billion-invs_index.htm.html": {
+      "drive_id": "1OoxvvC2PgHiXe0t11ZK5P81Bm7_XzF1y",
+      "bytes": 8640987,
+      "md5": "ee3c6df3262c67c94664b3818e62e7fc",
+      "sha256": "d983803f682b947ae19cbe48623e68c66d0cd74cae89759b345aee4eaef74f52",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.cnn.com_2025_02_19_politics_doge-canceled-contracts-8-billion-invs_index.htm.warc": {
+      "drive_id": "1dX_LTxf0isLeBSznFpPGf6zhd3pj9Olp",
+      "bytes": 13395134,
+      "md5": "504d3a3b49033370ea9ad2537dabf3fe",
+      "sha256": "c402108c49bf103f5f4db75c45e70c4e2982ae0228a8c0eb7e364e2eadc85959",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.npr.org_2025_03_01_nx-s1-5313853_doge-savings-receipts-musk-trump.html": {
+      "drive_id": "1BVW_wlf8itQgVnXWJ627FAqpbPmKVBhF",
+      "bytes": 3273128,
+      "md5": "cc4265785f1062b3065505949d7da18e",
+      "sha256": "8658cbe0f5adfc9fe8dba1d25272f7dce667a79d0405ada3e37e958b5867b22c",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.npr.org_2025_03_01_nx-s1-5313853_doge-savings-receipts-musk-trump.pdf": {
+      "drive_id": "1A3W5-cNLKBnGrgyvksFJsRzkP1vd2Acb",
+      "bytes": 874854,
+      "md5": "d860c4edffc46a4d8ad366a849763b20",
+      "sha256": "ec35f5a2f206568353363b3df6af52d1a6b114d1019869409ca50445cb31bf02",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.npr.org_2025_03_01_nx-s1-5313853_doge-savings-receipts-musk-trump.png": {
+      "drive_id": "1KP5HQWzehJEgYzGv263wm-03uFAgez6U",
+      "bytes": 834913,
+      "md5": "288a59dd2e84a59b7a3f954d189af5ee",
+      "sha256": "6d722b2d5ce853316d7f7ec78d423e81024c6cf8ea135d69fe9bd14e2559b3fa",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.npr.org_2025_03_01_nx-s1-5313853_doge-savings-receipts-musk-trump.warc": {
+      "drive_id": "1U-4zAuMo-N23iIwI-iUbdds5h3d1x94M",
+      "bytes": 3424234,
+      "md5": "1fdc354962f907253c36beb6e192d85b",
+      "sha256": "be554c3cfb2fb8c3239f786d66dc52506228782f4dec4a8e02e8b240805efe65",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_politics_fact-checking-trump-and-musks-claims-that-they-are.html": {
+      "drive_id": "1MOd-lJOruHzuO9F5VASAandsgEvz40jC",
+      "bytes": 8208437,
+      "md5": "a4f6a3b9ea379dee605b08e062e0dee8",
+      "sha256": "5ed3dec9cee36de4ad7eb5b4b99bb64a91c418d14652558d68b929ff8b0bdf9d",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_politics_fact-checking-trump-and-musks-claims-that-they-are.pdf": {
+      "drive_id": "16qvi4UKKIZl2kJZKLcXXw-OhJLrIrOuG",
+      "bytes": 136938,
+      "md5": "c49ba5a18ed73b2310c1201c2281b126",
+      "sha256": "43700cab3b848ae453063eba9b04f1b97c615c317ca0a1c57eb6ddd6af2e12c1",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_politics_fact-checking-trump-and-musks-claims-that-they-are.png": {
+      "drive_id": "1Sj8CI9_uSQ_WzXf0TVP3hEQECYhAeB8Y",
+      "bytes": 870955,
+      "md5": "a2ad0a91662ddfbaf9ba7f6862449e4a",
+      "sha256": "a651ab43a73894d40797901727d6eb80d33b779c889676db1c954f8352b727ab",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_politics_fact-checking-trump-and-musks-claims-that-they-are.warc": {
+      "drive_id": "17jdMvD0yL525h6eIU_Frt8-d6cEU5Y-K",
+      "bytes": 8424939,
+      "md5": "198e4a2a5f46bbe721b93b3e8b869f55",
+      "sha256": "a46e18c692eed63d3309ffa410052bd83c65e805d93f75843504e4b361c75569",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_show_a-look-at-the-misleading-and-incorrect-claims-on-doges.html": {
+      "drive_id": "1jbJR0A_LIPRhFYhTZNje-XMr5hLJ286Z",
+      "bytes": 16178051,
+      "md5": "d4c3601c06e91b253224399898e8604d",
+      "sha256": "d5184ab7b2b3bccec3b9579c53ce032c88a2109173a2b46c44b5737b839d92cb",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_show_a-look-at-the-misleading-and-incorrect-claims-on-doges.pdf": {
+      "drive_id": "129JfHsUWBUVMOcWZmCrWNursioB3t0Iz",
+      "bytes": 172342,
+      "md5": "84c4b51326dbe1da8acbd763240ba3f0",
+      "sha256": "1de1eec207cc8c89aab0f48258ea458e91a97a008016af1429d7669833e10fb1",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_show_a-look-at-the-misleading-and-incorrect-claims-on-doges.png": {
+      "drive_id": "1NLxQEzBOQd89HhndiFvqxFDP-I4TllJZ",
+      "bytes": 679726,
+      "md5": "32e4d463e97efcdee9ea4af19b2874b0",
+      "sha256": "eaa5bd3098c75c98a8042c3dbd2a345dc61815719e51d05ddf8e733a39417329",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_show_a-look-at-the-misleading-and-incorrect-claims-on-doges.warc": {
+      "drive_id": "1a2wHAmghnv0c4XN583O4KKsQoJnZvToX",
+      "bytes": 16416651,
+      "md5": "9e8dbb480c4828878c544c8d37a3c7e7",
+      "sha256": "347bc54544070c0c88d603295042ec2483ae479a56fb51bbf10f366a2b1d1df6",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_world_watchdog-trumps-dismantling-of-usaid-means-billions-i.html": {
+      "drive_id": "18BzR-0Ee1A6sahwNDi9UGhOQC_8pCh5p",
+      "bytes": 8241552,
+      "md5": "993d38f1e68f151b1a67df59daa9981c",
+      "sha256": "aef6280e8372ce729d30f9068c55a434160c28dd3c00ed508156200d176a71d9",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_world_watchdog-trumps-dismantling-of-usaid-means-billions-i.pdf": {
+      "drive_id": "1zqIHzK_-Vroa-yx2ZjYpiZeV4p2gyfNd",
+      "bytes": 158353,
+      "md5": "c74adb20cc0f444d3760767fcc4cda43",
+      "sha256": "655c4b5bd96b7793c5f22853882756298fdf50fb42b9dd7a92719d834d934a34",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_world_watchdog-trumps-dismantling-of-usaid-means-billions-i.png": {
+      "drive_id": "1xK8NRgFwSq1cHpAEhou4mUcBQPGwQung",
+      "bytes": 906260,
+      "md5": "8754bafb9bd5fa64162ac092a42ec225",
+      "sha256": "3a069a64d3cf87827479d7aac448c7c965cc529f5c9f82625d94a196f817743b",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.pbs.org_newshour_world_watchdog-trumps-dismantling-of-usaid-means-billions-i.warc": {
+      "drive_id": "1_nFCmokq_ByaJH5GJ_gqQ87EqBW_VTtS",
+      "bytes": 8458072,
+      "md5": "7188f6b1b4d6d89c19c98bdd47860148",
+      "sha256": "c5086bec340aa42efa3a34051d68a1e6f1aeb044a8df2ea8e5e3124efaf98c99",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.tiktok.com__nytimes_video_7477627559505710378.html": {
+      "drive_id": "1wkzk8N1_5_bWjuE1xF_UEpPYrjSbS5s7",
+      "bytes": 7268972,
+      "md5": "375fde901be0c9fe51c45a7803e9dfd3",
+      "sha256": "b2a7f3e51d3d50e1c5a7a47f573a0708b8c57f7cc02949e6e4b31d8d8ac7dd18",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.tiktok.com__nytimes_video_7477627559505710378.pdf": {
+      "drive_id": "10xlsD5efV1qzSaWVnONYX5xYP9HNxxpF",
+      "bytes": 1400173,
+      "md5": "3bcf5ef3dad03a2aea0b5132b4c719a9",
+      "sha256": "536d04f61203246c1b4841fcbad1dda80c745526a50dca08c0b2fa64eddf6946",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.tiktok.com__nytimes_video_7477627559505710378.png": {
+      "drive_id": "1Cu1VcsEyxDz5soHdyAWy_XnmqORoiCjU",
+      "bytes": 415188,
+      "md5": "d7eb73724f24c673bf9f3be81b7d905b",
+      "sha256": "7b31e9e69ea0199738176f306425d5e86a6e3d7298d957e37cb368fa9c83f02a",
+      "drive_md5_match": true
+    },
+    "secondary-doge-savings-witnesses/www.tiktok.com__nytimes_video_7477627559505710378.warc": {
+      "drive_id": "10cT-aFJEy5Nmx76P4at9hk2eyqY0hrr1",
+      "bytes": 7507217,
+      "md5": "11ce0cad6427036c024dab5739643270",
+      "sha256": "75cceb0a66398871ebc0114412a657c50d0a0f14cb4c421786d82cfe86aee2b4",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/capture-report.json": {
+      "drive_id": "17coBRmN6II9j6izRQfv4HGtnpHaqvFyX",
+      "bytes": 1500,
+      "md5": "fa5eca8d1f5cad372d1db1afacd96c32",
+      "sha256": "32ea4f53de177e27fad7a28f45e1921a1e457823d3573bc821d29448d2f4a3c3",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/capture-report.tsv": {
+      "drive_id": "1-EHapYPcJdMtPKn8uLOwh3oJGKBMf7A8",
+      "bytes": 722,
+      "md5": "28db1bcf508ea93a3b987502faf77e07",
+      "sha256": "167f8b0a2228f1b4b07e4f58494a3b9fc9d8e44f1035a5e01113da84906a07f8",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/manifest.json": {
+      "drive_id": "1vCP7s3HIeNSw0f0OhM58ksGvUPx67weN",
+      "bytes": 4503,
+      "md5": "dbf7f09217e6f4af3ce6bf9d2368eeae",
+      "sha256": "e7e38891937c06bdb935de4d7b6fd348bf76f6ab0630898d8e35fc644e41b448",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/newsroom.ucla.edu_stories_USAID-cuts-global-impact-14-million-deaths.html": {
+      "drive_id": "1fOcgaYe8h6ofaXY0prkcfbnr6li_tWR0",
+      "bytes": 1849259,
+      "md5": "322b4add5aa13d8e8a43a44a96f5e06c",
+      "sha256": "56d563f9c65e445d9e3ede7e3dc823042a6631c42c73d849374459afe934b686",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/newsroom.ucla.edu_stories_USAID-cuts-global-impact-14-million-deaths.pdf": {
+      "drive_id": "1ouqY_BRJ2Emekpxv6ypDDolvkopv7kjc",
+      "bytes": 989469,
+      "md5": "bf4074e086df0d46fdee40bbb74cc0a6",
+      "sha256": "ca131ab226d5c3ffc53d25e74f7a2d4128f8d2272d9789aea4d7d923d41f1ab7",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/newsroom.ucla.edu_stories_USAID-cuts-global-impact-14-million-deaths.png": {
+      "drive_id": "1wN28DAW0OpgTYENuTtpfm2U7Z_eGh5uc",
+      "bytes": 487153,
+      "md5": "92210e51fd8a9e9506cb9207d026f2e0",
+      "sha256": "875351f252053ccdd44698f0f285aadc610c5150765af0d282d407527c13f046",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/newsroom.ucla.edu_stories_USAID-cuts-global-impact-14-million-deaths.warc": {
+      "drive_id": "1iZK3nU6x_m_ljuFphHAtFOsg6LpMl7Ng",
+      "bytes": 2040977,
+      "md5": "a7c7f0bf89ab6cfa7e4a17a69b97ae0d",
+      "sha256": "d58eeadf6665aefd1e2c2383021ac07e3422476091a29ae4b66952dcc87e06b3",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/sha256sums.txt": {
+      "drive_id": "17X0rhSICfEHZAY5duObojF_PiKxxwDQA",
+      "bytes": 3063,
+      "md5": "0c4e90dfd5848a2a20727917c8e0d940",
+      "sha256": "9b37a3f239b3ae50e4527048a2f03628bce3b65b49301d2ebf71c8603fdb9fd0",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.ncbi.nlm.nih.gov_pmc_articles_PMC12230335_.pdf": {
+      "drive_id": "1l4wAy29Zx3FkILkk7SkvdJnXuJjt3btt",
+      "bytes": 23859,
+      "md5": "043c2693c70c40beab445bd44bdd4c69",
+      "sha256": "6f70ade582e9cf8488dc2d68caee9233af359308f5cc381d05cd70799f8d3b98",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.ncbi.nlm.nih.gov_pmc_articles_PMC12230335_.png": {
+      "drive_id": "1kknV3b6A8v6kdmTMcwT5z9wZPYU_mHLU",
+      "bytes": 11641,
+      "md5": "500e34d60489af90c550857ba0c60452",
+      "sha256": "ac23b35bc9c0d669411fad19a3691a669d087a107687b230e7b946de1834c4ae",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.ncbi.nlm.nih.gov_pmc_articles_PMC12274115_.pdf": {
+      "drive_id": "1Th2AwXmXkkUyd-HY8_5rG2FSro9HkPgi",
+      "bytes": 24264,
+      "md5": "6037d26260428c3876425fd6586a7cc1",
+      "sha256": "8015c8908a08b2ae0e3f8d5fda76a89cb88af1ab21489a50946f9f02428ee67e",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.ncbi.nlm.nih.gov_pmc_articles_PMC12274115_.png": {
+      "drive_id": "1faN23NaNgcp67ftUEDqL2UsnN3o836hf",
+      "bytes": 11641,
+      "md5": "500e34d60489af90c550857ba0c60452",
+      "sha256": "ac23b35bc9c0d669411fad19a3691a669d087a107687b230e7b946de1834c4ae",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.ncbi.nlm.nih.gov_pmc_articles_PMC12447089_.pdf": {
+      "drive_id": "1Embr0oHC0paLXxn_UCtPFyh94OOWt97p",
+      "bytes": 24291,
+      "md5": "fbec7541a886e6ad0ead9ff0eec80d81",
+      "sha256": "7bcd1101314f2e11f90b30cefefadef336a3904d55902c082e2240d5c279353a",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.ncbi.nlm.nih.gov_pmc_articles_PMC12447089_.png": {
+      "drive_id": "1Jooh9jlhhpuN7qT29dFl9ms6MmnCf0il",
+      "bytes": 11641,
+      "md5": "500e34d60489af90c550857ba0c60452",
+      "sha256": "ac23b35bc9c0d669411fad19a3691a669d087a107687b230e7b946de1834c4ae",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.oxfam.org_en_press-releases_child-under-five-could-die-every-forty-seconds-2.html": {
+      "drive_id": "1LGpUEv8TqKwyI3u2r2Qh2vteBEdIJBko",
+      "bytes": 1915338,
+      "md5": "4d9c906cf77d41f85c8b8a11bdd1be8d",
+      "sha256": "09e02520fef28a03fbb189da74eee1329f1c344418c33b1d393599b06ffe00bb",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.oxfam.org_en_press-releases_child-under-five-could-die-every-forty-seconds-2.pdf": {
+      "drive_id": "15UdpkLkbmPXGUuZQqyrXoqSE9_nUG0ml",
+      "bytes": 257596,
+      "md5": "c00574361df8ca416749691bde2b9989",
+      "sha256": "4898d20f3d2d3d9b16833db6395b9662100aa88915f50f483713d469b3ccc844",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.oxfam.org_en_press-releases_child-under-five-could-die-every-forty-seconds-2.png": {
+      "drive_id": "1p48BvTDc6aR7jkUoMPeBZhp9ZLuXhA-j",
+      "bytes": 429070,
+      "md5": "c54bcc513c1943d6f64251f641231512",
+      "sha256": "f8a01cce267e05dc8c07ef1d0cc58e590e0eac7eef9aed4239a3d69b622baa05",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.oxfam.org_en_press-releases_child-under-five-could-die-every-forty-seconds-2.warc": {
+      "drive_id": "1y90tiYf2XSPEWo24TV2Yy3xywj-kTmou",
+      "bytes": 2005852,
+      "md5": "db006840125e23adc9a48b49e8d5d2dc",
+      "sha256": "34e3e30e0d3c34ca641f35490ef965d8e9886b1448d0507e5f6b9e4a23eacbe2",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.unaids.org_en_impact-US-funding-cuts_About.html": {
+      "drive_id": "1DKBObJXR6n2Aoa-TMplO1MncU7ERgcXc",
+      "bytes": 4858164,
+      "md5": "8994dd2d0895d06a46991aca40fc341e",
+      "sha256": "2e80a692d811c70b6ac93dd10df49f8dfaa7b9a15d41d4ba4b8e3db3c78f72c1",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.unaids.org_en_impact-US-funding-cuts_About.pdf": {
+      "drive_id": "172KqfMbL4vQi_3PO_fw8Sgmeli_-nmn3",
+      "bytes": 446973,
+      "md5": "cbeab30ab1dfe581840cbf135e3b3434",
+      "sha256": "038a591e079b249fc528f5574b1daa28c40ee91f4798459c7c3cb9cf02cbec04",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.unaids.org_en_impact-US-funding-cuts_About.png": {
+      "drive_id": "1PYVWIDpwxXOOv4A3qwBgfX103V99pHf3",
+      "bytes": 330274,
+      "md5": "0495dc18fa5ea1285f5ce93186ebcc7d",
+      "sha256": "af62204f1bd5af064afa9bbf00503dd8c3a9d6590d60c2aa9321d50164fcea6c",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.unaids.org_en_impact-US-funding-cuts_About.warc": {
+      "drive_id": "1WljX3PugY38-9bNqiLuwtupGzxduv_qw",
+      "bytes": 5633733,
+      "md5": "31e296040357e7e3c44aca61943f2f88",
+      "sha256": "75f909bb41d5cca9ff8183ff737d81db0b30c20e5612dcf267bb782d72ab0b5b",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.wfp.org_news_wfp-warns-six-critical-operations-are-facing-significant-food-a.html": {
+      "drive_id": "1AYSfnY4H6Niu5NpMQwcl-LU4Q8aGZqQP",
+      "bytes": 1283447,
+      "md5": "7cd565835473e7e32c1f7f0ee03c6eb8",
+      "sha256": "083b69d12a7b476eb5f37a89298d34fc20e7560d945d6c71d25887dddf5848af",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.wfp.org_news_wfp-warns-six-critical-operations-are-facing-significant-food-a.pdf": {
+      "drive_id": "1yUZddgwFL_2302YHVj7EByzCrcWQDc_x",
+      "bytes": 1205454,
+      "md5": "95aeeda91174fc2528b8367ef32e2fcf",
+      "sha256": "1558b2b4d62d4e16c37709f8f821bf62d4515e36777f9739e457681dc230cc6c",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.wfp.org_news_wfp-warns-six-critical-operations-are-facing-significant-food-a.png": {
+      "drive_id": "1Sy1ImUJDcOP-gmKxAkE6DPLUh1-V3tRR",
+      "bytes": 968217,
+      "md5": "84bfaebf5496795f86dfd6f787b564fc",
+      "sha256": "b69cc318476f1af68699bc2c818c167c20fb8c36955e99bbfd4ba512ee32fd09",
+      "drive_md5_match": true
+    },
+    "secondary-mortality-modeling/www.wfp.org_news_wfp-warns-six-critical-operations-are-facing-significant-food-a.warc": {
+      "drive_id": "1Tx1lMSDn5jfdCCK5RswOvBMIv_7PomtO",
+      "bytes": 1430127,
+      "md5": "34a74e5bcc5c03aa335997795b2bbd4e",
+      "sha256": "c29aaf891d493eff33286c67b934db2f0f5f3fa24bb95adad4778698063f188b",
+      "drive_md5_match": true
+    },
+    "tamlyn-cable/capture-report.json": {
+      "drive_id": "124jjvr5abPP-f-fFaLj8VTSG0CPxS70M",
+      "bytes": 291,
+      "md5": "dafc4d15127ad38d6a9f45dcec79deab",
+      "sha256": "65ddb069e2855f22dd0f64da8042bc3d207b4eb07b3e2d575c351dcc9b802906",
+      "drive_md5_match": true
+    },
+    "tamlyn-cable/capture-report.tsv": {
+      "drive_id": "1rDri-2m3iaDdiTchkmeW10KtC0puCnva",
+      "bytes": 107,
+      "md5": "464bad81b4ed89996a09f4f01e607f1a",
+      "sha256": "76c4cc1681d2897016995cdfbd1fa1f86f330285dacc7ee7b2f08102bf49a1fb",
+      "drive_md5_match": true
+    },
+    "tamlyn-cable/manifest.json": {
+      "drive_id": "1QXl82QJyU2ZeFqYCp_1IA6BnLu28PA2z",
+      "bytes": 181,
+      "md5": "4cda2d040d850f6054f2f4d07edc256a",
+      "sha256": "bba14bccc8f89ecc52f7bf1a3c524510ed1dbd6b6ecbd7d88f1f85b8cbc2ca73",
+      "drive_md5_match": true
+    },
+    "tamlyn-cable/sha256sums.txt": {
+      "drive_id": "1bVWZEno4mo9INzlFoioz5iqzUUbnjn43",
+      "bytes": 68,
+      "md5": "a487f0872990e077c86c151954978797",
+      "sha256": "abcfa6a9d4df344d1781bc2560b5e4cdcae08b39ed303063535e7e1e926a304a",
+      "drive_md5_match": true
+    }
+  },
+  "drive_parent": "1cUa-XEhPUSbWPGDij2cFdAytkWWpiY4A",
+  "drive_run_folder": "capture-2026-11-18",
+  "drive_run_folder_id": "1y0Xnp8LuwG-SeebLATZUVuAkm5l-eelm"
+}

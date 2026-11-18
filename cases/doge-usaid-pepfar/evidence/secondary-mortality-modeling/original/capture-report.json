@@ -1,0 +1,53 @@
+{
+  "item": "./secondary-mortality-modeling",
+  "urls_total": 9,
+  "urls_captured": 7,
+  "urls_failed": 2,
+  "results": [
+    {
+      "url": "https://newsroom.ucla.edu/stories/USAID-cuts-global-impact-14-million-deaths",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.cgdev.org/blog/update-lives-lost-usaid-cuts",
+      "http_status": "403",
+      "captured": false
+    },
+    {
+      "url": "https://www.medrxiv.org/content/10.1101/2025.02.27.25323033",
+      "http_status": "403",
+      "captured": false
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12230335/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12274115/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12447089/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.oxfam.org/en/press-releases/child-under-five-could-die-every-forty-seconds-2030-due-us-aid-cuts-oxfam-analysis",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.unaids.org/en/impact-US-funding-cuts/About",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.wfp.org/news/wfp-warns-six-critical-operations-are-facing-significant-food-aid-pipeline-breaks-year-end",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

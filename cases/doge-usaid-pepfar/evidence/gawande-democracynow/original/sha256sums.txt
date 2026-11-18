@@ -1,5 +1,9 @@
-d9cddbb11eb6d89cb52b8c69ceeb1118003e77f64561ff194010f601ec9dcba0  ./hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.html
-5243d319b2e42b4b6b1817c0d46265cd6d9d3166599f780a91ed78457bddb13f  ./www.democracynow.org_2025_11_13_usaid.warc
-4eb91e77bfd465575b36cbd723d485103df6ae8b7ff3b3465359416abbd36d3d  ./hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.warc
-e3a427f10f461a2c451cbcea23f98456245208a92e916deb28979457a79da1fd  ./www.democracynow.org_2025_11_13_usaid.html
+63a1b791ffb3f44d272a5c2d9e2f491f9a7a837714efae1e38a3280726ec36be  ./hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.pdf
+7603ac934590b0b27a5acec0d768163dd242d3597004b3a2cbf92a7875b5441b  ./www.democracynow.org_2025_11_13_usaid.pdf
+e27599a2815c5241dbe653abfc4bfb96f25c64cbc235e61c4cb4fd372e1406d9  ./hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.html
+86ce2ebf27f88e21840c4bab12dcacde362987485850ed2793e1a8cc4e2dae98  ./www.democracynow.org_2025_11_13_usaid.png
+6d536c615333c541896373e9db89144b6c8f5aa1a4b0da3360471c3227931f6b  ./www.democracynow.org_2025_11_13_usaid.warc
+2622cc85bd9802e3160d8b57421c63dd5d1be5e32288ae11e8defa6200e73aad  ./hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.warc
+c725c64f004a9d33d9af6a9197f976e12c96fb61caeab7bba31acaca69837d68  ./www.democracynow.org_2025_11_13_usaid.html
+afff3c0a2ac028ac1cd8fbcfad7cbfb2411f703822fdc38fa79514a98e5ac7f6  ./hsph.harvard.edu_news_usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths_.png
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./wget.log

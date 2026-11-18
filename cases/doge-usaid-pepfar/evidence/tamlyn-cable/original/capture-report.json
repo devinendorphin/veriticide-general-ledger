@@ -1,0 +1,13 @@
+{
+  "item": "./tamlyn-cable",
+  "urls_total": 1,
+  "urls_captured": 0,
+  "urls_failed": 1,
+  "results": [
+    {
+      "url": "https://www.washingtonpost.com/investigations/interactive/2025/usaid-trump-malaria-hiv-drugs-death/",
+      "http_status": "000",
+      "captured": false
+    }
+  ]
+}

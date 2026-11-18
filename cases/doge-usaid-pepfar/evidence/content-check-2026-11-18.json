@@ -1,0 +1,856 @@
+[
+  {
+    "item": "doge-savings-subset",
+    "url": "https://abcnews.com/US/doge-website-now-saved-105-billion-backtracked-earlier/story?id=119408347",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE says it's saved $105 billion, though it's backtracked on some of its earlier claims - ABC News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE says it's saved $105 billion, though it's backtracked on some of its earlier claims -)"
+  },
+  {
+    "item": "doge-savings-subset",
+    "url": "https://doge.gov/savings",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "doge-savings-subset",
+    "url": "https://thehill.com/homenews/administration/5162621-doge-wall-of-receipts-savings/",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "doge-savings-subset",
+    "url": "https://www.aljazeera.com/news/2025/6/6/has-doge-really-saved-the-us-government-180bn",
+    "http_status": "200",
+    "captured": true,
+    "title": "Has DOGE really saved the US government $180bn? | Elon Musk News | Al Jazeera",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Has DOGE really saved the US government $180bn? | Elon Musk News | Al Jazeera)"
+  },
+  {
+    "item": "doge-savings-subset",
+    "url": "https://www.cbsnews.com/news/doge-cuts-contracts-grants-leases-searchable-list/",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE says it has canceled thousands of federal contracts, grants and leases. Here's a searchable list. - CBS News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE says it has canceled thousands of federal contracts, grants and leases. Here's a sear)"
+  },
+  {
+    "item": "doge-savings-subset",
+    "url": "https://www.cbsnews.com/news/doge-wall-of-receipts-more-discrepancies/",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE releases updated \"wall of receipts\" with more discrepancies - CBS News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE releases updated \"wall of receipts\" with more discrepancies - CBS News)"
+  },
+  {
+    "item": "gawande-democracynow",
+    "url": "https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/",
+    "http_status": "200",
+    "captured": true,
+    "title": "USAID shutdown has led to hundreds of thousands of deaths | Harvard T.H. Chan School of Public Health",
+    "transcript_quotes_found": 2,
+    "verdict": "REAL-CONTENT",
+    "basis": "2 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "gawande-democracynow",
+    "url": "https://www.democracynow.org/2025/11/13/usaid",
+    "http_status": "200",
+    "captured": true,
+    "title": "Dr. Atul Gawande: Hundreds of Thousands Have Already Died Since Trump Closed USAID | Democracy Now!",
+    "transcript_quotes_found": 2,
+    "verdict": "REAL-CONTENT",
+    "basis": "2 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "hfac-letter-jan24",
+    "url": "https://democrats-foreignaffairs.house.gov/2025/1/meeks-frankel-urge-secretary-rubio-to-lift-freeze-on-foreign-assistance",
+    "http_status": "200",
+    "captured": true,
+    "title": "Meeks, Frankel Urge Secretary Rubio to Lift Freeze on Foreign Assistance | House Foreign Affairs Committee U a Meeks, Frankel Urge Secretary Rubio to Lift Freez",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text; captured as a validated Chrome PDF/PNG render only (no WARC)"
+  },
+  {
+    "item": "hfac-letter-jan24",
+    "url": "https://democrats-foreignaffairs.house.gov/_cache/files/3/7/3723c215-81d7-49f6-b47e-e281a526e5b4/0361821ECC417883CB0DEF54C9F37E80.foreign-assistance-pause-letter-to-rubio-final.pdf",
+    "http_status": "404",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 404); no artifacts kept"
+  },
+  {
+    "item": "hfac-letter-jan24",
+    "url": "https://pocan.house.gov/media-center/press-releases/pocan-kelly-109-addl-house-democrats-urge-immediate-restoration-pepfar",
+    "http_status": "200",
+    "captured": true,
+    "title": "Pocan, Kelly, 109 Add\u2019l House Democrats Urge Immediate Restoration of PEPFAR | Congressman Mark Pocan",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Pocan, Kelly, 109 Add\u2019l House Democrats Urge Immediate Restoration of PEPFAR | Congressman)"
+  },
+  {
+    "item": "hfac-letter-jan24",
+    "url": "https://robinkelly.house.gov/media-center/press-releases/reps-kelly-pocan-109-house-democrats-urge-immediate-restoration-pepfar",
+    "http_status": "200",
+    "captured": true,
+    "title": "Reps. Kelly, Pocan, 109 House Democrats Urge Immediate Restoration of PEPFAR | Congresswoman Robin Kelly",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Reps. Kelly, Pocan, 109 House Democrats Urge Immediate Restoration of PEPFAR | Congresswom)"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://clearinghouse.net/case/46107/",
+    "http_status": "200",
+    "captured": true,
+    "title": "Storch v. Hegseth 1:25-cv-00415 (D.D.C.) | Civil Rights Litigation Clearinghouse",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://en.wikipedia.org/wiki/2025_dismissals_of_U.S._inspectors_general",
+    "http_status": "200",
+    "captured": true,
+    "title": "2025 dismissals of U.S. inspectors general - Wikipedia",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://federalnewsnetwork.com/agency-oversight/2025/09/trump-unlawfully-fired-17-agency-igs-judge-finds-but-wont-reinstate-them/",
+    "http_status": "200",
+    "captured": true,
+    "title": "Judge finds Trump unlawfully fired agency IGs, but won\u2019t reinstate them - Federal News Network",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Judge finds Trump unlawfully fired agency IGs, but won\u2019t reinstate them - Federal News Net)"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://lawandcrime.com/high-profile/federal-judge-says-its-obvious-trump-broke-the-law-when-ousting-8-inspectors-general-but-a-major-scotus-firing-case-looms-large/",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://www.cbsnews.com/news/trump-fires-usaid-inspector-general/",
+    "http_status": "200",
+    "captured": true,
+    "title": "Trump fires USAID inspector general who released report on impact of agency cuts - CBS News",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://www.cnn.com/2025/01/25/politics/trump-fires-inspectors-general/index.html",
+    "http_status": "200",
+    "captured": true,
+    "title": "Trump fires inspectors general from more than a dozen federal agencies | CNN Politics",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://www.cnn.com/2025/02/11/politics/usaid-inspector-general-fired-trump/index.html",
+    "http_status": "200",
+    "captured": true,
+    "title": "USAID IG fired day after report critical of impacts of Trump administration\u2019s dismantling of the agency | CNN Politics",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (USAID IG fired day after report critical of impacts of Trump administration\u2019s dismantling )"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://www.epi.org/policywatch/trump-fires-17-inspectors-general/",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://www.govexec.com/oversight/2025/09/fired-watchdogs-cant-be-reinstated-despite-trumps-obvious-law-breaking-court-decides/408387/",
+    "http_status": "200",
+    "captured": true,
+    "title": "Fired watchdogs can\u2019t be reinstated despite Trump\u2019s \u2018obvious\u2019 law breaking, court decides  - Government Executive",
+    "transcript_quotes_found": 2,
+    "verdict": "REAL-CONTENT",
+    "basis": "2 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://www.nbcnews.com/politics/politics-news/usaid-inspector-general-fired-releasing-report-trumps-downsizing-effor-rcna191790",
+    "http_status": "200",
+    "captured": true,
+    "title": "USAID inspector general fired after releasing report on Trump's downsizing effort",
+    "transcript_quotes_found": 4,
+    "verdict": "REAL-CONTENT",
+    "basis": "4 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://www.npr.org/2025/01/25/g-s1-44771/trump-fires-inspectors-general",
+    "http_status": "200",
+    "captured": true,
+    "title": "Trump fires independent inspectors general at several agencies : NPR",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "ig-firings-jan2025",
+    "url": "https://www.washingtonpost.com/politics/2025/02/11/trump-fires-usaid-inspector-general/",
+    "http_status": "000",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 000); no artifacts kept"
+  },
+  {
+    "item": "meeks-demands",
+    "url": "https://democrats-foreignaffairs.house.gov/2025/10/meeks-again-demands-answers-from-secretary-rubio-over-false-claim-that-his-foreign-aid-cuts-caused-no-deaths",
+    "http_status": "200",
+    "captured": true,
+    "title": "Meeks Again Demands Answers from Secretary Rubio Over False Claim that His Foreign Aid Cuts Caused No Deaths | Ho\u2026 U a Meeks Again Demands Answers from Secretar",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Meeks Again Demands Answers from Secretary Rubio Over False Claim that His Foreign Aid Cut); captured as a validated Chrome PDF/PNG render only (no WARC)"
+  },
+  {
+    "item": "meeks-demands",
+    "url": "https://democrats-foreignaffairs.house.gov/2025/6/meeks-requests-answers-from-secretary-rubio-over-claim-that-his-foreign-aid-cuts-caused-no-deaths",
+    "http_status": "200",
+    "captured": true,
+    "title": "Meeks Requests Answers from Secretary Rubio Over Claim that His Foreign Aid Cuts Caused No Deaths | House Foreign \u2026 U a Meeks Requests Answers from Secretary Ru",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text; captured as a validated Chrome PDF/PNG render only (no WARC)"
+  },
+  {
+    "item": "meeks-demands",
+    "url": "https://democrats-foreignaffairs.house.gov/2025/8/meeks-demands-answers-on-reports-of-trump-administration-destroying-emergency-food-assistance-wasting-american-tax-dollars",
+    "http_status": "200",
+    "captured": true,
+    "title": "Meeks Demands Answers on Reports of Trump Administration Destroying Emergency Food Assistance & Wasting America\u2026 U a Meeks Demands Answers on Reports of Trump A",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Meeks Demands Answers on Reports of Trump Administration Destroying Emergency Food Assista); captured as a validated Chrome PDF/PNG render only (no WARC)"
+  },
+  {
+    "item": "meeks-demands",
+    "url": "https://sherman.house.gov/media-center/press-releases/one-year-after-trumps-usaid-shutdown-sherman-meeks-lead-all-foreign",
+    "http_status": "200",
+    "captured": true,
+    "title": "One Year After Trump\u2019s USAID Shutdown, Sherman & Meeks Lead All Foreign Affairs Dems to Investigate Aid-Related Deaths | Congressman Brad Sherman",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (One Year After Trump\u2019s USAID Shutdown, Sherman & Meeks Lead All Foreign Affairs Dems to In)"
+  },
+  {
+    "item": "musk-woodchipper-posts",
+    "url": "https://healthpolicy-watch.news/trump-and-musks-message-to-usaid-time-to-die/",
+    "http_status": "200",
+    "captured": true,
+    "title": "Trump, Musk Tell USAID: 'Time To Die' - Health Policy Watch",
+    "transcript_quotes_found": 3,
+    "verdict": "REAL-CONTENT",
+    "basis": "3 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "musk-woodchipper-posts",
+    "url": "https://prospect.org/2026/05/22/who-died-when-elon-musk-killed-usaid-enrich-review/",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "musk-woodchipper-posts",
+    "url": "https://www.democracynow.org/2026/4/16/usaid_whistleblower",
+    "http_status": "200",
+    "captured": true,
+    "title": "\u201cInto the Wood Chipper\u201d: Whistleblower\u2019s Inside Story of DOGE Shredding USAID, 14 Million May Die | Democracy Now!",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "musk-woodchipper-posts",
+    "url": "https://x.com/elonmusk/status/1886307316804263979",
+    "http_status": "200",
+    "captured": true,
+    "title": "Elon Musk on X: \"We spent the weekend feeding USAID into the wood chipper. \n\nCould gone to some great parties.\n\nDid that instead.\" / X",
+    "transcript_quotes_found": 2,
+    "verdict": "REAL-CONTENT",
+    "basis": "2 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "named-deaths",
+    "url": "https://sherman.house.gov/media-center/press-releases/one-year-after-trumps-usaid-shutdown-sherman-meeks-lead-all-foreign",
+    "http_status": "200",
+    "captured": true,
+    "title": "One Year After Trump\u2019s USAID Shutdown, Sherman & Meeks Lead All Foreign Affairs Dems to Investigate Aid-Related Deaths | Congressman Brad Sherman",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (One Year After Trump\u2019s USAID Shutdown, Sherman & Meeks Lead All Foreign Affairs Dems to In)"
+  },
+  {
+    "item": "named-deaths",
+    "url": "https://www.npr.org/sections/goats-and-soda/2025/05/28/g-s1-69186/marco-rubio-usaid-death-sickle-cell-nigeria",
+    "http_status": "200",
+    "captured": true,
+    "title": "Marco Rubio said no one has died due to U.S. aid cuts. This mom disagrees : Goats and Soda : NPR",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Marco Rubio said no one has died due to U.S. aid cuts. This mom disagrees : Goats and Soda)"
+  },
+  {
+    "item": "named-deaths",
+    "url": "https://www.propublica.org/article/kenya-trump-usaid-world-food-program-starvation-children-deaths",
+    "http_status": "200",
+    "captured": true,
+    "title": "After Trump Cuts to Kenya Food Aid, Children Died of Starvation \u2014 ProPublica",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (After Trump Cuts to Kenya Food Aid, Children Died of Starvation \u2014 ProPublica)"
+  },
+  {
+    "item": "named-deaths",
+    "url": "https://www.propublica.org/article/usaid-cholera-deaths-trump-humanitarian-aid-cuts-south-sudan",
+    "http_status": "200",
+    "captured": true,
+    "title": "Trump Officials Celebrated With Cake After Slashing Aid. Then People Died of Cholera. \u2014 ProPublica",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "named-deaths",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2025/usaid-trump-malaria-hiv-drugs-death/",
+    "http_status": "000",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 000); no artifacts kept"
+  },
+  {
+    "item": "named-deaths",
+    "url": "https://www.washingtonpost.com/world/2025/06/29/sudan-usaid-funding-cuts-trump-musk/",
+    "http_status": "000",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 000); no artifacts kept"
+  },
+  {
+    "item": "propublica-internal-memos",
+    "url": "https://www.democracynow.org/2025/3/6/usaid_memo_disease_nicholas_enrich",
+    "http_status": "200",
+    "captured": true,
+    "title": "Leaked USAID Memos Warn 100,000s Will Die from Cuts to Polio, TB, Malaria, Ebola, AIDS Programs | Democracy Now!",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "propublica-internal-memos",
+    "url": "https://www.propublica.org/article/kenya-trump-usaid-world-food-program-starvation-children-deaths",
+    "http_status": "200",
+    "captured": true,
+    "title": "After Trump Cuts to Kenya Food Aid, Children Died of Starvation \u2014 ProPublica",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (After Trump Cuts to Kenya Food Aid, Children Died of Starvation \u2014 ProPublica)"
+  },
+  {
+    "item": "propublica-internal-memos",
+    "url": "https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis",
+    "http_status": "200",
+    "captured": true,
+    "title": "Trump Officials Thwarted Warnings of Death, Illness in Race to Cut Foreign Aid \u2014 ProPublica",
+    "transcript_quotes_found": 3,
+    "verdict": "REAL-CONTENT",
+    "basis": "3 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "propublica-internal-memos",
+    "url": "https://www.propublica.org/article/usaid-cholera-deaths-trump-humanitarian-aid-cuts-south-sudan",
+    "http_status": "200",
+    "captured": true,
+    "title": "Trump Officials Celebrated With Cake After Slashing Aid. Then People Died of Cholera. \u2014 ProPublica",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "propublica-internal-memos",
+    "url": "https://www.propublica.org/series/the-end-of-aid",
+    "http_status": "200",
+    "captured": true,
+    "title": "The End of Aid Archives \u2014 ProPublica",
+    "transcript_quotes_found": 2,
+    "verdict": "REAL-CONTENT",
+    "basis": "2 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "rubio-hfac-testimony",
+    "url": "https://www.npr.org/sections/goats-and-soda/2025/05/28/g-s1-69186/marco-rubio-usaid-death-sickle-cell-nigeria",
+    "http_status": "200",
+    "captured": true,
+    "title": "Marco Rubio said no one has died due to U.S. aid cuts. This mom disagrees : Goats and Soda : NPR",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "rubio-waivers-nonfunctional",
+    "url": "https://thedispatch.com/article/pepfar-state-department-funds-waivers-rubio/",
+    "http_status": "200",
+    "captured": true,
+    "title": "PEPFAR Funding Problems Persist Despite Rubio\u2019s Waivers - John McCormack - The Dispatch",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (PEPFAR Funding Problems Persist Despite Rubio\u2019s Waivers - John McCormack - The Dispatch); paywall truncation of the body not ruled out"
+  },
+  {
+    "item": "rubio-waivers-nonfunctional",
+    "url": "https://theintercept.com/2025/02/06/marco-rubio-usaid-humanitarian-waiver/",
+    "http_status": "200",
+    "captured": true,
+    "title": "Rubio\u2019s USAID \u201cHumanitarian Waiver\u201d Fails for Lifesaving Programs",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Rubio\u2019s USAID \u201cHumanitarian Waiver\u201d Fails for Lifesaving Programs)"
+  },
+  {
+    "item": "rubio-waivers-nonfunctional",
+    "url": "https://theintercept.com/2025/02/06/marco-rubio-usaid-humanitarian-waiver/ (+ HRW, CGD, Dispatch, ProPublica, KFF",
+    "http_status": "000",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 000); no artifacts kept"
+  },
+  {
+    "item": "rubio-waivers-nonfunctional",
+    "url": "https://www.cgdev.org/blog/secretary-rubio-waivers-arent-working-please-fix-process",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "rubio-waivers-nonfunctional",
+    "url": "https://www.hrw.org/news/2025/02/10/us-lifesaving-programs-remain-suspended-despite-waivers",
+    "http_status": "200",
+    "captured": true,
+    "title": "US: Lifesaving Programs Remain Suspended Despite Waivers | Human Rights Watch",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (US: Lifesaving Programs Remain Suspended Despite Waivers | Human Rights Watch)"
+  },
+  {
+    "item": "rubio-waivers-nonfunctional",
+    "url": "https://www.kff.org/global-health-policy/the-trump-administrations-foreign-aid-review-status-of-pepfar/",
+    "http_status": "200",
+    "captured": true,
+    "title": "The Trump Administration's Foreign Aid Review: Status of PEPFAR | KFF",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (The Trump Administration's Foreign Aid Review: Status of PEPFAR | KFF)"
+  },
+  {
+    "item": "rubio-waivers-nonfunctional",
+    "url": "https://www.propublica.org/article/trump-usaid-rubio-marocco-canceled-programs-gaza-syria-congo-hiv-ebola",
+    "http_status": "200",
+    "captured": true,
+    "title": "The Trump Administration Said These Aid Programs Saved Lives. It Canceled Them Anyway. \u2014 ProPublica",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "schatz-record",
+    "url": "https://www.schatz.senate.gov/news/press-releases/schatz-condemns-trumps-illegal-dismantling-of-usaid-as-internal-memos-warn-of-millions-of-deaths-global-humanitarian-catastrophe",
+    "http_status": "200",
+    "captured": true,
+    "title": "Schatz Condemns Trump\u2019s Illegal Dismantling Of USAID As Internal Memos Warn Of Millions Of Deaths, Global Humanitarian Catastrophe | U.S. Senator Brian Schatz",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "schatz-record",
+    "url": "https://www.schatz.senate.gov/news/press-releases/schatz-details-trump-administrations-destruction-of-usaid-deadly-consequences-that-followed-as-senate-considers-codifying-doge-cuts",
+    "http_status": "200",
+    "captured": true,
+    "title": "Schatz Details Trump Administration\u2019s Destruction Of USAID, Deadly Consequences That Followed As Senate Considers Codifying DOGE Cuts | U.S. Senator Brian Schat",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://abcnews.com/Politics/judge-denies-effort-reinstate-us-institute-peace-board/story?id=119965865",
+    "http_status": "200",
+    "captured": true,
+    "title": "Judge denies effort to reinstate US Institute of Peace board, but criticizes DOGE's 'abominable' treatment of staff - ABC News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Judge denies effort to reinstate US Institute of Peace board, but criticizes DOGE's 'abomi)"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://fortune.com/article/consumer-financial-protection-bureau-doge-elon-musk-layoffs-rfi-court-filings-firings/",
+    "http_status": "200",
+    "captured": true,
+    "title": "Court filings describe DOGE-driven, scream-filled, 36-hour mass layoff scramble at consumer protection agency | Fortune",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Court filings describe DOGE-driven, scream-filled, 36-hour mass layoff scramble at consume)"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://www.asisonline.org/security-management-magazine/articles/2025/07/USIP/timeline/",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://www.citizensforethics.org/legal-action/lawsuits/crew-sues-multiple-departments-for-records-on-doge/",
+    "http_status": "200",
+    "captured": true,
+    "title": "CREW sues multiple departments for records on DOGE - CREW | Citizens for Responsibility and Ethics in Washington",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (CREW sues multiple departments for records on DOGE - CREW | Citizens for Responsibility an)"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://www.nbcnews.com/politics/national-security/usaid-security-leaders-removed-refusing-elon-musks-doge-employees-acce-rcna190357",
+    "http_status": "200",
+    "captured": true,
+    "title": "USAID security leaders removed after refusing Elon Musk's DOGE employees access to secure systems",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://www.nbcnews.com/politics/trump-administration/us-institute-peace-sues-block-doge-takeover-force-rcna197036",
+    "http_status": "200",
+    "captured": true,
+    "title": "Judge criticizes DOGE after U.S. Institute of Peace sues to block 'takeover by force'",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Judge criticizes DOGE after U.S. Institute of Peace sues to block 'takeover by force')"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://www.newsweek.com/doge-usip-evicts-headquarters-police-george-moose-trump-2046265",
+    "http_status": "406",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 406); no artifacts kept"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://www.npr.org/2025/03/28/nx-s1-5315118/cfpb-shuttering-trump-doge",
+    "http_status": "200",
+    "captured": true,
+    "title": "Judge prevents Trump administration from dismantling CFPB : NPR",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Judge prevents Trump administration from dismantling CFPB : NPR)"
+  },
+  {
+    "item": "secondary-accountability-removal",
+    "url": "https://www.pbs.org/newshour/politics/usaid-security-chiefs-put-on-leave-after-trying-to-stop-musks-team-from-accessing-classified-info-officials-say",
+    "http_status": "200",
+    "captured": true,
+    "title": "USAID security chiefs put on leave after trying to stop Musk's team from accessing classified info, officials say | PBS News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (USAID security chiefs put on leave after trying to stop Musk's team from accessing classif)"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://abcnews.com/US/doge-website-now-saved-105-billion-backtracked-earlier/story?id=119408347",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE says it's saved $105 billion, though it's backtracked on some of its earlier claims - ABC News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE says it's saved $105 billion, though it's backtracked on some of its earlier claims -)"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://fortune.com/2025/02/11/usaid-no-track-8-billion-unspent-aid-trump-froze-foreign-funding-idled-staffers/",
+    "http_status": "200",
+    "captured": true,
+    "title": "USAID can\u2019t track $8.2 billion in unspent aid after Trump administration froze\u00a0foreign funding and idled staffers | Fortune",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (USAID can\u2019t track $8.2 billion in unspent aid after Trump administration froze\u00a0foreign fun)"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://thehill.com/homenews/administration/5162621-doge-wall-of-receipts-savings/",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://theintercept.com/2025/02/20/doge-social-security-cuts-musk-receipts/",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE Said It Cut $232 Million From Social Security Budget. It Was Only About Half a Million.",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE Said It Cut $232 Million From Social Security Budget. It Was Only About Half a Millio)"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.aljazeera.com/news/2025/6/6/has-doge-really-saved-the-us-government-180bn",
+    "http_status": "200",
+    "captured": true,
+    "title": "Has DOGE really saved the US government $180bn? | Elon Musk News | Al Jazeera",
+    "transcript_quotes_found": 1,
+    "verdict": "REAL-CONTENT",
+    "basis": "1 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0",
+    "http_status": "200",
+    "captured": true,
+    "title": "",
+    "transcript_quotes_found": 0,
+    "verdict": "NOT-CONTENT",
+    "basis": "bot-challenge page (obfuscated JavaScript, no article) served with HTTP 200"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.cato.org/news-releases/doge-cut-jobs-not-spending-heres-why",
+    "http_status": "200",
+    "captured": true,
+    "title": "",
+    "transcript_quotes_found": 0,
+    "verdict": "NOT-CONTENT",
+    "basis": "bot-challenge page (obfuscated JavaScript, no article) served with HTTP 200"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.cbsnews.com/news/doge-cuts-contracts-grants-leases-searchable-list/",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE says it has canceled thousands of federal contracts, grants and leases. Here's a searchable list. - CBS News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE says it has canceled thousands of federal contracts, grants and leases. Here's a sear)"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.cbsnews.com/news/doge-wall-of-receipts-more-discrepancies/",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE releases updated \"wall of receipts\" with more discrepancies - CBS News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE releases updated \"wall of receipts\" with more discrepancies - CBS News)"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/doges-big-illusion-the-heavy-costs-of-the-trump-administrations-so-called-efficiency/",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE\u2019s big illusion: the heavy costs of the Trump administration\u2019s so-called efficiency - CREW | Citizens for Responsibility and Ethics in Washington",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE\u2019s big illusion: the heavy costs of the Trump administration\u2019s so-called efficiency - )"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.cnn.com/2025/02/19/politics/doge-canceled-contracts-8-billion-invs/index.html",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE claim it saved $8 billion by canceling an $8 million contract raises questions about its \u2018wall of receipts\u2019 | CNN Politics",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE claim it saved $8 billion by canceling an $8 million contract raises questions about )"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.npr.org/2025/03/01/nx-s1-5313853/doge-savings-receipts-musk-trump",
+    "http_status": "200",
+    "captured": true,
+    "title": "DOGE\u2019s savings page fixed old mistakes \u2014 and added new ones  : NPR",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (DOGE\u2019s savings page fixed old mistakes \u2014 and added new ones  : NPR)"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.pbs.org/newshour/politics/fact-checking-trump-and-musks-claims-that-they-are-cutting-government-fraud-and-abuse",
+    "http_status": "200",
+    "captured": true,
+    "title": "Fact-checking Trump and Musk's claims that they are cutting government 'fraud and abuse' | PBS News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Fact-checking Trump and Musk's claims that they are cutting government 'fraud and abuse' |)"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.pbs.org/newshour/show/a-look-at-the-misleading-and-incorrect-claims-on-doges-wall-of-receipts",
+    "http_status": "200",
+    "captured": true,
+    "title": "A look at the misleading and incorrect claims on DOGE's 'wall of receipts' | PBS News",
+    "transcript_quotes_found": 2,
+    "verdict": "REAL-CONTENT",
+    "basis": "2 transcript quotation(s) found in page text"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.pbs.org/newshour/world/watchdog-trumps-dismantling-of-usaid-means-billions-in-unspent-aid-now-lack-oversight",
+    "http_status": "200",
+    "captured": true,
+    "title": "Watchdog: Trump's dismantling of USAID means billions in unspent aid now lack oversight | PBS News",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (Watchdog: Trump's dismantling of USAID means billions in unspent aid now lack oversight | )"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.tiktok.com/@nytimes/video/7477627559505710378",
+    "http_status": "200",
+    "captured": true,
+    "title": "TikTok - Make Your Day",
+    "transcript_quotes_found": 0,
+    "verdict": "NOT-CONTENT",
+    "basis": "TikTok app shell; no video or transcript content in the captured HTML"
+  },
+  {
+    "item": "secondary-doge-savings-witnesses",
+    "url": "https://www.washingtonpost.com/business/2025/02/22/doge-savings-found-list-analysis/",
+    "http_status": "000",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 000); no artifacts kept"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://newsroom.ucla.edu/stories/USAID-cuts-global-impact-14-million-deaths",
+    "http_status": "200",
+    "captured": true,
+    "title": "USAID cuts may lead to more than 14 million deaths globally, including 4.5 million children under 5 by 2030, researchers say | UCLA",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (USAID cuts may lead to more than 14 million deaths globally, including 4.5 million childre)"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://www.cgdev.org/blog/update-lives-lost-usaid-cuts",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://www.medrxiv.org/content/10.1101/2025.02.27.25323033",
+    "http_status": "403",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 403); no artifacts kept"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12230335/",
+    "http_status": "200",
+    "captured": true,
+    "title": "pmc.ncbi.nlm.nih.gov",
+    "transcript_quotes_found": 0,
+    "verdict": "NOT-CONTENT",
+    "basis": "blank Chrome render: 116 characters of text, only the print header, no article body; captured as a validated Chrome PDF/PNG render only (no WARC)"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12274115/",
+    "http_status": "200",
+    "captured": true,
+    "title": "pmc.ncbi.nlm.nih.gov",
+    "transcript_quotes_found": 0,
+    "verdict": "NOT-CONTENT",
+    "basis": "blank Chrome render: 116 characters of text, only the print header, no article body; captured as a validated Chrome PDF/PNG render only (no WARC)"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12447089/",
+    "http_status": "200",
+    "captured": true,
+    "title": "pmc.ncbi.nlm.nih.gov",
+    "transcript_quotes_found": 0,
+    "verdict": "NOT-CONTENT",
+    "basis": "blank Chrome render: 116 characters of text, only the print header, no article body; captured as a validated Chrome PDF/PNG render only (no WARC)"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://www.oxfam.org/en/press-releases/child-under-five-could-die-every-forty-seconds-2030-due-us-aid-cuts-oxfam-analysis",
+    "http_status": "200",
+    "captured": true,
+    "title": "A child under five could die every forty seconds by 2030 due to U.S. aid cuts, Oxfam analysis finds | Oxfam International",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (A child under five could die every forty seconds by 2030 due to U.S. aid cuts, Oxfam analy)"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://www.unaids.org/en/impact-US-funding-cuts/About",
+    "http_status": "200",
+    "captured": true,
+    "title": "About the impact of US funding cuts on the global HIV response | UNAIDS",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (About the impact of US funding cuts on the global HIV response | UNAIDS)"
+  },
+  {
+    "item": "secondary-mortality-modeling",
+    "url": "https://www.wfp.org/news/wfp-warns-six-critical-operations-are-facing-significant-food-aid-pipeline-breaks-year-end",
+    "http_status": "200",
+    "captured": true,
+    "title": "WFP warns that six critical operations are facing significant food aid pipeline breaks by year-end | World Food Programme",
+    "transcript_quotes_found": 0,
+    "verdict": "REAL-CONTENT",
+    "basis": "page title matches the article (WFP warns that six critical operations are facing significant food aid pipeline breaks by )"
+  },
+  {
+    "item": "tamlyn-cable",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2025/usaid-trump-malaria-hiv-drugs-death/",
+    "http_status": "000",
+    "captured": false,
+    "verdict": "NOT-CAPTURED",
+    "basis": "refused by the capture gate (http 000); no artifacts kept"
+  }
+]

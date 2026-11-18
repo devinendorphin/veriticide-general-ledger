@@ -1,0 +1,18 @@
+{
+  "item": "./gawande-democracynow",
+  "urls_total": 2,
+  "urls_captured": 2,
+  "urls_failed": 0,
+  "results": [
+    {
+      "url": "https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.democracynow.org/2025/11/13/usaid",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}
