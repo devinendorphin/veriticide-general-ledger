@@ -84,6 +84,73 @@ are indirect":
 
 That keeps the contrast honest, and it does not let the contrast flatter the labs.
 
+## Required source: FRONTLINE, *The Power of Big Oil* (2022, three parts)
+
+Watch or read it before you revise. The official transcript of all three parts is at
+<https://www.pbs.org/wgbh/frontline/documentary/the-power-of-big-oil/transcript/>. The primary
+documents shown on screen are indexed in the Climate Investigations Center's viewer's guide:
+<https://climateinvestigations.org/pbs-frontline-the-power-of-big-oil-viewers-guide-documents-and-reference-material/>.
+The film's arc is **Denial → Doubt → Delay**. Your history segment shows only the end of it ("from
+doubt to concern").
+
+What it supplies for each edit:
+
+**For R-1 (your 1979–80 segment is half of a two-part story).**
+- **The other half of 1979.** Part One shows the 1979 Exxon research program's own stated rationale:
+  "Form responsible team that can credibly carry bad news, if any, to the corporation." Your video
+  shows only the defensive half (Shaw, "aggressive defensive program"). Both are true of the same
+  period. Show both.
+- **Where the credibility went.** Your video quotes the 1980 goal of "Exxon's credibility as a
+  leading authority." Part One, ch. ii, shows where that credibility went. An Exxon document read on
+  camera says: "Exxon's long-term public presence and contributions to the scientific field give us
+  unique credibility within the petroleum industry. We served on a task force of the American
+  Petroleum Institute and contributed significantly to the development of the API position on
+  climate change." The API position, in a 1989 briefing by Terry Yosie, was: "We must make
+  policymakers fully aware of the uncertainty surrounding the global warming issue." **This is the
+  sentence your segment is missing: the authority built in 1980 was spent on uncertainty.**
+- **The method, in the industry's own documents (Part One, ch. iii).** The Global Climate Coalition
+  plan, read on camera: "It is important for GCC to continue to emphasize the scientific
+  uncertainty"; "Scientists, economists, academics and other noted experts carry greater credibility
+  with the media and general public than industry representatives"; "expanding the platform for
+  third-party spokespersons." Your video is about a platform for spokespeople. This is the
+  historical template it should be measured against.
+- **Knowing and saying the opposite, in one coalition.** A Mobil scientist's draft for the GCC
+  says the greenhouse basis "is well established and cannot be denied." Lee Raymond in 1996: "the
+  unproved theory." A former Exxon geoscientist (Bill Heins, Part Two): "say one thing internally
+  and … a different thing with a much different consequence in the political arena."
+
+**For R-2 (the Exxon question to the lab).**
+- **Not measuring is part of the move.** Part Three, Dar-Lon Chang (Exxon engineer, 2003–19), on
+  methane: "there wasn't much appetite from management to measure methane leakage, because if they
+  found out there was a problem, they would have to do something about it." Ask the lab question in
+  two halves: what does the company know that is not published, and **what does it decline to
+  measure?**
+- **The third-party regret line.** Jerry Taylor (Cato), Part Two: "If I had known at the time what
+  Exxon Mobil internally knew … I would definitely have been in a different place." Outside voices
+  argue from what insiders disclose. Individual interviews do not substitute for institutional
+  data.
+
+**For R-4 (the caveat card's money lines).** Your card says "Tobacco and Exxon paid for their own
+messengers. Here the money lines are indirect." Part Three has the closer precedent: industry money
+that funds the **critic**. Chesapeake Energy gave the Sierra Club millions while the two campaigned
+together against coal. The Club's leader promoted gas as the cleaner bridge; he later said Americans
+"had been more fully sold on the myth that gas was green." Chesapeake's foundation was also the
+major sponsor of the MIT gas study ("we want the gold standard"). Indirect money lines that run to
+critics have a documented history. Use it as a **precedent, not an accusation**: the Good Ventures
+→ Palisade line is disclosed, and nothing on record shows Palisade's content was shaped by it.
+
+**Their side, which you must also carry.**
+- ExxonMobil's statements to FRONTLINE: it "has never had any unique or superior knowledge about
+  climate science, let alone any that was unavailable to policymakers or the public." It "never
+  misled the public," and its statements were "consistent with the contemporary understanding of
+  mainstream climate science."
+- API: critics are "cherry-picking," and the 1998 Communications Plan was never implemented.
+- Also on the record: Exxon's own 1980s research manager wrote that "our ethical responsibility is
+  to permit the publication of our research."
+
+State all of these. The charge survives them: the issue is what the company told the public, not
+what its scientists published.
+
 ## Guardrails (so the fix doesn't overcorrect)
 
 - **Do not say Exxon "hid all its data" or "never published."** Exxon scientists did publish
