@@ -7268,7 +7268,11 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   false symmetry (GG-1). Anthropic is the only corporate lab spender on record; the other side's
   money is personal (Brockman) and from investors (a16z). That symmetry normalized the developer's
   act. Opposite direction (A-24): it also attributed Brockman's personal donation to OpenAI. The
-  line is now split into corporate versus principals and investors. Still proposer-classified, pending external
+  line is now split into corporate versus principals and investors.
+  A thirtieth review, on operator prompt, found that GG-1's "Anthropic is the only corporate lab
+  spender" was unsearched and false (HH-1 / A-25). Meta launched two super PACs from its corporate
+  treasury in 2025 (about $20M in California and about $45M nationally, reported). This is new to
+  the ledger; capture is owed (Cluster 7). Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was

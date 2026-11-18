@@ -395,6 +395,9 @@ Cluster 7 row 8 and Track B; verify):**
   candidates the group describes as favouring AI safeguards. The group's target rose to $75M. A second $20M from
   Anthropic was reported later in 2026 (Axios, Bloomberg Law, 12 Feb 2026). It was set up as a
   counterweight to Leading the Future.
+- Meta, from its corporate treasury, launched two super PACs in 2025 to fight state AI rules: a
+  California PAC (about $20M reported) and the national American Technology Excellence Project
+  (about $45M reported). Figures were not checked against filings.
 - This list is incomplete on both sides. It is included so that money lines are disclosed on both
   sides, not only one.
 
@@ -688,11 +691,16 @@ Show the power on each side, and the party that is neither:
   post; xAI's record is in Appendix B). Their own employees, 113 of them across the labs,
   publicly supported it.
   - **Political money around the labs: say who gave it.**
-    - *Corporate:* Anthropic, as a company, gave $20M in February 2026 to Public First Action, a
-      501(c)(4) that does not disclose its donors and funds two allied super PACs backing
-      candidates the group describes as favouring AI safeguards. A second $20M was reported later
-      in 2026 (Axios, Bloomberg Law, 12 Feb 2026). It is the only corporate lab spending in this
-      record.
+    - *Corporate:*
+      - Anthropic, as a company, gave $20M in February 2026 to Public First Action, a 501(c)(4)
+        that does not disclose its donors and funds two allied super PACs backing candidates the
+        group describes as favouring AI safeguards. A second $20M was reported later in 2026
+        (Axios, Bloomberg Law, 12 Feb 2026).
+      - Meta, from its corporate treasury, launched two super PACs in 2025 to fight state AI
+        rules. One is a California PAC backing "innovation first" candidates (about $20M reported).
+        The other is the national American Technology Excellence Project (about $45M reported);
+        reports describe a $65M election push in total (Politico, Aug 2025; press, Sep 2025–Feb
+        2026; figures not checked against FEC or California filings).
     - *Principals and investors:* OpenAI's president, Greg Brockman, personally gave $12.5M, and
       a16z's founders gave $25M, to Leading the Future (more than $125M). OpenAI reportedly says it
       made no super-PAC contributions itself (unverified).
