@@ -1,0 +1,99 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF MISSISSIPPI
+OXFORD DIVISION
+NATIONAL ASSOCIATION FOR
+THE ADVANCEMENT OF COLORED
+PEOPLE; and MISSISSIPPI STATE
+CONFERENCE OF THE NAACP
+V.
+
+PLAINTIFFS
+
+NO. 3:26-CV-74-DMB-JMV
+
+X.AI CORP.; and MZX TECH LLC
+
+DEFENDANTS
+
+OPINION AND ORDER
+The National Association for the Advancement of Colored People and the Mississippi State
+Conference of the NAACP claim that X.AI Corp. and MZX Tech LLC violated the Clean Air Act
+and Mississippi’s State Implementation Plan by constructing and operating, without a permit, a
+power plant in DeSoto County, Mississippi, comprised of gas-fired combustion turbines. The
+defendants move to dismiss all claims for failure to state a claim, arguing that the plaintiffs lack
+statutory standing, the power plant is exempted from permitting requirements under the mobile
+source exception in Mississippi’s SIP, and the Clean Air Act’s citizen suit provision is
+unconstitutional. Because the plaintiffs have statutory standing under the Clean Air Act, because
+the combustion turbines are not “mobile sources” under Mississippi’s SIP, and because the citizen
+suit provision does not violate Article II of the Constitution or the private nondelegation doctrine,
+the plaintiffs’ claims will proceed.
+I
+Procedural History
+On April 14, 2026, the National Association for the Advancement of Colored People
+(“NAACP”) and the Mississippi State Conference of the NAACP filed a complaint against X.AI
+Corp. and MZX Tech LLC in the United States District Court for the Northern District of
+
+Mississippi, alleging that the defendants violated, and continue to violate, the Clean Air Act and
+Mississippi’s State Implementation Plan (“SIP”) by constructing and operating the Colossus Gas
+Plant in Southaven, DeSoto County, Mississippi. 1 Doc. #1. Specifically, the plaintiffs claim that
+the defendants violated (1) Mississippi’s SIP by constructing and operating a stationary source
+without a permit; (2) both the Clean Air Act and Mississippi’s SIP by constructing and operating
+a major stationary source without a Prevention of Significant Deterioration (“PSD”) permit and
+without installing and operating best available control technology (“BACT”); and (3) the Clean
+Air Act by constructing and operating a major source of hazardous air pollutants without
+complying with NESHAP Subpart YYYY. Id. at 38–42. The plaintiffs seek a declaration that the
+defendants have violated the Clean Air Act; injunctive relief permanently enjoining the defendants
+from operating the Colossus Gas Plant except in accordance with the Clean Air Act and ordering
+the defendants to install and operate BACT and to remedy, mitigate, and offset the harm to public
+health and the environment; a civil penalty up to $124,426.00 per day per violation; and costs and
+attorneys’ fees pursuant to 42 U.S.C. § 7604(d). Id. at 42.
+On June 15, 2026, the defendants filed a motion to dismiss pursuant to Federal Rule of
+Civil Procedure 12(b)(6). Doc. #54. The plaintiffs responded in opposition on July 10, Doc. #89;
+and the defendants replied on July 24, Doc. #100.
+II
+Rule 12(b)(6)
+A motion pursuant to Federal Rule of Civil Procedure 12(b)(6) asserts a “failure to state a
+
+“The NAAQS [(National Ambient Air Quality Standards)] program requires the EPA to identify air pollutants that
+‘may reasonably be anticipated to endanger public health or welfare.’” Sierra Club v. La. Dep’t of Env’t Quality, 100
+F.4th 555, 561 (5th Cir. 2024) (quoting 42 U.S.C. § 7408(a)(1)(A)). “States have primary responsibility for
+implementing the NAAQS by developing ‘State implementation plans.’” Id. at 563 (quoting Util. Air Regul. Grp. v.
+E.P.A., 573 U.S. 302, 308 (2014)). Mississippi’s SIP was approved by the EPA and therefore “ha[s] the force and
+effect of federal law.” 40 C.F.R. § 52.1270(c) (2024); Sierra Club, 100 F.4th at 564.
+1
+
+2
+
+claim upon which relief can be granted.” To survive dismissal under the Rule 12(b)(6) standard,
+“a complaint must present enough facts to state a plausible claim to relief. … A plaintiff need not
+provide exhaustive detail to avoid dismissal, but the pleaded facts must allow a reasonable
+inference that the plaintiff should prevail.” Mandawala v. Ne. Baptist Hosp., 16 F.4th 1144, 1150
+(5th Cir. 2021) (citing Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007)). The Court must
+“accept all well-pleaded facts as true and construe the complaint in the light most favorable to the
+plaintiff.” Heinze v. Tesco Corp., 971 F.3d 475, 479 (5th Cir. 2020) (quoting In re Great Lakes
+Dredge & Dock Co., 624 F.3d 201, 210 (5th Cir. 2010)). However, the Court “do[es] not accept
+as true ‘conclusory allegations, unwarranted factual inferences, or legal conclusions.’”
+
+Id.
+
+(quoting Great Lakes, 624 F.3d at 210). In reviewing a Rule 12(b)(6) motion to dismiss, “[t]he
+court’s review is limited to the complaint, any documents attached to the complaint, and any
+documents attached to the motion to dismiss that are central to the claim and referenced by the
+complaint.” Serrano v. Customs & Border Patrol, 975 F.3d 488, 496 (5th Cir. 2020) (per curiam)
+(quoting Lone Star Fund V (U.S.), L.P. v. Barclays Bank PLC, 594 F.3d 383, 387 (5th Cir. 2010)).
+III
+Factual Allegations
+In July 2025, MZX Tech LLC acquired property at 2875 Stanton Road South in Southaven,
+DeSoto County, Mississippi, to construct its Colossus Gas Plant (“Plant”). Doc. #1 at 20. MZX
+was the owner and an operator of the Plant. Id. X.AI Corp. was an operator of the Plant based on
+its involvement in managing, directing, or conducting operations and decision-making related to
+pollution for the Plant. 2 Id. X.AI and/or its subsidiaries own and operate the Colossus 2 data
+center in Whitehaven, Memphis, Tennessee. Id. at 36–37. The Plant supplies power to the
+Colossus 2 data center. Id. at 37.
+2
+
+MZX Tech is a wholly owned subsidiary of X.AI. Doc. #1 at 9.
+
+3
+
+
