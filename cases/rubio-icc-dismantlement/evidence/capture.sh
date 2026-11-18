@@ -9,7 +9,8 @@
 # Response validation (added 2026-11-18, ported from cases/doge-usaid-pepfar/evidence/capture.sh):
 # the 2026-10-10 version kept and hashed whatever wget wrote, so a 403/404 body or an empty
 # file counted as an artifact. A URL is now KEPT only if a pre-flight GET returns 2xx AND
-# the WARC's first response record is 2xx AND the body is non-empty; otherwise its
+# the WARC's main-document response (after redirects) is 2xx AND the body is non-empty AND,
+# for HTML, the page has real content (page_has_content: no bot challenge or login wall); otherwise its
 # artifacts are deleted and it is recorded as not captured. Per-URL outcomes go to
 # original/capture-report.{tsv,json}, which are not hashed into the manifest. See
 # docs/custody-status-2026-07-02.md for why an error page must never count as a capture.
@@ -27,9 +28,73 @@ preflight() {
        --connect-timeout 20 --max-time 60 "$1" 2>/dev/null)" || c="000"
   printf '%s' "${c:(-3)}"
 }
-# first HTTP response status recorded in a gzipped WARC (the main document)
+# status of the main document in a gzipped WARC: the first response that is not a redirect
+# (wget follows 3xx itself and records each hop). Only line-initial status lines are read.
 warc_status() {
-  zcat -f "$1" 2>/dev/null | grep -aoE 'HTTP/[0-9.]+ [0-9]{3}' | head -1 | grep -oE '[0-9]{3}$'
+  zcat -f "$1" 2>/dev/null | grep -aoE '^HTTP/[0-9.]+ [0-9]{3}' | grep -oE '[0-9]{3}$' | grep -m1 -v '^3'
+}
+
+# Is a saved page real content? A 2xx status is not enough: bot challenges and login walls
+# are served with 200, some sites return an empty app shell, and a Chrome print can catch a
+# challenge or a not-yet-loaded page. One checker serves the wget HTML, Chrome's DOM dump and
+# the text of a Chrome PDF. For HTML it judges the FIRST document in the file (wget -O with
+# --page-requisites appends the page's assets after it). The visible text (scripts/styles
+# removed) must reach MIN_VISIBLE_CHARS, the title and opening must not start like an
+# interstitial, and the first 1,500 characters must not contain a challenge phrase.
+# Calibrated 2026-11-18 on the DOGE re-capture (non-content pages <= 22 visible characters,
+# shortest real page 2,199); the phrase list was extended after an Imperva challenge printed
+# by Chrome (817 characters) passed the length floor alone. Prints the reason on failure.
+MIN_VISIBLE_CHARS="${MIN_VISIBLE_CHARS:-500}"
+content_check() {  # content_check html|text FILE
+  python3 -I - "$1" "$2" "$MIN_VISIBLE_CHARS" <<'PY'
+import re, sys, html
+mode, path, minc = sys.argv[1], sys.argv[2], int(sys.argv[3])
+raw = open(path, "rb").read(4_000_000).decode("utf-8", "replace")
+title = ""
+if mode == "html":
+    if raw.lstrip().startswith("%PDF"):
+        sys.exit(0)  # a PDF document fetched directly; judged by its HTTP status
+    m = re.search(r"(?is)</html\s*>", raw)
+    doc = raw[:m.end()] if m else raw
+    t = re.search(r"(?is)<title[^>]*>(.*?)</title>", doc)
+    title = html.unescape(t.group(1)).strip() if t else ""
+    d = re.sub(r"(?is)<(script|style|noscript|template|svg)[^>]*>.*?</\1>", " ", doc)
+    d = re.sub(r"(?s)<!--.*?-->", " ", d)
+    vis = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", d))).strip()
+else:  # text of a Chrome PDF: drop the print header/footer lines (date, URL, page count)
+    keep = [l for l in raw.splitlines() if l.strip()
+            and not re.match(r"^\s*(https?://\S+|\d+/\d+|\d{1,2}/\d{1,2}/\d{2,4},.*)\s*$", l)]
+    vis = re.sub(r"\s+", " ", " ".join(keep)).strip()
+start = re.compile(r"^(just a moment|attention required|access denied|are you a robot|"
+                   r"verify you are human|log ?in\b|sign ?in\b|please enable (javascript|cookies)|"
+                   r"security check|captcha|request blocked|403 forbidden|404 not found)", re.I)
+phrase = re.compile(r"additional security check|verify (that )?(an actual human|you are (a )?human)|"
+                    r"checking (if the site connection is secure|your browser)|"
+                    r"enable javascript and cookies to continue|pardon our interruption|"
+                    r"press (&|and) hold|are you a robot|request unsuccessful\. incapsula|"
+                    r"protected and accelerated by imperva|cloudflare ray id|ddos protection by", re.I)
+if start.search(title) or start.search(vis[:200]):
+    print(f'interstitial ("{(title or vis)[:60]}")'); sys.exit(1)
+hit = phrase.search(vis[:1500])
+if hit:
+    print(f'challenge page ("{hit.group(0)}")'); sys.exit(1)
+if len(vis) < minc:
+    print(f"{len(vis)} visible characters (< {minc})"); sys.exit(1)
+PY
+}
+page_has_content() { content_check html "$1"; }
+
+# Does a Chrome PDF render carry real page text? A page printed before its content loads
+# comes out blank; a print can also land on a challenge. Needs pdftotext (poppler-utils);
+# without it the check is skipped with a warning.
+pdf_has_text() {
+  command -v pdftotext >/dev/null 2>&1 \
+    || { echo "     (pdftotext not installed: PDF text not checked)"; return 0; }
+  local tmp why rc; tmp="$(mktemp)"
+  pdftotext "$1" "$tmp" 2>/dev/null
+  why="$(content_check text "$tmp")"; rc=$?; rm -f "$tmp"
+  [ "$rc" -eq 0 ] || echo "     pdf not page content: $why"
+  return "$rc"
 }
 
 : > "$out/capture-report.tsv"   # url<TAB>http_status<TAB>captured(yes|no)
@@ -46,7 +111,13 @@ for u in "$@"; do
        --warc-file="$out/$slug" --warc-cdx=off -O "$out/$slug.$ext" "$u"
   rc=$?
   ws="$(warc_status "$out/$slug.warc.gz")"
-  if [[ "$ws" =~ ^2[0-9][0-9]$ ]] && [ -s "$out/$slug.$ext" ]; then
+  why=""
+  if [[ "$ws" =~ ^2[0-9][0-9]$ ]] && [ -s "$out/$slug.$ext" ] && [ "$ext" = html ] \
+     && ! why="$(page_has_content "$out/$slug.$ext")"; then
+    rm -f "$out/$slug.$ext" "$out/$slug.warc.gz"
+    printf '%s\t%s\tno\n' "$u" "$ws" >> "$out/capture-report.tsv"
+    echo "  http $ws but not page content: $why — discarded: $u"
+  elif [[ "$ws" =~ ^2[0-9][0-9]$ ]] && [ -s "$out/$slug.$ext" ]; then
     printf '%s\t%s\tyes\n' "$u" "$ws" >> "$out/capture-report.tsv"
     echo "  ok (wget $rc, http $ws) $(wc -c <"$out/$slug.$ext") $u"
   else
