@@ -56,11 +56,51 @@ The video makes the omission **unless** any one of the following is present:
 as **industries managing alarm that came from outside**. Neither is told as industries that
 **held the alarm inside, in their own data, and told the public otherwise.**
 
-**Item 1 could not be tested.** No discussion of an 80,000 Hours episode and climate is on record
-in this repository (main branch, all `.md` files) or in `coercive-harm-framework`. One web
-search did not identify the episode. #81 (Ben Garfinkel, 2020) uses climate as an example of a
-foreseen-but-mishandled problem, but nothing here shows that it is the episode the operator meant.
-Item 1 is recorded as **operator testimony, U**, pending the episode number and timestamp.
+**Item 1: candidate captured, not yet confirmed as the operator's episode.** No discussion of an
+80,000 Hours episode and climate is on record in this repository or in `coercive-harm-framework`.
+On the operator's follow-up ("How about you send get a transcript from that episode"), the
+candidate found by search was captured. It is #81, "Ben Garfinkel on scrutinising classic AI risk
+arguments" (published 9 July 2020). The transcript is at
+`docs/evidence/reflexive-specimen-2026-11-18/80k-ep81-garfinkel-transcript.md`.
+
+It contains two climate passages.
+
+- **"Implications of smoothness" [01:04:07]**, Ben Garfinkel, verbatim:
+  > "One implication is that people are more likely to do useful work ahead of time or more likely
+  > to have institutions in place at that time to deal with stuff that will arise. This definitely
+  > doesn't completely resolve the issue. There are some issues that people know will happen ahead
+  > of time and are not really sufficiently handling. Climate change is a prominent example. But,
+  > even in the case of climate change, I think we're much better off knowing, "Oh okay, the
+  > climate's going to be changing this much over this period of time", as opposed to just waking
+  > up one day and it's like, "Oh man, the climate is just really, really different". Definitely,
+  > the issue is not in any way resolved by this, but it is quite helpful that people see what's
+  > coming when the changes are relatively gradual. Like institutions, to some extent, are being put
+  > in place."
+- **"Where does this leave us?" [02:15:19]:** climate science is used as the benchmark of rigor
+  that AI-risk arguments lack ("we'd obviously feel quite worried about it if you have the argument
+  for like climate change being a real phenomenon, hinged on a couple of blog posts"). This
+  passage makes no claim about how warnings were handled. It is not charged.
+
+**Disconfirming test on the first passage.** The omission claim fails if the episode attributes the
+"not really sufficiently handling" to the industry's doubt campaign, or mentions industry-held
+knowledge anywhere. A full-transcript search for fossil, Exxon, oil, tobacco, lobby, denial,
+doubt, suppress and conceal returns **no matches**. The claim survives.
+
+**How the omission bears on the argument.** The passage is an argument from foresight. Gradual
+change means warning, and warning means institutions get built. Climate is offered as the case
+where warning existed and handling still fell short. The cause of that shortfall is left blank.
+The documented cause is the party that held the earliest warning data, which spent decades
+neutralizing it in public (Cluster 9; the record was public before broadcast: InsideClimate News
+2015, Supran & Oreskes 2017). Filled in, the climate case is a counterexample to the argument it
+illustrates. Foresight does not produce institutions when the actor holding the foresight manages
+the public's perception of it. The AI parallel is the one the video also left out: warning data
+held by the labs.
+
+- **Counter-reading:** this is a passing remark in a roughly 2.5-hour episode about the
+  *predictability* of AI progress, not about obstruction. Deniability is high.
+- **Item-level status:** it is the same omission as the video, in a load-bearing position, with
+  high deniability. Whether this is the episode the operator meant is **unconfirmed**. If it is
+  not, item 1 reverts to U and #81 stands as an independent instance.
 
 ### Precision correction to the operator's wording (stated flat)
 
@@ -99,7 +139,7 @@ Item 1 is recorded as **operator testimony, U**, pending the episode number and 
 |---|---|---|
 | O1 | **The video is not pro-developer overall.** It names the Moskovitz → Anthropic Series A line, Amodei's signature, an interviewee's "pacing the frontier is just what Sam Altman wants," and Lin's "it can just be correct to work on AI capabilities even if you think AI is likely to kill everyone." It names its own maker on the end card. | Weighs against reading F1–F4 as a uniform deflection. The omission is a **rate** item against an otherwise critical film (standing note, 2026-10-03: the opposite-direction item is logged, not used to dismantle). |
 | O2 | **Steelman for the omission.** If the concealment layer had been included naïvely, it would have produced a contrast that **flatters** the labs: "Exxon hid it; these people are telling you." Leaving it out could have been a choice to avoid an exculpatory contrast. | Real. It is answered by stating the contrast **and** its limit: individual testimony is not institutional disclosure. Disclosure that changes no conduct can do work that concealment used to do *[HYPOTHESIS]*. The revision request asks for both halves. |
-| O3 | **Item 1 is unverified.** The two-item "same omission" pattern rests on one held item plus operator testimony. | Instance, not pattern (see BOUNDARY). |
+| O3 | **Item 1 is a candidate.** #81 is captured and shows the same omission, but the operator has not confirmed it as the episode meant. | Two held instances from different producers: still instances, not a pattern (see BOUNDARY). |
 
 ## Classification
 
@@ -135,8 +175,8 @@ Item 1 is recorded as **operator testimony, U**, pending the episode number and 
   space limits, and the "managing alarm" frame is a legitimate, narrower topic.
 - **That the sibling instance would have resisted correction.** No revision has been requested
   yet. Withdrawal-under-request is the test (below).
-- **A pattern in AI-discourse uses of the climate analogy.** Item 1 is U. Two items, one held, is
-  an instance. A shared omission by an EA-ecosystem podcast and a Lightcone/Palisade-adjacent
+- **A pattern in AI-discourse uses of the climate analogy.** Two held items (the video, and #81 as
+  a candidate) are instances. A shared omission by an EA-ecosystem podcast and a Lightcone/Palisade-adjacent
   video would be **structural identity, not collusion**: shared incentives and stigmergic
   coordination (Pattern Registry Entry 2 Addendum). No communication is alleged.
 - **That any AI lab is concealing internal data.** F2 is a **question the omitted parallel would
@@ -160,8 +200,9 @@ Item 1 is recorded as **operator testimony, U**, pending the episode number and 
 
 **Item 1:**
 
-- Upgrades from U to held when the operator supplies the episode and timestamp and the passage
-  is captured.
+- #81 is captured (01:04:07 passage). It is confirmed as the operator's episode when the operator
+  says so. If the operator names a different episode, capture that one, and #81 stays as an
+  independent instance.
 
 ## Remedy
 
