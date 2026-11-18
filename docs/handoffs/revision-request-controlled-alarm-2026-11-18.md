@@ -104,11 +104,19 @@ The companies split:
   - **The regulators.** The Shelby County Health Department had dated written notice from
     August 2024. In July 2025 it permitted 15 "backup only" turbines with emission caps, treating
     the earlier units under a contested "nonroad engine" theory. The county Air Pollution Control
-    Board denied the NAACP's appeal as moot (December 2025, reported). The NAACP then went to
-    federal court (2026).
+    Board denied the NAACP's appeal as moot (December 2025, reported); that was an administrative
+    closure, not a ruling on the merits. The NAACP then went to federal court (2026). At the
+    federal level, the EPA reportedly confirmed that turbines like these require permits (2025),
+    and groups petitioned it to act. Its Region 4 Clean Air Act determination is still open.
+  - **The boosters.** The local Chamber's "business continuity" framing, and the jobs and
+    $30M-tax case, are part of the laundering frame the case file charges.
   - **xAI's side.** Turbines were partly removed in 2025 (12 of 20, per the mayor). The permit
     carries caps. At the hearing xAI presented data showing "no high levels of pollution" near
     the communities. Independent air monitoring is still an open item.
+  - **The case's own limit.** The ledger rates this case strong on material harm and **weak / not
+    met** as veriticide. The recognition commons functioned: the appeal, the NAACP's action, about
+    2,000 public comments, and national press named the harm as it happened. Use it as a methane
+    parallel, not as an example of concealment.
 
 The governor vetoed it. (Veriticide ledger, Entry 7.3; Fortune, 27 Aug 2024; verify against the
 letter and the press record.) In that case the insiders spoke. Three of the five employers

@@ -7220,7 +7220,15 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   - **Opposite direction (A-22):** the line omitted xAI's mitigating facts (the partial removal,
     the permit caps, its hearing data).
 
-  All of these are now in the handoff. Still proposer-classified, pending external
+  All of these are now in the handoff.
+  A twentieth review, on operator prompt, checked the xAI lines against the case's charge theory:
+  - **Toward power (X-1):** the EPA's reported confirmation that such turbines need permits, and
+    its still-open determination, were omitted.
+  - **Toward power (X-2):** the boosters' frame (the Chamber; jobs and taxes) was omitted.
+  - **Opposite direction (A-23):** the case's own boundary was omitted. Veriticide proper is
+    rated WEAK / NOT MET, because the recognition commons functioned.
+
+  All of these are added to the handoff. Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was
