@@ -7062,8 +7062,9 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
     resources … before you've really worked out the structure of the arguments"). It has the same
     **form** as the fossil-fuel "research before action" line, benchmarked on the science whose
     unsettledness that industry manufactured. Whether the speaker had an interest at stake is U
-    (specimen row A1). In the same turn he urges "a lot of resources" into finding out, and form
-    alone cannot separate this from scientific caution (row A-1). *(Qualified on the forty-third
+    (specimen row A1). Form alone cannot separate this from scientific caution (row A-1). That he
+    also urges "a lot of resources" into research does not distinguish it: the industry side urged
+    research too (row F-2). *(Qualified on the forty-third
     review; first filed as "This is the fossil-fuel line.")*
 
   On operator pushback, the "passing remark / high deniability" counter-reading was withdrawn:
@@ -7334,7 +7335,10 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   no toward-power row (a proposer's check). It found one opposite-direction item: this addendum's
   own summary of #81 at 02:15:19 still read "This is the fossil-fuel line," although A1 had
   qualified it to the same form with the speaker's interest U. The qualification is now carried
-  here. Still proposer-classified, pending external
+  here.
+  A forty-fourth review, on operator prompt, found that the forty-third review's "no toward-power
+  row" was false (UU-1). Its qualification reintroduced F-2's struck false difference ("he urges
+  a lot of resources"), which clears #81. It is restated. Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was

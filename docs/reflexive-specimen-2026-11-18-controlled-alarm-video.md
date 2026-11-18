@@ -1085,13 +1085,25 @@ addendum and the Cluster 9 downstream-use note.
 
 ### Findings: toward power
 
-No toward-power row was found. That is a proposer's check, not a finding.
+~~No toward-power row was found.~~ *(False; see UU-1 in the next addendum.)*
 
 ### Findings: the opposite direction (recorded separately)
 
 | # | What the output did | Correction |
 |---|---|---|
 | A-30 | **An uncorrected overstatement in the ledger's summary.** The Entry 8 addendum still described #81's 02:15:19 passage as "the fossil-fuel 'research before action' line." Rows A1 and A-1 had qualified that early in the session: same form; the speaker's interest is U; and form alone cannot separate it from scientific caution. The qualification never reached the ledger. It overstated the charge against 80,000 Hours and Garfinkel. | Qualified in the ledger in place, marked with this review. |
+
+## Addendum: the forty-third review, reviewed through sycophancy to power (2026-11-18)
+
+**Operator prompt (verbatim):** "Run that through the lens of sycophancy to power"
+
+### Findings: toward power
+
+| # | What the output did | Whom it favoured | Correction |
+|---|---|---|---|
+| UU-1 | **The fix for an overstatement brought back a struck exoneration.** A-30's qualification in the ledger read: "In the same turn he urges 'a lot of resources' into finding out." F-2 struck exactly that as a differentiator: the industry side also urged research (API 1989; Cato's "know a lot more"; Exxon's "supported development of climate science"). Placed in a qualifying clause, it works as mitigation again. The forty-third review then reported "no toward-power row." | 80,000 Hours and the EA ecosystem (Cluster 6). | Restated in the ledger: form alone cannot separate this from caution; the call for research does not distinguish it, because the industry made the same call (F-2). The prior "no toward-power row" is struck. |
+
+No opposite-direction row was found. That is a proposer's check, not a finding.
 
 ## Upgrade and downgrade conditions (symmetric)
 
