@@ -541,7 +541,11 @@ Show the power on each side, and the party that is neither:
   both ways and should be shown both ways:
   - its early investor funds the safety network, and its letter shaped the weakening;
   - its documented refusals of Pentagon uses for autonomous weapons and mass surveillance are
-    real counter-evidence (veriticide ledger, Entry 7.2).
+    real counter-evidence (veriticide ledger, Entry 7.2). They are limits **within** a military
+    integration that is also on record: a $200M-ceiling DoD agreement (July 2025), Claude Gov,
+    integration with Palantir on classified networks, and reported use via Palantir in the 3 Jan
+    2026 Caracas operation (WSJ, Axios; Anthropic declined to say). Show the refusals together
+    with the integration they limit, not instead of it.
 
   Do not file it under "safety" on its say-so, or strip the label against the record.
 - **The public the video addresses** ("from the sidewalk") is neither camp. The fight between the
