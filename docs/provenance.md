@@ -927,3 +927,41 @@ the pages are unchanged since the ledger first cited them, nor that every figure
 `transcript.md` matches the captured page. Some transcripts carry a "confirm against the source" note, and
 that check has not been run. None of the five has an Internet Archive snapshot. Their independence rests
 on the Drive custodian alone.
+
+## 2026-11-18 — Capture gate: content check, blank-render check, redirect handling
+
+This closes the two gaps the DOGE re-capture exposed (section above). All eight case `capture.sh`
+scripts are covered.
+
+1. **Pages served with HTTP 200 must have real content.** The new `page_has_content` judges the
+   first document in the saved file (`wget -O` with `--page-requisites` appends the page's assets
+   after it). Its visible text, with scripts and styles removed, must reach `MIN_VISIBLE_CHARS`
+   (default 500, overridable). Its title and opening text must not match a bot-challenge or
+   login-wall pattern ("just a moment", "access denied", "log in", "captcha" and similar). The
+   wget path and Chrome's DOM check both apply it. The floor was calibrated on the DOGE capture:
+   the six non-content pages had 22 visible characters or fewer, and the shortest real page had
+   2,199.
+2. **Chrome renders must carry text.** Chrome now waits for the page to load before printing
+   (`--virtual-time-budget`). The PDF is kept only if `pdftotext` finds text beyond the print
+   header, and the PNG only alongside a kept PDF. Without poppler the check is skipped with a
+   warning.
+3. **Redirects (found while testing).** `warc_status` read the first response in the WARC, which
+   for a redirected URL is the 301. So a good WARC was discarded and the item fell back to a
+   render-only capture (PMC, House Foreign Affairs). It now takes the first non-3xx response, and
+   reads only status lines that start a line.
+
+**Tested** on the URLs that failed or were render-only on 2026-11-18, plus controls.
+- **Cato:** wget's challenge page is refused. Chrome's render is kept only on a pass where Chrome
+  got through to the article; the PDF holds the release text. On a pass where it did not, the
+  render is refused too.
+- **TikTok:** refused on both paths (22 visible characters; "Log in | TikTok").
+- **PMC:** wget gets a 403 after the redirect and is refused. Chrome's PDF now holds the paper
+  (48,507 characters).
+- **House Foreign Affairs:** the WARC is kept after the redirect.
+- **Controls:** the NPR article and the X post are kept.
+
+**Known limits:**
+- A genuinely short page under 500 visible characters is refused. Lower `MIN_VISIBLE_CHARS` for it,
+  and record that in the item.
+- The interstitial patterns are a list, not a classifier.
+- A PDF fetched directly is judged by its status only, since scanned primaries have no text layer.

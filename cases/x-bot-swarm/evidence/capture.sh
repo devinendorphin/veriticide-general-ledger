@@ -105,9 +105,56 @@ preflight() {
   printf '%s' "${c:(-3)}"
 }
 
-# extract the FIRST HTTP response status from a wget WARC (the main document).
+# status of the main document in a wget WARC: the first response that is not a redirect.
+# wget follows 3xx itself and records each hop as its own response, so the FIRST status
+# of a redirected URL is the 301/302, not the page (fixed 2026-11-18; PMC and House pages
+# were losing their WARC to this). Only status lines at the start of a line are read.
 warc_status() {
-  grep -aoE 'HTTP/[0-9.]+ [0-9]{3}' "$1" 2>/dev/null | head -1 | grep -oE '[0-9]{3}$'
+  grep -aoE '^HTTP/[0-9.]+ [0-9]{3}' "$1" 2>/dev/null | grep -oE '[0-9]{3}$' | grep -m1 -v '^3'
+}
+
+# Is a saved HTML document (or a Chrome DOM dump) a real page? A 2xx status is not enough:
+# bot challenges and login walls are served with 200, and some sites return an empty app
+# shell. Judges the FIRST document in the file (wget -O with --page-requisites appends the
+# page's assets after it): its visible text (scripts/styles removed) must reach
+# MIN_VISIBLE_CHARS, and its title and opening text must not match a known interstitial.
+# Calibrated 2026-11-18 on the DOGE re-capture: the six non-content pages had <= 22 visible
+# characters; the shortest real page had 2,199. Prints the reason on failure.
+MIN_VISIBLE_CHARS="${MIN_VISIBLE_CHARS:-500}"
+page_has_content() {
+  python3 -I - "$1" "$MIN_VISIBLE_CHARS" <<'PY'
+import re, sys, html
+path, minc = sys.argv[1], int(sys.argv[2])
+raw = open(path, "rb").read(4_000_000).decode("utf-8", "replace")
+if raw.lstrip().startswith("%PDF"):
+    sys.exit(0)  # a PDF document fetched directly; judged by its HTTP status
+m = re.search(r"(?is)</html\s*>", raw)
+doc = raw[:m.end()] if m else raw
+t = re.search(r"(?is)<title[^>]*>(.*?)</title>", doc)
+title = html.unescape(t.group(1)).strip() if t else ""
+d = re.sub(r"(?is)<(script|style|noscript|template|svg)[^>]*>.*?</\1>", " ", doc)
+d = re.sub(r"(?s)<!--.*?-->", " ", d)
+vis = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", d))).strip()
+bad = re.compile(r"^(just a moment|attention required|access denied|are you a robot|"
+                 r"verify you are human|log ?in\b|sign ?in\b|please enable (javascript|cookies)|"
+                 r"security check|captcha|request blocked|403 forbidden|404 not found)", re.I)
+if bad.search(title) or bad.search(vis[:200]):
+    print(f'interstitial ("{(title or vis)[:60]}")'); sys.exit(1)
+if len(vis) < minc:
+    print(f"{len(vis)} visible characters (< {minc})"); sys.exit(1)
+PY
+}
+
+# Does a Chrome PDF render carry text beyond the print header (date, URL, host, page
+# count)? A page printed before its content loads comes out blank. Needs pdftotext
+# (poppler-utils); without it the check is skipped with a warning.
+pdf_has_text() {
+  have pdftotext || { echo "     (pdftotext not installed: PDF text not checked)"; return 0; }
+  local n
+  n="$(pdftotext "$1" - 2>/dev/null \
+       | grep -vE '^[[:space:]]*$|^https?://|^[0-9]+/[0-9]+$|^[0-9]{1,2}/[0-9]{1,2}/[0-9]{2,4},' \
+       | tr -s '[:space:]' ' ' | wc -c)"
+  [ "$n" -ge "$MIN_VISIBLE_CHARS" ]
 }
 
 # Is a headless-Chrome render of $1 a real page, or Chrome's "This site can't be
@@ -119,8 +166,10 @@ chrome_render_real() {
   local dom
   dom="$("$CHROME" --headless=new --disable-gpu --no-sandbox \
           --virtual-time-budget=8000 --dump-dom "$1" 2>/dev/null)"
-  [ "${#dom}" -ge 1000 ] || return 1
   grep -qE 'id="main-frame-error"|interstitial-wrapper|chrome-error://' <<<"$dom" && return 1
+  local tmp why; tmp="$(mktemp)"; printf '%s' "$dom" > "$tmp"
+  why="$(page_has_content "$tmp")"; local rc=$?; rm -f "$tmp"
+  [ "$rc" -eq 0 ] || { echo "     chrome DOM not page content: $why"; return 1; }
   return 0
 }
 
@@ -165,7 +214,11 @@ for item in "${ITEMS[@]}"; do
            -e robots=off --page-requisites --span-hosts --timeout=45 --tries=2 \
            -U "$UA" -O "$base.html" "$url" 2>>"$outdir/wget.log" || true
       ws="$(warc_status "$base.warc")"
-      if [[ "$ws" =~ ^2[0-9][0-9]$ ]] && [ -s "$base.html" ]; then
+      if [[ "$ws" =~ ^2[0-9][0-9]$ ]] && [ -s "$base.html" ] \
+         && ! why="$(page_has_content "$base.html")"; then
+        echo "     http $ws but not page content: $why — discarding warc+html"
+        rm -f "$base.warc" "$base.html"
+      elif [[ "$ws" =~ ^2[0-9][0-9]$ ]] && [ -s "$base.html" ]; then
         echo "     warc+html ok (http $ws)"; captured_any=1; warc_ok=1
       else
         echo "     wget main doc non-2xx/empty (http ${ws:-none}) — discarding warc+html"
@@ -179,11 +232,18 @@ for item in "${ITEMS[@]}"; do
       # when wget ran, they never by themselves mark a URL captured (the WARC does).
       if chrome_render_real "$url"; then
         "$CHROME" --headless=new --disable-gpu --no-sandbox --hide-scrollbars \
+          --virtual-time-budget=8000 --run-all-compositor-stages-before-draw \
           --print-to-pdf="$base.pdf" "$url" >/dev/null 2>&1 || true
-        [ -s "$base.pdf" ] && echo "     pdf ok" || rm -f "$base.pdf"
-        "$CHROME" --headless=new --disable-gpu --no-sandbox --window-size=1280,2000 \
-          --screenshot="$base.png" "$url" >/dev/null 2>&1 || true
-        [ -s "$base.png" ] && echo "     png ok" || rm -f "$base.png"
+        if [ -s "$base.pdf" ] && pdf_has_text "$base.pdf"; then
+          echo "     pdf ok"
+          "$CHROME" --headless=new --disable-gpu --no-sandbox --window-size=1280,2000 \
+            --virtual-time-budget=8000 --run-all-compositor-stages-before-draw \
+            --screenshot="$base.png" "$url" >/dev/null 2>&1 || true
+          [ -s "$base.png" ] && echo "     png ok" || rm -f "$base.png"
+        else
+          echo "     pdf render blank or missing — discarding pdf/png"
+          rm -f "$base.pdf" "$base.png"
+        fi
         # only let a browser render count as capture if we have no WARC for this URL
         if [ "$warc_ok" -eq 0 ] && { [ -s "$base.pdf" ] || [ -s "$base.png" ]; }; then
           captured_any=1
