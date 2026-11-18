@@ -390,9 +390,9 @@ Cluster 7 row 8 and Track B; verify):**
   Project. Both were advocates on OpenAI's restructuring and on California's AI safety law. The
   subpoenas sought communications with legislators, journalists and former employees. OpenAI says
   this was evidence preservation in the Musk litigation (Fortune, 10 Oct 2025).
-- On the safety side's political spending: in February 2026 Anthropic gave $20M to Public First
-  Action, a 501(c)(4) that does not disclose its donors and funds two allied super PACs backing
-  candidates who favour AI safeguards. The group's target rose to $75M. A second $20M from
+- A regulated lab's political spending in the other direction: in February 2026 Anthropic gave
+  $20M to Public First Action, a 501(c)(4) that does not disclose its donors and funds two allied super PACs backing
+  candidates the group describes as favouring AI safeguards. The group's target rose to $75M. A second $20M from
   Anthropic was reported later in 2026 (Axios, Bloomberg Law, 12 Feb 2026). It was set up as a
   counterweight to Leading the Future.
 - This list is incomplete on both sides. It is included so that money lines are disclosed on both
@@ -678,11 +678,7 @@ Two failures to avoid: dismissing the capture question because of who raises it,
 as settled because the money lines exist.
 
 Show the power on each side, and the party that is neither:
-- **The safety network** is well-funded, and so is its political arm. In February 2026 Anthropic
-  gave $20M to Public First Action, a 501(c)(4) that does not disclose its donors and funds two
-  allied super PACs backing pro-safeguard candidates. A second $20M was reported later in 2026
-  (Axios, Bloomberg Law, 12 Feb 2026). Its rival is the industry's Leading the Future network
-  (more than $125M; a16z's founders and OpenAI's president among its donors). Both sides spend.
+- **The safety network** is well-funded.
 - **The deregulation side** has, on the record so far, won SB 1047, which was vetoed. One
   low-grade report also describes a March 2026 White House framework calling for "removal of
   barriers to deployment" and "a uniform national framework"; verify it against the primary.
@@ -690,7 +686,14 @@ Show the power on each side, and the party that is neither:
   Google and Meta mobilized against the bill (ledger Entry 7.3); and the bill was weakened, in
   TechCrunch's words, "taking advice from Anthropic." xAI's owner posted support (a personal post; xAI's record is
   under R-4). Their own
-  employees, 113 of them across the labs, publicly supported it. Anthropic's record runs
+  employees, 113 of them across the labs, publicly supported it.
+  - **The labs spend on their own regulation, in both directions.** In February 2026 Anthropic
+    gave $20M to Public First Action, a 501(c)(4) that does not disclose its donors and funds two
+    allied super PACs backing candidates the group describes as favouring AI safeguards. A second
+    $20M was reported later in 2026 (Axios, Bloomberg Law, 12 Feb 2026). On the other side, OpenAI's
+    president gave $12.5M and a16z's founders $25M to Leading the Future (more than $125M). This is
+    regulated companies and their principals funding the candidates who will regulate them. Do
+    not credit Anthropic's spending to "the safety network." Anthropic's record runs
   both ways and should be shown both ways:
   - its early investor funds the safety network, and its letter shaped the weakening;
   - its documented refusals of Pentagon uses for autonomous weapons and mass surveillance are
