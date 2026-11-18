@@ -296,10 +296,14 @@ Show the power on each side, and the party that is neither:
         2026; figures not checked against FEC or California filings).
     - *Principals and investors:* OpenAI's president, Greg Brockman, personally gave $12.5M, and
       a16z's founders gave $25M, to Leading the Future (more than $125M). Other reported backers
-      include Joe Lonsdale, a Palantir co-founder (Palantir is Claude's classified-network
-      integrator). OpenAI reportedly says it made no super-PAC contributions itself (unverified).
-    - *Boundary:* this list covers AI-specific political vehicles only. General political
-      spending by lab principals is outside it. The largest is Elon Musk's America PAC (xAI's
+      include Joe Lonsdale, a Palantir co-founder, now at 8VC. Do not chain his donation to
+      Palantir's current business or to Claude; that is association, not a documented link.
+      OpenAI reportedly says it made no super-PAC contributions itself (unverified).
+    - *Boundary:* this list covers AI-specific political vehicles only. Two larger channels are
+      outside it. **Federal and state lobbying** by the labs, the main mechanism in FRONTLINE's
+      account, is not tallied here; the figures are owed from disclosure filings (LDA and
+      California), not estimated. **General political spending** by lab principals is also
+      outside it. The largest is Elon Musk's America PAC (xAI's
       owner; recorded in the ledger's Cluster 3). It is not counted here, and the line should say
       so if the topic is raised.
 
