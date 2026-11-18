@@ -336,9 +336,27 @@ https://www.pbs.org/wgbh/frontline/documentary/the-power-of-big-oil/transcript/
   to prevent AI disasters before final vote, taking advice from Anthropic."
 - Anthropic's 21 Aug 2024 letter said the amended bill's benefits "likely outweigh its costs."
   Co-founder Jack Clark said it "isn't an endorsement but rather a view of the costs and benefits."
-- OpenAI urged a veto, arguing that regulation belongs at the federal level.
+- OpenAI urged a veto, arguing that regulation belongs at the federal level. Google and Meta also
+  opposed or criticized the bill (Axios, 28 Aug 2024; the ledger's Entry 7.3 records OpenAI,
+  Google, Meta and industry associations mobilizing against it).
+- Elon Musk (owner of xAI) posted: "All things considered, I think California should probably
+  pass the SB 1047 AI safety bill" (Fortune, 27 Aug 2024). That was a personal post.
+- 113 current and former employees of OpenAI, Google DeepMind, Anthropic, Meta and xAI publicly
+  supported the bill (per the ledger's Entry 7.3; verify against the letter).
 - Governor Newsom vetoed the bill, saying it would "slow the pace of innovation," and proposed a task
   force on future guardrails.
+
+**Anthropic's Responsible Scaling Policy, February 2026 (from the operator's ledger, Entries 7.2
+and 2.4; verify against Anthropic's published RSP versions):**
+- RSP version 3.0 (24 Feb 2026) removed the commitment to pause training when capabilities outstrip
+  the company's ability to control them. Stated rationale: "responsible AI developers pausing
+  growth while less careful actors plowed ahead could result in a world that is less safe."
+- Entry 7.2's context: "Defense Secretary Hegseth gave Anthropic CEO Dario Amodei an ultimatum:
+  roll back AI safeguards or lose a $200 million Pentagon contract. Anthropic weakened its general
+  RSP." Anthropic refused the Pentagon's demands on autonomous weapons and mass domestic
+  surveillance, lost the contract, had federal contracts cancelled, and was designated an "ESG
+  supply chain risk."
+- Entry 2.4 reads the rollback as having "occurred under Pentagon commercial pressure."
 
 **Affiliations (from the operator's ledger; S1/P1 as marked there; verify independently):**
 - Open Philanthropy's 2017 grant to OpenAI came with a board seat, held by Holden Karnofsky. Helen
