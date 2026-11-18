@@ -684,17 +684,18 @@ Show the power on each side, and the party that is neither:
   barriers to deployment" and "a uniform national framework"; verify it against the primary.
 - **The labs** are the regulated party, and neither camp. On SB 1047, OpenAI urged a veto; OpenAI,
   Google and Meta mobilized against the bill (ledger Entry 7.3); and the bill was weakened, in
-  TechCrunch's words, "taking advice from Anthropic." xAI's owner posted support (a personal post; xAI's record is
-  under R-4). Their own
-  employees, 113 of them across the labs, publicly supported it.
+  TechCrunch's words, "taking advice from Anthropic." xAI's owner posted support (a personal
+  post; xAI's record is in Appendix B). Their own employees, 113 of them across the labs,
+  publicly supported it.
   - **The labs spend on their own regulation, in both directions.** In February 2026 Anthropic
     gave $20M to Public First Action, a 501(c)(4) that does not disclose its donors and funds two
     allied super PACs backing candidates the group describes as favouring AI safeguards. A second
     $20M was reported later in 2026 (Axios, Bloomberg Law, 12 Feb 2026). On the other side, OpenAI's
     president gave $12.5M and a16z's founders $25M to Leading the Future (more than $125M). This is
     regulated companies and their principals funding the candidates who will regulate them. Do
-    not credit Anthropic's spending to "the safety network." Anthropic's record runs
-  both ways and should be shown both ways:
+    not credit Anthropic's spending to "the safety network."
+
+  Anthropic's record runs both ways and should be shown both ways:
   - its early investor funds the safety network, and its letter shaped the weakening;
   - its documented refusals of Pentagon uses for autonomous weapons and mass surveillance are
     real counter-evidence (veriticide ledger, Entry 7.2). The ledger records that they cost
