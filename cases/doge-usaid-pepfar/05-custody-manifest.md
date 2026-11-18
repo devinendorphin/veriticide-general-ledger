@@ -1,5 +1,12 @@
 # 05 — CUSTODY MANIFEST
 
+> **✅ Custody update (2026-11-18, operator-authorized).** Re-captured with the hardened `capture.sh`; the originals are held
+> off-platform in the operator's Google Drive (`the veriticide suite/case-evidence/doge-usaid-pepfar/capture-2026-11-18/`,
+> md5-verified on upload; receipt `evidence/custody-receipt-drive-2026-11-18.md`). Five items whose every URL is confirmed
+> real content are now **`VERIFIED`**: `gawande-democracynow`, `meeks-demands`, `propublica-internal-memos`,
+> `rubio-hfac-testimony`, `schatz-record`. State: **5 VERIFIED · 9 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED**. The banner
+> below and the narrative of this page are historical; `evidence/custody-index.md` governs.
+
 > **✅ Custody update (2026-07-02, re-capture).** The prior overclaimed `VERIFIED` marks were reset
 > to `HASHED-PENDING-BACKUP` in the audit; the packet was then **re-captured in open egress**, which
 > **replaced the old blocked-egress error pages with real multi-MB content** (the doge.gov 0-byte

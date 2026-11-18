@@ -904,3 +904,26 @@ logged decision for the operator.
 2026-11-18, hashed in-repo and held off-platform in the operator's Drive. **What it does not establish:**
 that any page is unchanged since the date the ledger first cited it (these are fresh captures, not the
 June ones), or anything about the 24 URLs classed NOT-CONTENT or NOT-CAPTURED.
+
+## 2026-11-18 — DOGE: five items moved to VERIFIED (operator-authorized)
+
+Operator ruling: "Merge to main and move to verified." Applied to the five items that meet every condition
+the 2026-07-02 definition sets for VERIFIED:
+1. their original-form bytes are hashed in-repo;
+2. an off-platform second custodian holds them: the operator's Drive, md5-verified on upload, with sha256
+   tied to the committed `sha256sums.txt`;
+3. every source URL is confirmed real content (`content-check-2026-11-18.json`).
+
+The five items are `gawande-democracynow`, `meeks-demands`, `propublica-internal-memos` (previously
+LOCATOR-VERIFIED), `rubio-hfac-testimony` and `schatz-record`. Each `capture.json` records its custodians,
+`verified_at` and `verified_basis`, and keeps its prior `capture_method` as `capture_method_initial`. The
+custody index is regenerated: **5 VERIFIED · 9 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED**. All transcript
+hashes still verify. Updated to match: the README custody column and Band 1 note, the ledger's TF-001
+Status and Gap, and the banner on the case's custody manifest.
+
+**What VERIFIED establishes here:** the cited source pages, as served on 2026-11-18, are preserved in
+original form under two custodians, and their content is the real source. **It does not establish** that
+the pages are unchanged since the ledger first cited them, nor that every figure in an item's
+`transcript.md` matches the captured page. Some transcripts carry a "confirm against the source" note, and
+that check has not been run. None of the five has an Internet Archive snapshot. Their independence rests
+on the Drive custodian alone.

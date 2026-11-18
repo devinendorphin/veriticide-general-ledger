@@ -29,7 +29,7 @@ material before meeting the widest framing.
 > recorded per item in each case's `evidence/custody-index.{md,json}`, which governs. Custody
 > was reconciled on 2026-07-02 after 54 items were found marked `VERIFIED` without the required
 > second custodian (`docs/custody-status-2026-07-02.md`). Current tribunal-grade `VERIFIED`
-> holdings sit mostly in Band 2 and in Boxtown; two of the three Band 1 cases hold none. The
+> holdings sit mostly in Band 2 and in Boxtown; one of the three Band 1 cases (redistricting) holds none. The
 > per-case counts are in the **Custody** column below. An earlier Band 1 label, "VERIFIED
 > custody", overstated custody for two of the three cases
 > (`docs/adversarial-assessment-2026-10-04.md` A2).
@@ -38,7 +38,7 @@ material before meeting the widest framing.
 
 | Case | Path | Drawn from | Custody |
 |---|---|---|---|
-| DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 — Tier 3, the withdrawal + laundering instrument; named pediatric deaths + peer-reviewed mortality modeling | 0 VERIFIED · 13 HASHED-PENDING-BACKUP · 2 LOCATOR-VERIFIED |
+| DOGE / USAID–PEPFAR | `cases/doge-usaid-pepfar/` | Ledger Cluster 4 — Tier 3, the withdrawal + laundering instrument; named pediatric deaths + peer-reviewed mortality modeling | 5 VERIFIED · 9 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED |
 | Redistricting / performed ignorance | `cases/election-redistricting/` | Pattern Registry Entry 17 — Tier 3+4; nine-item store on a P1 public-record spine (SCOTUS opinions + Hofeller corpus), with two CONTROL lines | 0 VERIFIED · 9 HASHED-PENDING-BACKUP |
 | xAI / Boxtown turbines | `cases/xai-boxtown-turbines/` | Cluster 9 / pattern brief S-2 — Tier 1–3; unpermitted gas turbines beside an EJ community; a live Clean Air Act permit record; **deliberately not inflated to Tier 4** | 9 VERIFIED · 2 HASHED-PENDING-BACKUP |
 
