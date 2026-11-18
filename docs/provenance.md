@@ -965,3 +965,16 @@ scripts are covered.
   and record that in the item.
 - The interstitial patterns are a list, not a classifier.
 - A PDF fetched directly is judged by its status only, since scanned primaries have no text layer.
+
+**Follow-up the same day: a challenge passed the length floor.** Testing the other scripts on Cato, two runs
+kept a Chrome PDF that was Imperva's "Additional security check is required" page. Chrome's DOM check had
+passed, but the separate load for printing hit the challenge, and its 817 characters cleared the
+500-character floor. Fixes:
+- One checker (`content_check`) now serves the wget HTML, Chrome's DOM and the PDF text.
+- Besides the floor and the opening patterns, it rejects a page whose first 1,500 characters contain a
+  challenge phrase (Imperva, Incapsula, Cloudflare, "verify you are human" and similar).
+
+**Offline regression test, 75 of 75 correct.** The checker was run against every artifact from today's
+DOGE capture and the test runs:
+- passed: all 65 real pages and the real Cato and PMC PDFs;
+- failed: the three non-content HTML pages, the three blank PMC renders, and both leaked Imperva PDFs.
