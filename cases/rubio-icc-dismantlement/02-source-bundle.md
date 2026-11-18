@@ -37,7 +37,7 @@ party to the dispute it reports.
 | `ap-sanctions-operational-effects` | AP via PBS NewsHour | 2025-05 | S1; Sudan claim from **interested** counsel; several anonymous sources |
 | `un-and-states-reaction` | UN News; Al Jazeera; The National | 2026-10-09 | P1-reported (UN) + S1 |
 | `khan-removal-2026` | JURIST; Al Jazeera | 2026-03 / 2026-07 | S1; counter-evidence |
-| `civil-society-record` | CICC (×2); NYC Bar | 2026-07 → 2026-10 | S1-advocacy, **interested** |
+| `civil-society-record` | CICC (×2); NYC Bar | 2026-08 → 2026-10 | S1-advocacy, **interested** |
 
 ## Not relied on
 

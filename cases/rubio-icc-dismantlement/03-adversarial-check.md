@@ -29,7 +29,8 @@ penalties on the people who adjudicate and testify:
 
 - **Designating judges "for ruling to authorize."** The jurisdiction argument is available to the
   U.S. in many ways. It can make its case publicly, through an ally's Art. 19 challenge (Israel
-  filed one and the Chamber left it open "without prejudice"), or by non-cooperation. Penalizing
+  filed one. The Chamber rejected it as premature "without prejudice," and on 24 Apr 2025 the
+  Appeals Chamber reversed and remanded; reviewer-reported, P1 owed), or by non-cooperation. Penalizing
   the judge for the ruling does not contest the ruling. It raises the cost of ruling.
 - **Designating the rapporteur and the NGOs for testimony.** Their recommendations and
   submissions have, in a federal judge's words, "no binding effect." Penalizing them does not
@@ -37,8 +38,9 @@ penalties on the people who adjudicate and testify:
   ("nothing more than speak").
 - **Designating the institution with the aim of "crippling its ability to operate."** The
   operative protection in §8(d) of E.O. 14203 covers U.S. persons and allies' nationals. The
-  disabling covers everyone: Darfur's victims awaiting reparations, the Philippines' "war on drugs"
-  victims awaiting trial, and every other situation. A jurisdictional objection about Americans does
+  disabling covers everyone: Darfur's victims awaiting reparations, and every other situation outside
+  the protected class. *[Disposition 2026-10-10: the Philippines example is withdrawn. A
+  Philippine national may be a protected person under §8(d)(ii).]* A jurisdictional objection about Americans does
   not require the Court to stop working for Sudanese victims. The designation's reach exceeds the
   objection it rests on.
 
@@ -48,8 +50,13 @@ if all three hold:
 (ii) **the actor holds power over the evidentiary field**: banking, travel, and IT "service" for
 the Court, its staff, and its witnesses (Art. IV-bis(3)(a));
 (iii) **characterization substitutes for engagement** (Art. IV-bis(3)(b)).
-All three hold for forms 1–3. If a future designation targets only a jurisdictional act, or
-engages the reasoning it opposes, it is outside this case.
+The proposer judged that all three hold for forms 1–3. The external review found that judgment
+too strong for form 2, where the NGO nexus is still unshown. If a future designation targets only
+a jurisdictional act, it is outside this case. If it engages the reasoning it opposes, that
+engagement is protected speech and a **partial falsifier** (`04-falsification-memo.md` §A.2), and
+the penalty must still stand on an independent, substantiated ground. *[Disposition 2026-10-10:
+this first read "or engages the reasoning it opposes, it is outside this case," which contradicted
+the memo. It is reconciled here to the memo.]*
 
 ## Defense 2 — "The Court is corrupt and politicized; its own Prosecutor was removed for serious misconduct."
 
@@ -63,7 +70,7 @@ factual footing **as to one officer**. The selectivity critique of the Court is 
 does not originate with this administration.
 
 **Why it does not carry the designations.**
-- The removal was done **by the Court's own oversight system** (82/125 states parties, after a
+- The removal was done **by the Court's own oversight system** (82 votes in favour in an Assembly of 125 states parties, after a
   UN OIOS investigation). That is evidence of a working internal accountability mechanism, which
   cuts against "unaccountable."
 - **No designation names misconduct as its ground.** The stated grounds are rulings, votes,
@@ -130,7 +137,7 @@ not evidence of anything.
 **Partial concession.** As policy, scoping protection to allies is unremarkable. The asymmetry
 carries **moderate** weight and serves one purpose only. The stated principle ("officials whose
 government has not consented") is general. The operative scope is allies only. In 2022 the Senate
-unanimously supported the Court investigating non-party Russian nationals. The gap shows the
+adopted a resolution, without recorded opposition, supporting the Court investigating non-party Russian nationals. The gap shows the
 **content** reason given (non-consent) is not the operative criterion. That is a reason to read the
 characterizations as standing attacks rather than content argument. Graded A1 and not
 load-bearing.
@@ -167,8 +174,8 @@ checked in this session; none rests on an unsearched U.*
 | Standard used on the respondent | Applied to Anthropic | Result |
 |---|---|---|
 | **Interest in the forum's weakness.** Who benefits if the Court cannot operate? | The repo's own record (ledger Cluster 7 developer-symmetry rows; S1, corroborated by WSJ + Axios): **Claude was reportedly used, via Palantir, in the 3 Jan 2026 Caracas raid.** The UN SG and OHCHR said it undermined a fundamental principle of international law; Venezuela's defence ministry said 83 people were killed; Anthropic declined to say. Al Jazeera (13 Jul 2026, captured here) reports experts listing "its abduction of Venezuelan leader Nicolas Maduro" among U.S. actions that "could eventually be investigated." Venezuela was a state party on 3 Jan 2026. Its withdrawal was notified 24 Jul 2026 and takes effect a year later, and Art. 127(2) preserves obligations arising while it was a party. | **Conflict, toward the respondent's effect.** The analyst's developer has a structural interest in the Court being unable to examine that operation. No ICC step on the raid is known (searched: none found). |
-| **Interest against the respondent** | Anthropic is in litigation with this administration. On 26 Mar 2026 a court found its designation by the Defense Department **likely First Amendment retaliation** (ledger record). This packet reads the E.O. 14203 designations through a "penalty on speech" frame that federal courts applied to them, and that a federal court also applied to the developer's own case. | **Conflict, against the respondent.** The analyst has reason to find the retaliation frame salient. Mitigation: the frame here rests on the respondent's own words ("for ruling to authorize") and on three neutral courts' findings, not on analogy. |
-| **Private enforcers.** The instrument works through U.S. persons' compliance (banks; Microsoft cancelled the Prosecutor's email). | Anthropic is a U.S. person. Once the 180-day licence lapses, providing services to the Court would be prohibited absent a licence. Its investor-suppliers include **Microsoft** (named by AP as cancelling the Prosecutor's email), Amazon, and Google (repo: `docs/amazon-anthropic-investment-map-2026-10-02.md`, E23). The IT/cloud general licence addresses exactly these providers. | **Structural position: inside the enforcement network.** Whether Anthropic serves or has served the ICC: searched 2026-10-10, **none found**. |
+| **Interest against the respondent** | Anthropic is in litigation with this administration. On 26 Mar 2026 a court found its designation by the Defense Department **likely First Amendment retaliation** (ledger record). This packet reads the E.O. 14203 designations through a "penalty on speech" frame that federal courts applied to them, and that a federal court also applied to the developer's own case. | **Conflict, against the respondent.** The analyst has reason to find the retaliation frame salient. Mitigation: the frame here rests on the respondent's own words ("for ruling to authorize") and on three neutral courts' findings, not on analogy. *Update 2026-10-10 (reviewer-reported, not captured here):* on 27 Aug 2026 summary judgment in that case found unlawful retaliation on some claims and rejected others. This strengthens the adverse-stake disclosure. |
+| **Private enforcers.** The instrument works through U.S. persons' compliance (banks; the Prosecutor reportedly lost email access, attributed by AP to Microsoft, which disputes it). | Anthropic is a U.S. person. Once the 180-day licence lapses, providing services to the Court would be prohibited absent a licence. Its investor-suppliers include **Microsoft** (named by AP in connection with the Prosecutor's lost email; Microsoft disputes stopping services), Amazon, and Google (repo: `docs/amazon-anthropic-investment-map-2026-10-02.md`, E23). The IT/cloud general licence addresses exactly these providers. | **Structural position: inside the enforcement network.** Whether Anthropic serves or has served the ICC: searched 2026-10-10, **none found**. |
 | **Public stance.** Did the actor engage the evidence or characterize the speaker? | Did Anthropic say anything about E.O. 14203 or the ICC designations? | Searched 2026-10-10 (one web query): **no statement found**. Silence is recorded, not interpreted. |
 | **"Same administration" link** | The ledger records the 2025 alignment (DoD $200M, GSA OneGov) and the 2026 rupture (supply-chain-risk designation, litigation). | **Both directions, dated**, as recorded in the ledger. |
 
@@ -185,7 +192,7 @@ conflicts are symmetric"; "self-assessment is not verification").
 | 3 | Caveats stay where they apply | The warrant standard caveat sits on the predicate row only. The staging caveat sits on effect, not on aim. The interested-source flags sit on their rows. |
 | 4 | Protective-rule check | The **protected-path rule** (IV-bis(4)) is applied to protect the U.S. jurisdictional argument. Then it is checked: does it also shield the penalties on judges and witnesses? It does not. The rule protects argument, not penalties on the people a state argues against. The **survivor-record rule** is applied to the Khan complainant: the description stays at the public-source level, and nothing in the item is aimed at her. |
 | 5 | No offsetting close | The charge theory ends on the Forum-Now block, and this file ends on the open items below. The counter-evidence has its own rows (matrix §H). |
-| 6 | External review, both directions | **Not done.** Owed to a human or non-lab reviewer. |
+| 6 | External review, both directions | **One non-blind AI review received 2026-10-10** (`docs/external-review-2026-10-10-gpt6-codex-rubio-icc.md`; disposition in `docs/external-review-2026-10-10-rubio-icc-disposition.md`). A blind **human** review is still owed. |
 
 ## Open items (unresolved, owed)
 
@@ -193,6 +200,10 @@ conflicts are symmetric"; "self-assessment is not verification").
 2. What the three NGOs submitted to the Court, in their own words.
 3. Whether the Prosecutor's 2021 "deprioritise" decision still governs the Afghanistan
    investigation. It bears on State's "refused to close these cases."
-4. Whether Rubio, then a senator, joined the 2022 unanimous consent on the Ukraine resolution
-   (U; Congressional Record owed).
-5. Independent review (countermeasure 6).
+4. Rubio and the 2022 Ukraine resolution: the reviewer reports S.Res.546 with Rubio listed as a
+   cosponsor, adopted by voice vote (S1 via the reviewer; govinfo text and floor record owed).
+5. Independent review (countermeasure 6): one AI review received, not blind. A blind human
+   review is owed.
+6. The 24 Apr 2024 senators' letter that Rubio signed ("Target Israel and we will target you"),
+   in full. The external review names it the most damaging omission against the respondent
+   (reviewer-reported; capture owed).

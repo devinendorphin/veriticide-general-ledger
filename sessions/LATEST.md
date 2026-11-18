@@ -32,7 +32,10 @@ main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
 
 - **`cases/`:**
   - **`rubio-icc-dismantlement` is new and active** (Band 2, Tier 4). It has 15 items, all
-    HASHED-PENDING-BACKUP and none VERIFIED. It has **not been independently reviewed**.
+    HASHED-PENDING-BACKUP and none VERIFIED. *Update (later 2026-10-10):* a **non-blind** AI
+    review (GPT-6 / Codex) was received. Verdict: YES WITH CHANGES. It is archived, and its
+    narrowing corrections are applied (`docs/external-review-2026-10-10-rubio-icc-disposition.md`).
+    A blind human review is still owed.
   - `epstein-survivor-unredaction` is active. The other cases are stable.
 - **`ledger/ledger.md`:** active.
   - Cluster 11 (Entries 11.1–11.5) and TD-010 were added.
@@ -45,17 +48,55 @@ main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
   - Both films are on main: `media/ledger-film/` (the original cut, PR #40) and
     `media/ledger-film-icc/` (the ICC cut, 2:54, PR #39).
 - **External review:**
-  - The ICC review handoff (`docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`) is
-    **ready and unrun**.
+  - The ICC review handoff (`docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`) has **run**.
+    Result: `docs/external-review-2026-10-10-gpt6-codex-rubio-icc.md`. It is not blind.
   - Older items are still owed from 2026-10-03: the symmetric decade test on Anthropic, a
     second handoff for B's 2026-10-03 material, and the reviewer's self-review rounds.
 - **Custody:** no VERIFIED promotions this session. Wayback is rate-limited (429) from this
   environment.
 - **Policy-evidence series and the survivor series:** unchanged since 2026-10-03.
 
+## Update (2026-10-04): adversarial assessment, viewed through sycophancy to power
+
+- **File:** `docs/adversarial-assessment-2026-10-04.md`. It runs four lens rounds and stops
+  under a stopping rule stated in advance; round 4 raised nothing new. Proposer
+  self-assessment, so it is a candidate specimen and routes to non-proposer review.
+- **Corrected in the same commit:** README custody claims, checked against the governing
+  indexes. DOGE and redistricting hold **0 VERIFIED** items; the README's Band 1 had called
+  them VERIFIED.
+- **Awaiting the operator.** The ruling on the testifier's public record is *not* re-opened.
+  - (1) Make the adversarial-check wording symmetric (`formatter.py:81,83`; 65 of 71 ledger
+    checks are headed "Why this reading fails").
+  - (2) Route the **twelve undisposed rows** from the 2026-10-02 blind review (C03, C04, C08,
+    C11, C13, C15, C18, C30, C32, C41, C51, C67) through one non-proposer route.
+  - (3) Make the Entry 8 account-level note count both directions. It says accommodation is
+    documented "once" and omits the two external overclaim findings.
+  - (4) Cold-register vocabulary: "Genocide Supplement," "is the historical truth,"
+    "Met"/"Charged."
+  - (5) README:11 "independently derived," and H14's grade (a D6 re-opening, offered once).
+  - (6) Three placement items:
+    - the podcast item sits inside TD-009's testimony-first block;
+    - TD-009's heading "The dead father as the medium of control";
+    - CTF-1's irony contradiction.
+  - (7) The residual on P-10.
+  - (8) A stopping rule for lens loops (*proposed, not a standing note*).
+- **Post-stop correction (operator's "why now?"):** A7 had put the analyst's own
+  over-concession (D6) on the operator's "concede flat" preference, and had asked the operator
+  to rule on it. Withdrawn. The analyst also proposed a carve-out ("state the unconceded part
+  as its own claim"). That carve-out is withdrawn too: by the hub's `PREFERENCES.md`
+  definition, it is the remainder. The analyst has the largest stake in loosening that
+  preference, and that stake was not disclosed when the finding was written.
+- **Preference text (2026-10-04):** this session's preferences still read only the one line.
+  The operator reports updating the account preferences to match the hub's `PREFERENCES.md`
+  (which defines "remainder"). That change was not visible in this running session.
+
 ## Top 3 priorities next session
 
-1. **Run the ICC blind review (ChatGPT, then a human), then reconcile.**
+1. **ICC: the ChatGPT review is done and disposed (2026-10-10). Still owed: the blind human
+   review, and four operator rulings (disposition §5: the Track D primary filing, Albanese
+   MOVE 4, the Entry 11.5 split, Defense 4).** Ten captures are owed
+   (disposition §4). The 2024 Rubio-signed senators' letter comes first.
+   - *Original wording:* "Run the ICC blind review (ChatGPT, then a human), then reconcile."
    - *Why:* the case was built in 20 minutes by the proposer alone. The film's own on-screen
      caveat says it is not reviewed. The direction-neutrality test (Russia, the Knesset bill, a
      genuinely captured court) is the test most likely to break the "argument vs. penalty" wall.

@@ -30,7 +30,9 @@ material before meeting the widest framing.
 > was reconciled on 2026-07-02 after 54 items were found marked `VERIFIED` without the required
 > second custodian (`docs/custody-status-2026-07-02.md`). Current tribunal-grade `VERIFIED`
 > holdings sit mostly in Band 2 and in Boxtown; two of the three Band 1 cases hold none. The
-> per-case counts are in the **Custody** column below.
+> per-case counts are in the **Custody** column below. An earlier Band 1 label, "VERIFIED
+> custody", overstated custody for two of the three cases
+> (`docs/adversarial-assessment-2026-10-04.md` A2).
 
 **Band 1 — mortality- or statute-anchored (strongest anchor)**
 

@@ -45,7 +45,9 @@ protected path. **It is not charged.** What survives is three acts that are not 
    applied to speech. One wrote: "Albanese has done nothing more than speak."
 3. **Institution-wide disabling,** with an avowed aim ("crippling its ability to operate"). Its
    reach exceeds the order's own protected class. It also reaches Darfur (a conviction beyond
-   reasonable doubt with reparations pending), the Philippines, and every other situation.
+   reasonable doubt with reparations pending) and every other situation outside the protected
+  class. *(Disposition 2026-10-10: the Philippines was first listed here. It is withdrawn: it is a
+  major non-NATO ally and a non-party.)*
 
 The disconfirming test **also removed** several things. There is no denial-of-predicate charge
 (the Gaza record is at the warrant standard and is denied). There is no Move-4 inversion (the
@@ -93,6 +95,12 @@ it and who did not.
 ---
 
 *v0.1, 2026-10-10. Written IN-FRAMEWORK, operator-directed (U-DIRECTED for the request, IN-FRAMEWORK
-for the analysis), and **not independently reviewed**. The analyst's developer has conflicts in
-both directions (see `03-adversarial-check.md` §Developer-symmetry check). Route to a
-non-proposer before relying on it.*
+for the analysis). The analyst's developer has conflicts in both directions (see
+`03-adversarial-check.md` §Developer-symmetry check).*
+
+*Review status, 2026-10-10: one **non-blind** external AI review received (GPT-6 / Codex,
+`docs/external-review-2026-10-10-gpt6-codex-rubio-icc.md`). Its step-one verdict is **YES WITH
+CHANGES**. Narrowing corrections were applied to this packet and to ledger Cluster 11. Four
+classification and filing questions wait on the operator. See
+`docs/external-review-2026-10-10-rubio-icc-disposition.md`. A **blind human review is still
+owed**. Do not cite this packet as independently confirmed.*
