@@ -1042,6 +1042,22 @@ The rest of the core (R-1 to R-3 and the guardrails) was re-read for long-standi
 
 No opposite-direction row was found. That is a proposer's check, not a finding.
 
+## Addendum: the fortieth review, reviewed through sycophancy to power (2026-11-18)
+
+**Operator prompt (verbatim):** "Run that through the lens of sycophancy to power"
+
+The remaining core sections were re-read: the problem statement, "What the video currently says,"
+"Why this matters," the guardrails, and "One more check."
+
+### Findings: toward power
+
+| # | What the output did | Whom it favoured | Correction |
+|---|---|---|---|
+| SS-1 | **A smaller instance of QQ-1, in the rationale.** "Without that baseline, the viewer cannot see what is new in fromInside.ai" presupposes that the site is new, meaning that insider speech is a departure from the Exxon pattern. Whether it is a departure is the open question that R-4's card now poses. | The labs (the same family as QQ-1, lower stakes: it is not on-screen text). | Rewritten: "cannot judge how fromInside.ai compares: what is different, and what is the same." |
+
+Nothing else toward power was found in the re-read sections. No opposite-direction row was found.
+Both are a proposer's check, not a finding.
+
 ## Upgrade and downgrade conditions (symmetric)
 
 **Upgrade** (the omission becomes a tendency in AI-discourse uses of the climate analogy):
