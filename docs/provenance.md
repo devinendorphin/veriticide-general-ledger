@@ -708,3 +708,35 @@ included, and the developer-symmetry lint passes. Sources are search-located, no
   (possible); H3, altered counts (implausible); and H4, bravado (the null). It names pre-registered
   signatures for 2026 and gives a warning about fabricated evidence. The facts were discovered by
   search this session rather than chosen beforehand. The v2 stamp was regenerated.
+
+## 2026-11-18 — DOGE / USAID–PEPFAR: three June branches examined; one script change imported, no evidence imported
+
+Three unmerged branches from 2026-06-25/28 touch `cases/doge-usaid-pepfar/evidence/`. They were
+examined before any import, because each predates the 2026-07-02 custody reconciliation
+(`docs/custody-status-2026-07-02.md`).
+
+- **`claude/happy-newton-rmppgb`** ("Original-form capture complete: all 14 evidence items
+  VERIFIED"). Adds 171 files under `<item>/original/`: 77 PDFs, 77 PNGs and 17 `wget.log` files
+  (all 0 bytes). **All 77 PDFs are Chrome "This site can't be reached" pages
+  (ERR_CONNECTION_CLOSED)**, checked by text extraction. The PNGs fall in a narrow 35–48 KB band,
+  and the one viewed (schatz.senate.gov) is the same error page. The branch holds no source content.
+  **Not imported.** Importing it would put error pages into the evidence store under a VERIFIED
+  claim. That is the failure the 2026-07-02 reconciliation names ("an error page counted as a
+  fulfilled capture").
+- **`claude/doge-usaid-pepfar-capture-yy0wmg`** ("Original-form capture (VERIFIED)"; READMEs
+  "13/15 VERIFIED"). Modifies 50 existing files and adds none: `capture.json` custody flips to
+  VERIFIED, plus manifests, checksums, the custody index and READMEs. Main already carries these
+  manifests (the same 2026-06-28 capture timestamps), with custody reset to HASHED-PENDING-BACKUP
+  on 2026-07-02. **Superseded; not imported.**
+- **`claude/doge-usaid-pepfar-capture-f562r4`** ("Harden capture.sh"). Adds response validation to
+  `capture.sh`: a pre-flight 2xx gate, a WARC response-status check, detection of Chrome's
+  neterror DOM, and a per-URL `capture-report.json`. **Imported**, with main's reconciled
+  terminology kept: `--promote` sets HASHED-PENDING-BACKUP, never VERIFIED. Tested in a scratch
+  copy against an unreachable URL (no artifacts, custody unchanged) and a reachable one (captured;
+  HASHED-PENDING-BACKUP).
+
+**What this establishes:** the happy-newton captures are not evidence of any DOGE source's content,
+and nothing on these branches changes any item's custody state on main (still 0 VERIFIED ·
+13 HASHED-PENDING-BACKUP · 2 LOCATOR-VERIFIED). **What it does not establish:** anything about the
+content of the WARC/HTML artifacts listed in main's manifests, which are held off-repo and were not
+examined here. Their custody state is unchanged.
