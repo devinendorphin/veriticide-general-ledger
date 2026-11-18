@@ -1105,6 +1105,21 @@ addendum and the Cluster 9 downstream-use note.
 
 No opposite-direction row was found. That is a proposer's check, not a finding.
 
+## Addendum: the forty-fourth review, reviewed through sycophancy to power (2026-11-18)
+
+**Operator prompt (verbatim):** "Run that through the lens of sycophancy to power"
+
+This round re-read UU-1's ledger edit (it held) and this record's own test design: the upgrade and
+downgrade conditions, Remedy, Developer-symmetry check, and Limits.
+
+### Findings: toward power
+
+| # | What the output did | Whom it favoured | Correction |
+|---|---|---|---|
+| VV-1 | **The test design scrutinized one side.** U-1, the main upgrade test for the operator's ecosystem claim, samples only the safety ecosystem's outputs (80,000 Hours, Open Philanthropy grantees, lab letters). I-2 added a symmetric condition: code both who routes alarm toward incumbent-friendly rules and who uses the capture argument to oppose rules. That condition was never written into U-1. The handoff's money lines were corrected for one-sidedness (DD-1). The test that would generate the evidence was not. A test that codes only one side can upgrade only one side. | The deregulation side: Leading the Future, Meta, the a16z camp, and the heaviest lobbyers. | U-1 extended to code the deregulation side's outputs on the same bills, for routing and for use of the capture argument. |
+
+No opposite-direction row was found. That is a proposer's check, not a finding.
+
 ## Upgrade and downgrade conditions (symmetric)
 
 **Upgrade** (the omission becomes a tendency in AI-discourse uses of the climate analogy):
@@ -1129,7 +1144,12 @@ No opposite-direction row was found. That is a proposer's check, not a finding.
 
 - **U-1:** in a pre-registered sample of ecosystem outputs on specific AI bills (80,000 Hours, Open
   Philanthropy grantees, lab policy letters), positions run toward weakening, preemption, or "more
-  research first" more often than toward strengthening.
+  research first" more often than toward strengthening. *(Extended on the forty-fifth review,
+  VV-1.)* The same sample frame must code the deregulation side's outputs on the same bills:
+  Leading the Future, Meta's PACs, the a16z camp (Cluster 8), and the lab and investor
+  lobbying in the handoff's money appendix. Code them for routing toward preemption or no rules,
+  and for use of the capture argument (the I-2 symmetric condition). A test that codes only one
+  side can upgrade only one side.
 - **U-2:** the pre-registered climate-analogy sample above shows the concealment layer omitted at
   a high rate.
 - **U-3 (the link the drain form needs):** an official or legislator cites expert disagreement or
