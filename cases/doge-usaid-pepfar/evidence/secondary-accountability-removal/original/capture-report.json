@@ -1,0 +1,53 @@
+{
+  "item": "./secondary-accountability-removal",
+  "urls_total": 9,
+  "urls_captured": 7,
+  "urls_failed": 2,
+  "results": [
+    {
+      "url": "https://abcnews.com/Politics/judge-denies-effort-reinstate-us-institute-peace-board/story?id=119965865",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://fortune.com/article/consumer-financial-protection-bureau-doge-elon-musk-layoffs-rfi-court-filings-firings/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.asisonline.org/security-management-magazine/articles/2025/07/USIP/timeline/",
+      "http_status": "403",
+      "captured": false
+    },
+    {
+      "url": "https://www.citizensforethics.org/legal-action/lawsuits/crew-sues-multiple-departments-for-records-on-doge/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/national-security/usaid-security-leaders-removed-refusing-elon-musks-doge-employees-acce-rcna190357",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/trump-administration/us-institute-peace-sues-block-doge-takeover-force-rcna197036",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.newsweek.com/doge-usip-evicts-headquarters-police-george-moose-trump-2046265",
+      "http_status": "406",
+      "captured": false
+    },
+    {
+      "url": "https://www.npr.org/2025/03/28/nx-s1-5315118/cfpb-shuttering-trump-doge",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/usaid-security-chiefs-put-on-leave-after-trying-to-stop-musks-team-from-accessing-classified-info-officials-say",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

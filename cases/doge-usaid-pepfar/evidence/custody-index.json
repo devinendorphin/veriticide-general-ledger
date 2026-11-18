@@ -1,10 +1,11 @@
 {
-  "generated": "2026-07-02",
+  "generated": "2026-11-18",
   "generator": "evidence/build-custody-index.py",
   "item_count": 15,
   "custody_states": {
-    "HASHED-PENDING-BACKUP": 13,
-    "LOCATOR-VERIFIED": 2
+    "HASHED-PENDING-BACKUP": 9,
+    "VERIFIED": 5,
+    "LOCATOR-VERIFIED": 1
   },
   "items": [
     {
@@ -18,7 +19,7 @@
     {
       "item_id": "gawande-democracynow",
       "grade": "P2 (named expert, former USAID global health head) via S1",
-      "custody_state": "HASHED-PENDING-BACKUP",
+      "custody_state": "VERIFIED",
       "track": "C / IV(4)",
       "source_url": "https://www.democracynow.org/2025/11/13/usaid",
       "sha256_transcript": "667c45a25c2c4f4ae0b1fec45b194aba9b9a9cd62a8a1b662af6eea69b69ed82"
@@ -42,7 +43,7 @@
     {
       "item_id": "meeks-demands",
       "grade": "P1",
-      "custody_state": "HASHED-PENDING-BACKUP",
+      "custody_state": "VERIFIED",
       "track": "D",
       "source_url": "https://democrats-foreignaffairs.house.gov/2025/10/meeks-again-demands-answers-from-secretary-rubio-over-false-claim-that-his-foreign-aid-cuts-caused-no-deaths",
       "sha256_transcript": "6492894c88c2465630bfc49b5ffc67edf7fde30205d92c4d187027bf478a7390"
@@ -66,7 +67,7 @@
     {
       "item_id": "propublica-internal-memos",
       "grade": "S1 (ProPublica, reported) + embedded P1 (memos) \u2014 underlying memos pending",
-      "custody_state": "LOCATOR-VERIFIED",
+      "custody_state": "VERIFIED",
       "track": "C / B",
       "source_url": "https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis",
       "sha256_transcript": "f9565587fbc6c081b1cc9f2ea2a0637f3f528efa4b0c5ced5eb6a1afcc8bf258"
@@ -74,7 +75,7 @@
     {
       "item_id": "rubio-hfac-testimony",
       "grade": "P2",
-      "custody_state": "HASHED-PENDING-BACKUP",
+      "custody_state": "VERIFIED",
       "track": "D",
       "source_url": "https://www.npr.org/sections/goats-and-soda/2025/05/28/g-s1-69186/marco-rubio-usaid-death-sickle-cell-nigeria",
       "sha256_transcript": "e372a2dd69b4249aa19c67efc0e7a8acb18a4e68e151b5da93de388ad4feb61e"
@@ -90,7 +91,7 @@
     {
       "item_id": "schatz-record",
       "grade": "P1/P2 (congressional record)",
-      "custody_state": "HASHED-PENDING-BACKUP",
+      "custody_state": "VERIFIED",
       "track": "C",
       "source_url": "https://www.schatz.senate.gov/news/press-releases/schatz-details-trump-administrations-destruction-of-usaid-deadly-consequences-that-followed-as-senate-considers-codifying-doge-cuts",
       "sha256_transcript": "d81983349ea73fc9b7b0e681e9c55dd431df38980de6f15e2040fd2971b2b1ba"

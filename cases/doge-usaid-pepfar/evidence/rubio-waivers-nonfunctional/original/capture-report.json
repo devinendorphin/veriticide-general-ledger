@@ -1,0 +1,43 @@
+{
+  "item": "./rubio-waivers-nonfunctional",
+  "urls_total": 7,
+  "urls_captured": 5,
+  "urls_failed": 2,
+  "results": [
+    {
+      "url": "https://thedispatch.com/article/pepfar-state-department-funds-waivers-rubio/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://theintercept.com/2025/02/06/marco-rubio-usaid-humanitarian-waiver/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://theintercept.com/2025/02/06/marco-rubio-usaid-humanitarian-waiver/ (+ HRW, CGD, Dispatch, ProPublica, KFF",
+      "http_status": "000",
+      "captured": false
+    },
+    {
+      "url": "https://www.cgdev.org/blog/secretary-rubio-waivers-arent-working-please-fix-process",
+      "http_status": "403",
+      "captured": false
+    },
+    {
+      "url": "https://www.hrw.org/news/2025/02/10/us-lifesaving-programs-remain-suspended-despite-waivers",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.kff.org/global-health-policy/the-trump-administrations-foreign-aid-review-status-of-pepfar/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.propublica.org/article/trump-usaid-rubio-marocco-canceled-programs-gaza-syria-congo-hiv-ebola",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

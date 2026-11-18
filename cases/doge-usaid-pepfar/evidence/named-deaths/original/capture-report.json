@@ -1,0 +1,38 @@
+{
+  "item": "./named-deaths",
+  "urls_total": 6,
+  "urls_captured": 4,
+  "urls_failed": 2,
+  "results": [
+    {
+      "url": "https://sherman.house.gov/media-center/press-releases/one-year-after-trumps-usaid-shutdown-sherman-meeks-lead-all-foreign",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/05/28/g-s1-69186/marco-rubio-usaid-death-sickle-cell-nigeria",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.propublica.org/article/kenya-trump-usaid-world-food-program-starvation-children-deaths",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.propublica.org/article/usaid-cholera-deaths-trump-humanitarian-aid-cuts-south-sudan",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.washingtonpost.com/investigations/interactive/2025/usaid-trump-malaria-hiv-drugs-death/",
+      "http_status": "000",
+      "captured": false
+    },
+    {
+      "url": "https://www.washingtonpost.com/world/2025/06/29/sudan-usaid-funding-cuts-trump-musk/",
+      "http_status": "000",
+      "captured": false
+    }
+  ]
+}

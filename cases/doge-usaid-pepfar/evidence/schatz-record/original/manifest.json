@@ -1,23 +1,42 @@
 {
   "item": "./schatz-record",
-  "captured_at": "2026-06-28T21:35:41.421357Z",
-  "artifact_count": 5,
+  "captured_at": "2026-11-18T14:45:28.631213Z",
+  "artifact_count": 9,
+  "urls_total": 2,
+  "urls_captured": 2,
+  "urls_failed": 0,
   "artifacts": {
     "www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.html": {
-      "sha256": "795bb488eb2f4635e0a27e6bfc591093b76f96cc009d2e0a4bf21e9a802f9361",
-      "bytes": 4343674
+      "sha256": "54764f5bd83515515a47056a5244bd68eebfe064d40cf5b733245e90b06cfa95",
+      "bytes": 4915184
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.pdf": {
+      "sha256": "ef13525a945e1073144c1377c5256c7f08e79cc08375339724dc27bead86e8c8",
+      "bytes": 155251
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.png": {
+      "sha256": "70cffba10202b063fc09279f23ea778e7c821972c6ae7949aa7729fe673cf853",
+      "bytes": 540828
     },
     "www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.html": {
-      "sha256": "8961c203ffa4f2c8d76d6e1441ba6e6eeeaa4d197b2716567cf85b9b6a3cb8dc",
-      "bytes": 4470639
+      "sha256": "8e152345bf5ef700f09a2a5b1da1a4b09e1b0ddc52f25a90fe6c21360dfb5139",
+      "bytes": 4890406
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.png": {
+      "sha256": "ec10cc7cf48a0b26a6edb23adab15818ca5885f4d7ef52483ebf9fcbb64f2aee",
+      "bytes": 548743
     },
     "www.schatz.senate.gov_news_press-releases_schatz-details-trump-administrations-d.warc": {
-      "sha256": "74c49d36dfc5dae1b8cf2b2dde2d75454c7b1a61268f5057259270f6fef58d54",
-      "bytes": 4378915
+      "sha256": "0133776b937970da82d3bf4e238001e47e8ca8baf060dbcd9115cee89bc229b2",
+      "bytes": 4965633
+    },
+    "www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.pdf": {
+      "sha256": "e52aa4d623d44f426ecc4a7147f5edccd6dea9e179a4aaad1e4e7374b44a8b74",
+      "bytes": 90227
     },
     "www.schatz.senate.gov_news_press-releases_schatz-condemns-trumps-illegal-dismant.warc": {
-      "sha256": "8b2f928bcc625ca24883063674419d868d97b888720fc3ed7e24140a6e430e90",
-      "bytes": 4505863
+      "sha256": "27a5b2ba2e3605ac80b9546b05c08a77dd737deeb1fed8ccf995ed5abad375ec",
+      "bytes": 4939883
     },
     "wget.log": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

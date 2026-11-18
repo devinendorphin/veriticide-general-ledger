@@ -1,0 +1,13 @@
+{
+  "item": "./rubio-hfac-testimony",
+  "urls_total": 1,
+  "urls_captured": 1,
+  "urls_failed": 0,
+  "results": [
+    {
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/05/28/g-s1-69186/marco-rubio-usaid-death-sickle-cell-nigeria",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

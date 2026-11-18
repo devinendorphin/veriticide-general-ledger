@@ -1,0 +1,28 @@
+{
+  "item": "./hfac-letter-jan24",
+  "urls_total": 4,
+  "urls_captured": 3,
+  "urls_failed": 1,
+  "results": [
+    {
+      "url": "https://democrats-foreignaffairs.house.gov/2025/1/meeks-frankel-urge-secretary-rubio-to-lift-freeze-on-foreign-assistance",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://democrats-foreignaffairs.house.gov/_cache/files/3/7/3723c215-81d7-49f6-b47e-e281a526e5b4/0361821ECC417883CB0DEF54C9F37E80.foreign-assistance-pause-letter-to-rubio-final.pdf",
+      "http_status": "404",
+      "captured": false
+    },
+    {
+      "url": "https://pocan.house.gov/media-center/press-releases/pocan-kelly-109-addl-house-democrats-urge-immediate-restoration-pepfar",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://robinkelly.house.gov/media-center/press-releases/reps-kelly-pocan-109-house-democrats-urge-immediate-restoration-pepfar",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

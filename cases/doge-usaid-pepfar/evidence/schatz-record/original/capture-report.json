@@ -1,0 +1,18 @@
+{
+  "item": "./schatz-record",
+  "urls_total": 2,
+  "urls_captured": 2,
+  "urls_failed": 0,
+  "results": [
+    {
+      "url": "https://www.schatz.senate.gov/news/press-releases/schatz-condemns-trumps-illegal-dismantling-of-usaid-as-internal-memos-warn-of-millions-of-deaths-global-humanitarian-catastrophe",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.schatz.senate.gov/news/press-releases/schatz-details-trump-administrations-destruction-of-usaid-deadly-consequences-that-followed-as-senate-considers-codifying-doge-cuts",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

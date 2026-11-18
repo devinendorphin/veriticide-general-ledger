@@ -1,0 +1,38 @@
+{
+  "item": "./doge-savings-subset",
+  "urls_total": 6,
+  "urls_captured": 4,
+  "urls_failed": 2,
+  "results": [
+    {
+      "url": "https://abcnews.com/US/doge-website-now-saved-105-billion-backtracked-earlier/story?id=119408347",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://doge.gov/savings",
+      "http_status": "403",
+      "captured": false
+    },
+    {
+      "url": "https://thehill.com/homenews/administration/5162621-doge-wall-of-receipts-savings/",
+      "http_status": "403",
+      "captured": false
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2025/6/6/has-doge-really-saved-the-us-government-180bn",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.cbsnews.com/news/doge-cuts-contracts-grants-leases-searchable-list/",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.cbsnews.com/news/doge-wall-of-receipts-more-discrepancies/",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

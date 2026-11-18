@@ -1,0 +1,33 @@
+{
+  "item": "./propublica-internal-memos",
+  "urls_total": 5,
+  "urls_captured": 5,
+  "urls_failed": 0,
+  "results": [
+    {
+      "url": "https://www.democracynow.org/2025/3/6/usaid_memo_disease_nicholas_enrich",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.propublica.org/article/kenya-trump-usaid-world-food-program-starvation-children-deaths",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.propublica.org/article/usaid-cholera-deaths-trump-humanitarian-aid-cuts-south-sudan",
+      "http_status": "200",
+      "captured": true
+    },
+    {
+      "url": "https://www.propublica.org/series/the-end-of-aid",
+      "http_status": "200",
+      "captured": true
+    }
+  ]
+}

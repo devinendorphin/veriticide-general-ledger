@@ -222,7 +222,7 @@ for item in "${ITEMS[@]}"; do
   # hash everything captured into a per-item manifest + structured capture report
   ( cd "$outdir" && find . -type f ! -name manifest.json ! -name sha256sums.txt \
        ! -name capture-report.tsv ! -name capture-report.json -print0 \
-      | xargs -0 sha256sum 2>/dev/null > sha256sums.txt )
+      | xargs -0 -r sha256sum 2>/dev/null > sha256sums.txt )
   python3 - "$item" <<'PY'
 import json,sys,os,hashlib,datetime
 item=sys.argv[1]; od=os.path.join(item,"original"); files={}
