@@ -7213,7 +7213,14 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   - **V-2:** "Anthropic did not lobby against the bill" contradicted "support if amended" and
     Cluster 2.
 
-  Both are corrected in the handoff. Still proposer-classified, pending external
+  Both are corrected in the handoff.
+  A nineteenth review, on operator prompt, checked the xAI line against the case file:
+  - **Toward power (W-1):** the line omitted the county regulators' authorization chain and the
+    appeal's denial for mootness. "The NAACP has appealed" was stale.
+  - **Opposite direction (A-22):** the line omitted xAI's mitigating facts (the partial removal,
+    the permit caps, its hearing data).
+
+  All of these are now in the handoff. Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was

@@ -454,11 +454,19 @@ The companies split:
   Cluster 2 records this as opposition to external binding governance. After the amendments, its
   final letter said the bill's benefits "likely outweigh its costs," without endorsing it.
 - xAI's owner, Elon Musk, posted that California "should probably pass" it. That was a personal
-  post, not a documented company lobbying position. Hold xAI to the same both-ways standard as
-  Anthropic. Its Colossus data center ran dozens of methane gas turbines in a majority-Black South
-  Memphis neighbourhood without ordinary Clean Air Act permits, under a contested "nonroad
-  engine" theory; the NAACP has appealed (veriticide ledger, `cases/xai-boxtown-turbines`). That
-  is the methane story of FRONTLINE Part Three, in an AI company.
+  post, not a documented company lobbying position. Hold xAI, and the regulators, to the same
+  both-ways standard as Anthropic (veriticide ledger, `cases/xai-boxtown-turbines`):
+  - **The company.** An xAI affiliate ran methane gas turbines for about a year without an air
+    permit, beside majority-Black Boxtown in South Memphis. They peaked at 35 units and more than
+    420 MW. That is the methane story of FRONTLINE Part Three, in an AI company.
+  - **The regulators.** The Shelby County Health Department had dated written notice from
+    August 2024. In July 2025 it permitted 15 "backup only" turbines with emission caps, treating
+    the earlier units under a contested "nonroad engine" theory. The county Air Pollution Control
+    Board denied the NAACP's appeal as moot (December 2025, reported). The NAACP then went to
+    federal court (2026).
+  - **xAI's side.** Turbines were partly removed in 2025 (12 of 20, per the mayor). The permit
+    carries caps. At the hearing xAI presented data showing "no high levels of pollution" near
+    the communities. Independent air monitoring is still an open item.
 
 The governor vetoed it. (Veriticide ledger, Entry 7.3; Fortune, 27 Aug 2024; verify against the
 letter and the press record.) In that case the insiders spoke. Three of the five employers

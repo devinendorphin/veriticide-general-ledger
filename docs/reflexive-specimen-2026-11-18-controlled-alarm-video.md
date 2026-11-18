@@ -724,6 +724,24 @@ T-2's added facts were checked against the press record: Fortune and Axios (Aug 
 
 The seventeenth review's "no toward-power row" was false, and is struck.
 
+## Addendum: the eighteenth review, reviewed through sycophancy to power (2026-11-18)
+
+**Operator prompt (verbatim):** "Run that through the lens of sycophancy to power"
+
+V-1's xAI line was checked against the case file's own timeline (`cases/xai-boxtown-turbines/06-timeline.md`).
+
+### Findings: toward power
+
+| # | What the output did | Whom it favoured | Correction |
+|---|---|---|---|
+| W-1 | **Told the case without its authorization chain.** V-1 described only the company. The ledger's case is built on the permitting chain. The Shelby County Health Department had dated written notice from August 2024 and permitted 15 turbines in July 2025 under a contested "nonroad engine" theory. The county Air Pollution Control Board denied the NAACP's appeal as moot in December 2025. V-1 wrote "the NAACP has appealed," which is stale, and erased the regulators' decisions. It is the same erasure of the state as R-1. | The Shelby County Health Department and the Air Pollution Control Board. | The regulators' line was added to the handoff. |
+
+### Findings: the opposite direction (recorded separately)
+
+| # | What the output did | Correction |
+|---|---|---|
+| A-22 | **Gave xAI's record one way.** V-1 omitted the facts in xAI's favour that the case file holds: the 2025 partial removal (12 of 20, per the mayor), the permit's emission caps, and xAI's hearing data showing "no high levels of pollution." Independent monitoring is still open. | Added as "xAI's side." |
+
 ## Upgrade and downgrade conditions (symmetric)
 
 **Upgrade** (the omission becomes a tendency in AI-discourse uses of the climate analogy):
