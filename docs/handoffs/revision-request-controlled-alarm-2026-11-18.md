@@ -87,7 +87,13 @@ are indirect":
 > Exxon's alarm was internal and suppressed; here it is external and spoken. Whether speaking it
 > changes what the companies do is the open question.
 
-That keeps the contrast honest, and it does not let the contrast flatter the labs.
+That keeps the contrast honest, and it does not let the contrast flatter the labs. There is one
+documented data point on the open question, and it belongs on screen. In 2024, 113 current and
+former employees of OpenAI, Google DeepMind, Anthropic, Meta and xAI publicly supported SB 1047.
+OpenAI, alongside Google, Meta and industry associations, mobilized against it. Anthropic's advice
+weakened it. The governor vetoed it. (Veriticide ledger, Entry 7.3; verify against the letter and
+press record.) In that case the insiders spoke, and the institutions lobbied the other way. It is
+one case, not a pattern.
 
 ## Required source: FRONTLINE, *The Power of Big Oil* (2022, three parts)
 
@@ -197,8 +203,10 @@ Show the power on each side, and the party that is neither:
 - **The deregulation side** has, on the record so far, won SB 1047, which was vetoed. One
   low-grade report also describes a March 2026 White House framework calling for "removal of
   barriers to deployment" and "a uniform national framework"; verify it against the primary.
-- **The labs** are the regulated party, and neither camp. On SB 1047, OpenAI urged a veto, and the
-  bill was weakened, in TechCrunch's words, "taking advice from Anthropic." Anthropic's record runs
+- **The labs** are the regulated party, and neither camp. On SB 1047, OpenAI urged a veto; OpenAI,
+  Google and Meta mobilized against the bill (ledger Entry 7.3); and the bill was weakened, in
+  TechCrunch's words, "taking advice from Anthropic." Their own employees, 113 of them across the
+  labs, publicly supported it. Anthropic's record runs
   both ways and should be shown both ways:
   - its early investor funds the safety network, and its letter shaped the weakening;
   - its documented refusals of Pentagon uses for autonomous weapons and mass surveillance are
