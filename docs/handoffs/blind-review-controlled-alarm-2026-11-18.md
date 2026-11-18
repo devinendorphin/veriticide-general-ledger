@@ -687,13 +687,19 @@ Show the power on each side, and the party that is neither:
   TechCrunch's words, "taking advice from Anthropic." xAI's owner posted support (a personal
   post; xAI's record is in Appendix B). Their own employees, 113 of them across the labs,
   publicly supported it.
-  - **The labs spend on their own regulation, in both directions.** In February 2026 Anthropic
-    gave $20M to Public First Action, a 501(c)(4) that does not disclose its donors and funds two
-    allied super PACs backing candidates the group describes as favouring AI safeguards. A second
-    $20M was reported later in 2026 (Axios, Bloomberg Law, 12 Feb 2026). On the other side, OpenAI's
-    president gave $12.5M and a16z's founders $25M to Leading the Future (more than $125M). This is
-    regulated companies and their principals funding the candidates who will regulate them. Do
-    not credit Anthropic's spending to "the safety network."
+  - **Political money around the labs: say who gave it.**
+    - *Corporate:* Anthropic, as a company, gave $20M in February 2026 to Public First Action, a
+      501(c)(4) that does not disclose its donors and funds two allied super PACs backing
+      candidates the group describes as favouring AI safeguards. A second $20M was reported later
+      in 2026 (Axios, Bloomberg Law, 12 Feb 2026). It is the only corporate lab spending in this
+      record.
+    - *Principals and investors:* OpenAI's president, Greg Brockman, personally gave $12.5M, and
+      a16z's founders gave $25M, to Leading the Future (more than $125M). OpenAI reportedly says it
+      made no super-PAC contributions itself (unverified).
+
+    Both are money from the regulated industry flowing to the candidates who will regulate it.
+    Do not merge the two into a symmetric "both sides," and do not credit Anthropic's spending to
+    "the safety network."
 
   Anthropic's record runs both ways and should be shown both ways:
   - its early investor funds the safety network, and its letter shaped the weakening;
