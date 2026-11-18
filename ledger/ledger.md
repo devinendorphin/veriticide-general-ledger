@@ -7172,7 +7172,17 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
     designation that followed.
 
   Both are corrected. Method note: the summaries had been written from memory of Entry 7.2, and
-  each one picked up one side of it. Still proposer-classified, pending external
+  each one picked up one side of it.
+  A thirteenth review, on operator prompt, read Entry 7.2 in full:
+  - **Toward power (Q-1):** the twelfth review's fix had written "the pressure came from the
+    state, and the company gave way." The entry does not say the pause clause was the Pentagon's
+    demand. The fix also omitted the entry's own diagnostic ("held lines that cost them
+    contracts; … removed the line that would have cost developmental pace"). That exculpated the
+    developer by recasting a choice as coercion.
+  - **Against the developer (A-17):** the $200M agreement had been listed as live; the entry
+    records it lost.
+
+  Both are corrected, and the handoff now quotes the entry verbatim. Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was

@@ -139,11 +139,19 @@ What it supplies for each edit:
   about it." The RSP change removed the "have to." (Source: veriticide ledger Entry 7.2; verify
   against Anthropic's published RSP versions before you put it on screen.) Carry the context the
   ledger records with it:
-  - The change followed an ultimatum from Defense Secretary Hegseth: roll back AI safeguards or
-    lose a $200 million Pentagon contract. The pressure came from the state, and the company gave
-    way on the RSP.
-  - The innocent reading: a pause by one lab while others proceed may be judged less safe.
-  - The counter-evidence: the refusals on autonomous weapons and mass surveillance.
+  - **Context, quoted from the ledger entry:** "Defense Secretary Hegseth gave Anthropic CEO
+    Dario Amodei an ultimatum: roll back AI safeguards or lose a $200 million Pentagon contract.
+    Anthropic weakened its general RSP." The entry places the two facts side by side. It does
+    not say the pause clause was what the Pentagon demanded. Do not present the rollback as the
+    state's act.
+  - **The entry's own diagnostic, which is the charge:** Anthropic "held lines that cost them
+    contracts; it removed the line that would have cost developmental pace." The weapons and
+    surveillance refusals had a commercial cost. The pause clause was the one commitment with a
+    developmental cost, and that is the one that went.
+  - **The company's stated rationale:** "responsible AI developers pausing growth while less
+    careful actors plowed ahead could result in a world that is less safe."
+  - **The counter-evidence:** the refusals on autonomous weapons and mass surveillance, held
+    despite losing the contract.
 - **The third-party regret line.** Jerry Taylor (Cato), Part Two: "If I had known at the time what
   Exxon Mobil internally knew … I would definitely have been in a different place." Outside voices
   argue from what insiders disclose. Individual interviews do not substitute for institutional
@@ -187,13 +195,14 @@ Show the power on each side, and the party that is neither:
   - its early investor funds the safety network, and its letter shaped the weakening;
   - its documented refusals of Pentagon uses for autonomous weapons and mass surveillance are
     real counter-evidence (veriticide ledger, Entry 7.2). The ledger records that they cost
-    something: federal contracts were cancelled, and the Department of Defense designated Anthropic
-    an "ESG supply chain risk." They were limits on a military integration that is also on record
-    (Anthropic's own July 2025 announcement): a $200M-ceiling DoD prototype agreement, Claude Gov,
-    and integration with Palantir on classified networks. Claude's reported use via Palantir in the
-    3 Jan 2026 Caracas operation is also on record (WSJ, Axios; Anthropic declined to say). How
-    much of the integration survives the cancellations is not established. Show all three
-    together: the integration, the refusals, and what the refusals cost.
+    something: Anthropic lost the $200M contract, federal contracts were cancelled, and the
+    Department of Defense designated it an "ESG supply chain risk." Before that, the military
+    integration was on record (Anthropic's own July 2025 announcement): the $200M-ceiling DoD
+    prototype agreement, now reported lost; Claude Gov; and integration with Palantir on classified
+    networks. Claude's reported use via Palantir in the 3 Jan 2026 Caracas operation is also on
+    record (WSJ, Axios; Anthropic declined to say). Whether Claude Gov and the Palantir
+    integration continue is not established. Show all of it together: the integration, the
+    refusals, and what the refusals cost.
 
   Do not file it under "safety" on its say-so, or strip the label against the record.
 - **The public the video addresses** ("from the sidewalk") is neither camp. The fight between the
