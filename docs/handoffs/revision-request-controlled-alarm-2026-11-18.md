@@ -156,11 +156,13 @@ critics have a documented history. Apply the precedent at its own standard. The 
 counts because the critic's ask served the funder's market. Here, the site's ask is *Pacing the
 Frontier*, which Anthropic's CEO signed; one of the site's own interviewees calls it "just what Sam
 Altman wants." The funder side of the link is on record. Moskovitz invested in Anthropic's 2021
-Series A. His stake has been reported at about $500M, moved to a nonprofit vehicle in 2025;
-tracker estimates run 0.8–2.5%. These are secondary figures that conflict, so verify before
-quoting a number. A stake held through a nonprofit vehicle is still a stake. The open question is
-the other half: whether *Pacing the Frontier* serves frontier incumbents. State that as open. One
-disanalogy goes on screen with it: the Good Ventures → Palisade line is disclosed.
+Series A. Tracker estimates put his stake at roughly 0.8–2.5%, which is several billion dollars at
+2026 valuations; one tracker gives 1.6%. One tracker reports that a $500M **portion** was moved into
+a nonprofit vehicle (November 2025). These are secondary figures that conflict; verify before
+quoting any number. Whether the nonprofit vehicle retains an economic interest depends on its terms,
+which are not established. The other half of the link is also open: whether *Pacing the Frontier*
+serves frontier incumbents. State both as open. One disanalogy goes on screen with them: the Good
+Ventures → Palisade line is disclosed.
 
 **Their side, which you must also carry.**
 - ExxonMobil's statements to FRONTLINE: it "has never had any unique or superior knowledge about
