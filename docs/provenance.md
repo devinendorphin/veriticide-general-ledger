@@ -740,3 +740,31 @@ and nothing on these branches changes any item's custody state on main (still 0 
 13 HASHED-PENDING-BACKUP · 2 LOCATOR-VERIFIED). **What it does not establish:** anything about the
 content of the WARC/HTML artifacts listed in main's manifests, which are held off-repo and were not
 examined here. Their custody state is unchanged.
+
+## 2026-11-18 — Prediction markets merged from a June branch; renumbered Entry 20 / TF-008 / Priority 36
+
+`claude/innovation-mapping-575ewy` (2026-06-29) filed the prediction-markets mapping as Pattern
+Registry **Entry 17**, Track F **TF-007** and Gap Register **Priority 28**, and cut
+`cases/prediction-markets/` from it, with a planned **Cluster 11**. The branch never merged. Main
+assigned Entry 17, TF-007 and Priority 28 to the redistricting packet and Cluster 11 to the ICC
+campaign. Imported now as **Entry 20, TF-008, Priority 36 and planned Cluster 12**. Each renumbered
+block carries a note giving its original number.
+
+- **Hashed transcripts not edited.** The eight `evidence/*/transcript.md` files are sha256-pinned and
+  cite the original numbers. They are kept byte-for-byte as filed, and all eight `sha256 -c` checks
+  pass. The case README and custody manifest say how to read those citations.
+- **Custody vocabulary brought up to the 2026-07-02 reconciliation**, which this packet predates:
+  `capture.sh --promote` now sets HASHED-PENDING-BACKUP, never VERIFIED (the same patch 6ab51c5
+  applied to every other case). `build-custody-index.py` is replaced by the generic reconciled
+  builder, and the index is regenerated. The narrative wording "promotion to VERIFIED is one
+  `capture.sh` run away" is corrected in the case files and the ledger. **Custody unchanged: 8
+  LOCATOR-VERIFIED, 0 VERIFIED.**
+- **Not ported:** the response-validation hardening now in the DOGE `capture.sh`. This script, like
+  every case's script except DOGE's, still lacks the error-page gate.
+- **README:** the case is added to Band 2 (structure documented, hardest joint conceded on the
+  record: the packet concedes intent and charges only the operating mechanisms). The band placement
+  is the merger's reading, made at merge and not by the original analyst. The Pattern Registry list
+  now runs to Entry 20; it had stopped at 17, before Entries 18–19 were added.
+
+The rest of `claude/innovation-mapping-575ewy` (x-bot-swarm, CTF-1, the Epstein case, Entries 15–16,
+and the DOGE capture commits) is already on main in later form, or is covered by the DOGE entry above.

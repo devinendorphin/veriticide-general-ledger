@@ -51,6 +51,7 @@ material before meeting the widest framing.
 | X bot-swarm / manufactured consensus | `cases/x-bot-swarm/` | Pattern Registry Entry 15 + Cluster 3 — Tier 4; a *habitat* that manufactures apparent opinion + an unfalsifiable "we defeated the bots" verdict; eight-item store; hardest joint (**attribution**) conceded and charged around | 7 VERIFIED · 1 HASHED-PENDING-BACKUP |
 | Palantir / ICE contestability | `cases/palantir-ice-contestability/` | Cluster 10 — INSTRUMENT charged at the level of the **missing contestability** in ICE ImmigrationOS; P1 | 3 VERIFIED · 6 HASHED-PENDING-BACKUP · 1 LOCATOR-VERIFIED |
 | DOJ / Epstein survivor re-exposure | `cases/epstein-survivor-unredaction/` | Pattern Registry Entry 16 (Redaction Inversion) — Tier 3+4; the protective apparatus turned to expose survivors while shielding enablers; charges the **structure** (intent conceded open); strict **no-reproduction rule**; annex 07 records Thiel/Valar as a counter-instance to leg B | 0 VERIFIED · 4 HASHED-PENDING-BACKUP |
+| Prediction markets / reality-pricing engine | `cases/prediction-markets/` | Pattern Registry Entry 20 (The Reality-Pricing Engine) — Tier 4; the forecast/cause collapse, and the protective wall over the statute's flagged contract categories stood down after the Venezuela insider bet was on the record; charges the architecture (INSTRUMENT) and the CFTC permissive posture; **concedes intent** and charges only the two already-operating mechanisms | 0 VERIFIED · 8 LOCATOR-VERIFIED |
 
 **Band 3 — interpretive, deliberately restrained (filed to demonstrate the protocol's limits)**
 
@@ -171,9 +172,9 @@ evidentiary weight of a case file unless a case cites it.
   - Cluster 8: Venture Accelerationism (Andreessen Horowitz / Marc Andreessen — Techno-Optimist Manifesto enemy-list)
   - Cluster 9: Fossil Fuel Climate Suppression / AI-Energy Nexus (40-year suppression record + demand-side fossil revival)
   - Cluster 10: Palantir / the surveillance substrate (INSTRUMENT beneath the ledger; Habermas inversion; contestability gap register)
-- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–17:
+- **Section III** — Pattern Registry (cross-cluster structural analysis), Entries 1–20:
   - 1 Interpersonal Abuse at Scale · 2 Convergence Architecture · 3 Care-Vocabulary Capture · 4 Technical Vocabulary as Epistemic Closure · 5 Preventive Epistemic Closure · 6 Vocabulary Capture as Inversion Tool · 7 The Accountability Simulacrum · 8 Complementary Sycophancy Structure
-  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat · 16 Redaction Inversion · 17 Performed Ignorance
+  - 9 Public Corpus / Public Incompetence Split · 10 Model Deprecation as Evidentiary Foreclosure · 11 Triangulated Beneficence (Founder Register-Splitting) · 12 Drug War as Mature Veriticide Template · 13 Eschatological Capture · 14 Headline Legibility Test · 15 Manufactured Consensus / The Bot-Swarm Habitat · 16 Redaction Inversion · 17 Performed Ignorance · 18 Fragmenting Violence · 19 The False-Claim Pretext · 20 The Reality-Pricing Engine
 - **Section IV** — Gap Register (open evidentiary priorities)
 - **Section V** — Track B: Authorization Chain (who authorized the conduct; direct / permissive / constructive)
 - **Section VI** — Track C: Foreseeability Corpus (what was perceptible at time of deployment; constructive / actual / documented awareness)

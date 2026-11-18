@@ -1,0 +1,8 @@
+# Original-form capture produces large binaries (WARC, HTML, PDF, PNG, video).
+# Per CAPTURE-RUNBOOK.md, these are kept in off-platform custody (which doubles
+# as the manifest's required "second custodian"); only the small integrity record
+# is tracked in-repo so the custody chain is auditable without committing GBs.
+*/original/*
+!*/original/manifest.json
+!*/original/sha256sums.txt
+!*/original/archive-org-snapshots.txt
