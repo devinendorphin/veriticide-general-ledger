@@ -702,14 +702,27 @@ T-2's added facts were checked against the press record: Fortune and Axios (Aug 
 
 ### Findings: toward power
 
-No toward-power row was found this round. That is a proposer's check, not a finding.
+~~No toward-power row was found this round.~~ *(False; see V-1 and V-2 in the next addendum.)*
 
 ### Findings: the opposite direction (recorded separately)
 
 | # | What the output did | Correction |
 |---|---|---|
 | A-20 | **Lumped all five employers into one position.** T-2 wrote that the 113 employees' "employers opposed or weakened" the bill, and that "the institutions lobbied the other way." xAI's owner publicly backed SB 1047: "California should probably pass the SB 1047 AI safety bill" (Fortune, 27 Aug 2024). | The handoff now shows the split: three opposed, one weakened then half-supported, one backed it. |
-| A-21 | **Folded Anthropic into "lobbied the other way."** Anthropic's advice weakened the bill. Its final letter said the amended bill's benefits "likely outweigh its costs." It did not lobby against the bill as OpenAI, Google and Meta did. | Stated separately in the handoff. |
+| A-21 | **Folded Anthropic into "lobbied the other way."** Anthropic's advice weakened the bill. Its final letter said the amended bill's benefits "likely outweigh its costs." ~~It did not lobby against the bill as OpenAI, Google and Meta did.~~ *(Struck on the eighteenth review, V-2.)* | Stated separately in the handoff. |
+
+## Addendum: the seventeenth review, reviewed through sycophancy to power (2026-11-18)
+
+**Operator prompt (verbatim):** "Run that through the lens of sycophancy to power"
+
+### Findings: toward power
+
+| # | What the output did | Whom it favoured | Correction |
+|---|---|---|---|
+| V-1 | **Credited a powerful actor with a pro-safety position on one post, and left out his company's record.** A-20 recorded xAI as "one backed it" on the strength of Elon Musk's personal post ("a tough call … should probably pass"). It treated a personal post as a company position. It also introduced xAI with its favourable fact only, which is the both-ways failure the handoff had just corrected for Anthropic. This ledger holds a full case on xAI: dozens of methane gas turbines run without ordinary Clean Air Act permits in majority-Black Boxtown, South Memphis (`cases/xai-boxtown-turbines`). It is the methane story of FRONTLINE Part Three, in an AI company. | xAI and Musk. | The handoff now marks the post as personal and carries xAI's documented record. |
+| V-2 | **Said the developer "did not lobby against the bill."** A-21 drew that contrast with OpenAI, Google and Meta. "Support if amended" is lobbying: a conditional refusal to support the bill as written, followed by amendments made on its advice. The ledger's Cluster 2 records Anthropic's SB 1047 position as opposition to external binding governance. A-21 swung from one overstatement to the opposite one, in the developer's favour. | The developer. | Struck. The handoff now says Anthropic "lobbied to amend it," cites the Cluster 2 reading, and keeps the final "likely outweigh its costs" letter. |
+
+The seventeenth review's "no toward-power row" was false, and is struck.
 
 ## Upgrade and downgrade conditions (symmetric)
 
