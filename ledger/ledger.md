@@ -7323,7 +7323,10 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   A forty-first review, on operator prompt, re-read the remaining core sections. It found one
   smaller instance of QQ-1 in the rationale ("what is new in fromInside.ai" presupposed a
   departure from the Exxon pattern; SS-1), which is rewritten. Nothing else was found in those
-  sections (a proposer's check). Still proposer-classified, pending external
+  sections (a proposer's check).
+  A forty-second review, on operator prompt, re-read the specimen's own original findings
+  (TT-1). Three corrections made in the handoff (QQ-1, RR-1, S-1) had never been carried back to
+  F2, F4 and BOUNDARY. All three are corrected in place. Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was
