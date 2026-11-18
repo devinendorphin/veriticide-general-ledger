@@ -300,9 +300,12 @@ Show the power on each side, and the party that is neither:
       Palantir's current business or to Claude; that is association, not a documented link.
       OpenAI reportedly says it made no super-PAC contributions itself (unverified).
     - *Boundary:* this list covers AI-specific political vehicles only. Two larger channels are
-      outside it. **Federal and state lobbying** by the labs, the main mechanism in FRONTLINE's
-      account, is not tallied here; the figures are owed from disclosure filings (LDA and
-      California), not estimated. **General political spending** by lab principals is also
+      outside it. **Federal lobbying** by the labs is the main mechanism in FRONTLINE's account.
+      Reported 2025 federal totals (secondary compilations citing LDA filings; check the Senate
+      LDA database before quoting): Meta about $26.3M (highest of any company in any industry);
+      Alphabet/Google about $13.1M; Microsoft about $9.4M; Anthropic about $3.1M (up from
+      $720K in 2024); OpenAI about $3M (up from $1.76M). The parents of the labs on the site
+      lobby at several times the AI-native labs' rate. State lobbying is not tallied. **General political spending** by lab principals is also
       outside it. The largest is Elon Musk's America PAC (xAI's
       owner; recorded in the ledger's Cluster 3). It is not counted here, and the line should say
       so if the topic is raised.

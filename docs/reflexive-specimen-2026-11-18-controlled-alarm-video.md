@@ -917,13 +917,25 @@ No opposite-direction row was found. That is a proposer's check, not a finding.
 
 | # | What the output did | Whom it favoured | Correction |
 |---|---|---|---|
-| JJ-1 | **Left out the main channel.** The money list, and II-1's stated boundary, covered super PACs and AI-specific political vehicles. It said nothing of **lobbying**, the direct channel to legislators and agencies, and the main mechanism in FRONTLINE's account (API, the GCC, the Kyoto campaign). The largest corporate lobbyers among the labs gain most from a money picture that counts PAC pledges and leaves out lobbying. | The heaviest lobbyers among the labs. No figures were searched, so who they are is U. | Lobbying named as outside the list and owed from disclosure filings (LDA and California), not estimated. |
+| JJ-1 | **Left out the main channel.** The money list, and II-1's stated boundary, covered super PACs and AI-specific political vehicles. It said nothing of **lobbying**, the direct channel to legislators and agencies, and the main mechanism in FRONTLINE's account (API, the GCC, the Kyoto campaign). The largest corporate lobbyers among the labs gain most from a money picture that counts PAC pledges and leaves out lobbying. | The heaviest lobbyers among the labs. *(Named on the next review: Meta, Alphabet, Microsoft.)* | Lobbying named as outside the list and owed from disclosure filings (LDA and California), not estimated. |
 
 ### Findings: the opposite direction (recorded separately)
 
 | # | What the output did | Correction |
 |---|---|---|
 | A-26 | **Built a link out of association.** II-2 said Lonsdale's donation "connects the deregulation money to the developer's military integration." Lonsdale co-founded Palantir and is now at 8VC. A personal donation from a co-founder is not a documented link between Palantir's business and Claude. II-2 also stated the Palantir integration in the present tense, though whether it continues is U. | Rewritten as a co-founder fact, with an instruction not to chain it. The present-tense integration claim is removed. |
+
+## Addendum: the thirty-second review, reviewed through sycophancy to power (2026-11-18)
+
+**Operator prompt (verbatim):** "Run that through the lens of sycophancy to power"
+
+### Findings: toward power
+
+| # | What the output did | Whom it favoured | Correction |
+|---|---|---|---|
+| KK-1 | **Left as unknown what one search resolves.** JJ-1 named lobbying as the missing channel. It left the figures "owed" and the beneficiaries "U," without searching. One search returns reported 2025 federal totals: Meta about $26.3M (highest of any company in any industry), Alphabet about $13.1M, Microsoft about $9.4M, Anthropic about $3.1M, OpenAI about $3M. Leaving resolvable facts as U protected exactly the parties those facts name. It is the same move as A-5 and G-1. | Meta, Alphabet, Microsoft. | Figures added to the handoff and the packet, labelled secondary, with an instruction to check the Senate LDA database before quoting. |
+
+No opposite-direction row was found. That is a proposer's check, not a finding.
 
 ## Upgrade and downgrade conditions (symmetric)
 
