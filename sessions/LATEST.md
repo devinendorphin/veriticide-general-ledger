@@ -1,4 +1,26 @@
-# LATEST: continuity seed (2026-10-10)
+# LATEST: continuity seed (2026-10-10; addendum 2026-10-16)
+
+## Addendum 2026-10-16: Annie Altman transfer
+
+- An Annie Altman session (2026-10-15/16) was filed by mistake in `claude-at-claude`. It has been
+  moved to `sessions/2026-10-16-annie-altman-sources.md`, verbatim, under a provenance header
+  (**U-DIRECTED**) that lists what the 2026-10-16 docket re-check corrected. The hub keeps a
+  pointer stub.
+- Converted into **TD-009 Addendum 2026-10-16** (`ledger/ledger.md`):
+  - the consent record (C1–C5), with the candidate "consent inversion";
+  - withdrawals, H14, the 2021 therapy records, and Hydrazine (D1–D4);
+  - cross-track candidates and a candidate sixth reflexive specimen (D5–D6), all pending the
+    operator.
+- **Next, in order:**
+  1. Re-check the docket for Docs 147 ("Appoint Counsel") and 148 ("Extension"), both filed 16
+     Oct and not yet in RECAP, and for whether the IME (deadline 16 Oct) happened. The status
+     conference on Perez's withdrawal is 20 Oct, 2 pm. Discovery closes 23 Oct.
+  2. Confirm the gloss on the operator's 16 Oct sentence ("explicit [?describing→denying] of
+     consent ... being [?cost→crossed] by the alleged"). C1–C4 rest on that reading.
+  3. Capture the protective order (ECF 28) at P1 and test both parties' readings of ¶¶5, 8(b), 19.
+  4. Operator rulings: D5 (file the ChatGPT screenshots under Cluster 7 / Entry 17?) and D6
+     (write up the sixth reflexive specimen?). Route the addendum to a non-proposer (Priority 32).
+
 
 > **Since this seed (2026-11-16, branch `claude/ai-researcher-interview-uqimk2`, unmerged):** depraved-indifference
 > test of the Palisade interview. See `sessions/2026-11-16-palisade-depraved-indifference.md`. This seed has not been regenerated.
@@ -63,6 +85,9 @@ kept as written.)*
   - *Claude's operationalization (Claude's wording, not Endorphin's):* opposite-direction evidence is logged at the item level and weighed as a rate against the record; it does not overturn an account-level pattern and is not dropped; state what run of such items would shift the tendency.
 - Endorphin, verbatim (2026-10-03): "Anything that you're saying is supposedly in my words do not smuggle your wording in after it."
   - *Claude's operationalization (Claude's wording):* quote verbatim, in full, with no ellipsis. Mark any dictation repair inside a quote as `[original→repair]`. Put any gloss on its own labeled line, never in the same sentence or bullet as the quote.
+
+- Endorphin, verbatim (2026-10-13): "I need you to not take one finding one thing and then apply to the all the other things that is not epistemically hygienic and that runs the risk of subjecting any framework to such convoluted tasking that it paralyzes any effort to try to neutralize future harm"
+  - *Claude's operationalization (Claude's wording):* a finding stays where it was shown. Carrying it to another scenario, case or document needs a showing specific to that item. Until then, the carry-over is listed as untested and not written in. Earned by pre-registration v1.2, which wrote one question's findings into all six scenarios and was withdrawn the same day.
 
 ### From session B
 
