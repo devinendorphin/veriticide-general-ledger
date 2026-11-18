@@ -7354,7 +7354,12 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   restated.
   A forty-eighth review, on operator prompt, found that A-32 had swung too far (XX-1). "One
   disclosed donor" implied there were others. Anthropic is the only publicly known donor, and its
-  gift raised the group's target by half. That is now stated, with control still not established. Still proposer-classified, pending external
+  gift raised the group's target by half. That is now stated, with control still not established.
+  A forty-ninth review, on operator prompt, checked FEC-derived data (YY-1). Dario Amodei ($1M)
+  and Nicholas Joseph ($250K) personally funded the Public First super PAC (Transformer tracker,
+  30 Jun 2026). XX-1 had called Amodei's gift uncorroborated and left it out, while Brockman's
+  personal $12.5M was listed. Both are now added. This is new to the ledger; capture is owed
+  (Cluster 2). Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was
