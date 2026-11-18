@@ -171,7 +171,11 @@ true that deregulation advocates also make the capture argument; the same report
 to a policy analyst arguing against "sweeping AI regulations." If you mention that, apply the same
 money-line disclosure to those critics. Do not use their involvement to discount the question.
 Two failures to avoid: dismissing the capture question because of who raises it, and treating it
-as settled because the money lines exist.
+as settled because the money lines exist. Show both sides' power. The safety network is
+well-funded. The capture argument's main deployers are aligned with the federal position: the same
+report describes a March 2026 White House framework calling for "removal of barriers to
+deployment" and "a uniform national framework" (low-grade source; verify against the primary). In
+2026 neither side is the underdog. Do not cast either one as the dissenter.
 
 **Their side, which you must also carry.**
 - ExxonMobil's statements to FRONTLINE: it "has never had any unique or superior knowledge about
