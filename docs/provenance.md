@@ -708,3 +708,97 @@ included, and the developer-symmetry lint passes. Sources are search-located, no
   (possible); H3, altered counts (implausible); and H4, bravado (the null). It names pre-registered
   signatures for 2026 and gives a warning about fabricated evidence. The facts were discovered by
   search this session rather than chosen beforehand. The v2 stamp was regenerated.
+
+## 2026-11-18 — DOGE / USAID–PEPFAR: three June branches examined; one script change imported, no evidence imported
+
+Three unmerged branches from 2026-06-25/28 touch `cases/doge-usaid-pepfar/evidence/`. They were
+examined before any import, because each predates the 2026-07-02 custody reconciliation
+(`docs/custody-status-2026-07-02.md`).
+
+- **`claude/happy-newton-rmppgb`** ("Original-form capture complete: all 14 evidence items
+  VERIFIED"). Adds 171 files under `<item>/original/`: 77 PDFs, 77 PNGs and 17 `wget.log` files
+  (all 0 bytes). **All 77 PDFs are Chrome "This site can't be reached" pages
+  (ERR_CONNECTION_CLOSED)**, checked by text extraction. The PNGs fall in a narrow 35–48 KB band,
+  and the one viewed (schatz.senate.gov) is the same error page. The branch holds no source content.
+  **Not imported.** Importing it would put error pages into the evidence store under a VERIFIED
+  claim. That is the failure the 2026-07-02 reconciliation names ("an error page counted as a
+  fulfilled capture").
+- **`claude/doge-usaid-pepfar-capture-yy0wmg`** ("Original-form capture (VERIFIED)"; READMEs
+  "13/15 VERIFIED"). Modifies 50 existing files and adds none: `capture.json` custody flips to
+  VERIFIED, plus manifests, checksums, the custody index and READMEs. Main already carries these
+  manifests (the same 2026-06-28 capture timestamps), with custody reset to HASHED-PENDING-BACKUP
+  on 2026-07-02. **Superseded; not imported.**
+- **`claude/doge-usaid-pepfar-capture-f562r4`** ("Harden capture.sh"). Adds response validation to
+  `capture.sh`: a pre-flight 2xx gate, a WARC response-status check, detection of Chrome's
+  neterror DOM, and a per-URL `capture-report.json`. **Imported**, with main's reconciled
+  terminology kept: `--promote` sets HASHED-PENDING-BACKUP, never VERIFIED. Tested in a scratch
+  copy against an unreachable URL (no artifacts, custody unchanged) and a reachable one (captured;
+  HASHED-PENDING-BACKUP).
+
+**What this establishes:** the happy-newton captures are not evidence of any DOGE source's content,
+and nothing on these branches changes any item's custody state on main (still 0 VERIFIED ·
+13 HASHED-PENDING-BACKUP · 2 LOCATOR-VERIFIED). **What it does not establish:** anything about the
+content of the WARC/HTML artifacts listed in main's manifests, which are held off-repo and were not
+examined here. Their custody state is unchanged.
+
+## 2026-11-18 — Prediction markets merged from a June branch; renumbered Entry 20 / TF-008 / Priority 36
+
+`claude/innovation-mapping-575ewy` (2026-06-29) filed the prediction-markets mapping as Pattern
+Registry **Entry 17**, Track F **TF-007** and Gap Register **Priority 28**, and cut
+`cases/prediction-markets/` from it, with a planned **Cluster 11**. The branch never merged. Main
+assigned Entry 17, TF-007 and Priority 28 to the redistricting packet and Cluster 11 to the ICC
+campaign. Imported now as **Entry 20, TF-008, Priority 36 and planned Cluster 12**. Each renumbered
+block carries a note giving its original number.
+
+- **Hashed transcripts not edited.** The eight `evidence/*/transcript.md` files are sha256-pinned and
+  cite the original numbers. They are kept byte-for-byte as filed, and all eight `sha256 -c` checks
+  pass. The case README and custody manifest say how to read those citations.
+- **Custody vocabulary brought up to the 2026-07-02 reconciliation**, which this packet predates:
+  `capture.sh --promote` now sets HASHED-PENDING-BACKUP, never VERIFIED (the same patch 6ab51c5
+  applied to every other case). `build-custody-index.py` is replaced by the generic reconciled
+  builder, and the index is regenerated. The narrative wording "promotion to VERIFIED is one
+  `capture.sh` run away" is corrected in the case files and the ledger. **Custody unchanged: 8
+  LOCATOR-VERIFIED, 0 VERIFIED.**
+- **Not ported:** the response-validation hardening now in the DOGE `capture.sh`. This script, like
+  every case's script except DOGE's, still lacks the error-page gate.
+- **README:** the case is added to Band 2 (structure documented, hardest joint conceded on the
+  record: the packet concedes intent and charges only the operating mechanisms). The band placement
+  is the merger's reading, made at merge and not by the original analyst. The Pattern Registry list
+  now runs to Entry 20; it had stopped at 17, before Entries 18–19 were added.
+
+The rest of `claude/innovation-mapping-575ewy` (x-bot-swarm, CTF-1, the Epstein case, Entries 15–16,
+and the DOGE capture commits) is already on main in later form, or is covered by the DOGE entry above.
+
+## 2026-11-18 — Disposition of the remaining June–July branches
+
+Each remaining branch from June–July 2026 was checked against `main` before anything was merged.
+Most share no history with `main` after its rewrite, so for each commit the check measured what
+share of its substantive added lines (40+ characters) is present on `main` now.
+
+**Merged** (they share history with `main`):
+- `claude/framework-plain-language-dm116i`: `docs/plain-language.md` and
+  `docs/plain-language-tiers.md`. Tier names checked against the current taxonomy; they match.
+- `claude/usage-policy-refusal-osxcyx`: the 2026-07-20 refusal-session reflexive specimen (evidence
+  hash verifies), the D-1 restoration in the 2026-07-06 record, and the base-model latent-space
+  navigator (`experiments/base-model-capture/`).
+- `claude/veriticide-ledger-successor-3p5c6p`: the deprecation/lifecycle primaries (hashes and
+  verification memo; raw HTML kept off-repo and re-fetchable) and base-model FINDINGS Studies 1–2.
+- `claude/conversation-framework-mapping-wkxdey`: the 2026-07-05 Fable 5 session reflexive specimen
+  (transcript hash verifies). The branch called it the "second" specimen, but main's ordinals had
+  already been assigned, so it is identified by date. See the numbering note at its entry.
+
+**Superseded; not merged.** Their commits are on `main` in later form (87–100% of added lines
+present). The lines that are absent are custody statements reset on 2026-07-02, manifests replaced
+by later re-captures, and last-updated lines since rewritten: `add-canonical-iic-tags`,
+`claude/veriticide-convention-remap-wjtudj`, `claude/veriticide-ledger-audit-wjtudj`,
+`claude/veriticide-ledger-formatter-2fhyv9`, `claude/control-null-comparison-0dgl0i`,
+`claude/election-redistricting-map-4upzsr`, `claude/ai-psychosis-sycophancy-9zbfxc`,
+`claude/gap-filling-egress-ueaah5`, `claude/bot-swarms-x-opinion-g9b7hf`,
+`codex/add-agents-governance`.
+
+**Held for the operator:** `claude/doge-mapping-kuqirn`. It holds Pattern Registry "Entry 9: The
+Multi-Actor Denial Set", a Grok USAID-mortality thread numbered Entry 3.6 (which collides with an
+existing 3.6 even on its own branch), and a Musk denial entry that duplicates main's 2026-06-28
+filing under Entry 14 but adds the X status IDs that main's entry lists as required. Its PR (#25)
+was closed unmerged on 2026-08-01 with no recorded reason. Whether that closure was a ruling on the
+content is the operator's to say.

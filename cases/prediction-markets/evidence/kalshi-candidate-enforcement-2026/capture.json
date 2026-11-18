@@ -1,0 +1,17 @@
+{
+  "item_id": "kalshi-candidate-enforcement-2026",
+  "source_url": "https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). This environment's egress policy returns HTTP 403 on source hosts and throttles web.archive.org (429), so original-form bytes are not held. Canonical URL + verbatim text verified; promote with capture.sh --promote from an open-egress environment.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-04-22",
+  "grade": "P2 (named enforcement actions) + S1",
+  "track": "II(3)(c) foreseeability + partial CONTROL (the exclusion wall, applied)",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "b40ffc815ac4b86182a4ae6a4b06a911947e6ed8b008285725102778281e93d1",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: requires open-egress capture.sh --promote (source hosts return 403 in this environment).",
+  "notes": "Kalshi fined/suspended (5-yr) Moran (VA, >$6,200, refused agreement), Klein (MN-02, >$530), Enriquez (TX-21, >$780) for betting their own races. Cuts both ways: partial CONTROL (the wall exists and fired) AND foreseeability (operators knew the outcome-channel harm was live)."
+}

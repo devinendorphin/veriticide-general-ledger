@@ -7,3 +7,7 @@ run-manifest.jsonl
 # Operator's frozen probe set, if they choose to keep it private, stays out by default.
 # (Remove the next line to version your probes.yaml.)
 probes.yaml
+# Phase 0.2 navigator: operator's frozen battery stays local by default
+# (only its sha256 enters the repo, via prereg_hash). Remove to version it.
+battery.yaml
+raw_selftest/

@@ -1,0 +1,17 @@
+{
+  "item_id": "trumpjr-dual-platform-roles-2026",
+  "source_url": "https://frontofficesports.com/donald-trump-jr-kalshi-polymarket/",
+  "capture_method": "Sanctioned web search via Claude Code agent proxy (2026-06-29). This environment's egress policy returns HTTP 403 on source hosts and throttles web.archive.org (429), so original-form bytes are not held. Canonical URL + verbatim text verified; promote with capture.sh --promote from an open-egress environment.",
+  "captured_by": "Claude Code session (operator: gallegos.devon@gmail.com)",
+  "captured_at": "2026-06-29T00:00:00Z",
+  "bears_date": "2026-05-27",
+  "grade": "S1 (multiple independent outlets)",
+  "track": "II(2)(c) — the operator node of the vertical stack",
+  "custody_state": "LOCATOR-VERIFIED",
+  "sha256_transcript": "bd9a1da029bd3c65196d343c82f6d87237cf92594fbbd1c629065958b08a2582",
+  "custodians": [
+    "devinendorphin/veriticide-general-ledger (git)"
+  ],
+  "original_form_capture": "PENDING: requires open-egress capture.sh --promote (source hosts return 403 in this environment).",
+  "notes": "Don Jr. paid Kalshi strategic advisor (since Jan 2026; ~$300K equity per single-outlet report) AND Polymarket advisory board via 1789 Capital (double-digit-millions). Advises both dominant platforms. Filed as convergence fact, NOT as proof of any trade ('he doesn't trade' is a category error, not a defense)."
+}

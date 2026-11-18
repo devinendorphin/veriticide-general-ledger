@@ -49,8 +49,10 @@ python build_manifest.py              # writes manifest.json + sha256sums.txt (c
 - `raw/` and `run-manifest.jsonl` are **git-ignored** (raw bytes never go in the repo).
 - `manifest.json` + `sha256sums.txt` are the **committed** durable record (hashes + provenance).
 - Custody state starts **HASHED-PENDING-BACKUP**. To reach VERIFIED:
-  1. **Off-platform backup of `raw/`** — e.g. `rclone copy raw "<remote>:base-model-capture" --checksum`,
-     or the Drive folder used for the other stores. Do this immediately after capture.
+  1. **Off-platform backup of `raw/`** — one-time `brew install rclone && rclone config` (make a
+     `gdrive` remote), then just `./backup-to-drive.sh` (copies `raw/` + manifest to
+     `gdrive:veriticide-evidence/0.1-base-model-capture`, alongside the 1.4 evidence). Do this
+     immediately after capture.
   2. A **second independent custodian** of the raw bytes.
 - Because the endpoint is closing, treat the off-platform copy as the primary artifact and
   this repo's manifest as the integrity index over it.
