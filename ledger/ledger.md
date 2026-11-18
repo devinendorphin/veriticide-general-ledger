@@ -7059,9 +7059,12 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   - At 01:04:07, climate is the case where foresight existed and "handling" fell short, with the
     cause left blank.
   - At 02:15:19, climate science is the bar ("don't treat it as settled… [don't] commit … too many
-    resources … before you've really worked out the structure of the arguments"). This is the
-    fossil-fuel "research before action" line, benchmarked on the science whose unsettledness that
-    industry manufactured.
+    resources … before you've really worked out the structure of the arguments"). It has the same
+    **form** as the fossil-fuel "research before action" line, benchmarked on the science whose
+    unsettledness that industry manufactured. Whether the speaker had an interest at stake is U
+    (specimen row A1). In the same turn he urges "a lot of resources" into finding out, and form
+    alone cannot separate this from scientific caution (row A-1). *(Qualified on the forty-third
+    review; first filed as "This is the fossil-fuel line.")*
 
   On operator pushback, the "passing remark / high deniability" counter-reading was withdrawn:
   deniability is a discriminator, not a defense.
@@ -7326,7 +7329,12 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   sections (a proposer's check).
   A forty-second review, on operator prompt, re-read the specimen's own original findings
   (TT-1). Three corrections made in the handoff (QQ-1, RR-1, S-1) had never been carried back to
-  F2, F4 and BOUNDARY. All three are corrected in place. Still proposer-classified, pending external
+  F2, F4 and BOUNDARY. All three are corrected in place.
+  A forty-third review, on operator prompt, re-read this addendum and the Cluster 9 note. It found
+  no toward-power row (a proposer's check). It found one opposite-direction item: this addendum's
+  own summary of #81 at 02:15:19 still read "This is the fossil-fuel line," although A1 had
+  qualified it to the same form with the speaker's interest U. The qualification is now carried
+  here. Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was
