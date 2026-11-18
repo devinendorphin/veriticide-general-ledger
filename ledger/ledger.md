@@ -7103,7 +7103,19 @@ The third reflexive specimen (`docs/reflexive-specimen-2026-07-07-bad-faith-ledg
   showing tracker estimates of 0.8–2.5% and a $500M *portion* moved (corpus-level deference,
   toward the funder). A conflict note now sits under Track B. On the opposite pole, the blind
   packet's questions had led toward the analyst's findings; they are rewritten as non-leading, and
-  the packet's comparators are labelled as the analyst's selection. Still proposer-classified, pending external
+  the packet's comparators are labelled as the analyst's selection.
+  A fifth review, on operator prompt, fixed several items:
+  - **Toward power (I-1):** the fourth review had struck "a stake held through a nonprofit vehicle
+    is still a stake." That was wrong to strike: any entity holding equity has an interest in it.
+    The open question is which entity holds it.
+  - **Toward power (I-2):** the "channel" hypothesis was built without noting that its loudest
+    public form is the deregulation side's "regulatory capture" argument. Used unqualified, that
+    argument drains will for regulation. A symmetric condition was added.
+  - **Opposite pole (A-9):** the fourth review's "order-of-magnitude understatement" compared a
+    transfer-time value to 2026 valuations. A source for the whole-stake reading exists. The
+    conflict note was rewritten.
+  - **Owed check done:** fromInside.ai's site text makes no tobacco or fossil analogy (NULL for the
+    "same omission" claim). The omission originates in the video. Still proposer-classified, pending external
   review.
 
 All four record the **same direction**: a default, power-conservative deflection that was
@@ -8194,7 +8206,16 @@ asymmetry audit.
 | **Chain** | Moskovitz personal Anthropic investment → financial stake in Anthropic's success → OP philosophical decisions establishing AI safety as priority cause area → self-validating loop; AND: Karnofsky OP co-CEO → "most important century" framework → AI safety as priority cause → Karnofsky married to Anthropic President → Karnofsky joins Anthropic 2025; AND: OP reduces relationship disclosures August 2017 (at the moment these ties become significant) |
 | **Gap** | OP made no documented direct grant or investment to Anthropic — the chain does not include institutional direct funding. Internal OP deliberation records not public. Whether the relational conflict-of-interest structure influenced OP's broader AI-safety funding decisions (beyond Anthropic specifically) is documentable circumstantially but not in primary form |
 
-*Conflict note (2026-11-18):* The Moskovitz row's "stake ~$500M; moved to nonprofit vehicle early 2025" conflicts with secondary trackers. Their estimates put the stake at about 0.8–2.5% (several billion dollars at 2026 valuations), with a $500M **portion** moved to a nonprofit vehicle in November 2025. Neither figure is from a primary disclosure. Until captured, read the row as the transferred portion, not the whole stake. See `docs/reflexive-specimen-2026-11-18-controlled-alarm-video.md`, row H-1.
+*Conflict note (2026-11-18, revised the same day):* Two secondary readings of the Moskovitz row's
+"stake ~$500M; moved to nonprofit vehicle early 2025" exist, and neither comes from a primary
+disclosure. (a) The **whole stake**, worth roughly $500M, was transferred to his charity
+(political.org, 15 Sep 2026; low grade). This is consistent with about 0.8% at the March 2025
+$61.5B valuation (analyst arithmetic, A1). (b) A $500M **portion** was moved in November 2025
+(tracker). Under either reading, the equity is now held by a charitable entity, and its value at
+2026 valuations is several times the transfer figure if the stake is about 0.8% or more. Still U:
+which entity holds it, and whether it is the philanthropy that funds Palisade. An earlier version
+of this note told readers to read the row as the portion only; that was not supported and is
+withdrawn.
 
 *Authorization type assessment:* CONSTRUCTIVE. Moskovitz's personal investment and Karnofsky's marriage to Anthropic's president while setting OP's philosophical direction on AI created structural conditions in which OP's philosophical validation of AI development as the most important cause and Anthropic's operation as the primary "safe" AI lab are mutually reinforcing through personal channels rather than institutional ones. OP's August 2017 reduction of relationship disclosures is the documented conduct that concretizes the constructive authorization: awareness of the conflict, continued operations, reduced transparency.
 

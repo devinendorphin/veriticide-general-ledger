@@ -346,9 +346,10 @@ https://www.pbs.org/wgbh/frontline/documentary/the-power-of-big-oil/transcript/
   November 2023 board crisis.
 - Karnofsky later moved to Anthropic. Karnofsky is married to Anthropic president Daniela Amodei.
 - Dustin Moskovitz (Good Ventures, Open Philanthropy's primary funder) invested in Anthropic's 2021
-  Series A. Tracker estimates put his stake at roughly 0.8–2.5%. One tracker reports a $500M portion
-  moved into a nonprofit vehicle in November 2025. These are secondary figures that conflict; none
-  is a primary disclosure.
+  Series A. One report (political.org, Sep 2026; low-grade) says the whole stake, roughly $500M,
+  was transferred to his charity. Trackers describe a $500M portion moved in November 2025 and
+  estimate the stake at 0.8–2.5%. These figures are secondary, conflict, and include no primary
+  disclosure.
 - Palisade Research lists grants from Good Ventures via Open Philanthropy.
 
 ---
@@ -513,13 +514,21 @@ critics have a documented history. Apply the precedent at its own standard. The 
 counts because the critic's ask served the funder's market. Here, the site's ask is *Pacing the
 Frontier*, which Anthropic's CEO signed; one of the site's own interviewees calls it "just what Sam
 Altman wants." The funder side of the link is on record. Moskovitz invested in Anthropic's 2021
-Series A. Tracker estimates put his stake at roughly 0.8–2.5%, which is several billion dollars at
-2026 valuations; one tracker gives 1.6%. One tracker reports that a $500M **portion** was moved into
-a nonprofit vehicle (November 2025). These are secondary figures that conflict; verify before
-quoting any number. Whether the nonprofit vehicle retains an economic interest depends on its terms,
-which are not established. The other half of the link is also open: whether *Pacing the Frontier*
-serves frontier incumbents. State both as open. One disanalogy goes on screen with them: the Good
-Ventures → Palisade line is disclosed.
+Series A. One report (political.org, 15 Sep 2026; low-grade source) says he transferred the stake,
+then worth roughly $500M, to his charity "to avoid the appearance of conflicts of interest."
+Trackers instead describe a $500M portion. The figures are secondary and conflict, so verify
+before quoting any number. Either way, an entity holding Anthropic equity has an economic interest
+in Anthropic's value. Which charity holds it, and whether it is the philanthropy that funds
+Palisade, is not established; that is the open question to state. The other half is also open:
+whether *Pacing the Frontier* serves frontier incumbents. One disanalogy goes on screen with these:
+the Good Ventures → Palisade line is disclosed.
+
+**Guardrail on this point.** The "safety advocates are captured by the labs they warn about"
+argument is also the deregulation side's main line. The same report attributes it to a policy
+analyst arguing against "sweeping AI regulations," and to commentators calling it "textbook elite
+regulatory capture." If you raise the money line, say who else uses the capture argument and to
+what end. Otherwise the video drains will for regulation in the way the history segment
+describes.
 
 **Their side, which you must also carry.**
 - ExxonMobil's statements to FRONTLINE: it "has never had any unique or superior knowledge about
