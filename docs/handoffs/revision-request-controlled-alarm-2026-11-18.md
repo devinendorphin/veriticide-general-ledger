@@ -302,10 +302,19 @@ Show the power on each side, and the party that is neither:
     - *Boundary:* this list covers AI-specific political vehicles only. Two larger channels are
       outside it. **Federal lobbying** by the labs is the main mechanism in FRONTLINE's account.
       Reported 2025 federal totals (secondary compilations citing LDA filings; check the Senate
-      LDA database before quoting): Meta about $26.3M (highest of any company in any industry);
-      Alphabet/Google about $13.1M; Microsoft about $9.4M; Anthropic about $3.1M (up from
-      $720K in 2024); OpenAI about $3M (up from $1.76M). The parents of the labs on the site
-      lobby at several times the AI-native labs' rate. State lobbying is not tallied. **General political spending** by lab principals is also
+      LDA database before quoting):
+      - Meta about $26.3M (highest of any company in any industry);
+      - Amazon about $17.9M (Anthropic's largest investor);
+      - Alphabet/Google about $13.1M;
+      - Microsoft about $9.4M (OpenAI's largest investor);
+      - Nvidia about $4.9M;
+      - Anthropic about $3.1M (up from $720K in 2024);
+      - OpenAI about $3M (up from $1.76M).
+
+      These are **total** federal lobbying across all issues, not AI-specific. The large
+      companies lobby on antitrust, privacy and much else. Do not compare the totals as rates of AI
+      lobbying, in either direction. Each lab's investors appear on the list. State lobbying is
+      not tallied. **General political spending** by lab principals is also
       outside it. The largest is Elon Musk's America PAC (xAI's
       owner; recorded in the ledger's Cluster 3). It is not counted here, and the line should say
       so if the topic is raised.
