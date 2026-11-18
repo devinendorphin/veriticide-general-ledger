@@ -390,8 +390,13 @@ Cluster 7 row 8 and Track B; verify):**
   Project. Both were advocates on OpenAI's restructuring and on California's AI safety law. The
   subpoenas sought communications with legislators, journalists and former employees. OpenAI says
   this was evidence preservation in the Musk litigation (Fortune, 10 Oct 2025).
+- On the safety side's political spending: in February 2026 Anthropic gave $20M to Public First
+  Action, a 501(c)(4) that does not disclose its donors and funds two allied super PACs backing
+  candidates who favour AI safeguards. The group's target rose to $75M. A second $20M from
+  Anthropic was reported later in 2026 (Axios, Bloomberg Law, 12 Feb 2026). It was set up as a
+  counterweight to Leading the Future.
 - This list is incomplete on both sides. It is included so that money lines are disclosed on both
-  sides, not only the safety network's.
+  sides, not only one.
 
 ---
 
@@ -673,7 +678,11 @@ Two failures to avoid: dismissing the capture question because of who raises it,
 as settled because the money lines exist.
 
 Show the power on each side, and the party that is neither:
-- **The safety network** is well-funded.
+- **The safety network** is well-funded, and so is its political arm. In February 2026 Anthropic
+  gave $20M to Public First Action, a 501(c)(4) that does not disclose its donors and funds two
+  allied super PACs backing pro-safeguard candidates. A second $20M was reported later in 2026
+  (Axios, Bloomberg Law, 12 Feb 2026). Its rival is the industry's Leading the Future network
+  (more than $125M; a16z's founders and OpenAI's president among its donors). Both sides spend.
 - **The deregulation side** has, on the record so far, won SB 1047, which was vetoed. One
   low-grade report also describes a March 2026 White House framework calling for "removal of
   barriers to deployment" and "a uniform national framework"; verify it against the primary.
