@@ -178,9 +178,14 @@ Show the power on each side, and the party that is neither:
 - **The deregulation side** has, on the record so far, won SB 1047, which was vetoed. One
   low-grade report also describes a March 2026 White House framework calling for "removal of
   barriers to deployment" and "a uniform national framework"; verify it against the primary.
-- **The labs** are the regulated party, and neither camp. Do not file Anthropic under "safety"
-  because that is its self-description. On the record it appears on both sides: its early investor
-  funds the safety network, and its letter preceded the weakening of SB 1047.
+- **The labs** are the regulated party, and neither camp. On SB 1047, OpenAI urged a veto, and the
+  bill was weakened, in TechCrunch's words, "taking advice from Anthropic." Anthropic's record runs
+  both ways and should be shown both ways:
+  - its early investor funds the safety network, and its letter shaped the weakening;
+  - its documented refusals of Pentagon uses for autonomous weapons and mass surveillance are
+    real counter-evidence (veriticide ledger, Entry 7.2).
+
+  Do not file it under "safety" on its say-so, or strip the label against the record.
 - **The public the video addresses** ("from the sidewalk") is neither camp. The fight between the
   two camps is a fight among the powerful. Do not cast either camp as the dissenter.
 
