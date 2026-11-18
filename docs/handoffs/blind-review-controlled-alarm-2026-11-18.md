@@ -398,6 +398,8 @@ Cluster 7 row 8 and Track B; verify):**
 - Meta, from its corporate treasury, launched two super PACs in 2025 to fight state AI rules: a
   California PAC (about $20M reported) and the national American Technology Excellence Project
   (about $45M reported). Figures were not checked against filings.
+- Boundary: AI-specific vehicles only. General political spending by lab principals (the largest
+  being Elon Musk's America PAC) is outside this list.
 - This list is incomplete on both sides. It is included so that money lines are disclosed on both
   sides, not only one.
 
@@ -702,8 +704,13 @@ Show the power on each side, and the party that is neither:
         reports describe a $65M election push in total (Politico, Aug 2025; press, Sep 2025–Feb
         2026; figures not checked against FEC or California filings).
     - *Principals and investors:* OpenAI's president, Greg Brockman, personally gave $12.5M, and
-      a16z's founders gave $25M, to Leading the Future (more than $125M). OpenAI reportedly says it
-      made no super-PAC contributions itself (unverified).
+      a16z's founders gave $25M, to Leading the Future (more than $125M). Other reported backers
+      include Joe Lonsdale, a Palantir co-founder (Palantir is Claude's classified-network
+      integrator). OpenAI reportedly says it made no super-PAC contributions itself (unverified).
+    - *Boundary:* this list covers AI-specific political vehicles only. General political
+      spending by lab principals is outside it. The largest is Elon Musk's America PAC (xAI's
+      owner; recorded in the ledger's Cluster 3). It is not counted here, and the line should say
+      so if the topic is raised.
 
     Both are money from the regulated industry flowing to the candidates who will regulate it.
     Do not merge the two into a symmetric "both sides," and do not credit Anthropic's spending to
