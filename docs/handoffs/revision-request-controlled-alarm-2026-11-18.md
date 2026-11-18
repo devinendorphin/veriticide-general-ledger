@@ -310,15 +310,19 @@ Show the power on each side, and the party that is neither:
         $3B by 2025, plus $10B in April 2026 and up to $30B more);
       - Microsoft about $9.4M (OpenAI's largest investor, **and** about $5B committed to
         Anthropic, November 2025);
-      - Nvidia about $4.9M (about $10B committed to Anthropic, November 2025);
+      - Nvidia about $4.9M (about $10B committed to Anthropic, November 2025; **also** an OpenAI
+        investor: a September 2025 letter of intent for up to $100B, later reported scaled back to
+        about $20B in OpenAI's round, final amount unconfirmed);
       - Anthropic about $3.1M (up from $720K in 2024);
       - OpenAI about $3M (up from $1.76M).
 
       These are **total** federal lobbying across all issues, not AI-specific. The large
       companies lobby on antitrust, privacy and much else. Do not compare the totals as rates of AI
       lobbying, in either direction. **Four of the five largest lobbyers on the list are Anthropic
-      investors** (investment figures from the veriticide ledger's Amazon and Google investment
-      maps and its affiliation map, E23; S1). State lobbying is not tallied. **General political spending** by lab principals is also
+      investors**, and two of them (Microsoft, Nvidia) are also OpenAI investors. These companies
+      invest across labs; do not present their lobbying as done on any one lab's behalf.
+      (Investment figures are from the veriticide ledger's Amazon and Google investment maps and
+      its affiliation map, E23; S1.) State lobbying is not tallied. **General political spending** by lab principals is also
       outside it. The largest is Elon Musk's America PAC (xAI's
       owner; recorded in the ledger's Cluster 3). It is not counted here, and the line should say
       so if the topic is raised.
