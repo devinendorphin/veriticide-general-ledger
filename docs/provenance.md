@@ -596,6 +596,16 @@ row 10 do not appear in the card; they were replaced with verbatim card text. Ro
 The operator's hypothesis on GPT-6.1 Astra is recorded with a revised assessment. Rows 1–9 are unaffected; the
 tendency finding does not rest on row 10.
 
+## 2026-10-04 — Adversarial assessment through sycophancy to power; README custody correction
+
+Operator request: a maximal adversarial assessment of the repo, viewed through sycophancy to power until nothing is
+left to flag (`docs/adversarial-assessment-2026-10-04.md`). Four lens rounds; stopped under a pre-stated rule.
+**README corrected (A2):** the Band-1 header "VERIFIED custody", redistricting's "nine-item VERIFIED store",
+Boxtown's "6/6 VERIFIED", and the bot-swarm's "eight-item VERIFIED store" disagreed with the governing
+`custody-index.json` files (DOGE 0/15, redistricting 0/9, Boxtown 9/11, bot-swarm 7/8, Palantir 3/10 VERIFIED).
+Now restated from the indexes. No index, ledger entry, or classification changed. All other findings are recorded as
+recommendations for the operator.
+
 ## 2026-10-10 — ICC packet: external review received and disposed (`cases/rubio-icc-dismantlement/`)
 
 The operator supplied the GPT-6 / Codex review of the handoff `docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`.
