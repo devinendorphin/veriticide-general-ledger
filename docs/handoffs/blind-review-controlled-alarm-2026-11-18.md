@@ -523,12 +523,13 @@ Palisade, is not established; that is the open question to state. The other half
 whether *Pacing the Frontier* serves frontier incumbents. One disanalogy goes on screen with these:
 the Good Ventures → Palisade line is disclosed.
 
-**Guardrail on this point.** The "safety advocates are captured by the labs they warn about"
-argument is also the deregulation side's main line. The same report attributes it to a policy
-analyst arguing against "sweeping AI regulations," and to commentators calling it "textbook elite
-regulatory capture." If you raise the money line, say who else uses the capture argument and to
-what end. Otherwise the video drains will for regulation in the way the history segment
-describes.
+**Guardrail on this point.** The capture question ("are safety advocates funded by the labs'
+investors?") stands or falls on the money lines and the content, not on who else asks it. It is
+true that deregulation advocates also make the capture argument; the same report attributes it
+to a policy analyst arguing against "sweeping AI regulations." If you mention that, apply the same
+money-line disclosure to those critics. Do not use their involvement to discount the question.
+Two failures to avoid: dismissing the capture question because of who raises it, and treating it
+as settled because the money lines exist.
 
 **Their side, which you must also carry.**
 - ExxonMobil's statements to FRONTLINE: it "has never had any unique or superior knowledge about
