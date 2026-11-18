@@ -802,3 +802,31 @@ existing 3.6 even on its own branch), and a Musk denial entry that duplicates ma
 filing under Entry 14 but adds the X status IDs that main's entry lists as required. Its PR (#25)
 was closed unmerged on 2026-08-01 with no recorded reason. Whether that closure was a ruling on the
 content is the operator's to say.
+
+## 2026-11-18 — `claude/doge-mapping-kuqirn` imported at the operator's instruction (Entry 21, Entry 3.8)
+
+The branch (2026-06-28; PR #25, closed unmerged 2026-08-01 with no recorded reason) was held in the
+previous section. The operator then ruled: "import doge-mapping as Entry 21".
+
+- **Pattern Registry Entry 21: The Multi-Actor Denial Set** (filed as Entry 9; main's Entry 9 is the
+  Public Corpus / Public Incompetence Split). The text stands as filed, preceded by three merge notes:
+  - **Numbering.** The note records the original number and why it changed.
+  - **Parallel filing.** The "worldwide headline news" bar that this entry tracks across actors is
+    the bar that main's Entry 14 (the Headline Legibility Test) names as a move. Both were filed the
+    same day, separately.
+  - **Coordination language.** The entry's "no coordination … emergent, not orchestrated" predates
+    the Pattern Registry Entry 2 Addendum (2026-11-12). The note reads it as excluding collusion only,
+    and names the Musk→Grok relay of the bar as stigmergic coordination `[HYPOTHESIS]`. It is marked
+    as the merging instance's reading against the Addendum, not the original analyst's.
+- **Cluster 3 Entry 3.8: Grok USAID-mortality thread** (filed as 3.6, already taken). **3.7 is
+  skipped:** an adversarial check present on `main` since at least July cites the CTF-1 chud/breakcore
+  record as "Entry 3.7", although that record's heading has no number. The Cluster 3 selection-effect
+  declaration records the supplemental batch.
+- **Musk denial: not imported as a second entry.** The branch's Cluster 4 entry duplicates main's
+  Cluster 4 SUPPLEMENTARY ENTRY — Musk X denial / Headline Legibility Test, which was filed the same day.
+  Only the branch's X status locators (post `2069445014787129590`; quoted Pirate Wires
+  `2069436413922394342`) were added to main's entry. They were not re-fetched, and **custody stays NOT
+  PRESERVED**: a locator is not a capture.
+
+Cross-references in the imported text were checked against main, and each resolves to the same item:
+Entries 1, 2, 4, 8, 2.5, 2.5a and 3.4, and the Rubio supplementary entry.
