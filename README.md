@@ -217,7 +217,7 @@ python3 scraper.py                 # all configured sources
 
 The ledger documents acts, not persons. A single item is an instance, not proof. Pattern across entries is the proof.
 
-Every entry includes a mandatory **BOUNDARY** section stating what the item establishes and what it does NOT establish on its own, and a **gap formula**: if the stated concern is X, the material remedy is Y; a consistent record of voicing X while opposing Y is the load-bearing lie.
+Where a real test or record bounds a claim the entry makes, the entry includes a **BOUNDARY** section stating what the item establishes and what it does NOT establish on its own; it is not a mandatory boilerplate slot. Every entry includes a **gap formula**: if the stated concern is X, the material remedy is Y; a consistent record of voicing X while opposing Y is the load-bearing lie.
 
 The six laundering moves flagged in each entry:
 

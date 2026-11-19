@@ -1,5 +1,7 @@
 # veriticide-general-ledger
 
+**Read first:** `RULES.md` at the repo root (standing rules R1–R5).
+
 **Register: formal / evidentiary.** The strictest register in the collection. Claims carry
 epistemic status, boundaries are stated explicitly, and nothing is asserted past what the
 evidence bears.
@@ -14,8 +16,9 @@ capture and protocol-grade analysis of institutional harm laundering. The delive
   (`SPECIMEN` · `CONTROL` · `NULL` · `SINCERE-UNBOUNDED` · `INSTRUMENT`), the six laundering
   moves, the tier taxonomy, and the evidence bands are defined in `docs/` — read them before
   writing an entry.
-- **Every entry needs a BOUNDARY section** stating what the item establishes and what it
-  does *not* establish alone. A single item is an instance; pattern is the proof.
+- **BOUNDARY only where a limit is real (`RULES.md` R2).** Include a BOUNDARY section only when a real
+  test or record bounds a claim actually made in the entry, not as a mandatory boilerplate slot. A single
+  item is an instance; pattern is the proof.
 - **Step one, never step two.** Case files assert a basis to demand preservation,
   disclosure, audit, and inquiry. A finding of guilt is for a tribunal.
 - **Structural identity is not collusion.** The "one mechanism" claim is about a shared

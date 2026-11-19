@@ -1,3 +1,5 @@
 # Changes to these files need Endorphin's review.
+/.github/CODEOWNERS @devinendorphin
 /RULES.md @devinendorphin
 /CLAUDE.md @devinendorphin
+/AGENTS.md @devinendorphin

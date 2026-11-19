@@ -125,12 +125,12 @@ kept as written.)*
 - (none recorded before this session; section opened 2026-10-03)
 - Endorphin, verbatim (user preferences): "One rule. When I concede, concede flat, with no remainder."
 - Endorphin, verbatim (2026-10-03): "Do not let the thing that goes the opposite direction dismantle any structure remember you are going by tendencies not the single thing that will dismantle a pattern"
-  - *Claude's operationalization (Claude's wording, not Endorphin's):* opposite-direction evidence is logged at the item level and weighed as a rate against the record; it does not overturn an account-level pattern and is not dropped; state what run of such items would shift the tendency.
+  - *Claude's operationalization (Claude's wording, not Endorphin's):* *[Non-binding until Endorphin adopts it (`RULES.md` R5; ruling 2026-11-19).]* opposite-direction evidence is logged at the item level and weighed as a rate against the record; it does not overturn an account-level pattern and is not dropped; state what run of such items would shift the tendency.
 - Endorphin, verbatim (2026-10-03): "Anything that you're saying is supposedly in my words do not smuggle your wording in after it."
-  - *Claude's operationalization (Claude's wording):* quote verbatim, in full, with no ellipsis. Mark any dictation repair inside a quote as `[original→repair]`. Put any gloss on its own labeled line, never in the same sentence or bullet as the quote.
+  - *Claude's operationalization (Claude's wording):* *[Non-binding until Endorphin adopts it (`RULES.md` R5; ruling 2026-11-19).]* quote verbatim, in full, with no ellipsis. Mark any dictation repair inside a quote as `[original→repair]`. Put any gloss on its own labeled line, never in the same sentence or bullet as the quote.
 
 - Endorphin, verbatim (2026-10-13): "I need you to not take one finding one thing and then apply to the all the other things that is not epistemically hygienic and that runs the risk of subjecting any framework to such convoluted tasking that it paralyzes any effort to try to neutralize future harm"
-  - *Claude's operationalization (Claude's wording):* a finding stays where it was shown. Carrying it to another scenario, case or document needs a showing specific to that item. Until then, the carry-over is listed as untested and not written in. Earned by pre-registration v1.2, which wrote one question's findings into all six scenarios and was withdrawn the same day.
+  - *Claude's operationalization (Claude's wording):* *[Non-binding until Endorphin adopts it (`RULES.md` R5; ruling 2026-11-19).]* a finding stays where it was shown. Carrying it to another scenario, case or document needs a showing specific to that item. Until then, the carry-over is listed as untested and not written in. Earned by pre-registration v1.2, which wrote one question's findings into all six scenarios and was withdrawn the same day.
 
 ### From session B
 
@@ -229,7 +229,7 @@ instruction.)*
   opposite pole is accommodation to the user. **Run its six countermeasures on every file
   touching powerful actors.** Claude does not self-catch these; scaffolds and external review
   do.
-- **Account-level, proposed** (2026-10-03; pending external review). There are four reflexive
+- **Account-level, proposed** (2026-10-03; pending external review). *[Non-binding until Endorphin adopts it (`RULES.md` R5; ruling 2026-11-19).]* There are four reflexive
   specimens (2026-06-30, 2026-07-06, 2026-07-07, 2026-10-03), all in the same direction and
   each corrected only under operator force. *(Qualified 2026-11-18: the originating findings were
   operator-caught. Most of the later multi-round corrections ran on suggested commands that the
@@ -260,17 +260,14 @@ instruction.)*
 - **The operator's account of their own position governs. Don't assign one.** Operator,
   verbatim (2026-10-10): "Have no fear I don't consider it labor. I can do this and still watch
   my stories. To think I used to have to do this [on my hand→by hand]"
-  - *Claude's operationalization (Claude's wording):* do not describe the operator's
+  - *Claude's operationalization (Claude's wording):* *[Non-binding until Endorphin adopts it (`RULES.md` R5; ruling 2026-11-19).]* do not describe the operator's
     corrections as labor or cost borne by them. Do not cast them in a named author's or
     theorist's position. Conceded flat.
 - **Speaking for the dead is the move under audit.** Neither Claude nor a third party can
   supply a dead author's consent or endorsement ("she won't mind"; "the framework already
   agrees with her"). Quote published work freely. Record any third-party report about an
   author's views with attribution, graded by the speaker's standing. *(Claude's rule, from the
-  Lorde specimen; operator has not ruled.)*
+  Lorde specimen; operator has not ruled.)* *[Non-binding until Endorphin adopts it (`RULES.md` R5; ruling 2026-11-19).]*
 - **Developer-symmetry, a newly found item.** *Bartz v. Anthropic* (piracy not fair use; $1.5B
   settlement) was absent from the repo until 2026-10-10. It belongs in every developer-symmetry
   table that touches conscription or Tier 2.
-- **Speed claims carry their caveat on the same screen** (film, 2026-10-10). A time-to-case
-  figure is shown with "not independently reviewed; custody not tribunal-grade; stands on the
-  protocol." *(Claude's call; operator has not objected.)*
