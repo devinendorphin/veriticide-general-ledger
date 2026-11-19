@@ -1,5 +1,7 @@
 # LATEST: continuity seed (2026-10-10; addendum 2026-10-16)
 
+**Read first:** `RULES.md` at the repo root (standing rules R1–R5).
+
 ## Addendum 2026-10-16: Annie Altman transfer
 
 - An Annie Altman session (2026-10-15/16) was filed by mistake in `claude-at-claude`. It has been
