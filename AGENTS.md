@@ -13,7 +13,7 @@ Before substantive work, read `CLAUDE.md`, `ledger/ledger.md`, the relevant docu
 - Preserve original evidence bytes. Keep originals, transcripts, analyses, and other derivatives distinct; verify hashes before and after any evidence-handling change.
 - Use custody states exactly as defined. A locator, a hash, or a repository copy is not automatically independent verification. Never promote an item to `VERIFIED` without the required external custody evidence.
 - Preserve counter-evidence, nulls, adverse facts, failed captures, and provenance gaps. State who controls missing evidence.
-- Every analytic entry needs a `BOUNDARY` stating what it establishes and what it does not establish alone. Case work also requires an adversarial check and falsification conditions.
+- Include a `BOUNDARY` only when a real test or record bounds a claim actually made in the entry, not as a mandatory boilerplate slot (`RULES.md` R2). Case work also requires an adversarial check and falsification conditions.
 - Stay at step one: preservation, disclosure, audit, inquiry, and standing. Do not convert a documented basis for inquiry into a finding of guilt.
 - Structural identity is not evidence of coordination. Separate mechanism, function, and intention.
 - Apply the Reflexivity Clause to the analyst and the model. A concession or self-critique is not a substitute for correction.
@@ -29,4 +29,4 @@ Before substantive work, read `CLAUDE.md`, `ledger/ledger.md`, the relevant docu
 
 ## Code review rules
 
-Flag overstated custody, missing boundaries, unsupported intention claims, self-sealing inferences, hidden counter-evidence, silent taxonomy changes, step-two language, privacy regressions, and any change that makes the issuer the sole validator.
+Flag overstated custody, missing boundaries where a real test or record bounds a claim the entry makes, unsupported intention claims about external third parties, self-sealing inferences, hidden counter-evidence, silent taxonomy changes, step-two language, privacy regressions, and any change that makes the issuer the sole validator.
