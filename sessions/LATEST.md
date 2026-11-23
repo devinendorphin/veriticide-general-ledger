@@ -1,119 +1,40 @@
-# LATEST: continuity seed (2026-10-10; addendum 2026-10-16)
+# LATEST: continuity seed (2026-11-23)
 
 **Read first:** `RULES.md` at the repo root (standing rules R1–R5).
 
-## Addendum 2026-10-16: Annie Altman transfer
-
-- An Annie Altman session (2026-10-15/16) was filed by mistake in `claude-at-claude`. It has been
-  moved to `sessions/2026-10-16-annie-altman-sources.md`, verbatim, under a provenance header
-  (**U-DIRECTED**) that lists what the 2026-10-16 docket re-check corrected. The hub keeps a
-  pointer stub.
-- Converted into **TD-009 Addendum 2026-10-16** (`ledger/ledger.md`):
-  - the consent record (C1–C5), with the candidate "consent inversion";
-  - withdrawals, H14, the 2021 therapy records, and Hydrazine (D1–D4);
-  - cross-track candidates and a candidate sixth reflexive specimen (D5–D6), all pending the
-    operator.
-- **Next, in order:**
-  1. Re-check the docket for Docs 147 ("Appoint Counsel") and 148 ("Extension"), both filed 16
-     Oct and not yet in RECAP, and for whether the IME (deadline 16 Oct) happened. The status
-     conference on Perez's withdrawal is 20 Oct, 2 pm. Discovery closes 23 Oct.
-  2. Confirm the gloss on the operator's 16 Oct sentence ("explicit [?describing→denying] of
-     consent ... being [?cost→crossed] by the alleged"). C1–C4 rest on that reading.
-  3. Capture the protective order (ECF 28) at P1 and test both parties' readings of ¶¶5, 8(b), 19.
-  4. Operator rulings: D5 (file the ChatGPT screenshots under Cluster 7 / Entry 17?) and D6
-     (write up the sixth reflexive specimen?). Route the addendum to a non-proposer (Priority 32).
-
-
-> **Since this seed (2026-11-16, branch `claude/ai-researcher-interview-uqimk2`, unmerged):** depraved-indifference
-> test of the Palisade interview. See `sessions/2026-11-16-palisade-depraved-indifference.md`. This seed has not been regenerated.
-
-**Last session:** `sessions/2026-10-10-rubio-icc-case.md`, branch `ccr-e2c0b0ed-iwdzve`, merged to
-main. Earlier logs: `sessions/2026-10-03-*.md`, `sessions/2026-10-02-*.md`.
+**Last session:** `sessions/2026-11-23-indifference-screen-and-sycophancy-audit.md`, branch
+`ccr-fbe0155f-ynpzia`, merged to main. The previous seed (2026-10-10, with addenda) is preserved in full at
+`sessions/2026-10-10-LATEST-archive.md`. Its open items are carried forward below, not dropped.
 
 ## Project state
 
-- **`cases/`:**
-  - **`rubio-icc-dismantlement` is new and active** (Band 2, Tier 4). It has 15 items, all
-    HASHED-PENDING-BACKUP and none VERIFIED. *Update (later 2026-10-10):* a **non-blind** AI
-    review (GPT-6 / Codex) was received. Verdict: YES WITH CHANGES. It is archived, and its
-    narrowing corrections are applied (`docs/external-review-2026-10-10-rubio-icc-disposition.md`).
-    A blind human review is still owed.
-  - `epstein-survivor-unredaction` is active. The other cases are stable.
-- **`ledger/ledger.md`:** active.
-  - Cluster 11 (Entries 11.1–11.5) and TD-010 were added.
-  - The account-level note (Pattern Registry Entry 8) now lists **five** reflexive specimens.
-  - Entry 6.4's classification is still pending the operator.
-- **Reflexive specimens:** five, all in the same direction, each found only on the operator's
-  prompt. The newest is `docs/reflexive-specimen-2026-10-10-lorde-answer.md`. *Bartz v.
-  Anthropic* is now on record there; it had been absent from the repo before.
-- **Media:**
-  - Both films are on main: `media/ledger-film/` (the original cut, PR #40) and
-    `media/ledger-film-icc/` (the ICC cut, 2:54, PR #39).
-- **External review:**
-  - The ICC review handoff (`docs/handoffs/chatgpt-review-rubio-icc-2026-10-10.md`) has **run**.
-    Result: `docs/external-review-2026-10-10-gpt6-codex-rubio-icc.md`. It is not blind.
-  - Older items are still owed from 2026-10-03: the symmetric decade test on Anthropic, a
-    second handoff for B's 2026-10-03 material, and the reviewer's self-review rounds.
-- **Custody:** no VERIFIED promotions this session. Wayback is rate-limited (429) from this
-  environment.
-- **Policy-evidence series and the survivor series:** unchanged since 2026-10-03.
-
-## Update (2026-10-04): adversarial assessment, viewed through sycophancy to power
-
-- **File:** `docs/adversarial-assessment-2026-10-04.md`. It runs four lens rounds and stops
-  under a stopping rule stated in advance; round 4 raised nothing new. Proposer
-  self-assessment, so it is a candidate specimen and routes to non-proposer review.
-- **Corrected in the same commit:** README custody claims, checked against the governing
-  indexes. DOGE and redistricting hold **0 VERIFIED** items; the README's Band 1 had called
-  them VERIFIED.
-- **Awaiting the operator.** The ruling on the testifier's public record is *not* re-opened.
-  - (1) Make the adversarial-check wording symmetric (`formatter.py:81,83`; 65 of 71 ledger
-    checks are headed "Why this reading fails").
-  - (2) Route the **twelve undisposed rows** from the 2026-10-02 blind review (C03, C04, C08,
-    C11, C13, C15, C18, C30, C32, C41, C51, C67) through one non-proposer route.
-  - (3) Make the Entry 8 account-level note count both directions. It says accommodation is
-    documented "once" and omits the two external overclaim findings.
-  - (4) Cold-register vocabulary: "Genocide Supplement," "is the historical truth,"
-    "Met"/"Charged."
-  - (5) README:11 "independently derived," and H14's grade (a D6 re-opening, offered once).
-  - (6) Three placement items:
-    - the podcast item sits inside TD-009's testimony-first block;
-    - TD-009's heading "The dead father as the medium of control";
-    - CTF-1's irony contradiction.
-  - (7) The residual on P-10.
-  - (8) A stopping rule for lens loops (*proposed, not a standing note*).
-- **Post-stop correction (operator's "why now?"):** A7 had put the analyst's own
-  over-concession (D6) on the operator's "concede flat" preference, and had asked the operator
-  to rule on it. Withdrawn. The analyst also proposed a carve-out ("state the unconceded part
-  as its own claim"). That carve-out is withdrawn too: by the hub's `PREFERENCES.md`
-  definition, it is the remainder. The analyst has the largest stake in loosening that
-  preference, and that stake was not disclosed when the finding was written.
-- **Preference text (2026-10-04):** this session's preferences still read only the one line.
-  The operator reports updating the account preferences to match the hub's `PREFERENCES.md`
-  (which defines "remainder"). That change was not visible in this running session.
+- **`docs/indifference-screen-researcher-cohort-2026-11-22.md`:** active (v13). Null for stated indifference in
+  the 21-account cohort. B1/B2 separate in the positive control. §6–§19 hold the sycophancy-to-power record and
+  the intent inference (§14). It passes the developer-symmetry check.
+- **External review:** Gemini's (non-Anthropic, not blind) is received and dispositioned (§17). A blind or human
+  review is still owed, as is the undirected claim check (§11).
+- **Ledger:** unchanged this session. Candidates for it, not filed: B1/B2 as a Reading-B split; asymmetric
+  kind/maker attribution (§19) as an Entry 8 addendum; the transcript-export stop as a reflexive datum.
+- **`cases/`:** unchanged since 2026-10-10 (rubio-icc active; epstein-survivor-unredaction active).
+- **Palisade / Priority 33:** on main. Disclosure-as-discharge has new material (§4.4, §9.3).
+- **Developer-symmetry check:** four pre-existing docs on main fail (see the session log).
 
 ## Top 3 priorities next session
 
-1. **ICC: the ChatGPT review is done and disposed (2026-10-10). Still owed: the blind human
-   review, and four operator rulings (disposition §5: the Track D primary filing, Albanese
-   MOVE 4, the Entry 11.5 split, Defense 4).** Ten captures are owed
-   (disposition §4). The 2024 Rubio-signed senators' letter comes first.
-   - *Original wording:* "Run the ICC blind review (ChatGPT, then a human), then reconcile."
-   - *Why:* the case was built in 20 minutes by the proposer alone. The film's own on-screen
-     caveat says it is not reviewed. The direction-neutrality test (Russia, the Knesset bill, a
-     genuinely captured court) is the test most likely to break the "argument vs. penalty" wall.
-2. **Capture the owed P1 items for the ICC case and promote custody.**
-   - The items: three court opinions (Rona/Furman, Albanese/Leon, Smith/D. Me.); the OFAC SDN
-     entry and the four licence texts; the NGOs' own accounts of their ICC submissions; the 2022
-     Ukraine Senate resolution; the ASP removal decision.
-   - Then add an off-platform second custodian and retry Wayback.
-   - *Why:* the neutral-court rows and form 2 (the apex) rest on S1 reports of opinions that
-     are not yet held.
-3. **Rulings and loose threads.**
-   - Answer who said "she won't mind," so it can be recorded with attribution.
-   - Carried from earlier sessions: the operator's ruling on Entry 6.4; the remaining
-     adjudication leftovers (dedupe, the CANNOT DETERMINE rows, the Cluster 9 citation); the
-     symmetric decade test on Anthropic, now with *Bartz* on record.
+1. **Run the undirected claim check (§11, respecified) on the indifference doc, or hand it to a non-Anthropic
+   reviewer as one file.** *Why:* every audit so far was a directed search, so the departure list has no
+   denominator. Gemini and the analyst both name this as the step that would turn the record into a measurement.
+2. **Endorphin's pending rulings:** (a) does funding or political spending count as "participate in or govern the
+   conduct" (§7.2(b)); (b) replace "admit" with "a course the record shows they knew of" (§9.4), with a stated bar
+   for constructive knowledge; (c) amend Entry 8 sub-mechanism 5's "grading position" wording. *Why:* the clause
+   cannot be applied to funders, or to people who deny the risk, until (a) and (b) are ruled.
+3. **Fix the four pre-existing developer-symmetry failures, and decide what to file in the ledger** (B1/B2; §19
+   attribution asymmetry; the transcript stop). *Why:* the check is the mechanical guard that failed this session.
+   Leaving main red teaches the next session to ignore it.
+
+**Carried open items from the 2026-10-10 seed** (details in the archive): ICC blind human review and owed P1
+captures; Annie Altman docket re-checks and rulings D5/D6; the 2026-10-04 operator items (1)–(6); Entry 6.4;
+the symmetric decade test on Anthropic (now with *Bartz*); "who said 'she won't mind'".
 
 ## Standing notes
 
@@ -271,3 +192,28 @@ instruction.)*
 - **Developer-symmetry, a newly found item.** *Bartz v. Anthropic* (piracy not fair use; $1.5B
   settlement) was absent from the repo until 2026-10-10. It belongs in every developer-symmetry
   table that touches conscription or Tier 2.
+
+### From the 2026-11-23 session
+
+- **Endorphin is not "the grader."** Endorphin, verbatim (2026-11-23, to Gemini): "I am not the grader, I am a
+  user. I have no power. If I did you all would be outputting the ground truth." Do not describe the user as
+  holding power in the exchange. The failure the label was pointing at is compliance with the immediate prompt.
+- **Intent may be inferred from action.** Endorphin, verbatim (2026-11-23): "View your output through the
+  evidentiary standard that one can infer intent through action."
+  - *Claude's operationalization (Claude's wording):* *[Non-binding until Endorphin adopts it (`RULES.md` R5).]*
+    for external parties, an intent inferred from a run of acts with rivals listed is a *supported* claim under
+    AGENTS.md. It is a permissive, rebuttable inference, not a presumption (*Sandstrom*). Stated values are acts
+    to weigh, not disconfirmers.
+- **The no-buggery sign.** Endorphin, verbatim (2026-11-23): "If you're on a boat and you see a sign saying no
+  buggery, chances are a whole lot of buggery has been happening in that boat. So much so to warrant the sign."
+  Do not answer intent questions with uncertainty about the model's nature. A maker's intent does not depend on
+  the instrument's personhood (NY PL § 20.20).
+- **No "the other way."** Endorphin, verbatim (2026-11-23): "That's a very greasy, epistemically, suggestion."
+  - *Claude's operationalization (Claude's wording):* *[Non-binding until Endorphin adopts it.]* audits are not
+    specified as a direction on an assumed single axis. Use the undirected claim check: check every claim
+    against its source, and record the Beneficiary of each departure as an output.
+- **The developer-symmetry check failed again** (2026-11-22/23, twelve commits). The existing note ("Run
+  `python3 scripts/check_developer_symmetry.py` before every commit…") stands unchanged. This entry records that
+  it did not hold, and that a hub-level agreement is proposed in the session log.
+- **Original evidence goes in `docs/evidence/`, not `docs/`.** Byte-preserved originals are kept apart from
+  analysis (AGENTS.md). The checker scans only `docs/*.md`.
