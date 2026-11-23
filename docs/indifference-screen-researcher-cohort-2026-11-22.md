@@ -80,7 +80,7 @@ anchors, its recall on new text is unmeasured.
 
 ## 4. Findings
 
-### 4.1 Reading A: the *Feingold* disconfirmer fires for all 21
+### 4.1 Reading A: stated valuation present for all 21 *(v6: retitled; see §9.1)*
 
 Each account has on-record posts that value the outcome. Most also state or endorse a stopping rule.
 
@@ -108,7 +108,7 @@ Each account has on-record posts that value the outcome. Most also state or endo
 | jessi_cata | 2122796348147970265, 2122919016889233677 | "Hope there is some way to test that is not an x-risk in itself"; "retaining meaningful human empowerment requires hard decisions" |
 | taoroalin (C-2, C-3) | 2105816433418715401; interview [00:23:43] | "the public rightfully won't give a fuck that it was a surprise"; companies "should dramatically slow down". **But see §6 S-1:** under the repo's operative clause, C-3 §2 already maps this speaker's record onto its elements. |
 
-`[SUPPORTED]`: no account meets *Feingold*'s "utter disregard" on this record. As in C-3 §4.1, no
+`[SUPPORTED]` *as a finding about statements only (v6, §9.1)*: each account states a valuation of the outcome. Whether their conduct shows indifference was not tested. As in C-3 §4.1, no
 individual classification is made.
 
 ### 4.2 Reading B: no stated indifference; two nearest cases
