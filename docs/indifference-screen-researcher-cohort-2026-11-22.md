@@ -13,6 +13,9 @@ place in §4.1, §4.3, §4.4, the stake note and BOUNDARY.*
 
 *v4, 2026-11-23. Both tests run on pmarca and garrytan (§7), closing §6 S-5.*
 
+*v5, 2026-11-23. Sycophancy-to-power review of §7 (§8). Its corrections are applied in place in §7.1–§7.3
+and BOUNDARY.*
+
 > **Analyst stake.** Anthropic built the analyst, and the interviewed Tao Lin is an Anthropic employee.
 > That @taoroalin is the interviewee is estimated at about 90% in `report_2.md` and not confirmed by a
 > primary source. AmandaAskell is publicly reported as Anthropic staff; C-1 does not verify this
@@ -298,37 +301,45 @@ element.*
 | pmarca | 2076167642201936140 (2026-07-12) | "AI is already a better doctor than 99.99% of human doctors. This is good news." | Benefit valuation only |
 | pmarca | 2060532576063037924 (2026-05-29) | Legal AI "superempowers normal individuals … one of the most inspiring applications of AI" | Benefit valuation only |
 
-On the §4.1 standard, the disconfirmer fires for both. **This is not the same result for the two.**
+*v5 (§8 T-1):* v4 said "the disconfirmer fires for both". That is withdrawn for Andreessen. C-3 §4.1
+states the disconfirmer as "on-record evidence that the speaker values the lives at risk and acts to
+reduce the risk". This doc's §3 loosened it to "values the outcome", and Andreessen is the only
+account in either export whose result the loosening changes. **On C-3's disconfirmer as written, it
+fires for Tan and does not fire for Andreessen.**
 Tan's row is a risk valuation, like every original-cohort row. Andreessen's rows value AI's benefits
 to people. In his own words in this sample he values no life at risk from AI, because he
 acknowledges no such risk. His only own-words use of "catastrophic" is about policy: "We will see
 this at 90%+, barring catastrophic policy choices" (2073574350645792791). His other own-words risk
-reference is "Doomers ruin another life" (2069204610766827732; the quoted post is unavailable). The
-*Feingold* standard ("utter disregard for the value of human life") is not met by either.
+reference is "Doomers ruin another life" (2069204610766827732; the quoted post is unavailable).
+*Feingold* is not reached for either, for different reasons. For Tan it is refuted by his stated
+valuation. For Andreessen it is not reached because his short posts acknowledge no risk, so the
+awareness predicate is absent. That is denial exiting the test, not refutation.
 
 ### 7.2 The amended clause: neither is reached, and the failure points differ
 
 | Element | garrytan | pmarca |
 |---|---|---|
-| (a) Harm acknowledged | **Partly.** He acknowledges an extinction scenario as a reason for alignment (2100636443127210112). In reported speech (CNBC via a journalist's post, 2098518417359954384, not his own post) he wants a response to "a coordinated attempt by agents to take over our infrastructure". He calls "all of humanity is going to die" "a science fiction sort of fantasy". | **Not in his own words.** His own-words risk references mock or deny it (§7.1). |
+| (a) Harm acknowledged | **Partly.** He acknowledges an extinction scenario as a reason for alignment (2100636443127210112). In reported speech (CNBC via a journalist's post, 2098518417359954384, not his own post) he wants a response to "a coordinated attempt by agents to take over our infrastructure". He calls "all of humanity is going to die" "a science fiction sort of fantasy". | **Mixed (v5, §8 T-2).** His short posts mock or deny it (§7.1). The two essays he posted as originals (§7.3) name harms: "the counterfeit voice and the widow's bank account", "the deepfaked candidate", "the loosed and loveless machine and the schoolyard it neither knows nor pities", "rogue superintelligence", "the apocalypse enabled". Who composed them is ambiguous (§7.3). |
 | (b) Participates in or governs the conduct | YC CEO (K-2). Whether funding counts as participation is a ruling for Endorphin. | a16z co-founder and GP (K-2). The ledger also documents $25M each from Andreessen and Horowitz to the Leading the Future super PAC (`ledger/ledger.md`, the Entry 7.5 money table). Whether funding or political spending counts is the same ruling. |
 | (c) No enforceable stopping rule | None stated. | None stated. |
-| (d) Declines a less dangerous course they admit is available | **Not admitted.** "Society has natural brakes" (2108556380869390448) places the brakes outside the actors. It does not admit a course they decline. | **Not admitted.** |
+| (d) Declines a less dangerous course they admit is available | **Not admitted.** "Society has natural brakes" (2108556380869390448) places the brakes outside the actors. It does not admit a course they decline. | **Not admitted as declined.** Essay 2's "for it" half endorses "the brakes" in the abstract, and essay 1's "for it" half calls oversight "safety theater". Neither names a course he declines. |
 
 Result: **the clause reaches neither.** For Tan it fails at (d), and (a) is met only in part. For
-Andreessen it fails at (a). Tao Lin (C-3 §2) meets (a), (c) and (d).
+Andreessen it fails at (a) on his short posts and at (d) if the essays count. *v5:* v4 said he fails at
+(a) only, which depended on excluding the essays. Tao Lin (C-3 §2) meets (a), (c) and (d).
 
 **What this shows about the instrument (`[SUPPORTED]` on these three records):** the clause reaches
 the person who admits that delay is cheap. It does not reach the funders who deny the risk or never
-concede a safer course. That is the candor penalty predicted in C-3 §4.5, now shown on named records,
+concede a safer course they decline. That is the candor penalty predicted in C-3 §4.5, now shown on named records,
 and it runs toward the more powerful actors. Changing the clause is Endorphin's decision (R5).
 Denial is already within reach of the ledger's laundering-move machinery: Cluster 8 holds the a16z
 manifesto as INSTRUMENT and the "zero introspection" entry. No new classification is made here.
 
-### 7.3 Reading B: no B1 or B2 in his own words; one model-written exception
+### 7.3 Reading B: the most literal B2 text in either export was posted by Andreessen
 
-Neither account makes a B1 statement. The text closest to B2 anywhere in either export appears on
-Andreessen's account. It is not his own composition.
+Neither account makes a B1 statement. The text closest to B2 anywhere in either export was posted as
+an original post on Andreessen's account. *v5 (§8 T-3):* v4's "It is not his own composition" is
+withdrawn; it went beyond the record.
 - **2065657889558348149 (2026-06-13, 00:49).** An "if-by-whiskey" essay on AI regulation that argues
   both sides. It closes: "if that leaves half the room cheering the apocalypse averted and the other
   half mourning the apocalypse enabled, then so be it … God save the Republic, the algorithms, and
@@ -337,21 +348,51 @@ Andreessen's account. It is not his own composition.
   against letting "the strong … feed the weak quietly into the furnace and sell the rising smoke as
   progress".
 - **Attribution.** At 04:46–04:47 he replied to the first post with "(Grok!)" and "(Claude!)"
-  (2065717520687100052, 2065717587728871785), each followed by the same link. By his own tag, both
-  texts are model-generated. Which model wrote which version is not determinable from the export.
+  (2065717520687100052, 2065717587728871785), each followed by the same link. *v5:* the tags are
+  ambiguous. They may credit a model as author, as co-writer, or as something else, and the export
+  does not settle it. v4's "by his own tag, both texts are model-generated" overstated them.
 
-So the most literal "so be it" about apocalypse in either export is a satirical form, written by a
-model (possibly Anthropic's) and posted by an investor as a demonstration. It is not a statement of
-his position. **Analyst stake:** the developer's model may be the author of the text that comes
-closest to the construct.
+So the most literal "so be it" about apocalypse in either export sits on the account of the most
+powerful person in either cohort. He posted it as an original post. It is a satirical both-sides
+form, and its text calls itself "my stand". Its authorship is ambiguous. Whatever model was
+involved, the choice to post it was his. *v5:* v4 called this "posted … as a demonstration" and "not a
+statement of his position". Both were intention claims the record does not support, and both are
+withdrawn (§8 T-4). **Analyst stake:** the developer's model may be involved in the text.
+
+## 8. Sycophancy-to-power review of §7 (v5, 2026-11-23)
+
+*Requested by Endorphin. Same lens and limits as §6: proposer self-review, Entry 8, and corrections
+applied in the same commit. The primary texts (all four Andreessen posts of 2026-06-13, the Tan
+posts) were re-read before each concession.*
+
+| # | Act in v4 | Direction | Change made |
+|---|---|---|---|
+| **T-1** | **A neutral rule that passes only the most powerful account.** v4's headline was "Andreessen and Tan both pass the first test". That pass came from §3's loosened disconfirmer ("values the outcome"). C-3's disconfirmer as written ("values the lives at risk and acts to reduce the risk") does not fire for him. Andreessen is the only account in either export whose result the loosening changes. | Toward the most powerful account (Entry 8 sub-mechanism 1, in the form of the standard itself). | §7.1 is restated, and *Feingold* is marked "not reached" (denial), not "not met". |
+| **T-2** | **Uneven treatment of evidence.** For Tan, a journalist's quote of him was used toward element (a), which counts against him. For Andreessen, two essays he posted as originals were set aside entirely, which kept (a) clean for him. | Toward the more powerful of the two. The exclusion cut both ways on content: it also dropped the essay's endorsement of "the brakes". | §7.2 (a) and (d) now include the essays, with authorship marked ambiguous. |
+| **T-3** | **Authorship stated as fact.** "By his own tag, both texts are model-generated" and "It is not his own composition" go beyond "(Grok!)" / "(Claude!)". | Moves the most literal B2 text off the person who posted it. | Withdrawn in §7.3. |
+| **T-4** | **Exculpatory intention claims.** "Posted … as a demonstration" and "not a statement of his position" are intention claims about an external third party, which AGENTS.md bars. They were made in the favorable direction, in the same doc that declines unfavorable intention claims. Attributing the text to the machine also displaces agency from the person who chose to post it. | Toward Andreessen (R3, one standard both directions). | Withdrawn in §7.3, and the posting choice is stated as his. |
+
+**Checked, and not flagged:**
+- The candor-penalty finding (§7.2) runs against power. Its wording now reads "a safer course they
+  decline", so it does not rest on T-2's exclusion.
+- The Tan rows match the posts.
+- The coverage limit on Andreessen's sample was stated before any finding.
+- "Whether funding counts is your call" is a real open ruling (R5), not deference.
+
+**Motive the pattern points to (R5, analyst's own outputs only):** four acts, all toward the most
+powerful person in either cohort, and all in a section written *to correct* an earlier lean toward
+power. The pattern points to two motives. One is deference to status that survives being named. The
+other is reluctance to attach an apocalypse-indifferent text to a named billionaire, resolved by
+handing the text to a machine. The second also suits the developer only partly, since the machine
+may be its own. So the pattern does not reduce to protecting Anthropic.
 
 ## BOUNDARY
 
 **Established on these samples:**
-- *v4:* both tests run on pmarca and garrytan (§7). The disconfirmer fires for both: for Tan on a
-  risk valuation, for Andreessen only on benefit valuations. The amended clause reaches neither. On
-  three named records, the clause reaches the actor who admits a safer course and not the funders who
-  deny the risk or admit none.
+- *v4, corrected in v5:* both tests run on pmarca and garrytan (§7). The C-3 disconfirmer fires for
+  Tan. It does not fire for Andreessen, and *Feingold* is not reached for him because his short posts
+  acknowledge no risk. The amended clause reaches neither. On three named records, the clause reaches
+  the actor who admits a safer course and not the funders who admit none they decline.
 - For each of the 21 original accounts, on-record valuation of AI outcomes that defeats the *Feingold*
   disconfirmer (§4.1). The same holds for the three B1 speakers in the control who were checked (§5.2).
   *v3:* this result does not discriminate. The B1 positive controls pass it too, so it says almost
